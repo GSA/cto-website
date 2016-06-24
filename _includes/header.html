@@ -14,11 +14,8 @@
       <nav class="nav-topnav">
         <ul class="nav-topnav-list">
           <li class="nav-title"><a href="{{ '/' | prepend: site.baseurl }}">GSA CTO</a></li>
-          {% for page in site.pages %}
-            {% if page.title %}
-              <li><a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
+          <li><a class="nav-link" href="{{ '/work/' | prepend: site.baseurl }}">Work With Us</a></li>
+          <li><a class="nav-link" href="{{ '/dashboard/' | prepend: site.baseurl }}">Dashboard</a></li>
           <li class="icon">
             <a href="javascript:void(0);" onclick="toggleNav();">&#9776;</a>
           </li>
