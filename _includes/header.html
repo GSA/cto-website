@@ -1,0 +1,35 @@
+<!-- <div class="usa-disclaimer usa-background-dark">
+  <div class="usa-grid">
+    <span class="usa-disclaimer-official">
+      <img class="usa-flag_icon" alt="US flag signifying that this is a United States Federal Government website" src="{{ site.baseurl }}/uswds/img/us_flag_small.png">
+      An official website of the United States Government
+    </span>
+    <span class="usa-disclaimer-stage">This site is currently in alpha. <a href="#">Learn more.</a></span>
+  </div>
+</div> -->
+
+<header class="site-header">
+  <div class="usa-grid-full">
+    <div class="nav-wrapper">
+      <nav class="nav-topnav">
+        <ul class="nav-topnav-list">
+          <li class="nav-title"><a href="{{ '/' | prepend: site.baseurl }}">GSA CTO</a></li>
+          {% for page in site.pages %}
+            {% if page.title %}
+              <li><a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li class="icon">
+            <a href="javascript:void(0);" onclick="toggleNav();">&#9776;</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+  function toggleNav() {
+    document.getElementsByClassName("nav-topnav-list")[0].classList.toggle("nav-revealed");
+  }
+</script>
