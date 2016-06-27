@@ -1,32 +1,15 @@
-<!-- <div class="usa-disclaimer usa-background-dark">
-  <div class="usa-grid">
-    <span class="usa-disclaimer-official">
-      <img class="usa-flag_icon" alt="US flag signifying that this is a United States Federal Government website" src="{{ site.baseurl }}/uswds/img/us_flag_small.png">
-      An official website of the United States Government
-    </span>
-    <span class="usa-disclaimer-stage">This site is currently in alpha. <a href="#">Learn more.</a></span>
-  </div>
-</div> -->
-
-<header class="site-header">
+<nav class="nav-topnav" id="nav-primary">
   <div class="usa-grid-full">
-    <div class="nav-wrapper">
-      <nav class="nav-topnav">
-        <ul class="nav-topnav-list">
-          <li class="nav-title"><a href="{{ '/' | prepend: site.baseurl }}">GSA CTO</a></li>
-          <li><a class="nav-link" href="{{ '/work/' | prepend: site.baseurl }}">Work With Us</a></li>
-          <li><a class="nav-link" href="{{ '/dashboard/' | prepend: site.baseurl }}">Dashboard</a></li>
-          <li class="icon">
-            <a href="javascript:void(0);" onclick="toggleNav();">&#9776;</a>
-          </li>
-        </ul>
-      </nav>
+    <div class="nav-title">
+      <a class="nav-title-logo" href="{{ '/' | prepend: site.baseurl }}"><img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="GSA"></a>
+      <a class="nav-title-text" href="{{ '/' | prepend: site.baseurl }}">Office of the CTO</a>
     </div>
+    <div class="nav-toggle">
+      <a id="nav-toggle-button" href="javascript:void(0);">&#9776;</a>
+    </div>
+    <ul class="nav-list usa-unstyled-list">
+      <li><a href="{{ '/work/' | prepend: site.baseurl }}">Work With Us</a></li>
+      <li><a href="{{ '/dashboard/' | prepend: site.baseurl }}">Dashboard</a></li>
+    </ul>
   </div>
-</header>
-
-<script>
-  function toggleNav() {
-    document.getElementsByClassName("nav-topnav-list")[0].classList.toggle("nav-revealed");
-  }
-</script>
+</nav>

@@ -43,7 +43,7 @@
 
     <script src="{{ '/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
   </head>
-  <body>
+  <body class="{{ page.bodyClasses }}">
 
     {% include header.html %}
 
@@ -52,6 +52,33 @@
     </div>
 
     {% include footer.html %}
+
+    <script>
+
+      // Handle the nav toggle button click event.
+      var $navToggleButton = document.getElementById("nav-toggle-button");
+      $navToggleButton.addEventListener("click", function () {
+        document.getElementsByClassName("nav-list")[0].classList.toggle("nav-revealed");
+      });
+
+      // On the front page, add dynamic effects to the nav bar upon scrolling.
+      if (document.body.classList.contains("front")) {
+        // Initially set the nav to transparent.
+        var $navPrimary = document.getElementById("nav-primary");
+        $navPrimary.classList.add("nav-transparent");
+        // Remove transparency when scrolling down.
+        var $hero = document.getElementById("front-hero");
+        var triggerPoint = 120; //$hero.offsetHeight - 120;
+        window.addEventListener("scroll", function () {
+          if (window.pageYOffset > triggerPoint) {
+            $navPrimary.classList.remove("nav-transparent");
+          } else {
+            $navPrimary.classList.add("nav-transparent");
+          }
+        });
+      }
+
+    </script>
 
   </body>
 </html>

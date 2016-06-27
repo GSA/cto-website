@@ -1,108 +1,177 @@
 ---
 ---
 
-$font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-$nav-breakpoint: 640px;
+$font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$nav-breakpoint: 720px;
+$nav-height-mobile: 60px;
+$nav-height: 100px;
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family;
+  font-family: $font-family-default;
+  color: #5b616b;
+  font-weight: lighter;
 }
 
-header {
-  background-color: #f2f2f2;
-}
-
-.usa-disclaimer {
-  background-color: #323a45;
+body:not(.front) {
+  padding-top: $nav-height-mobile;
+  @media only screen and (min-width: $nav-breakpoint) {
+    padding-top: $nav-height;
+  }
 }
 
 nav.nav-topnav {
-  // Override USWDS list styles
-  ul li {
-    display: list-item;
-    line-height: normal;
-    margin: 0;
-    padding: 0;
-    &::before {
-      content: none;
-      display: inline;
-      padding: 0;
-    }
-    &::after {
-      content: none;
-      display: inline;
-      margin: 0;
+  transition: all 0.25s ease;
+  background-color: black;
+  // background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  &.nav-transparent {
+    @media only screen and (min-width: $nav-breakpoint) {
+      background-color: transparent;
+      margin: 1em auto;
     }
   }
 
-  @media screen and (min-width: $nav-breakpoint) {
-    padding: 4rem 0;
-    margin-left: 3rem;
+  a:hover {
+    text-decoration: none;
   }
 
-  ul {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    display: block;
+  .nav-title {
+    float: left;
+    @media only screen and (min-width: $nav-breakpoint) {
+      display: inline-block;
+    }
 
-    li {
+    a.nav-title-logo img {
       float: left;
-
-      &:not(.nav-title) {
-        display: none;
-        @media screen and (min-width: $nav-breakpoint) {
-          display: inline-block;
-          margin-left: 2rem;
-        }
+      margin: 10px;
+      width: 40px;
+      height: 40px;
+      @media only screen and (min-width: $nav-breakpoint) {
+        width: 80px;
+        height: 80px;
       }
+    }
 
-      &.icon {
-        float: right;
-        display: inline-block;
-        @media screen and (min-width: $nav-breakpoint) {
-          display: none;
-        }
+    a.nav-title-text {
+      display: inline-block;
+      padding: 24px 0 0 0;
+      font-size: 20px;
+      font-weight: lighter;
+      color: white;
+      @media only screen and (min-width: $nav-breakpoint) {
+        padding: 38px 0 0 0;
+        font-size: 40px;
       }
+    }
+  }
 
-      &.nav-title a {
-        background-color: #00538e;
-        color: white;
-      }
+  .nav-toggle {
+    float: right;
+    @media only screen and (min-width: $nav-breakpoint) {
+      display: none;
+    }
 
-      a {
-        display: inline-block;
-        text-align: center;
-        padding: 1em 1.2em;
-        text-decoration: none;
-        font-weight: lighter;
-      }
+    a {
+      line-height: $nav-height-mobile;
+      display: block;
+      padding: 0 1em;
+      color: white;
+    }
+  }
+
+  ul.nav-list {
+    display: none;
+    width: 100%;
+    @media only screen and (min-width: $nav-breakpoint) {
+      display: block;
+      width: auto;
+      float: right;
     }
 
     &.nav-revealed {
-      position: relative;
+      display: inline-block;
+    }
 
-      li {
-        float: none;
-        display: inline;
+    li {
+      display: block;
+      @media only screen and (min-width: $nav-breakpoint) {
+        display: inline-block;
+      }
+    }
 
-        &:not(.nav-title) a {
-          display: block;
-          text-align: left;
-          border-top: 1px solid #ddd;
-        }
-
-        &.icon {
-          position: absolute;
-          right: 0;
-          top: 0;
-        }
+    li a {
+      line-height: $nav-height-mobile;
+      display: block;
+      padding: 0 1em;
+      font-weight: lighter;
+      color: white;
+      border-top: 1px dotted #333;
+      @media only screen and (min-width: $nav-breakpoint) {
+        margin: 38px 0 0 0;
+        font-size: 20px;
+        // font-weight: normal;
+        text-transform: uppercase;
+        border: none;
       }
     }
   }
 }
 
-footer img.logo {
-  width: 80px;
-  height: 80px;
+header#front-hero {
+  color: white;
+  background-color: black;
+  background-image: url(../img/whitehouse_bg.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: ($nav-height-mobile + 20px);
+  padding-bottom: 20px;
+  @media only screen and (min-width: $nav-breakpoint) {
+    min-height: 600px;
+  }
+
+  .header-blurb {
+    background: radial-gradient(rgba(0, 0, 0, 0.6) 30%, transparent 70%);
+    @media only screen and (min-width: $nav-breakpoint) {
+      margin-top: ($nav-height + 80px);
+    }
+
+    h1 {
+      color: white;
+      font-weight: bold;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      @media only screen and (min-width: $nav-breakpoint) {
+        font-size: 3em;
+      }
+    }
+
+    p {
+      font-weight: lighter;
+      text-align: center;
+      text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+      @media only screen and (min-width: $nav-breakpoint) {
+        font-size: 2em;
+      }
+    }
+  }
+}
+
+footer.usa-footer a.usa-footer-primary-link {
+  color: #4c2c92;
+  font-weight: lighter;
+}
+
+footer.usa-footer .usa-footer-secondary_section {
+  background-color: #333;
+}
+
+footer img.gsads-logo {
+  width: auto;
+  height: 120px;
 }
