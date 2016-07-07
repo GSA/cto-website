@@ -8,3 +8,8 @@ description: >
 baseurl: ""
 url: "http://cto.gsa.gov"
 markdown: kramdown
+
+collections:
+  team:
+    permalink: /team/:name/
+    output: true

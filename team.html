@@ -1,0 +1,34 @@
+---
+layout: page
+title: The Team
+permalink: /team/
+---
+
+<h1>The CTO Team</h1>
+
+<ul class="team usa-unstyled-list">
+{% for member in site.team %}
+  <li>
+    <a href="{{ member.url }}">
+      {% if member.photo %}
+        <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.name }}">
+      {% else %}
+        <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.name }} does not have a photo yet">
+      {% endif %}
+    </a>
+    <div class="member-name">
+      <a href="{{ member.url }}">{{ member.name }}</a>
+    </div>
+    {% if member.role %}
+      <div class="member-role">
+        {{ member.role }}
+      </div>
+    {% endif %}
+    {% if member.group %}
+      <div class="member-group">
+        {{ member.group }}
+      </div>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

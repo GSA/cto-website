@@ -41,7 +41,11 @@ description: >
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    {% if page.collection == "team" %}
+      <title>{{ page.name | escape }} - {{ site.title | escape }}</title>
+    {% else %}
+      <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    {% endif %}
 
     <link rel="stylesheet" href="{{ '/uswds/css/uswds.min.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
