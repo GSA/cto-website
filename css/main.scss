@@ -2,9 +2,9 @@
 ---
 
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-$nav-breakpoint: 720px;
-$nav-height-mobile: 60px;
-$nav-height: 100px;
+$nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
+$nav-height-mobile: 60px; // Nav bar height on small devices
+$nav-height: 100px; // Nav bar height on larger devices
 
 h1 {
   margin-top: 0.5em;
@@ -26,7 +26,6 @@ body:not(.front) {
 nav.nav-topnav {
   transition: all 0.25s ease;
   background-color: black;
-  // background-color: rgba(0, 0, 0, 0.8);
   position: fixed;
   top: 0;
   left: 0;
@@ -119,7 +118,6 @@ nav.nav-topnav {
       @media only screen and (min-width: $nav-breakpoint) {
         margin: 38px 0 0 0;
         font-size: 20px;
-        // font-weight: normal;
         text-transform: uppercase;
         border: none;
       }
