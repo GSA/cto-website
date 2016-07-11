@@ -8,6 +8,9 @@ This is a Jekyll-based website designed to be published via GitHub Pages.
 However, it may be migrated to the [Federalist](https://federalist.18f.gov/)
 platform in the future.
 
+Since this is designed to be a GitHub Pages site, our default Git branch is
+`gh-pages`.
+
 The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ## Contributing
