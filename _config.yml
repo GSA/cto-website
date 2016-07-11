@@ -13,3 +13,6 @@ collections:
   team:
     permalink: /team/:name/
     output: true
+  hub:
+    permalink: /hub/:title/
+    output: true
