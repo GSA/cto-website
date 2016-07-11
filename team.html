@@ -11,9 +11,9 @@ permalink: /team/
   <li>
     <a href="{{ member.url }}">
       {% if member.photo %}
-        <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.name }}">
+        <img src="{{ site.github.url }}/img/team/{{ member.photo }}" alt="Photo of {{ member.name }}">
       {% else %}
-        <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.name }} does not have a photo yet">
+        <img src="{{ site.github.url }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.name }} does not have a photo yet">
       {% endif %}
     </a>
     <div class="member-name">

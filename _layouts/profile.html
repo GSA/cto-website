@@ -5,16 +5,16 @@ description: >
 ---
 
 <div class="usa-grid">
-  <p><a href="{{ '/team' | prepend: site.baseurl }}">&laquo; All team members</a></p>
+  <p><a href="{{ '/team' | prepend: site.github.url }}">&laquo; All team members</a></p>
 </div>
 
 <div class="team-member">
   <div class="usa-grid">
     <div class="usa-width-one-sixth">
       {% if page.photo %}
-        <img src="{{ site.baseurl }}/img/team/{{ page.photo }}" alt="Photo of {{ page.name }}">
+        <img src="{{ site.github.url }}/img/team/{{ page.photo }}" alt="Photo of {{ page.name }}">
       {% else %}
-        <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ page.name }} does not have a photo yet">
+        <img src="{{ site.github.url }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ page.name }} does not have a photo yet">
       {% endif %}
     </div>
     <div class="usa-width-five-sixths">
