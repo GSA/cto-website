@@ -12,13 +12,20 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ## Contributing
 
-Steps for those with commit access:
+Steps for those *with* commit access:
 
 1. Clone the repository.
 2. Create a feature branch.
 3. Make your changes in the feature branch.
 4. Commit the feature branch.
 5. Open a PR to merge the feature branch into the gh-pages branch.
+
+Steps for those *without* commit access:
+
+1. Fork the repository.
+2. Make your changes in your fork.
+3. Commit the changes to your fork.
+4. Open a PR to merge your fork into the upstream repository.
 
 ## License
 
