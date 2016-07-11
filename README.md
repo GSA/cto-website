@@ -17,8 +17,8 @@ Steps for those with commit access:
 1. Clone the repository.
 2. Create a feature branch.
 3. Make your changes in the feature branch.
-3. Commit the feature branch.
-4. Open a PR to merge the feature branch into the gh-pages branch.
+4. Commit the feature branch.
+5. Open a PR to merge the feature branch into the gh-pages branch.
 
 ## License
 
