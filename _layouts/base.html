@@ -47,10 +47,10 @@ description: >
       <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
     {% endif %}
 
-    <link rel="stylesheet" href="{{ '/uswds/css/uswds.min.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/uswds/css/uswds.min.css' | prepend: site.github.url }}">
+    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.github.url }}">
 
-    <script src="{{ '/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/uswds/js/uswds.min.js' | prepend: site.github.url }}"></script>
   </head>
   <body class="{{ page.bodyClasses }}">
 
