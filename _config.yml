@@ -4,7 +4,8 @@
 title: GSA Chief Technology Officer
 email: cto@gsa.gov
 description: >
-  The Office of the CTO provides guidance in transforming GSA IT toward modern IT practices.
+  The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
+
 baseurl: ""
 url: "http://cto.gsa.gov"
 markdown: kramdown

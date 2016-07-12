@@ -10,11 +10,13 @@ h1 {
   margin-top: 0.5em;
 }
 
+/* comment out these headers for USWDS headers
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-default;
   color: #5b616b;
   font-weight: lighter;
 }
+*/
 
 body:not(.front) {
   padding-top: $nav-height-mobile;
@@ -223,4 +225,16 @@ footer.usa-footer .usa-footer-secondary_section {
 footer img.gsads-logo {
   width: auto;
   height: 120px;
+}
+
+.homepage-background-1 {
+  background: rgba(0,0,0,.05);
+}
+
+.homepage-background-2 {
+  background: rgba(0,0,0,.1);
+}
+
+.homepage-background-3 {
+  background: rgba(0,0,0,.2);
 }
