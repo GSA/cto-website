@@ -1,39 +1,33 @@
-<footer class="usa-footer">
-  <div class="usa-footer-primary-section">
-    <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
+<footer class="usa-footer usa-background-dark">
+  <div class="usa-grid">
+    <nav>
+      <div class="usa-width-one-fourth">
+        <h3>About Us</h3>
         <ul class="usa-unstyled-list">
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ '/vision' | prepend: site.baseurl }}">CTO Vision</a>
-          </li>
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ '/team' | prepend: site.github.url }}">The team</a>
-          </li>
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="mailto:cto@gsa.gov">Email us</a>
-          </li>
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="#"></a>
-          </li>
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="https://github.com/gsa/cto-website/issues">Send us feedback</a>
-          </li>
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="https://github.com/gsa/cto-website">Edit this site</a>
-          </li>
+          <li><a href="{{ '/vision' | prepend: site.baseurl }}">CTO Vision</a></li>
+          <li><a href="{{ '/team' | prepend: site.github.url }}">The team</a></li>
         </ul>
-      </nav>
-    </div>
-  </div>
-
-  <div class="usa-footer-secondary_section usa-background-dark">
-    <div class="usa-grid">
-      <div class="usa-footer-logo usa-width-one-half">
-        <p>Built by the GSA Digital Service</p>
-        <p><img src="{{ site.github.url }}/img/gsads-logo.svg" alt="GSA Digital Service logo" class="gsads-logo"></p>
       </div>
-      <div class="usa-footer-contact-links usa-width-one-half">
+      <div class="usa-width-one-fourth">
+        <h3>Open Source</h3>
+        <ul class="usa-unstyled-list">
+          <li><a href="https://open.gsa.gov/">GSA Open Tech</a></li>
+          <li><a href="https://github.com/gsa/cto-website">Edit this site</a></li>
+          <li><a href="https://github.com/gsa/cto-website/issues">Send us website feedback</a></li>
+        </ul>
       </div>
-    </div>
+      <div class="usa-width-one-fourth">
+        <h3>Contact Us</h3>
+        <ul class="usa-unstyled-list">
+          <li><a href="mailto:cto@gsa.gov">Email us</a></li>
+        </li>
+      </div>
+      <div class="usa-footer-logo usa-width-one-fourth">
+        <div class="gsads-built-by">
+          <p><small>Built by</small></p>
+          <p><img src="{{ site.github.url }}/img/gsads-logo.svg" alt="GSA Digital Service logo" class="gsads-logo"></p>
+        </div>
+      </div>
+    </nav>
   </div>
 </footer>

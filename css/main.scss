@@ -213,18 +213,21 @@ ul.team {
   }
 }
 
-footer.usa-footer a.usa-footer-primary-link {
-  color: #4c2c92;
-  font-weight: lighter;
-}
+footer {
+  color: white;
+  padding: 2em 0;
 
-footer.usa-footer .usa-footer-secondary_section {
-  background-color: #333;
-}
+  .gsads-built-by p {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #ddd;
+  }
 
-footer img.gsads-logo {
-  width: auto;
-  height: 120px;
+  .gsads-logo {
+    width: auto;
+    height: 90px;
+  }
 }
 
 .homepage-background-1 {
