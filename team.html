@@ -9,7 +9,7 @@ permalink: /team/
 <ul class="team usa-unstyled-list">
 {% for member in site.team %}
   <li>
-    <a href="{{ member.url }}">
+    <a href="{{ member.url | prepend: site.github.url }}">
       {% if member.photo %}
         <img src="{{ site.github.url }}/img/team/{{ member.photo }}" alt="Photo of {{ member.name }}">
       {% else %}
