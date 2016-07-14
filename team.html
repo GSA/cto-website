@@ -17,7 +17,7 @@ permalink: /team/
       {% endif %}
     </a>
     <div class="member-name">
-      <a href="{{ member.url }}">{{ member.name }}</a>
+      <a href="{{ member.url | prepend: site.github.url }}">{{ member.name }}</a>
     </div>
     {% if member.role %}
       <div class="member-role">
