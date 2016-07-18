@@ -10,14 +10,6 @@ h1 {
   margin-top: 0.5em;
 }
 
-/* comment out these headers for USWDS headers
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-default;
-  color: #5b616b;
-  font-weight: lighter;
-}
-*/
-
 body:not(.front) {
   padding-top: $nav-height-mobile;
   @media only screen and (min-width: $nav-breakpoint) {
