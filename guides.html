@@ -1,0 +1,17 @@
+---
+layout: page
+title: Guides
+permalink: /guides/
+---
+
+<h1>Guides</h1>
+
+<ul class="guides">
+{% for guide in site.guides %}
+  <li>
+    <div class="guide-name">
+      <a href="{{ guide.url }}">{{ guide.title }}</a>
+    </div>
+  </li>
+{% endfor %}
+</ul>
