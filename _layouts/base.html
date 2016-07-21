@@ -42,7 +42,7 @@ description: >
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     {% if page.collection == "team" %}
-      <title>{{ page.name | escape }} - {{ site.title | escape }}</title>
+      <title>{{ page.firstname | escape }} {{ page.lastname | escape }} - {{ site.title | escape }}</title>
     {% else %}
       <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
     {% endif %}

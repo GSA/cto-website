@@ -7,17 +7,18 @@ permalink: /team/
 <h1>The CTO Team</h1>
 
 <ul class="team usa-unstyled-list">
-{% for member in site.team %}
+{% assign members = site.team | sort: 'lastname' %}
+{% for member in members %}
   <li>
     <a href="{{ member.url | prepend: site.github.url }}">
       {% if member.photo %}
-        <img src="{{ site.github.url }}/img/team/{{ member.photo }}" alt="Photo of {{ member.name }}">
+        <img src="{{ site.github.url }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
       {% else %}
-        <img src="{{ site.github.url }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.name }} does not have a photo yet">
+        <img src="{{ site.github.url }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
       {% endif %}
     </a>
     <div class="member-name">
-      <a href="{{ member.url | prepend: site.github.url }}">{{ member.name }}</a>
+      <a href="{{ member.url | prepend: site.github.url }}">{{ member.firstname }} {{ member.lastname }}</a>
     </div>
     {% if member.role %}
       <div class="member-role">
