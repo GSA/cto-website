@@ -11,6 +11,10 @@ h1 {
   margin-top: 0.5em;
 }
 
+.guide-content h2 {
+  margin-top: 0;
+}
+
 body:not(.front) {
   padding-top: $nav-height-mobile + $usa-disclaimer-height;
   @media only screen and (min-width: $nav-breakpoint) {

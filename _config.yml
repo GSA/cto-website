@@ -17,3 +17,10 @@ collections:
   guides:
     permalink: /guides/:title/
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: guide
