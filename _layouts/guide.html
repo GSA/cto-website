@@ -5,12 +5,25 @@ description: >
 ---
 
 <div class="usa-grid">
-  <p><a href="{{ '/guides' | prepend: site.github.url }}">&laquo; All GSA CTO guides</a></p>
-</div>
 
-<div class="usa-grid">
-  <div class="usa-width-one-whole">
-    <h1>{{ page.title }}</h1>
+  <h1>Guides</h1>
+
+  <aside class="usa-width-one-fourth guide-nav">
+    <ul class="usa-sidenav-list">
+      <li>
+        <a href="{{ '/guides/' | prepend: site.github.url }}">Guides</a>
+      </li>
+      {% for guide in site.guides %}
+        <li>
+          <a href="{{ guide.url }}">{{ guide.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+
+  <div class="usa-width-three-fourths guide-content">
+    <h2>{{ page.title }}</h2>
     {{ content }}
   </div>
+
 </div>
