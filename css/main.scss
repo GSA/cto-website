@@ -176,21 +176,21 @@ header#front-hero {
 ul.team {
   li {
     float: left;
-    width: 150px;
-    height: 250px;
-    margin: 0 0 1em 0;
+    width: 200px;
+    height: 220px;
+    margin: 0 1em 1em 0;
     text-align: center;
 
     img {
       border-radius: 50%;
-      height: 100px;
-      width: 100px;
+      height: 120px;
+      width: 120px;
     }
   }
 
   .member-role, .member-group {
     color: #555;
-    font-size: 0.9em;
+    font-size: small;
   }
 }
 
