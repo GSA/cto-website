@@ -1,6 +1,14 @@
 <!-- from original Jekyll template, want to standardize on USWDS for navigation -->
 
 <nav class="nav-topnav" id="nav-primary">
+  <div class="usa-disclaimer">
+    <div class="usa-grid">
+      <span class="usa-disclaimer-official">An official website of the United States Government
+        <img alt="US flag signifying that this is a United States Federal Government website" src="{{ '/uswds/img/us_flag_small.png' | prepend: site.github.url }}">
+      </span>
+      <span class="usa-disclaimer-stage">This site is currently in alpha. <a href="https://18f.gsa.gov/dashboard/stages/#alpha">Learn more.</a></span>
+    </div>
+  </div>
   <div class="usa-grid-full">
     <div class="nav-title">
       <a class="nav-title-logo" href="{{ '/' | prepend: site.github.url }}"><img src="{{ site.github.url }}/img/gsa_logo.svg" alt="GSA"></a>

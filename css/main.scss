@@ -3,6 +3,7 @@
 
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
+$usa-disclaimer-height: 29px; // Height of the "official website " statement
 $nav-height-mobile: 60px; // Nav bar height on small devices
 $nav-height: 100px; // Nav bar height on larger devices
 
@@ -11,9 +12,9 @@ h1 {
 }
 
 body:not(.front) {
-  padding-top: $nav-height-mobile;
+  padding-top: $nav-height-mobile + $usa-disclaimer-height;
   @media only screen and (min-width: $nav-breakpoint) {
-    padding-top: $nav-height;
+    padding-top: $nav-height + $usa-disclaimer-height;
   }
 }
 
@@ -29,6 +30,14 @@ nav.nav-topnav {
     @media only screen and (min-width: $nav-breakpoint) {
       background-color: transparent;
       margin: 1em auto;
+
+      .usa-disclaimer {
+        background-color: black;
+        color: #aeb0b5;
+        a {
+          color: white;
+        }
+      }
     }
   }
 
