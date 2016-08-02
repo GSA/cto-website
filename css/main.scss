@@ -1,6 +1,9 @@
 ---
 ---
 
+$fa-font-path: "../fonts/font-awesome";
+@import "font-awesome/font-awesome";
+
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
 $usa-disclaimer-height: 29px; // Height of the "official website " statement
