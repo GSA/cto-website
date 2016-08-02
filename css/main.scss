@@ -3,6 +3,7 @@
 
 $fa-font-path: "../fonts/font-awesome";
 @import "font-awesome/font-awesome";
+@import "uswds_variables";
 
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
@@ -43,11 +44,11 @@ body.front {
     line-height: 1.6em;
   }
 
-  .icon-share-technology        { background-color: #046b99; }
-  .icon-make-small-bets         { background-color: #981b1e; }
-  .icon-modernize-and-innovate  { background-color: #fdb81e; }
-  .icon-be-open                 { background-color: #2e8540; }
-  .icon-users-come-first        { background-color: #205493; }
+  .icon-share-technology        { background-color: $color-primary-alt-darkest; }
+  .icon-make-small-bets         { background-color: $color-secondary-darkest; }
+  .icon-modernize-and-innovate  { background-color: $color-gold; }
+  .icon-be-open                 { background-color: $color-green; }
+  .icon-users-come-first        { background-color: $color-cool-blue; }
 }
 
 .guide-content h2 {
@@ -76,7 +77,7 @@ nav.nav-topnav {
 
       .usa-disclaimer {
         background: none;
-        color: #d6d7d9;
+        color: $color-gray-lighter;
         a {
           color: white;
         }
@@ -233,7 +234,7 @@ ul.team {
   }
 
   .member-role, .member-group {
-    color: #555;
+    color: $color-gray;
     font-size: small;
   }
 }
@@ -245,7 +246,7 @@ ul.team {
   }
 
   .member-role, .member-group {
-    color: #555;
+    color: $color-gray;
     font-size: 1.2em;
   }
 
