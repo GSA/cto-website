@@ -14,8 +14,37 @@ h1 {
   margin-top: 0.5em;
 }
 
-body.front h2 {
+body.front {
+  h2 {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+
+  .vision-element {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 1.2em;
+  }
+}
+
+.vision-element-icon {
   text-align: center;
+
+  i {
+    font-size: 6em;
+    color: white;
+    width: 1.6em;
+    height: 1.6em;
+    line-height: 1.6em;
+    vertical-align: middle;
+    border-radius: 50%;
+  }
+
+  .icon-share-technology        { background-color: #046b99; }
+  .icon-make-small-bets         { background-color: #981b1e; }
+  .icon-modernize-and-innovate  { background-color: #fdb81e; }
+  .icon-be-open                 { background-color: #2e8540; }
+  .icon-users-come-first        { background-color: #205493; }
 }
 
 .guide-content h2 {
