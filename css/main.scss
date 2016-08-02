@@ -25,19 +25,22 @@ body.front {
     margin-bottom: 2em;
     font-size: 1.2em;
   }
+
+  .vision-element-icon i {
+    font-size: 5em;
+  }
 }
 
 .vision-element-icon {
   text-align: center;
 
   i {
-    font-size: 6em;
     color: white;
+    vertical-align: middle;
+    border-radius: 50%;
     width: 1.6em;
     height: 1.6em;
     line-height: 1.6em;
-    vertical-align: middle;
-    border-radius: 50%;
   }
 
   .icon-share-technology        { background-color: #046b99; }
