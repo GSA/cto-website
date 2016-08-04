@@ -189,7 +189,7 @@ header#front-hero {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: ($nav-height-mobile + 20px);
+  padding-top: ($nav-height-mobile + $usa-disclaimer-height + 20px);
   padding-bottom: 20px;
   @media only screen and (min-width: $nav-breakpoint) {
     min-height: 600px;
