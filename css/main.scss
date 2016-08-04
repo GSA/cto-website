@@ -66,6 +66,11 @@ body:not(.front) {
   }
 }
 
+.usa-disclaimer {
+  background-color: $color-base;
+  color: $color-gray-lighter;
+}
+
 nav.nav-topnav {
   transition: all 0.25s ease;
   background-color: black;
