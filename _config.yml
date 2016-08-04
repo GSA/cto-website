@@ -6,14 +6,27 @@ email: cto@gsa.gov
 description: >
   The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
 
-baseurl: ""
-url: "http://cto.gsa.gov"
+# baseurl: ""
+# url: "http://cto.gsa.gov"
+baseurl: "/cto-website"
+url: "http://gsa.github.io"
 markdown: kramdown
 
 collections:
   team:
     permalink: /team/:name/
     output: true
-  hub:
-    permalink: /hub/:title/
+  guides:
+    permalink: /guides/:title/
     output: true
+
+defaults:
+  -
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: guides
+    values:
+      layout: guide

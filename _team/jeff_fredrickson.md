@@ -1,5 +1,6 @@
 ---
-name: Jeff Fredrickson
+firstname: Jeff
+lastname: Fredrickson
 photo: jeff_fredrickson.jpg
 role: Sr. Developer/Agile PM
 group: GSA Digital Service
