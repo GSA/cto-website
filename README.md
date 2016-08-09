@@ -22,6 +22,7 @@ Steps for those *with* commit access:
 3. Make your changes in the feature branch.
 4. Commit the feature branch.
 5. Open a PR to merge the feature branch into the gh-pages branch.
+6. Resolve any conflicts if necessary, then merge your feature branch.
 
 Steps for those *without* commit access:
 

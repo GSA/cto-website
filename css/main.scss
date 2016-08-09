@@ -1,6 +1,10 @@
 ---
 ---
 
+$fa-font-path: "../fonts/font-awesome";
+@import "font-awesome/font-awesome";
+@import "uswds_variables";
+
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
 $usa-disclaimer-height: 29px; // Height of the "official website " statement
@@ -9,6 +13,47 @@ $nav-height: 100px; // Nav bar height on larger devices
 
 h1 {
   margin-top: 0.5em;
+}
+
+body.front {
+  h2 {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+
+  .vision-element {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 1.1em;
+    text-align: center;
+
+    h2 a {
+      text-decoration: none;
+    }
+  }
+
+  .vision-element-icon i {
+    font-size: 4em;
+  }
+}
+
+.vision-element-icon {
+  text-align: center;
+
+  i {
+    color: white;
+    vertical-align: middle;
+    border-radius: 50%;
+    width: 1.6em;
+    height: 1.6em;
+    line-height: 1.6em;
+  }
+
+  .icon-share-technology        { background-color: $color-primary-alt-darkest; }
+  .icon-make-small-bets         { background-color: $color-secondary-darkest; }
+  .icon-modernize-and-innovate  { background-color: $color-gold; }
+  .icon-be-open                 { background-color: $color-green; }
+  .icon-users-come-first        { background-color: $color-cool-blue; }
 }
 
 .guide-content h2 {
@@ -20,6 +65,11 @@ body:not(.front) {
   @media only screen and (min-width: $nav-breakpoint) {
     padding-top: $nav-height + $usa-disclaimer-height;
   }
+}
+
+.usa-disclaimer {
+  background-color: $color-base;
+  color: $color-gray-lighter;
 }
 
 nav.nav-topnav {
@@ -37,7 +87,7 @@ nav.nav-topnav {
 
       .usa-disclaimer {
         background: none;
-        color: #d6d7d9;
+        color: $color-gray-lighter;
         a {
           color: white;
         }
@@ -139,7 +189,7 @@ header#front-hero {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: ($nav-height-mobile + 20px);
+  padding-top: ($nav-height-mobile + $usa-disclaimer-height + 20px);
   padding-bottom: 20px;
   @media only screen and (min-width: $nav-breakpoint) {
     min-height: 600px;
@@ -175,6 +225,7 @@ header#front-hero {
 
 .page-content {
   min-height: 30em;
+  margin-bottom: 3em;
 }
 
 ul.team {
@@ -193,7 +244,7 @@ ul.team {
   }
 
   .member-role, .member-group {
-    color: #555;
+    color: $color-gray;
     font-size: small;
   }
 }
@@ -205,7 +256,7 @@ ul.team {
   }
 
   .member-role, .member-group {
-    color: #555;
+    color: $color-gray;
     font-size: 1.2em;
   }
 
@@ -215,6 +266,17 @@ ul.team {
     height: 100%;
     max-width: 200px;
     max-height: 200px;
+  }
+}
+
+// Compensate for fixed nav when jumping to anchors on a page.
+a[id]:not([href]) {
+  display: block;
+  position: relative;
+  visibility: hidden;
+  top: -($nav-height-mobile + $usa-disclaimer-height);
+  @media only screen and (min-width: $nav-breakpoint) {
+    top: -($nav-height + $usa-disclaimer-height);
   }
 }
 
@@ -233,16 +295,4 @@ footer {
     width: auto;
     height: 90px;
   }
-}
-
-.homepage-background-1 {
-  background: rgba(0,0,0,.05);
-}
-
-.homepage-background-2 {
-  background: rgba(0,0,0,.1);
-}
-
-.homepage-background-3 {
-  background: rgba(0,0,0,.2);
 }

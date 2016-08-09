@@ -1,31 +1,26 @@
 ---
-layout: base
 title: Guides
 permalink: /guides/
 ---
 
-<div class="usa-grid">
+<h1>Guides</h1>
 
-  <h1>Guides</h1>
-
-  <aside class="usa-width-one-fourth guide-nav">
-    <ul class="usa-sidenav-list">
+<aside class="usa-width-one-fourth guide-nav">
+  <ul class="usa-sidenav-list">
+    <li>
+      <a href="{{ '/guides/' | prepend: site.baseurl }}">Guides</a>
+    </li>
+    {% for guide in site.guides %}
       <li>
-        <a href="{{ '/guides/' | prepend: site.baseurl }}">Guides</a>
+        <a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a>
       </li>
-      {% for guide in site.guides %}
-        <li>
-          <a href="{{ guide.url }}">{{ guide.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </aside>
+    {% endfor %}
+  </ul>
+</aside>
 
-  <div class="usa-width-three-fourths guide-content">
-    <h2>GSA CTO Guides</h2>
+<div class="usa-width-three-fourths guide-content">
+  <h2>GSA CTO Guides</h2>
 
-    <p>These guides are a collection of best practices that the GSA CTO team
-      strives to follow.</p>
-  </div>
-
+  <p>These guides are a collection of best practices that the GSA CTO team
+    strives to follow.</p>
 </div>
