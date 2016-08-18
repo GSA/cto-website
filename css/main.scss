@@ -60,6 +60,12 @@ body.front {
   margin-top: 0;
 }
 
+.guide-category {
+  margin-top: 0;
+  color: $color-gray;
+  font-size: 1.2em;
+}
+
 body:not(.front) {
   padding-top: $nav-height-mobile + $usa-disclaimer-height;
   @media only screen and (min-width: $nav-breakpoint) {
