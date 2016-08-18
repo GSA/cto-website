@@ -1,0 +1,44 @@
+---
+layout: base
+---
+
+<div class="usa-grid">
+
+  <h1>Guides</h1>
+
+  <aside class="usa-width-one-fourth guide-nav">
+    <ul class="usa-sidenav-list">
+      <li><a href="{{ '/guides/' | prepend: site.baseurl }}" class="usa-current">All guides</a></li>
+      {% for audience in site.data.guides.audiences %}
+        <li>
+          <a href="{{ site.baseurl }}/guides/{{ audience.slug }}/">{{ audience.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+
+  <div class="usa-width-three-fourths guide-content">
+    <h2>{{ page.title }}</h2>
+    <ul>
+      {% for category in site.data.guides.categories %}
+        <li>
+          {{ category.name }}
+          <ul>
+            {% for guide in site.guides %}
+              {% for ga in guide.audiences %}
+                {% for gc in guide.categories %}
+                  {% if ga == page.audience_name %}
+                    {% if gc == category.name %}
+                      <li><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %} <!--gc-->
+              {% endfor %} <!--ga-->
+            {% endfor %} <!--guide-->
+          </ul>
+        </li>
+      {% endfor %} <!--category-->
+    </ul>
+  </div>
+
+</div>

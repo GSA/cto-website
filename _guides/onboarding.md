@@ -1,5 +1,7 @@
 ---
 title: Onboarding
+categories:
+  - Team
 ---
 
 
