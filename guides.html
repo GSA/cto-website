@@ -24,20 +24,27 @@ permalink: /guides/
 
   <p>We encourage comments via the GitHub repo.</p>
 
-  <ul>
-    {% for category in site.data.guides.categories %}
-      <li>
-        {{ category.name }}
-        <ul>
-          {% for guide in site.guides %}
-            {% for gc in guide.categories %}
-              {% if gc == category.name %}
-                <li><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></li>
-              {% endif %}
-            {% endfor %} <!--gc-->
-          {% endfor %} <!--guide-->
-        </ul>
-      </li>
-    {% endfor %} <!--category-->
-  </ul>
+  <table class="usa-table-borderless">
+    <thead class="usa-sr-only">
+      <tr>
+        <th id="guide-table-heading-title" scope="col">Title</th>
+        <th id="guide-table-heading-description" scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for category in site.data.guides.categories %}
+      <tr>
+        <th colspan="2" id="guide-table-heading-{{ category.slug }}"><b>{{ category.name }}</b></th>
+      </tr>
+        {% for guide in site.guides %}
+          {% if guide.category == category.name %}
+            <tr>
+              <td headers="guide-table-heading-{{ category.slug }} guide-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
+              <td headers="guide-table-heading-{{ category.slug }} guide-table-heading-description">{{ guide.description }}</td>
+            </tr>
+          {% endif %}
+        {% endfor %} <!--guide-->
+      {% endfor %}<!--category-->
+    </tbody>
+  </table>
 </div>
