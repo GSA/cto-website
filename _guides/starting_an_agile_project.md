@@ -1,7 +1,6 @@
 ---
 title: Conducting an Agile project
-categories:
-  - Project Management
+category: Project Management
 audiences:
   - Project Managers
 ---

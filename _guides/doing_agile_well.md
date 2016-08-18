@@ -1,7 +1,6 @@
 ---
 title: Doing agile well
-categories:
-  - Agile
+category: Agile
 audiences:
   - Executives
 ---
