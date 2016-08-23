@@ -15,8 +15,6 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ## Contributing
 
-- Test - Text for demo purposes
-
 Steps for those *with* commit access:
 
 1. Clone the repository.
