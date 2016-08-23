@@ -43,5 +43,3 @@ Create & submit IDP
 
 ### Other
 Look over process guides for travel, training, conferences, etc. (forthcoming on CTO site)
-
-### Test text for demo
