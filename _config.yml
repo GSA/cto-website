@@ -30,3 +30,20 @@ defaults:
       type: guides
     values:
       layout: guide
+
+forms:
+- type: newsletter
+  heading: Ask a question
+  url: https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSesCR4CG0zSRhYLTY7Oq04PaD99Uk1rJrFjmohsW8vYwtNxiw/formResponse
+  button: Send
+  privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice.</a>
+  fields:
+    - type: subject
+      name: entry.1866334422
+      label: Subject
+    - type: text
+      name: entry.143577008
+      label: How can we help?
+    - type: email
+      name: entry.211727308
+      label: Your email address
