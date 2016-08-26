@@ -1,5 +1,8 @@
 ---
 title: Conducting an Agile project
+category: Project Management
+audiences:
+  - Project Managers
 ---
 
 These are the steps to consider when starting an Agile project at GSA:

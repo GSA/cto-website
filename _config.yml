@@ -26,7 +26,6 @@ defaults:
       layout: page
   -
     scope:
-      path: ""
       type: guides
     values:
       layout: guide

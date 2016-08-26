@@ -1,5 +1,8 @@
 ---
 title: Doing agile well
+category: Agile
+audiences:
+  - Executives
 ---
 
 
@@ -8,4 +11,3 @@ The GSA is fully embracing Agile as a core methodology for not only developing n
 Our intent is to be descriptive at an agency level through policy and best practice and proscriptive at a program and team level, tuning the specifics agile implementations to the needs of the business and implementation teams.
 
 We start each pilot with the same [processes and intake]({{ site.baseurl }}/downloads/AgileApproachforGSAPilotTeams.pdf), to create standardized approaches to how we are doing Agile and using those to create a culture of delivery and agility across the agency.
-
