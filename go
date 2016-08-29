@@ -73,4 +73,8 @@ def_command :build, 'Build the Jekyll site' do
   exec_cmd "jekyll build"
 end
 
+def_command :build_github, 'Build the Jekyll site for GitHub Pages' do
+  exec_cmd "jekyll build --baseurl='/cto-website' --destination='dist'"
+end
+
 execute_command ARGV
