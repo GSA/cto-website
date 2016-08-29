@@ -8,9 +8,10 @@ description: >
 
 # baseurl: ""
 # url: "http://cto.gsa.gov"
-baseurl: "/cto-website"
+baseurl: ""
 url: "http://gsa.github.io"
 markdown: kramdown
+exclude: [ 'go', 'Gemfile*' ]
 
 collections:
   team:
