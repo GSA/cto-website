@@ -11,7 +11,7 @@ description: >
 baseurl: ""
 url: "http://gsa.github.io"
 markdown: kramdown
-exclude: [ 'go', 'Gemfile*' ]
+exclude: [ 'README.md', 'go', 'Gemfile*' ]
 
 collections:
   team:
