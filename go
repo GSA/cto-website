@@ -81,5 +81,4 @@ def_command :deploy_github, 'Deploy the website to GitHub Pages' do
   exec_cmd "git subtree push --prefix dist origin gh-pages"
 end
 
-
 execute_command ARGV
