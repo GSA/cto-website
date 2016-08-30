@@ -41,7 +41,7 @@ Commits to the `master` branch will automatically be picked up by Federalist and
 deployed to the preview environment.
 
 Developers with commit access to this repo can deploy to GitHub Pages by running
-`./go build_github` then `./go deploy_github`
+`./go build_github` then `./go deploy_github`.
 
 ## License
 
