@@ -69,6 +69,14 @@ command_group :dev, 'Development commands'
 #  lint_javascript Dir.pwd, files  # uses node_modules/eslint
 #end
 
+def_command :serve, 'Run the site locally on Jekyll' do
+  begin
+    exec_cmd "jekyll serve"
+  rescue Interrupt => e
+    # Be quiet
+  end
+end
+
 def_command :build, 'Build the Jekyll site' do
   exec_cmd "jekyll build"
 end
