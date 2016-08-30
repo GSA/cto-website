@@ -23,6 +23,8 @@ to set it up on your system.
 This project makes use of 18F's [./go script](https://github.com/18F/go_script)
 to manage the local development environment.
 
+The `./go` script will automatically install all dependencies for you as needed.
+
 After cloning this project from GitHub, run `./go serve` to see the website on
 your local machine at http://localhost:4000/.
 
