@@ -65,7 +65,3 @@ And fourth-level sections...
 # Another first-level heading
 
 More guide content here.
-
-# Final first-level heading
-
-More guide content here.
