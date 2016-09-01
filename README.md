@@ -42,7 +42,7 @@ your local machine at [http://localhost:4000/](http://localhost:4000/).
 Commits to the `master` branch will automatically be picked up by Federalist and
 deployed to the [preview environment](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/GSA/cto-website/).
 
-Developers with commit access to this repo can deploy to GitHub Pages by running
+Developers with commit access to this repo can deploy to [GitHub Pages](https://gsa.github.io/cto-website/) by running
 `./go build_github` then `./go deploy_github`.
 
 ## License
