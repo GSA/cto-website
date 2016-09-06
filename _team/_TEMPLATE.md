@@ -6,6 +6,7 @@ role:
 group:
 email:
 layout: profile
+ordering: 10
 ---
 
 To complete your team profile:

@@ -6,4 +6,5 @@ role: Director, GSA Digital Service
 group: GSA Digital Service
 email: joseph.castle@gsa.gov
 layout: profile
+ordering: 10
 ---

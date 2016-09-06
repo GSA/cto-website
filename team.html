@@ -6,29 +6,33 @@ permalink: /team/
 <h1>The CTO Team</h1>
 
 <ul class="team usa-unstyled-list">
-{% assign members = site.team | sort: 'lastname' %}
-{% for member in members %}
-  <li>
-    <a href="{{ member.url | prepend: site.baseurl }}">
-      {% if member.photo %}
-        <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
-      {% else %}
-        <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
-      {% endif %}
-    </a>
-    <div class="member-name">
-      <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
-    </div>
-    {% if member.role %}
-      <div class="member-role">
-        {{ member.role }}
-      </div>
-    {% endif %}
-    {% if member.group %}
-      <div class="member-group">
-        {{ member.group }}
-      </div>
-    {% endif %}
-  </li>
-{% endfor %}
+  {% assign ordered_groups = site.team | group_by: 'ordering' | sort: 'name' %}
+  {{ ordered_groups | inspect }}
+  {% for group in ordered_groups %}
+    {% assign members = group.items | sort: 'lastname' %}
+    {% for member in members %}
+      <li>
+        <a href="{{ member.url | prepend: site.baseurl }}">
+          {% if member.photo %}
+            <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+          {% else %}
+            <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+          {% endif %}
+        </a>
+        <div class="member-name">
+          <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+        </div>
+        {% if member.role %}
+          <div class="member-role">
+            {{ member.role }}
+          </div>
+        {% endif %}
+        {% if member.group %}
+          <div class="member-group">
+            {{ member.group }}
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  {% endfor %}
 </ul>
