@@ -14,10 +14,11 @@ TEMPLATE file).
 
 1. Copy a photo of yourself to the /img/team/ directory. Name it using the
    firstname_lastname format. Make sure it is a square photo!
-2. Fill out the above fields: name, photo, group, and email.
+2. Fill out the above fields: name, photo, role, group, and email.
    - firstname/lastname: Your name as you want it displayed on the team page
    - photo: Filename of the photo you just added to the /img/team/ directory (if
      you don't want a photo, leave blank)
+   - role: Your job title or role
    - group: Your group name within the Office of the CTO (something like
      Solutions Strategy or Digital Service)
    - email: Your GSA email address
