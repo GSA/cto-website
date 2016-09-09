@@ -47,3 +47,41 @@ forms:
     - type: email
       name: entry.211727308
       label: Your email address
+
+intake:
+  - type: intake
+    heading:
+    url: https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLScC37I1E3pCD8qXfnhUvorJKrMNRL9edezZvEYUIdPt5GE0dg/formResponse
+    button: Submit
+    privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice.</a>
+    fields:
+      - type: problem statement
+        name: entry.1314705153
+        label: Problem Statement
+      - type: purpose
+        name: entry.1645822807
+        label: Purpose
+      - type: scope
+        name: entry.76271973
+        label: Scope
+      - type: strategic goals
+        name: entry.285185669
+        label: Strategic Goals
+      - type: Business Lines
+        name: entry.1811656482
+        label: Business Lines
+      - type: name
+        name: entry.460893215
+        label: Stakeholder Name
+      - type: email
+        name: entry.639786444
+        label: Stakeholder Email
+      - type: phone
+        name: entry.1169908858
+        label: Stakeholder Phone
+      - type: funds
+        name: entry.1133652762
+        label: Requested Funds
+      - type: source
+        name: entry.90307167
+        label: Funding Source
