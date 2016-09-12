@@ -3,18 +3,25 @@ title: Work with Us
 permalink: /work-with-us/
 ---
 
+      <h2>Work With Us</h2>
 
+      <p>We use an agile approach for all of our IT projects. This is a fast-paced style of development that allows us to continuously deliver the best possible product.</p>
 
-      <div class="usa-grid">
+      <p>For questions related to this form or the intake process feel free to contact us directly at
+      <a href='mailto:cto@gsa.gov'>cto@gsa.gov.</a></p>
+
+      <h3>How We Work</h3>
+
+      <p>Our projects start with a pilot, during which we build a proof-of-concept focused on the user's needs. We use a cycle of soliciting user feedback and frequently delivering an usable product. This allows us to ensure that we are moving in the right direction. The goal of the pilot phase is to determine whether the concept for the new IT product is viable.</p>
+
+      <p>Once the proof-of-concept is complete and the pilot phase is successful, we move on to building a prototype. In this phase, we start to include a full range of features in the product. Again, during the prototype phase, we continue to use an agile approach and integrate user feedback. The end goal is to develop an usable product that can be released and actually used by a limited group of users. The goal of the prototype is to see whether users benefit from using the product.</p>
+
+      <p>If the end users are happily using the prototype product, we then move to the final phase, which is to scale the product to serve the entire community of end users.</p>
+
       {% for form in site.intake %}
           {% assign f = form %}
       {% endfor %}
-      <h2>Work with Us</h2></legend>
-      <p>
-          This should be a short paragraph about the CTO intake process and the types of projects we take on.
-          For questions related to this form or the intake process feel free to contact us directly at
-          <a href='mailto:cto@gsa.gov'>cto@gsa.gov.</a>
-      </p>
+
       <form id="contact" action="{{ f.url }}" method="POST">
         <fieldset>
           <div class="usa-width-one-half">
@@ -38,4 +45,3 @@ permalink: /work-with-us/
         </fieldset>
 
       </form>
-      </div>
