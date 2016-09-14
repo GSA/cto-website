@@ -2,8 +2,6 @@
 title: We subscribe to the Digital Services Playbook
 category:
   - Agile
-  - Design
-  - Development
 audiences:
   - Executives
   - Developers
