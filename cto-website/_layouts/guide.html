@@ -1,0 +1,28 @@
+---
+layout: base
+description: >
+  This layout is used by CTO Guide pages.
+---
+
+<div class="usa-grid">
+
+  <h1>Guides</h1>
+
+  <aside class="usa-width-one-fourth guide-nav">
+    <ul class="usa-sidenav-list">
+      <li><a href="{{ '/guides/' | prepend: site.baseurl }}" class="usa-current">All guides</a></li>
+      {% for audience in site.data.guides.audiences %}
+        <li>
+          <a href="{{ site.baseurl }}/guides/{{ audience.slug }}/">{{ audience.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+
+  <div class="usa-width-three-fourths guide-content">
+    <p class="guide-category">{{ page.category }} guides</p>
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+  </div>
+
+</div>

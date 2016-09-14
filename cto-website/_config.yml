@@ -1,0 +1,49 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+title: GSA Chief Technology Officer
+email: cto@gsa.gov
+description: >
+  The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
+
+# baseurl: ""
+# url: "http://cto.gsa.gov"
+baseurl: ""
+url: "http://gsa.github.io"
+markdown: kramdown
+exclude: [ 'README.md', 'go', 'Gemfile*', 'dist' ]
+
+collections:
+  team:
+    permalink: /team/:name/
+    output: true
+  guides:
+    permalink: /guides/:title/
+    output: true
+
+defaults:
+  -
+    values:
+      layout: page
+  -
+    scope:
+      type: guides
+    values:
+      layout: guide
+
+forms:
+- type: newsletter
+  heading: Ask a question
+  url: https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSesCR4CG0zSRhYLTY7Oq04PaD99Uk1rJrFjmohsW8vYwtNxiw/formResponse
+  button: Send
+  privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice.</a>
+  fields:
+    - type: subject
+      name: entry.1866334422
+      label: Subject
+    - type: text
+      name: entry.143577008
+      label: How can we help?
+    - type: email
+      name: entry.211727308
+      label: Your email address
