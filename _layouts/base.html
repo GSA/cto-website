@@ -80,12 +80,24 @@ description: >
         var triggerPoint = 120; //$hero.offsetHeight - 120;
         window.addEventListener("scroll", function () {
           if (window.pageYOffset > triggerPoint) {
+            $navPrimary.classList.add("scrolled");
             $navPrimary.classList.remove("nav-transparent");
           } else {
+            $navPrimary.classList.remove("scrolled");
             $navPrimary.classList.add("nav-transparent");
           }
         });
       }
+
+      window.addEventListener("scroll", function () {
+        var $navPrimary = document.getElementById("nav-primary");
+        var triggerPoint = 120;
+        if (window.pageYOffset > triggerPoint) {
+          $navPrimary.classList.add("scrolled");
+        } else {
+          $navPrimary.classList.remove("scrolled");
+        }
+      });
 
     </script>
 
