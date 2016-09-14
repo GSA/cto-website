@@ -3,6 +3,7 @@ title: Doing agile well
 category: Agile
 audiences:
   - Executives
+  - Project Managers
 ---
 
 
