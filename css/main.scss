@@ -16,6 +16,10 @@ body {
   color: $color-gray-warm-dark;
 }
 
+h1, h2, h3, h4, h5 {
+  color: $color-primary-darker;
+}
+
 h1 {
   margin-top: 0.5em;
 }
@@ -331,6 +335,10 @@ a[id]:not([href]) {
 footer {
   color: white;
   padding: 2em 0;
+
+  h3 {
+    color: white;
+  }
 
   .gsads-built-by p {
     text-align: center;
