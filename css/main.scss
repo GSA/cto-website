@@ -12,6 +12,10 @@ $nav-height-mobile: 60px; // Nav bar height on small devices
 $nav-height: 100px; // Nav bar height on larger devices
 $nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling down
 
+body {
+  color: $color-gray-warm-dark;
+}
+
 h1 {
   margin-top: 0.5em;
 }
