@@ -79,10 +79,11 @@ body:not(.front) {
 }
 
 .usa-disclaimer {
-  max-height: 20px;
+  max-height: 100px;
   transition: all 0.25s ease;
   background-color: $color-base;
   color: $color-gray-lighter;
+  overflow: hidden;
 }
 
 nav.nav-topnav {
