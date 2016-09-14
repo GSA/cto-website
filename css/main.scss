@@ -10,6 +10,7 @@ $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hambu
 $usa-disclaimer-height: 29px; // Height of the "official website " statement
 $nav-height-mobile: 60px; // Nav bar height on small devices
 $nav-height: 100px; // Nav bar height on larger devices
+$nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling down
 
 h1 {
   margin-top: 0.5em;
@@ -78,22 +79,52 @@ body:not(.front) {
 }
 
 .usa-disclaimer {
+  max-height: 100px;
+  transition: all 0.25s ease;
   background-color: $color-base;
   color: $color-gray-lighter;
+  overflow: hidden;
 }
 
 nav.nav-topnav {
   transition: all 0.25s ease;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.9);
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
 
-  &.nav-transparent {
-    @media only screen and (min-width: $nav-breakpoint) {
+  @media only screen and (min-width: $nav-breakpoint) {
+    &.scrolled {
+      .usa-disclaimer {
+        max-height: 0;
+        > * {
+          display: none;
+        }
+      }
+
+      .nav-title {
+        a.nav-title-logo img {
+          height: 40px;
+          width: 40px;
+        }
+
+        a.nav-title-text {
+          padding: 10px 0 0 0;
+          font-size: 30px;
+        }
+      }
+
+      ul.nav-list {
+        li a {
+          margin: 0;
+        }
+      }
+    }
+
+    &.nav-transparent {
       background-color: transparent;
-      margin: 1em auto;
+      margin: 0.5em auto;
 
       .usa-disclaimer {
         background: none;
@@ -117,6 +148,7 @@ nav.nav-topnav {
     }
 
     a.nav-title-logo img {
+      transition: all 0.25s ease;
       float: left;
       margin: 10px;
       width: 40px;
@@ -129,6 +161,7 @@ nav.nav-topnav {
     }
 
     a.nav-title-text {
+      transition: all 0.25s ease;
       display: inline-block;
       padding: 24px 0 0 0;
       font-size: 20px;
@@ -176,6 +209,7 @@ nav.nav-topnav {
     }
 
     li a {
+      transition: all 0.25s ease;
       line-height: $nav-height-mobile;
       display: block;
       padding: 0 1em;
