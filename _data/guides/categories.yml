@@ -4,9 +4,6 @@
 - name: Team
   slug: team
 
-- name: Project Management
-  slug: project-management
-
 - name: Design
   slug: design
 

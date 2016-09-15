@@ -5,8 +5,6 @@ audiences:
   - Developers
   - Designers
   - Project Managers
-  - Content Managers
-  - Non-technical stakeholders
 ---
 
 "User experience design most frequently defines a sequence of interactions between a user (individual person) and a system, virtual or physical, designed to meet or support user needs and goals, primarily, while also satisfying systems requirements and organizational objectives ([Wikipedia](https://en.wikipedia.org/wiki/User_experience_design))."

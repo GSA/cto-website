@@ -2,14 +2,9 @@
 title: Using the U.S. Digital Service Playbook
 category: Agile
 audiences:
-  - Executives
   - Developers
   - Designers
   - Project Managers
-  - Operations
-  - Information Security
-  - Content Managers
-  - Non-technical stakeholders
 ---
 
 The [U.S. Digital Service Playbook](https://playbook.cio.gov/) is a great reference for starting and managing projects and solutions.

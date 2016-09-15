@@ -4,8 +4,6 @@ category: Development
 audiences:
   - Developers
   - Project Managers
-  - Content Managers
-  - Non-technical stakeholders
 ---
 
 ![logo saying coming soon]({{ site.baseurl }}/img/comingsoon.png)

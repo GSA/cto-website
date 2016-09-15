@@ -1,6 +1,3 @@
-- name: Executives
-  slug: executives
-
 - name: Developers
   slug: developers
 
@@ -9,15 +6,3 @@
 
 - name: Project Managers
   slug: project-managers
-
-- name: Operations
-  slug: operations
-
-- name: Information Security
-  slug: security
-
-- name: Content Managers
-  slug: content-managers
-
-- name: Non-technical stakeholders
-  slug: stakeholders

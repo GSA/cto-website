@@ -3,18 +3,12 @@ title:
 category:
   - Agile
   - Team
-  - Project Management
   - Design
   - Development
 audiences:
-  - Executives
   - Developers
   - Designers
   - Project Managers
-  - Operations
-  - Information Security
-  - Content Managers
-  - Non-technical stakeholders
 ---
 
 # How to use this Guide template
