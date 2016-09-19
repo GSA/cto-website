@@ -92,6 +92,10 @@ body:not(.front) {
   background-color: $color-base;
   color: $color-gray-lighter;
   overflow: hidden;
+
+  a, a:visited {
+    color: white;
+  }
 }
 
 nav.nav-topnav {
