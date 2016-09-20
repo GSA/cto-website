@@ -332,7 +332,7 @@ a[id]:not([href]) {
   visibility: hidden;
   top: -($nav-height-mobile + $usa-disclaimer-height);
   @media only screen and (min-width: $nav-breakpoint) {
-    top: -($nav-height + $usa-disclaimer-height);
+    top: -($nav-height-collapsed + $usa-disclaimer-height);
   }
 }
 
