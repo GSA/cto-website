@@ -325,6 +325,36 @@ ul.team {
   }
 }
 
+.projects {
+  h2 {
+    margin: 0.5em 0;
+
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .project {
+    margin-bottom: 2em;
+  }
+
+  .project-picture svg {
+    width: 100%;
+    height: 160px;
+  }
+
+  .project-data {
+    margin-top: 1em;
+  }
+
+  .project-data-element {
+    margin-top: 0.5em;
+  }
+}
+
 // Compensate for fixed nav when jumping to anchors on a page.
 a[id]:not([href]) {
   display: block;

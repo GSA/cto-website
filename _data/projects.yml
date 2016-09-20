@@ -1,0 +1,55 @@
+# CTO Projects List
+
+- name: cto.gsa.gov
+  contact_name: Office of the CTO
+  contact_email: cto@gsa.gov
+  stage: alpha
+  link:
+  repository_link: https://github.com/GSA/cto-website
+  picture:
+  description: A new GSA website that will provide guidance to GSA IT as it drives towards adopting modern IT practices.  Including Agile practices, modern IT development, open data, APIs, etc.  Also include information for GSA employees and potential new hires.
+
+- name: open.gsa.gov
+  contact_name: Sara Cope
+  contact_email: sara.cope@gsa.gov
+  stage: alpha
+  link: http://open.gsa.gov/
+  repository_link: https://github.com/GSA/open-gsa-redesign
+  picture:
+  description: open.gsa.gov is the current developer portal for all GSA data, APIs, and code open to the public.  The focus of this project is the redesign of the site, offering a new, user-focused experience emphasizing engagement with the public.
+
+- name: Open Opportunities
+  contact_name: Open Opportunities
+  contact_email: openopps@gsa.gov
+  stage:
+  link: https://openopps.digitalgov.gov/
+  repository_link: https://github.com/openopps/openopps-platform
+  picture:
+  description: Open Opportunities is a site offering detail opportunities across government agencies.  Agency representatives and current government employees can post/find opportunities to participate on various projects, usually IT oriented.
+
+- name: Federal Innovation Toolkit
+  contact_name: challenge@gsa.gov
+  contact_email: challenge@gsa.gov
+  stage:
+  link:
+  repository_link:
+  picture:
+  description: Development of the Federal Challenges & Prizes Toolkit to fulfill the President's commitment  to improve public services through support of open innovation by harnessing the ingenuity of the american public (as outlined in the 2nd Open Government National Action Plan).
+
+- name: PBS Comfort App
+  contact_name: Jeff Fredrickson
+  contact_email: jeffrey.fredrickson@gsa.gov
+  stage: alpha
+  link:
+  repository_link: https://github.com/GSA/pbs-sensor
+  picture:
+  description: Utilizing environmental sensor data at GSA to create an application to integrate with hoteling and reserving workspaces in GSA buildings.  Allows users to pick where to sit based on temperature, light, sound, etc.
+
+- name: National Staffing Application
+  contact_name: Joseph Castle
+  contact_email: joseph.castle@gsa.gov
+  stage:
+  link:
+  repository_link:
+  picture:
+  description: Application within GSA managed by GSA IT Corporate Solutions providing data and reports pertaining to staffing.  Allows for budget and personnel current views and forecasting.

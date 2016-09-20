@@ -1,0 +1,57 @@
+---
+title: Projects
+permalink: /projects/
+layout: base
+---
+
+<div class="usa-grid">
+  <h1>Projects</h1>
+</div>
+
+<div class="projects">
+  {% for project in site.data.projects %}
+    {% assign loopstatus = forloop.index | modulo: 3 %}
+    {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
+    <div class="project usa-width-one-third">
+      <div class="project-picture">
+        {% if project.picture %}
+          <img src="{{ site.baseurl }}/img/team/{{ project.picture }}" alt="Picture of {{ project.name }}">
+        {% else %}
+          <svg>
+            <rect width="100%" height="100%" stroke="#dddddd" fill="#f8f8f8"/>
+          </svg>
+        {% endif %}
+      </div>
+      <div class="project-name">
+        {% if project.link %}
+          <h2><a href="{{ project.link }}">{{ project.name }}</a></h2>
+        {% else %}
+          <h2>{{ project.name }}</h2>
+        {% endif %}
+      </div>
+      {% if project.description %}
+        <div class="project-description">
+          {{ project.description }}
+        </div>
+      {% endif %}
+      <div class="project-data">
+        {% if project.stage %}
+          <div class="project-data-element project-stage">
+            Stage: <a href="{{ site.baseurl }}/projects/stages/#{{ project.stage }}">{{ project.stage | capitalize }}</a>
+          </div>
+        {% endif %}
+        {% if project.repository_link %}
+          <div class="project-data-element project-repository-link">
+            <a href="{{ project.repository_link }}">Source Code Repository</a>
+          </div>
+        {% endif %}
+        {% if project.link %}
+          <div class="project-data-element project-link">
+            <a href="{{ project.link }}">Visit {{ project.name }}</a>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    {% if loopstatus == 0 %}</div>{% endif %}
+  {% endfor %}
+</div>
