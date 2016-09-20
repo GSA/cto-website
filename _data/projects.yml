@@ -6,7 +6,7 @@
   stage: alpha
   link:
   repository_link: https://github.com/GSA/cto-website
-  picture:
+  picture: project_cto.gsa.gov.jpg
   description: A new GSA website that will provide guidance to GSA IT as it drives towards adopting modern IT practices.  Including Agile practices, modern IT development, open data, APIs, etc.  Also include information for GSA employees and potential new hires.
 
 - name: open.gsa.gov
@@ -15,7 +15,7 @@
   stage: alpha
   link: http://open.gsa.gov/
   repository_link: https://github.com/GSA/open-gsa-redesign
-  picture:
+  picture: project_open.gsa.gov.jpg
   description: open.gsa.gov is the current developer portal for all GSA data, APIs, and code open to the public.  The focus of this project is the redesign of the site, offering a new, user-focused experience emphasizing engagement with the public.
 
 - name: Open Opportunities
@@ -42,7 +42,7 @@
   stage: alpha
   link:
   repository_link: https://github.com/GSA/pbs-sensor
-  picture:
+  picture: project_pbs_comfort.png
   description: Utilizing environmental sensor data at GSA to create an application to integrate with hoteling and reserving workspaces in GSA buildings.  Allows users to pick where to sit based on temperature, light, sound, etc.
 
 - name: National Staffing Application
