@@ -1,4 +1,3 @@
-require 'pp'
 module CTO
 
   class AudienceGuidesPage < Jekyll::Page
