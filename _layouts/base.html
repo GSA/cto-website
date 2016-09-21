@@ -70,28 +70,26 @@ description: >
         document.getElementsByClassName("nav-list")[0].classList.toggle("nav-revealed");
       });
 
-      // On the front page, add dynamic effects to the nav bar upon scrolling.
+      // Trigger point at which to perform dynamic effects on the nav bar
+      var triggerPoint = 60;
+      var $navPrimary = document.getElementById("nav-primary");
+
+      // On the front page, nav bar should be transparent before scrolling.
       if (document.body.classList.contains("front")) {
         // Initially set the nav to transparent.
-        var $navPrimary = document.getElementById("nav-primary");
         $navPrimary.classList.add("nav-transparent");
         // Remove transparency when scrolling down.
-        var $hero = document.getElementById("front-hero");
-        var triggerPoint = 120; //$hero.offsetHeight - 120;
         window.addEventListener("scroll", function () {
           if (window.pageYOffset > triggerPoint) {
-            $navPrimary.classList.add("scrolled");
             $navPrimary.classList.remove("nav-transparent");
           } else {
-            $navPrimary.classList.remove("scrolled");
             $navPrimary.classList.add("nav-transparent");
           }
         });
       }
 
+      // Shrink the nav bar upon page scroll.
       window.addEventListener("scroll", function () {
-        var $navPrimary = document.getElementById("nav-primary");
-        var triggerPoint = 40;
         if (window.pageYOffset > triggerPoint) {
           $navPrimary.classList.add("scrolled");
         } else {
