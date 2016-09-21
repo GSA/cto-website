@@ -1,37 +1,39 @@
 ---
 title: The Team
 permalink: /team/
+layout: base
 ---
 
-<h1>The CTO Team</h1>
+<div class="usa-grid">
+  <h1>The CTO Team</h1>
+</div>
 
-<ul class="team usa-unstyled-list">
-  {% assign ordered_groups = site.team | group_by: 'ordering' | sort: 'name' %}
-  {% for group in ordered_groups %}
-    {% assign members = group.items | sort: 'lastname' %}
-    {% for member in members %}
-      <li>
-        <a href="{{ member.url | prepend: site.baseurl }}">
-          {% if member.photo %}
-            <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
-          {% else %}
-            <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
-          {% endif %}
-        </a>
-        <div class="member-name">
-          <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+<div class="team">
+  {% team %}
+    {% assign loopstatus = forloop.index | modulo: 4 %}
+    {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
+    <div class="member usa-width-one-fourth">
+      <a href="{{ member.url | prepend: site.baseurl }}">
+        {% if member.photo %}
+          <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+        {% else %}
+          <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+        {% endif %}
+      </a>
+      <div class="member-name">
+        <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+      </div>
+      {% if member.role %}
+        <div class="member-role">
+          {{ member.role }}
         </div>
-        {% if member.role %}
-          <div class="member-role">
-            {{ member.role }}
-          </div>
-        {% endif %}
-        {% if member.group %}
-          <div class="member-group">
-            {{ member.group }}
-          </div>
-        {% endif %}
-      </li>
-    {% endfor %}
-  {% endfor %}
-</ul>
+      {% endif %}
+      {% if member.group %}
+        <div class="member-group">
+          {{ member.group }}
+        </div>
+      {% endif %}
+    </div>
+    {% if loopstatus == 0 %}</div>{% endif %}
+  {% endteam %}
+</div>

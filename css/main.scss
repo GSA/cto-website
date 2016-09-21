@@ -284,16 +284,18 @@ header#front-hero {
   margin-bottom: 3em;
 }
 
-ul.team {
-  li {
-    float: left;
-    width: 200px;
-    height: 220px;
-    margin: 0 1em 1em 0;
-    text-align: center;
+.team {
+  text-align: center;
 
-    img {
-      border-radius: 50%;
+  .member {
+    margin-bottom: 2em;
+  }
+
+  img {
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+    @media only screen and (min-width: $nav-breakpoint) {
       height: 120px;
       width: 120px;
     }
