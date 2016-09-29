@@ -1,10 +1,6 @@
 ---
 title:
-category:
-  - Agile
-  - Team
-  - Design
-  - Development
+category: Agile, Team, Design, Development
 audiences:
   - Developers
   - Designers
