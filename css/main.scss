@@ -79,6 +79,16 @@ body.front {
   font-size: 1.2em;
 }
 
+.guide-image {
+  display: block;
+  height: auto;
+  margin: auto;
+
+  &.guide-image-half {
+    width: 50%;
+  }
+}
+
 body:not(.front) {
   padding-top: $nav-height-mobile + $usa-disclaimer-height;
   @media only screen and (min-width: $nav-breakpoint) {
