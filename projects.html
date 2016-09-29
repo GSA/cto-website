@@ -48,6 +48,13 @@ layout: base
             <a href="{{ project.link }}">Visit {{ project.name }}</a>
           </div>
         {% endif %}
+        {% if project.links %}
+          {% for link in project.links %}
+            <div class="project-data-element project-link">
+              <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+            </div>
+          {% endfor %}
+        {% endif %}
       </div>
     </div>
     {% if loopstatus == 0 %}</div>{% endif %}
