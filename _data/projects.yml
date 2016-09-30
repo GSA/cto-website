@@ -27,13 +27,13 @@
   picture: project_openopps.jpg
   description: Open Opportunities is a site offering detail opportunities across government agencies. Agency representatives and current government employees can post/find opportunities to participate on various projects, usually IT oriented.
 
-- name: Federal Innovation Toolkit
+- name: Federal Open Innovation Toolkit for Challenges and Prizes
   contact_name: challenge@gsa.gov
   contact_email: challenge@gsa.gov
-  stage:
-  link:
+  stage: alpha
+  link: https://www.challenge.gov
   repository_link:
-  picture:
+  picture: project_challengetoolkit.png
   description: Development of the Federal Challenges & Prizes Toolkit to fulfill the President's commitment to improve public services through support of open innovation by harnessing the ingenuity of the american public (as outlined in the 2nd Open Government National Action Plan).
 
 - name: PBS Comfort App
