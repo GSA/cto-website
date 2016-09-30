@@ -54,7 +54,7 @@
   stage:
   link:
   repository_link:
-  picture:
+  picture: project_nsa.png
   description: An application within GSA managed by GSA IT Corporate Solutions providing data and reports pertaining to staffing. It allows for budget and personnel current views and forecasting.
   links:
     - title: NSA Case Study
