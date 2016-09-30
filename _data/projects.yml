@@ -24,7 +24,7 @@
   stage:
   link: https://openopps.digitalgov.gov/
   repository_link: https://github.com/openopps/openopps-platform
-  picture:
+  picture: project_openopps.jpg
   description: Open Opportunities is a site offering detail opportunities across government agencies. Agency representatives and current government employees can post/find opportunities to participate on various projects, usually IT oriented.
 
 - name: Federal Innovation Toolkit
