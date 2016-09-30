@@ -1,5 +1,5 @@
 ---
-title: Agile investment overview
+title: Agile Investment Overview
 category: Agile
 audiences:
   - Project Managers
