@@ -1,5 +1,5 @@
 ---
-title: Conducting an agile project
+title: Conducting an Agile Project
 category: Agile
 audiences:
   - Project Managers
