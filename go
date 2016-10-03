@@ -81,12 +81,4 @@ def_command :build, 'Build the Jekyll site' do
   exec_cmd "jekyll build"
 end
 
-def_command :build_github, 'Build the Jekyll site for GitHub Pages' do
-  exec_cmd "jekyll build --baseurl='/cto-website' --destination='dist'"
-end
-
-def_command :deploy_github, 'Deploy the website to GitHub Pages' do
-  exec_cmd "git subtree push --prefix dist origin gh-pages"
-end
-
 execute_command ARGV
