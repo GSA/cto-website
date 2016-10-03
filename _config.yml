@@ -6,12 +6,10 @@ email: cto@gsa.gov
 description: >
   The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
 
-# baseurl: ""
-# url: "http://cto.gsa.gov"
 baseurl: ""
-url: "http://gsa.github.io"
+url: "http://cto.gsa.gov"
 markdown: kramdown
-exclude: [ 'README.md', 'go', 'Gemfile*', 'dist' ]
+exclude: [ 'README.md', 'go', 'Gemfile*' ]
 
 collections:
   team:
