@@ -7,6 +7,7 @@ GEM
     go_script (0.1.9)
       bundler (~> 1.10)
       safe_yaml (~> 1.0)
+    htmlentities (4.3.4)
     jekyll (3.2.1)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -21,6 +22,9 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    jekyll_pages_api (0.1.6)
+      htmlentities (~> 4.3)
+      jekyll (>= 2.0, < 4.0)
     kramdown (1.12.0)
     liquid (3.0.6)
     listen (3.0.8)
@@ -42,6 +46,7 @@ PLATFORMS
 DEPENDENCIES
   go_script
   jekyll
+  jekyll_pages_api
 
 BUNDLED WITH
-   1.12.5
+   1.13.2
