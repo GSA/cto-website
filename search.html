@@ -1,0 +1,24 @@
+---
+title: Search
+permalink: /search/
+---
+
+<h1>Search</h1>
+
+<form class="usa-search" action="{{ site.baseurl }}/search" method="get">
+  <div role="search">
+    <label class="usa-sr-only" for="search-field">Search</label>
+    <input id="search-field" type="search" name="search">
+    <button type="submit">
+      <span class="usa-search-submit-text">Search</span>
+    </button>
+  </div>
+</form>
+
+<div id="search-results"></div>
+
+<script>
+  var baseurl = "{{ site.baseurl }}";
+</script>
+<script src="{{ site.baseurl }}/js/lunr.min.js"></script>
+<script src="{{ site.baseurl }}/js/search.js"></script>
