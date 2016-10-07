@@ -1,4 +1,7 @@
-(function(baseurl = "") {
+(function(baseurl) {
+  if (baseurl === undefined) {
+    baseurl = "";
+  }
 
   function initSearchPage() {
     var searchTerm = getSearchQuery();
@@ -26,7 +29,7 @@
   function search(pages, searchTerm) {
     document.getElementById("search-field").setAttribute("value", searchTerm);
     var lunrIndex = lunr(function () {
-      this.field("id");
+      this.ref("id");
       this.field("title", { boost: 10 });
       this.field("body");
     });
@@ -37,8 +40,8 @@
         body: pages[index].body
       });
     }
-    var results = lunrIndex.search(searchTerm);
-    displayResults(results, pages);
+    var matches = lunrIndex.search(searchTerm);
+    displayResults(matches, pages);
   }
 
   function getSearchQuery() {
@@ -54,13 +57,13 @@
     }
   }
 
-  function displayResults(results, data) {
+  function displayResults(matches, pages) {
     var $results = document.getElementById("search-results");
-    if (results.length > 0) {
+    if (matches.length > 0) {
       var output = '<ul class="usa-unstyled-list">';
-      for (var index in results) {
-        var itemData = data[results[index].ref];
-        output += '<li><a href="' + itemData.url + '"><h3>' + itemData.title + '</h3></a><p>' + itemData.body.substring(0, 200) + ' ...</p></li>';
+      for (var index in matches) {
+        var page = pages[matches[index].ref];
+        output += '<li><h3><a href="' + page.url + '">' + page.title + '</a></h3><p>' + page.body.substring(0, 200) + ' ...</p></li>';
       }
       output += "</ul>";
       $results.innerHTML = output;
