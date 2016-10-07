@@ -115,6 +115,7 @@ nav.nav-topnav {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 1;
 
   @media only screen and (min-width: $nav-breakpoint) {
     &.scrolled {
