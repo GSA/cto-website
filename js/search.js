@@ -1,4 +1,7 @@
-(function(baseurl = "") {
+(function(baseurl) {
+  if (baseurl === undefined) {
+    baseurl = "";
+  }
 
   function initSearchPage() {
     var searchTerm = getSearchQuery();
