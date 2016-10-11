@@ -7,9 +7,9 @@ audiences:
   - Project Managers
 ---
 
-*Acceptance Testing*: Formal testing conducted to determine whether or not a system satisfies its acceptance criteria and to enable the customer to determine whether or not to accept the system.
+**Acceptance Testing**: Formal testing conducted to determine whether or not a system satisfies its acceptance criteria and to enable the customer to determine whether or not to accept the system.
 
-Automated Build: the "build" for a developer consists the process of starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form. This may include compiling source files, their packaging into compressed formats (jar, zip, etc.), production of installers, the creation or updating of database schema or data, etc. The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.
+**Automated Build**: the "build" for a developer consists the process of starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form. This may include compiling source files, their packaging into compressed formats (jar, zip, etc.), production of installers, the creation or updating of database schema or data, etc. The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.
 
 Backlog: A collection of stories and tasks the Sprint team will work on at some point in the future. Either the Product Owner has not prioritized them or has assigned them lower priority.
 
