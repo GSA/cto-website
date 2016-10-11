@@ -39,8 +39,26 @@ your local machine at [http://localhost:4000/](http://localhost:4000/).
 
 ## Deploying
 
-Commits to the `master` branch will automatically be picked up by Federalist and
-deployed to the [preview environment](http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/GSA/cto-website/).
+We make use of Federalist's continuous deployment system, which automatically
+deploys branches as soon as it detects a push to GitHub.
+
+### Development
+
+Commits and merges to the `dev` branch will automatically be picked up by
+Federalist and deployed to the [development site](https://federalist.18f.gov/preview/GSA/cto-website/dev/).
+
+#### Feature branches
+
+In addition to the main `dev` branch, you can push a feature branch to GitHub
+and Federalist will deploy it to a preview site for you. After pushing your
+feature branch to GitHub, you can preview it using this URL format:
+`https://federalist.18f.gov/preview/GSA/cto-website/BRANCH_NAME/`
+
+### Production
+
+The website is not yet in production. The tentative production deployment
+process is to merge the `dev` branch into `master`. Federalist will
+automatically deploy `master` to the production site.
 
 ## License
 
