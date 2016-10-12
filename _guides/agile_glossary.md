@@ -12,10 +12,10 @@ audiences:
 **Agile Manifesto:** A philosophical foundation for effective software development, the Agile Manifesto was created by representatives from Extreme Programming, Scrum, DSDM, Adaptive Software Development, Crystal, Feature-Driven Development, Pragmatic Programming, and others sympathetic to the need for an alternative to documentation-driven, heavyweight software development processes. It reads, in its entirety, as follows:
 
 “We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
-	  Individuals and interactions over processes and tools
-	  Working software over comprehensive documentation
-  	Customer collaboration over contract negotiation
-	  Responding to change over following a plan"
+* **Individuals and interactions** over processes and tools
+* **Working software** over comprehensive documentation
+* **Customer collaboration** over contract negotiation
+* **Responding to change** over following a plan"
 
 **Automated Build**: the "build" for a developer consists the process of starting from files and other assets under the developers' responsibility, results in a software product in its final or "consumable" form. This may include compiling source files, their packaging into compressed formats (jar, zip, etc.), production of installers, the creation or updating of database schema or data, etc. The build is "automated" to the extent that these steps are repeatable and require no direct human intervention, and can be performed at any time with no information other than what is stored in the source code control repository.
 
@@ -36,7 +36,6 @@ audiences:
 **Business Value:** an informal term that includes all forms of value that determine the health and well-being of the firm in the long run. It expands the concept of value of the firm beyond economic value to include other forms of value such as employee value, customer value, supplier value, channel partner value, alliance partner value, managerial value, and societal value. In the context of agile development, it is what management is willing to pay for and a way to identify the value of “work” or a story.
 
 **Capacity:** refers to the measurement of how much work can be completed within a given, fixed time frame by estimating the number of available, productive work hours for an individual or team. To accurately estimate capacity, it is important to factor in all known variables such as meetings, holidays and vacations, as well as the effects of multi-tasking and normal administrative tasks.
-
 
 **Collective Ownership:** commonly only one developer "owns" each code file. Collective code ownership, as the name suggests, is the explicit convention that "every" team member is not only allowed, but in fact has a positive duty, to make changes to "any" code file as necessary: either to complete a development task, to repair a defect, or even to improve the code's overall structure.
 
@@ -81,5 +80,7 @@ Feasibility and business study, Functional model / prototype iteration, Design a
 **Extreme Programming (XP):** A software development methodology adhering to a very iterative and incremental approach, Extreme Programming is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles (timeboxing), which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. XP consists of a number of integrated practices for developers and management – the original twelve practices of XP include Small Releases, On-site Customer, Sustainable Pace, Simple Design, Continuous Integration, Unit Testing, Coding Conventions, Refactoring Mercilessly, Test-Driven Development, System Metaphor, Collective Code Ownership, and Pair Programming. Most successful Agile practitioners adopt some subset of XP practices, often in conjunction with Scrum.
 
 **References:**
-*[SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
-*[Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/)
+[SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
+[Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/)
+[Agile Manifesto](http://agilemanifesto.org/)
+
