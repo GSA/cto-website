@@ -83,4 +83,5 @@ Feasibility and business study, Functional model / prototype iteration, Design a
 [SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
 [Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/)
 [Agile Manifesto](http://agilemanifesto.org/)
+[Scrum Alliance](https://www.scrumalliance.org/?gclid=COSknaWf1c8CFYaDaQodTh8DTg)
 
