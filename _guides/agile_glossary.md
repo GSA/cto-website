@@ -167,7 +167,7 @@ Scrum should not be used interchangeably with the term Agile. Agile is not a fra
 
 **References:**
 [SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
-[Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/)
-[Agile Manifesto](http://agilemanifesto.org/)
+[Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/),
+[Agile Manifesto](http://agilemanifesto.org/),
 [Scrum Alliance](https://www.scrumalliance.org/?gclid=COSknaWf1c8CFYaDaQodTh8DTg)
 
