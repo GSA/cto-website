@@ -30,12 +30,21 @@ your local machine at [http://localhost:4000/](http://localhost:4000/).
 
 ## Contributing
 
+### Contributing content and code
+
 1. Fork the repository (or clone it if you have commit access)
 2. Create a feature branch
 3. Make your changes in the feature branch
 4. Commit the feature branch
 5. Push the feature branch to GitHub
 6. Open a pull request to merge the feature branch
+
+### Proposing changes and reporting issues
+
+The best way to contact us regarding the CTO Website is to [open an issue on GitHub](https://github.com/GSA/cto-website/issues/new). Please submit a new issue if you need to:
+
+* Report a website bug
+* Propose a change to the website content
 
 ## Deploying
 
