@@ -13,10 +13,10 @@ Though it arose out of software development practices, Agile is not a software-d
 
 #### Agile Values
 
-**Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
-**Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
-**Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
-**Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
+* **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
+* **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
+* **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
+* **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
 
 #### Agile Principles
 While the Agile Manifesto(http://agilemanifesto.org/) lists the Agile Principles in full, they are best summarized as:
@@ -54,11 +54,11 @@ Through Agile Investment, the CTO Office introduces business and development tea
 #### Agile Behavior Adaptation
 Here are just some of the ways we can support Agile adoption:
 
-* **Stop the Jargon!** | Be informed & know the proper terminology to better support Agile adoption and reduce confusion.
-* **Shift the Mindset** | Be open, flexible, responsive, & transparent in developing a more Agile mindset, but know that transition takes time and patience.
-* **Change Management** | Be flexible as new processes are implemented, but call pain points and issues so that they can be addressed.
-* **Communication** | Be a reliable source for & encourage open communication.
-* **Accountability** | Be reliable & responsible to the Team and with assigned work.
-* **Transparency** | Be honest & transparent with the Team and assigned work.
+* **Stop the Jargon!**      Be informed & know the proper terminology to better support Agile adoption and reduce confusion.
+* **Shift the Mindset**     Be open, flexible, responsive, & transparent in developing a more Agile mindset, but know that transition takes time and patience.
+* **Change Management**     Be flexible as new processes are implemented, but call pain points and issues so that they can be addressed.
+* **Communication**         Be a reliable source for & encourage open communication.
+* **Accountability**        Be reliable & responsible to the Team and with assigned work.
+* **Transparency**          Be honest & transparent with the Team and assigned work.
 
 And finally, as we learn from each experience, we celebrate and share the success through storytelling. In GSA IT, the OMB endorsement of Agile, the introduction of standards, and each project-level implementation is a win for Agile adoption. Moreover, the collaboration we build between Business and IT through Agile Investment leads to faster, more efficient product delivery.
