@@ -5,7 +5,7 @@ audiences:
   - Project Managers
 ---
 
-### What is Agile?
+### First, What is Agile?
 
 Agile is considered an alternative approach to traditional project management or product development. It can be summarized as a value-based, iterative approach under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. Agile advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change. Success in Agile is based on an attitude of “servant leadership” and focuses on the entire team; both Business and IT, not just developers. As a solution for complex problems, teams must “be(come)” Agile and not just “do” Agile.
 
@@ -13,14 +13,19 @@ Though it arose out of software development practices, Agile is not a software-d
 
 #### Agile Values
 
-* **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
-* **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
-* **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
-* **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
+**Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
+
+**Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
+
+**Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
+
+**Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
 
 #### Agile Principles
 While the [Agile Manifesto](http://agilemanifesto.org/) lists the Agile Principles in full, they are best summarized as:
 
+ | 
+------------ | -------------
 Satisfy the customer | Working software is the primary measure of progress
 Welcome changing requirements | Promote sustainable development
 Deliver working software frequently | Continuous attention to technical excellence
