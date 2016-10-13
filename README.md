@@ -4,7 +4,7 @@ This is the website for the GSA Office of the Chief Technology Officer.
 
 ## Architecture
 
-This is a Jekyll-based website designed to be published on the
+This is a [Jekyll-based](http://jekyllrb.com/) website designed to be published on the
 [Federalist](https://federalist.18f.gov/) platform.
 
 The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
@@ -13,7 +13,7 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ### Prerequisites
 
-Since this is a Jekyll-based website, you will need Ruby. The best way to get
+Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get
 Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the
 [rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
 to set it up on your system.
