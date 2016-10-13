@@ -19,7 +19,7 @@ Though it arose out of software development practices, Agile is not a software-d
 * **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
 
 #### Agile Principles
-While the Agile Manifesto(http://agilemanifesto.org/) lists the Agile Principles in full, they are best summarized as:
+While the [Agile Manifesto](http://agilemanifesto.org/) lists the Agile Principles in full, they are best summarized as:
 
 Satisfy the customer | Working software is the primary measure of progress
 Welcome changing requirements | Promote sustainable development
@@ -42,7 +42,7 @@ Additional terms can be found in our Agile Glossary({{ site.baseurl }}/guides/ag
 ### Benefits of an Agile Culture
 Many other areas outside of Technology have found success in developing an Agile culture, including Manufacturing, Marketing, Legal, Customer Support, and more recently, Learning Design and Human Resources. The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility. 
 
-The result, or the answer to “What’s in it for me?!(https://hbr.org/2016/05/embracing-agile)” rather - is additional cost-savings and more informed spend; greater visibility with executive leadership; empowered, self-organized teams; work that is broken down into smaller, achievable increments; and shared responsibility between Business and IT.
+The result, or the answer to “[What’s in it for me?!]https://hbr.org/2016/05/embracing-agile” rather - is additional cost-savings and more informed spend; greater visibility with executive leadership; empowered, self-organized teams; work that is broken down into smaller, achievable increments; and shared responsibility between Business and IT.
 
 In GSA IT, we are currently pursuing Agile adoption through the formation of Scrum pilot teams that support the Agile Investment process. “Agile Investment” is a phased approach to piloting potential solution investments that create a stronger partnership between the Business and IT; thereby increasing collaboration, providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
