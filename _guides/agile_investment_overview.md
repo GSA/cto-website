@@ -17,15 +17,15 @@ Why Agile Investment approach?
 * Increased collaboration among IT & Business Owners
 * Provide faster solution delivery & increase transparency
 
+<img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
+  alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
+  class="guide-image guide-image-half">
+
 What is the Agile Investment process?
 
 * All projects derive from approved business concepts
 * All projects engage the right resources for success
 * Not all pilots lead to prototype / scalable solutions
-
-<img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
-  alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
-  class="guide-image guide-image-half">
 
 <img src="{{ site.baseurl }}/img/guides/agile_investment_process_detail.png"
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
