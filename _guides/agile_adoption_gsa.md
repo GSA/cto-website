@@ -13,13 +13,21 @@ Though it arose out of software development practices, Agile is **not** just a s
 
 #### Agile Values
 
-**Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
+<img src="{{ site.baseurl }}/img/guides/Individuals and Interactions.png"
+  alt="Individuals and Interactions"
+  class="guide-image guide-image-half"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 
-**Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
+<img src="{{ site.baseurl }}/img/guides/Working Software.png"
+  alt="Working Software"
+  class="guide-image guide-image-half"> **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
 
-**Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
+<img src="{{ site.baseurl }}/img/guides/Customer Collaboration.png"
+  alt="Customer Collaboration"
+  class="guide-image guide-image-half"> **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
 
-**Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
+<img src="{{ site.baseurl }}/img/guides/Responding to Change.png"
+  alt="Responding to Change"
+  class="guide-image guide-image-half"> **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
 
 #### Agile Principles
 While the [Agile Manifesto](http://agilemanifesto.org/) lists the **Agile Principles** in full, they are best summarized as:
