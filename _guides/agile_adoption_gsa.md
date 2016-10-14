@@ -36,7 +36,12 @@ Though it arose out of software development practices, Agile is **not** just a s
 #### Agile Principles
 While the [Agile Manifesto](http://agilemanifesto.org/) lists the **Agile Principles** in full, they are best summarized as:
 
-*Satisfy the customer*  **|**  *Welcome changing requirements*  **|**  *Deliver working software frequently*  **|**  *Business people and developers must work together daily*  **|**  *Build projects around motivated individuals*  **|**  *Face-to-face conversation*   **|**  *Working software is the primary measure of progress*  **|**  *Promote sustainable development*  **|**  *Continuous attention to technical excellence*  **|**  *Maximize amount of work not done*  **|**  *Self-organizing teams*  **|**  *Reflect...and tune*
+| *Satisfy the customer* | *Working software is the primary measure of progress* |
+| *Welcome changing requirements* | *Promote sustainable development* |
+| *Deliver working software frequently* | *Continuous attention to technical excellence* |
+| *Business people and developers must work together daily* | *Maximize amount of work not done* |
+| *Build projects around motivated individuals* | *Self-organizing teams* |
+| *Face-to-face conversation* | *Reflect...and tune* |
 
 #### Common Agile Terms
 Some common Agile terms include:
