@@ -13,21 +13,25 @@ Though it arose out of software development practices, Agile is **not** just a s
 
 #### Agile Values
 
-<img src="{{ site.baseurl }}/img/guides/Individuals and Interactions.png"
+<img src="{{ site.baseurl }}/img/guides/Individuals_and_Interactions.png"
   alt="Individuals and Interactions"
-  class="guide-image guide-image-half"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
+  style="float: left; width: 60px; margin-right: 10px;"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
+<div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Working Software.png"
+<img src="{{ site.baseurl }}/img/guides/Working_Software.png"
   alt="Working Software"
-  class="guide-image guide-image-half"> **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback. 
+  style="float: left; width: 60px; margin-right: 10px;"> **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback.
+<div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Customer Collaboration.png"
+<img src="{{ site.baseurl }}/img/guides/Customer_Collaboration.png"
   alt="Customer Collaboration"
-  class="guide-image guide-image-half"> **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
+  style="float: left; width: 60px; margin-right: 10px;"> **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
+<div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Responding to Change.png"
+<img src="{{ site.baseurl }}/img/guides/Responding_to_Change.png"
   alt="Responding to Change"
-  class="guide-image guide-image-half"> **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
+  style="float: left; width: 60px; margin-right: 10px;"> **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
+<div style="clear: both;"></div>
 
 #### Agile Principles
 While the [Agile Manifesto](http://agilemanifesto.org/) lists the **Agile Principles** in full, they are best summarized as:
@@ -46,7 +50,7 @@ Some common Agile terms include:
 Additional terms can be found in our **Agile Glossary({{ site.baseurl }}/guides/agile_glossary/)**.
 
 ### Benefits of an Agile Culture
-Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), [Customer Support](http://www.award-entry.nl/2014/cases/klm/happy-to-help/), and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility. 
+Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), [Customer Support](http://www.award-entry.nl/2014/cases/klm/happy-to-help/), and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
 
 The result, or the answer to **“[What’s in it for me?!](https://hbr.org/2016/05/embracing-agile)”** rather - is additional cost-savings and more informed spend; greater visibility with executive leadership; empowered, self-organized teams; work that is broken down into smaller, achievable increments; and shared responsibility between Business and IT.
 
