@@ -12,7 +12,6 @@ Agile is considered an alternative approach to traditional project management or
 Though it arose out of software development practices, Agile is **not** a software-development framework. It is neither methodological nor prescriptive; there is no exact way to become Agile. There are best practices and popular approaches, particularly Scrum. However, Agile is not synonymous with Scrum (or Kanban, TDD, etc.) or even a specific tool (i.e. JIRA, Rally, etc.). The overall goal of Agile is to encourage accountability and ownership across the team and provide transparency and visibility throughout the process.
 
 #### Agile Values
-Agile Values focus on the following:
 
 **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 
@@ -25,27 +24,16 @@ Agile Values focus on the following:
 #### Agile Principles
 While the [Agile Manifesto](http://agilemanifesto.org/) lists the Agile Principles in full, they are best summarized as:
 
-* Satisfy the customer
-* Welcome changing requirements
-* Deliver working software frequently
-* Business people and developers must work together daily
-* Build projects around motivated individuals 
-* Face-to-face conversation 
-* Working software is the primary measure of progress
-* Promote sustainable development
-* Continuous attention to technical excellence
-* Maximize amount of work not done
-* Self-organizing teams
-* Reflect...and tune
+Satisfy the customer  **|**  Welcome changing requirements  **|**  Deliver working software frequently  **|**  Business people and developers must work together daily  **|**  Build projects around motivated individuals  **|**  Face-to-face conversation   **|**  Working software is the primary measure of progress  **|**  Promote sustainable development  **|**  Continuous attention to technical excellence  **|**  Maximize amount of work not done  **|**  Self-organizing teams  **|**  Reflect...and tune
 
 #### Common Agile Terms
 Some common Agile terms include:
 
-* **Iterations** | duration; often used synonymously with Sprint; typically 2 weeks
-* **Epics**	| refers to a group of features; also a term used in the tool JIRA
-* **User Stories** | requirement, or feature; referred to as “Story” in JIRA
-* **Vertical Slicing** | “chunks” of related features
-* **MVP (or MMP)** | Minimum Viable Product (or Minimum Marketable Product)
+* **Iterations** : duration; often used synonymously with Sprint; typically 2 weeks
+* **Epics**	: refers to a group of features; also a term used in the tool JIRA
+* **User Stories** : requirement, or feature; referred to as “Story” in JIRA
+* **Vertical Slicing** : “chunks” of related features
+* **MVP (or MMP)** : Minimum Viable Product (or Minimum Marketable Product)
 
 Additional terms can be found in our Agile Glossary({{ site.baseurl }}/guides/agile_glossary/).
 
