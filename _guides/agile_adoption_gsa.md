@@ -12,6 +12,7 @@ Agile is considered an alternative approach to traditional project management or
 Though it arose out of software development practices, Agile is **not** a software-development framework. It is neither methodological nor prescriptive; there is no exact way to become Agile. There are best practices and popular approaches, particularly Scrum. However, Agile is not synonymous with Scrum (or Kanban, TDD, etc.) or even a specific tool (i.e. JIRA, Rally, etc.). The overall goal of Agile is to encourage accountability and ownership across the team and provide transparency and visibility throughout the process.
 
 #### Agile Values
+Agile Values focus on the following:
 
 **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 
