@@ -7,8 +7,6 @@ audiences:
   - Project Managers
 ---
 
-# How to use this Guide template
-
 This is a template for writing a Guide. To get started:
 
 1. Make a copy of this template file and name it something resembling the
@@ -20,7 +18,7 @@ This is a template for writing a Guide. To get started:
     - category: Choose only one category from the list, deleting the rest
     - audiences: Choose all appropriate audiences, deleting the rest
 
-3. Delete this instructional section and replace it with your actual guide.
+3. Delete this instructional text and replace it with your actual guide.
 
 4. Use Markdown in writing your guide. Here are some resources on learning
    Markdown:
@@ -30,28 +28,24 @@ This is a template for writing a Guide. To get started:
 
 We recommend using the following format for your guide:
 
-# Introduction
+### Introduction
 
-In this section, introduce the guide. Offer a high-level explanation of what it
-is for and how it will benefit the reader.
+In the first section, introduce the guide. Offer a high-level explanation of
+what it is for and how it will benefit the reader.
 
-# This is a first-level heading
+### This is a third-level heading
 
 Break up the major themes of your guide into sections. This makes the guide
 easier to skim.
 
-## This is a second-level heading
-
-You can also break down your content further into second-level sections.
-
-### This is a third-level heading
-
-And third-level sections...
+By the way, don't use a first-level (#) or second-level (##) heading. The
+website automatically creates first-level and second-level headings based on the
+guide title.
 
 #### This is a fourth-level heading
 
-And fourth-level sections...
+You can break down your content into fourth-level sections.
 
-# Another first-level heading
+### Another third-level heading
 
 More guide content here.
