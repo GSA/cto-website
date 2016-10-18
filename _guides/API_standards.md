@@ -18,4 +18,4 @@ In short, we consider the following as good practice:
 7. Consider keys, HTTPs, error handling, etc.  These need to be executed on the GSA side to provide users appropriate access and messaging.
 8. Always use the GSA documentation framework! (currently being developed)  Fork it, change it, make it look good, make it work for consumers.
 
-Good API management starts with the program office that recognizes the need to expose data in an easy to understand way.  APIs create the connection to expose data, transfer to a database, use in a mobile app, use by a new application moving away from legacy, etc.
+Good API management starts with the program office that recognizes the need to expose data in an easy to understand way.  APIs create the connection to expose data, transfer to a database, use in a mobile app, use by a new application moving away from legacy, etc. SAMPLE CHANGE
