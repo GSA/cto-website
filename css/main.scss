@@ -20,10 +20,6 @@ h1, h2, h3, h4, h5 {
   color: $color-primary-darker;
 }
 
-h1 {
-  margin-top: 1em;
-}
-
 body.front {
   h2 {
     margin-top: 0.5em;
@@ -264,6 +260,7 @@ header#front-hero {
 
 .page-content {
   min-height: 30em;
+  margin-top: 1em;
   margin-bottom: 3em;
 }
 
