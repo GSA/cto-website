@@ -7,7 +7,7 @@ $fa-font-path: "../fonts/font-awesome";
 
 $font-family-default: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $nav-breakpoint: 720px; // The point at which the nav bar collapses into a hamburger menu
-$usa-disclaimer-height: 29px; // Height of the "official website " statement
+$usa-banner-height: 29px; // Height of the "official website " statement
 $nav-height-mobile: 60px; // Nav bar height on small devices
 $nav-height: 100px; // Nav bar height on larger devices
 $nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling down
@@ -90,21 +90,9 @@ body.front {
 }
 
 body:not(.front) {
-  padding-top: $nav-height-mobile + $usa-disclaimer-height;
+  padding-top: $nav-height-mobile + $usa-banner-height;
   @media only screen and (min-width: $nav-breakpoint) {
-    padding-top: $nav-height + $usa-disclaimer-height;
-  }
-}
-
-.usa-disclaimer {
-  max-height: 100px;
-  transition: all 0.25s ease;
-  background-color: $color-base;
-  color: $color-gray-lighter;
-  overflow: hidden;
-
-  a, a:visited {
-    color: white;
+    padding-top: $nav-height + $usa-banner-height;
   }
 }
 
@@ -119,13 +107,6 @@ nav.nav-topnav {
 
   @media only screen and (min-width: $nav-breakpoint) {
     &.scrolled {
-      .usa-disclaimer {
-        max-height: 0;
-        > * {
-          display: none;
-        }
-      }
-
       .nav-title {
         a.nav-title-logo img {
           height: 40px;
@@ -147,15 +128,6 @@ nav.nav-topnav {
 
     &.nav-transparent {
       background-color: transparent;
-      margin: 0.5em auto;
-
-      .usa-disclaimer {
-        background: none;
-        color: $color-gray-lighter;
-        a {
-          color: white;
-        }
-      }
     }
   }
 
@@ -256,7 +228,7 @@ header#front-hero {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: ($nav-height-mobile + $usa-disclaimer-height + 20px);
+  padding-top: ($nav-height-mobile + $usa-banner-height + 20px);
   padding-bottom: 20px;
   @media only screen and (min-width: $nav-breakpoint) {
     min-height: 600px;
@@ -389,9 +361,9 @@ a[id]:not([href]) {
   display: block;
   position: relative;
   visibility: hidden;
-  top: -($nav-height-mobile + $usa-disclaimer-height);
+  top: -($nav-height-mobile + $usa-banner-height);
   @media only screen and (min-width: $nav-breakpoint) {
-    top: -($nav-height-collapsed + $usa-disclaimer-height);
+    top: -($nav-height-collapsed + $usa-banner-height);
   }
 }
 
