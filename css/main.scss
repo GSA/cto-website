@@ -101,6 +101,12 @@ nav.nav-topnav {
   right: 0;
   z-index: 1;
 
+  &.scrolled {
+    .usa-banner {
+      display: none;
+    }
+  }
+
   @media only screen and (min-width: $nav-breakpoint) {
     &.scrolled {
       .nav-title {
