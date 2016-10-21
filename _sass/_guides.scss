@@ -1,0 +1,21 @@
+/* Guides section styles */
+
+.guide-content h2 {
+  margin-top: 0;
+}
+
+.guide-category {
+  margin-top: 0;
+  color: $color-gray;
+  font-size: 1.2em;
+}
+
+.guide-image {
+  display: block;
+  height: auto;
+  margin: auto;
+
+  &.guide-image-half {
+    width: 50%;
+  }
+}

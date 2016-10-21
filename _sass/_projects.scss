@@ -1,0 +1,47 @@
+/* Projects section styles */
+
+.projects {
+  h2 {
+    margin: 0.3em 0;
+
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .project {
+    margin-bottom: 3em;
+    padding-bottom: 3em;
+    border-bottom: 1px solid #ddd;
+    @media only screen and (min-width: $nav-breakpoint) {
+      border: none;
+    }
+  }
+
+  .project-picture img {
+    border: 1px solid #ddd;
+    width: 100%;
+    object-fit: cover;
+    @media only screen and (min-width: $nav-breakpoint) {
+      height: 160px;
+    }
+  }
+
+  .project-picture-none {
+    display: none;
+    @media only screen and (min-width: $nav-breakpoint) {
+      display: block;
+    }
+  }
+
+  .project-data {
+    margin-top: 1em;
+  }
+
+  .project-data-element {
+    margin-top: 0.5em;
+  }
+}

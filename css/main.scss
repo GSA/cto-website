@@ -12,6 +12,11 @@ $nav-height-mobile: 60px; // Nav bar height on small devices
 $nav-height: 100px; // Nav bar height on larger devices
 $nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling down
 
+@import "guides";
+@import "navigation";
+@import "projects";
+@import "team";
+
 body {
   color: $color-gray-warm-dark;
 }
@@ -65,161 +70,10 @@ body.front {
   .icon-users-come-first        { background-color: $color-cool-blue; }
 }
 
-.guide-content h2 {
-  margin-top: 0;
-}
-
-.guide-category {
-  margin-top: 0;
-  color: $color-gray;
-  font-size: 1.2em;
-}
-
-.guide-image {
-  display: block;
-  height: auto;
-  margin: auto;
-
-  &.guide-image-half {
-    width: 50%;
-  }
-}
-
 body:not(.front) {
   padding-top: $nav-height-mobile + $usa-banner-height;
   @media only screen and (min-width: $nav-breakpoint) {
     padding-top: $nav-height + $usa-banner-height;
-  }
-}
-
-nav.nav-topnav {
-  transition: all 0.25s ease;
-  background-color: rgba(0, 0, 0, 0.9);
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1;
-
-  &.scrolled {
-    .usa-banner {
-      display: none;
-    }
-  }
-
-  @media only screen and (min-width: $nav-breakpoint) {
-    &.scrolled {
-      .nav-title {
-        a.nav-title-logo img {
-          height: 40px;
-          width: 40px;
-        }
-
-        a.nav-title-text {
-          padding: 10px 0 0 0;
-          font-size: 30px;
-        }
-      }
-
-      ul.nav-list {
-        li a {
-          margin: 0;
-        }
-      }
-    }
-
-    &.nav-transparent {
-      background-color: transparent;
-    }
-  }
-
-  a, a:hover {
-    text-decoration: none;
-  }
-
-  .nav-title {
-    float: left;
-    @media only screen and (min-width: $nav-breakpoint) {
-      display: inline-block;
-      margin: 0 3rem;
-    }
-
-    a.nav-title-logo img {
-      transition: all 0.25s ease;
-      float: left;
-      margin: 10px;
-      width: 40px;
-      height: 40px;
-      @media only screen and (min-width: $nav-breakpoint) {
-        margin-left: 0;
-        width: 80px;
-        height: 80px;
-      }
-    }
-
-    a.nav-title-text {
-      transition: all 0.25s ease;
-      display: inline-block;
-      padding: 24px 0 0 0;
-      font-size: 20px;
-      font-weight: lighter;
-      color: white;
-      @media only screen and (min-width: $nav-breakpoint) {
-        padding: 38px 0 0 0;
-        font-size: 40px;
-      }
-    }
-  }
-
-  .nav-toggle {
-    float: right;
-    @media only screen and (min-width: $nav-breakpoint) {
-      display: none;
-    }
-
-    a {
-      line-height: $nav-height-mobile;
-      display: block;
-      padding: 0 1em;
-      color: white;
-    }
-  }
-
-  ul.nav-list {
-    display: none;
-    width: 100%;
-    @media only screen and (min-width: $nav-breakpoint) {
-      display: block;
-      width: auto;
-      float: right;
-    }
-
-    &.nav-revealed {
-      display: inline-block;
-    }
-
-    li {
-      display: block;
-      @media only screen and (min-width: $nav-breakpoint) {
-        display: inline-block;
-      }
-    }
-
-    li a {
-      transition: all 0.25s ease;
-      line-height: $nav-height-mobile;
-      display: block;
-      padding: 0 1em;
-      font-weight: lighter;
-      color: white;
-      border-top: 1px dotted #333;
-      @media only screen and (min-width: $nav-breakpoint) {
-        margin: 38px 0 0 0;
-        font-size: 20px;
-        text-transform: uppercase;
-        border: none;
-      }
-    }
   }
 }
 
@@ -268,95 +122,6 @@ header#front-hero {
   min-height: 30em;
   margin-top: 1em;
   margin-bottom: 3em;
-}
-
-.team {
-  text-align: center;
-
-  .member {
-    margin-bottom: 2em;
-  }
-
-  img {
-    border-radius: 50%;
-    height: 50%;
-    width: 50%;
-    @media only screen and (min-width: $nav-breakpoint) {
-      height: 120px;
-      width: 120px;
-    }
-  }
-
-  .member-role, .member-group {
-    color: $color-gray;
-    font-size: small;
-  }
-}
-
-.team-member {
-  margin-top: 1em;
-  h1 {
-    margin-top: 0;
-  }
-
-  .member-role, .member-group {
-    color: $color-gray;
-    font-size: 1.2em;
-  }
-
-  img {
-    border-radius: 50%;
-    width: 100%;
-    height: auto;
-    max-width: 200px;
-    max-height: 200px;
-  }
-}
-
-.projects {
-  h2 {
-    margin: 0.3em 0;
-
-    a {
-      text-decoration: none;
-      &:hover {
-        text-decoration: underline;
-      }
-    }
-  }
-
-  .project {
-    margin-bottom: 3em;
-    padding-bottom: 3em;
-    border-bottom: 1px solid #ddd;
-    @media only screen and (min-width: $nav-breakpoint) {
-      border: none;
-    }
-  }
-
-  .project-picture img {
-    border: 1px solid #ddd;
-    width: 100%;
-    object-fit: cover;
-    @media only screen and (min-width: $nav-breakpoint) {
-      height: 160px;
-    }
-  }
-
-  .project-picture-none {
-    display: none;
-    @media only screen and (min-width: $nav-breakpoint) {
-      display: block;
-    }
-  }
-
-  .project-data {
-    margin-top: 1em;
-  }
-
-  .project-data-element {
-    margin-top: 0.5em;
-  }
 }
 
 // Compensate for fixed nav when jumping to anchors on a page.
