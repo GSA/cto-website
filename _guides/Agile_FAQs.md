@@ -28,10 +28,6 @@ audiences:
           </div>
         </li>
         <li>
- <div class="usa-grid">
-  <div class="usa-width-one-whole">
-    <div class="usa-accordion">
-      <ul class="usa-unstyled-list">
         <li>
  <button class="usa-button-unstyled" aria-controls="question-2">
           What is the Agile Manifesto?
