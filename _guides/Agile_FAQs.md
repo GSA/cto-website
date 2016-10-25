@@ -48,8 +48,7 @@ audiences:
     <hr>
   </div>
 </div>
-   </li>
-     <li>
+   <li>
           <button class="usa-button-unstyled" aria-controls="question-2">
            What are the Principles of Agile?
           </button>
