@@ -134,10 +134,10 @@ audiences:
 <p><u> Challenges </u></p> 
 <p> - Months before customers are interacting with what was developed </p>
 <p> - No time to change course along the way.  By the time people provide feedback, it is too late.</p>
-
-<img src="{{ site.baseurl }}/img/guides/EK_Waterfall_Gnatt.png"
+<img src="{{ site.baseurl }}/img/guides/EK_Waterfall.png"
   alt="'Waterfall' Project Management"
   class="guide-image"> 
+
 <p> <b> “Agile” Project Management </b> </p>
 <p> An agile approach enables rapid incrementally shippable deliverables and collaborative decision-making between the parties. In software, Agile is a method of software development that is based on <b> iterative and incremental delivery </b> approach that anticipates the need for flexibility into the delivery of the finished product.</p>
 
