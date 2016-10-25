@@ -70,10 +70,14 @@ audiences:
             <p> 11. The best architectures, requirements, and designs emerge from self-organizing teams.</p>
             <p> 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p>
             <p>More information and associated documents can be found in our <a href="#">Guides</a>.</p>
-          </div>
+       </div>
         </li>
-        <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<button class="usa-button-unstyled" aria-controls="question-2">
             What are the most common Agile methodologies?
           </button>
           <div id="question-2" class="usa-accordion-content">
@@ -137,5 +141,10 @@ audiences:
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
   class="guide-image">
-           </div>
+          </div>
         </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
