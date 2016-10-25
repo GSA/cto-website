@@ -118,19 +118,16 @@ audiences:
     <hr>
   </div>
 </div>
-        
- 
-    
-              
-           
-          </div>
-        </li>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
         <li>
-    <button class="usa-button-unstyled" aria-controls="question-2">
-         What is the difference between Agile and Traditional Project Management?
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           What is the difference between Agile and Traditional Project Management?
           </button>
-          <div id="question-2" class="usa-accordion-content">
-          <p> <b> Traditional “Waterfall” Project Management </b> </p>
+        <div id="question-2" class="usa-accordion-content">        
+ <p> <b> Traditional “Waterfall” Project Management </b> </p>
          <p> - Requirements and design decisions are made up front </p>
          <p> - Months of planning before development begins </p>
          <p> - The customer sees the product for the first time when the final product is done/delivered </p>
@@ -152,8 +149,11 @@ audiences:
 
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
-  class="guide-image">  
-          </div>
+  class="guide-image">
+         </div>
         </li>
       </ul>
     </div>
+    <hr>
+  </div>
+</div>
