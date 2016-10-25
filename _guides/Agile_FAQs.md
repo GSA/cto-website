@@ -61,9 +61,19 @@ Success in Agile is based on an attitude of “servant leadership” and focuses
             What are the Principles of Agile?
           </button>
           <div id="question-1" class="usa-accordion-content">
-            <p>1) 
-            2) </p>
-            <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
+            <p> 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p>
+            <p> 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</p>
+            <p> 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p>
+            <p> 4. Business people and developers must work together daily throughout the project.</p>
+            <p> 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</p>
+            <p> 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</p>
+            <p> 7. Working software is the primary measure of progress. </p>
+            <p> 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</p>
+            <p> 9. Continuous attention to technical excellence and good design enhances agility.</p>
+            <p> 10. Simplicity — the art of maximizing the amount of work not done — is essential.</p>
+            <p> 11. The best architectures, requirements, and designs emerge from self-organizing teams.</p>
+            <p> 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p>
+            <p>More information and associated documents can be found in our <a href="#">Guides</a>.</p>
           </div>
         </li>
         <li>
@@ -71,9 +81,27 @@ Success in Agile is based on an attitude of “servant leadership” and focuses
             What are the most common Agile methodologies?
           </button>
           <div id="question-2" class="usa-accordion-content">
-            <p>Scrum
-            Kanban
-            XP</p>
+            <p><b> Scrum </b></p>
+            <p> A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software.</p>
+<p>The framework is comprised of three roles:</p> 
+<p>*Product Owner,</p> 
+<p>*ScrumMaster, </p>
+<p>*(Scrum) Team</p>
+<p>Four Ceremonies:</p> 
+<p>*Daily Standup Meeting,</p> 
+<p> Sprint Planning Meeting,</p> 
+<p> Sprint Review,</p>
+<p> Retrospective</p>
+<p> Three artifacts: </p>
+<p> Burndown charts,</p> 
+<p> Product backlog,</p> 
+<p> Sprint backlog</p>
+<p> Scrum should not be used interchangeably with the term Agile. Agile is not a framework, but a broader set of values and practices, while Scrum is a specific framework that fits comfortably under the Agile umbrella. </p>
+            <p><b> Kanban </b></p>
+            
+        
+           <p><b> XP</b></p>
+           
             <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
           </div>
         </li>
