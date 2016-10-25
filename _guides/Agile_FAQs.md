@@ -77,10 +77,12 @@ audiences:
     <hr>
   </div>
 </div>
-<button class="usa-button-unstyled" aria-controls="question-2">
+ 
+   <button class="usa-button-unstyled" aria-controls="question-2">
             What are the most common Agile methodologies?
           </button>
           <div id="question-2" class="usa-accordion-content">
+          
             <p><b> Scrum </b></p>
             <p> A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software.</p>
             <p> <u> The framework is comprised of three roles: </u> </p> 
@@ -109,7 +111,9 @@ audiences:
             <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
           </div>
         </li>
-  <div class="usa-grid">
+      </ul>
+    </div>
+    <div class="usa-grid">
   <div class="usa-width-one-whole">
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
@@ -141,6 +145,7 @@ audiences:
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
   class="guide-image">
+  
           </div>
         </li>
       </ul>
