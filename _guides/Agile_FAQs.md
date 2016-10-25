@@ -77,16 +77,16 @@ audiences:
     <hr>
   </div>
 </div>
-        
-        
-        
-        
- 
-    <button class="usa-button-unstyled" aria-controls="question-2">
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
           What are the most common Agile methodologies?
           </button>
-          <div id="question-2" class="usa-accordion-content">    
-            <p><b> Scrum </b></p>
+        <div id="question-2" class="usa-accordion-content">
+         <p><b> Scrum </b></p>
             <p> A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software.</p>
             <p> <u> The framework is comprised of three roles: </u> </p> 
 <p>Product Owner </p> 
@@ -109,9 +109,20 @@ audiences:
 <p> A principle difference between Kanban and Scrum is that Scrum limits work in process through timeboxing (i.e. the sprint) and Kanban limits work in process by limiting how much work may occur at one time (e.g. N tasks or N stories).</p>
       
            <p><b> Extreme Programming (XP)</b></p>
-<p> A software development methodology adhering to a very iterative and incremental approach, Extreme Programming is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles (timeboxing), which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. XP consists of a number of integrated practices for developers and management – the original twelve practices of XP include Small Releases, On-site Customer, Sustainable Pace, Simple Design, Continuous Integration, Unit Testing, Coding Conventions, Refactoring Mercilessly, Test-Driven Development, System Metaphor, Collective Code Ownership, and Pair Programming. Most successful Agile practitioners adopt some subset of XP practices, often in conjunction with Scrum.
-
-            <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
+<p> A software development methodology adhering to a very iterative and incremental approach, Extreme Programming is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles (timeboxing), which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. XP consists of a number of integrated practices for developers and management – the original twelve practices of XP include Small Releases, On-site Customer, Sustainable Pace, Simple Design, Continuous Integration, Unit Testing, Coding Conventions, Refactoring Mercilessly, Test-Driven Development, System Metaphor, Collective Code Ownership, and Pair Programming. Most successful Agile practitioners adopt some subset of XP practices, often in conjunction with Scrum.</p>
+            <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>        
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+        
+ 
+    
+              
+           
           </div>
         </li>
         <li>
