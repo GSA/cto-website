@@ -8,10 +8,6 @@ audiences:
 ---
 
 <div class="usa-grid">
-  <h1>Agile FAQs</h1>
-</div>
-
-<div class="usa-grid">
   <div class="usa-width-one-whole">
     <h6>I want to know the following:</h6>
     <div class="usa-accordion">
