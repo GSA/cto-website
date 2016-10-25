@@ -48,10 +48,10 @@ audiences:
     <hr>
   </div>
 </div>
-
-   <li>
-        <button class="usa-button-unstyled" aria-controls="question-2">
-            What are the Principles of Agile?
+   </li>
+     <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           What are the Principles of Agile?
           </button>
           <div id="question-2" class="usa-accordion-content">
             <p> 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p>
