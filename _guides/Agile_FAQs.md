@@ -27,28 +27,31 @@ audiences:
             <p>More information and associated documents can be found in our <a href="#"> Agile guides</a>.</p>
           </div>
         </li>
-       <div class="usa-grid">
+
+<div class="usa-grid">
   <div class="usa-width-one-whole">
-        <div class="usa-accordion">
+       <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
           <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-2">
-            What does be open mean?
+             What is the Agile Manifesto?
           </button>
           <div id="question-2" class="usa-accordion-content">
-            <p>GSA is dedicated to open first policies involving data, APIs, and source code.  This in compliance with OMB policies and also good modern technology and business practices.  This approach facilitates a move to digital applications and infrastructure and provides opportunities for external agency and public involvement.  One good example with public engagement is with GSA Hackathons where individuals compete for cash prizes while creating MVPs with open data.</p>
-            <p>More information and associated documents can be found in our Open Data, API, and Open Source <a href="#">guides</a>.</p>
+            <p>The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . The participants found consensus around four main values [below] that makeup the Agile manifesto.</p> 
+<p><b>Individuals and interactions</b> over <b>processes and tools</b>. Agile is more about transparent interactions than technology.</p>
+
+<p><b>Working software</b> over <b>comprehensive documentation</b>. Create something usable quickly to enable faster customer feedback.</p> 
+
+<p><b>Customer collaboration</b> over <b>contract negotiation</b>. Ensure customer buy-in between Business and IT, with marketable visibility.</p>
+
+<p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
+            <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
           </div>
         </li>
-      </ul>
-    </div>
-    <hr>
-  </div>
-</div>
-
-
-
-
+        
+        
+        
+        
         
         
         
