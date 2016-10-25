@@ -41,22 +41,17 @@ audiences:
 
 <p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
             <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
-          </div>
+        </div>
         </li>
-      </ul>
-    </div>
-    <hr>
-  </div>
-</div>
-<div class="usa-grid">
+  <div class="usa-grid">
   <div class="usa-width-one-whole">
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+    <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
             What are the Principles of Agile?
           </button>
-          <div id="question-1" class="usa-accordion-content">
+          <div id="question-3" class="usa-accordion-content">
             <p> 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p>
             <p> 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</p>
             <p> 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p>
