@@ -33,10 +33,10 @@ audiences:
        <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
              What is the Agile Manifesto?
           </button>
-          <div id="question-2" class="usa-accordion-content">
+          <div id="question-1" class="usa-accordion-content">
             <p>The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . The participants found consensus around four main values [below] that makeup the Agile manifesto.</p> 
 <p><b>Individuals and interactions</b> over <b>processes and tools</b>. Agile is more about transparent interactions than technology.</p>
 
