@@ -107,3 +107,8 @@ audiences:
     <hr>
   </div>
 </div>
+
+
+<img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
+  alt="'Agile' Project Management"
+  class="guide-image guide-image-half">
