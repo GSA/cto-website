@@ -144,6 +144,11 @@ audiences:
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
   class="guide-image">
+  
+  <p> The noteworthy differences for Agile development is the common delivery cycle and milestones in delivery cycle that include: </p> 
+<p> - Time boxed and iterative/incremental product development/delivery </p>
+<p> - Intermediate milestones: deliver a deployable system with useful features,  it may have insufficient functionality </p> 
+<p> - Definition of Done/Releasability: each iteration/sprint delivery is done, programmed, tested, and so on, and is in theory releasable. </p>
          </div>
         </li>
       </ul>
