@@ -28,8 +28,7 @@ audiences:
           </div>
         </li>
         <li>
-        <li>
- <button class="usa-button-unstyled" aria-controls="question-2">
+    <button class="usa-button-unstyled" aria-controls="question-2">
           What is the Agile Manifesto?
           </button>
           <div id="question-2" class="usa-accordion-content">
@@ -38,7 +37,7 @@ audiences:
 
 <p><b>Working software</b> over <b>comprehensive documentation</b>. Create something usable quickly to enable faster customer feedback.</p> 
 
-<p><b>Customer collaboration</b> over <b>contract negotiation</b>. Ensure customer buy-in between Business & IT, with marketable visibility.</p>
+<p><b>Customer collaboration</b> over <b>contract negotiation</b>. Ensure customer buy-in between Business and IT, with marketable visibility.</p>
 
 <p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
             <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
