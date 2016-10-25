@@ -27,6 +27,32 @@ audiences:
             <p>More information and associated documents can be found in our <a href="#"> Agile guides</a>.</p>
           </div>
         </li>
+       <div class="usa-grid">
+  <div class="usa-width-one-whole">
+        <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-2">
+            What does be open mean?
+          </button>
+          <div id="question-2" class="usa-accordion-content">
+            <p>GSA is dedicated to open first policies involving data, APIs, and source code.  This in compliance with OMB policies and also good modern technology and business practices.  This approach facilitates a move to digital applications and infrastructure and provides opportunities for external agency and public involvement.  One good example with public engagement is with GSA Hackathons where individuals compete for cash prizes while creating MVPs with open data.</p>
+            <p>More information and associated documents can be found in our Open Data, API, and Open Source <a href="#">guides</a>.</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+
+
+
+
+        
+        
+        
+        
         <li>
     <button class="usa-button-unstyled" aria-controls="question-2">
           What is the Agile Manifesto?
