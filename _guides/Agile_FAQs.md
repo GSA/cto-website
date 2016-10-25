@@ -111,4 +111,4 @@ audiences:
 
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
-  class="guide-image guide-image-half">
+  class="guide-image">
