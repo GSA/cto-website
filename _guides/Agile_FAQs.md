@@ -95,10 +95,13 @@ audiences:
 
 <p> Scrum should not be used interchangeably with the term Agile. Agile is not a framework, but a broader set of values and practices, while Scrum is a specific framework that fits comfortably under the Agile umbrella. </p>
             <p><b> Kanban </b></p>
-            
-        
-           <p><b> XP</b></p>
-           
+<p> Kanban is a tool derived from Lean manufacturing and is associated with the branch of agile practices loosely referred to as Lean software development. Like a task board, Kanban board visually represents the state of work in process. Unlike a task board, the Kanban constrains how much work in process is permitted to occur at the same time with the purpose to reduce bottlenecks and increase throughput by optimizing that segment of the value stream that is the subject of the Kanban. </p>
+
+<p> A principle difference between Kanban and Scrum is that Scrum limits work in process through timeboxing (i.e. the sprint) and Kanban limits work in process by limiting how much work may occur at one time (e.g. N tasks or N stories).</p>
+      
+           <p><b> Extreme Programming (XP)</b></p>
+<p> A software development methodology adhering to a very iterative and incremental approach, Extreme Programming is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles (timeboxing), which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. XP consists of a number of integrated practices for developers and management – the original twelve practices of XP include Small Releases, On-site Customer, Sustainable Pace, Simple Design, Continuous Integration, Unit Testing, Coding Conventions, Refactoring Mercilessly, Test-Driven Development, System Metaphor, Collective Code Ownership, and Pair Programming. Most successful Agile practitioners adopt some subset of XP practices, often in conjunction with Scrum.
+
             <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
           </div>
         </li>
@@ -107,8 +110,42 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+            What is the difference between Agile and Traditional Project Management?
+          </button>
+          <div id="question-1" class="usa-accordion-content">
+          <p> <b> Traditional “Waterfall” Project Management </b> </p>
+         <p> - Requirements and design decisions are made up front </p>
+         <p> - Months of planning before development begins </p>
+         <p> - The customer sees the product for the first time when the final product is done/delivered </p>
 
+<img src="{{ site.baseurl }}/img/guides/EK_Waterfall.png"
+  alt="'Waterfall' Project Management"
+  class="guide-image">
+
+<p><u> Challenges </u></p> 
+<p> - Months before your customers are interacting with what was developed </p>
+<p> - No time to change course along the way.  By the time people provide feedback, it is too late.</p>
+
+<img src="{{ site.baseurl }}/img/guides/EK_Waterfall_Gnatt.png"
+  alt="'Waterfall' Project Management"
+  class="guide-image">
+  
+<p> <b> “Agile” Project Management </b> </p>
+<p> An agile approach enables rapid incrementally shippable deliverables and collaborative decision-making between the parties. In software, Agile is a method of software development that is based on <b> iterative and incremental delivery </b> approach that anticipates the need for flexibility into the delivery of the finished product.</p>
 
 <img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
   class="guide-image">
+           </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
