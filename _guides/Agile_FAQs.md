@@ -105,12 +105,7 @@ audiences:
             <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>
           </div>
         </li>
-      </ul>
-    </div>
-    <hr>
-  </div>
-</div>
-<div class="usa-grid">
+  <div class="usa-grid">
   <div class="usa-width-one-whole">
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
@@ -144,8 +139,3 @@ audiences:
   class="guide-image">
            </div>
         </li>
-      </ul>
-    </div>
-    <hr>
-  </div>
-</div>
