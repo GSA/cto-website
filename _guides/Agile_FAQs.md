@@ -131,11 +131,6 @@ audiences:
          <p> - Requirements and design decisions are made up front </p>
          <p> - Months of planning before development begins </p>
          <p> - The customer sees the product for the first time when the final product is done/delivered </p>
-
-<img src="{{ site.baseurl }}/img/guides/EK_Waterfall.png"
-  alt="'Waterfall' Project Management"
-  class="guide-image">
-
 <p><u> Challenges </u></p> 
 <p> - Months before customers are interacting with what was developed </p>
 <p> - No time to change course along the way.  By the time people provide feedback, it is too late.</p>
