@@ -17,16 +17,21 @@ audiences:
             What is Agile?
           </button>
           <div id="question-1" class="usa-accordion-content">
-            <p>Agile is considered an alternative approach to traditional project management or product development. It is a value-based, iterative approach under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. Agile advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change. 
+            <p>Agile is considered an alternative approach to traditional project management or product development. It is a value-based, iterative approach under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. Agile advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change. </p> 
 
-Although it rose out of software development practices, Agile is not a software-development framework. It is neither methodological nor prescriptive; there is no exact way to become Agile. Also, Agile is not synonymous with Scrum (or Kanban, TDD, etc.) or a specific tool (i.e. JIRA, Rally, etc.).
+<p> Although it rose out of software development practices, Agile is not a software-development framework. It is neither methodological nor prescriptive; there is no exact way to become Agile. Also, Agile is not synonymous with Scrum (or Kanban, TDD, etc.) or a specific tool (i.e. JIRA, Rally, etc.).</p>
 
-The term agile was first coined for this in 2001, in the Manifesto for Agile Software Development (Agile Manifesto) and although originally written as Agile (with a capital A) this is progressively becoming deprecated. 
+<p>The term agile was first coined for this in 2001, in the Manifesto for Agile Software Development (Agile Manifesto) and although originally written as Agile (with a capital A) this is progressively becoming deprecated.</p>
 
-Success in Agile is based on an attitude of “servant leadership” and focuses on the team, not just developers. Agile encourages and does not lack in accountability or ownership. As a solution for complex problems, teams must “be” Agile, not just “do” Agile.</p>
+<p> Success in Agile is based on an attitude of “servant leadership” and focuses on the team, not just developers. Agile encourages and does not lack in accountability or ownership. As a solution for complex problems, teams must “be” Agile, not just “do” Agile.</p>
             <p>More information and associated documents can be found in our <a href="#"> Agile guides</a>.</p>
           </div>
         </li>
+        <li>
+ <div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
         <li>
  <button class="usa-button-unstyled" aria-controls="question-2">
           What is the Agile Manifesto?
