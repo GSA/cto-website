@@ -80,18 +80,19 @@ Success in Agile is based on an attitude of “servant leadership” and focuses
             <p><b> Scrum </b></p>
             <p> A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software.</p>
             <p> <u> The framework is comprised of three roles: </u> </p> 
-<p>Product Owner,</p> 
-<p>ScrumMaster, </p>
+<p>Product Owner </p> 
+<p>ScrumMaster </p>
 <p>(Scrum) Team</p>
 <p><u>Four Ceremonies:</u></p> 
-<p>Daily Standup Meeting,</p> 
-<p> Sprint Planning Meeting,</p> 
-<p> Sprint Review,</p>
+<p>Daily Standup Meeting </p> 
+<p> Sprint Planning Meeting </p> 
+<p> Sprint Review </p>
 <p> Retrospective</p>
 <p><u>Three artifacts: </u> </p>
-<p> Burndown charts,</p> 
-<p> Product backlog,</p> 
-<p> Sprint backlog</p>
+<p> Burndown charts </p> 
+<p> Product backlog </p> 
+<p> Sprint backlog </p>
+
 <p> Scrum should not be used interchangeably with the term Agile. Agile is not a framework, but a broader set of values and practices, while Scrum is a specific framework that fits comfortably under the Agile umbrella. </p>
             <p><b> Kanban </b></p>
             
