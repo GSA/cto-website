@@ -25,43 +25,14 @@ audiences:
 
 <p> Success in Agile is based on an attitude of “servant leadership” and focuses on the team, not just developers. Agile encourages and does not lack in accountability or ownership. As a solution for complex problems, teams must “be” Agile, not just “do” Agile.</p>
             <p>More information and associated documents can be found in our <a href="#"> Agile guides</a>.</p>
-          </div>
+        </div>
         </li>
-
-<div class="usa-grid">
-  <div class="usa-width-one-whole">
-       <div class="usa-accordion">
-      <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
-             What is the Agile Manifesto?
-          </button>
-          <div id="question-1" class="usa-accordion-content">
-            <p>The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . The participants found consensus around four main values [below] that makeup the Agile manifesto.</p> 
-<p><b>Individuals and interactions</b> over <b>processes and tools</b>. Agile is more about transparent interactions than technology.</p>
-
-<p><b>Working software</b> over <b>comprehensive documentation</b>. Create something usable quickly to enable faster customer feedback.</p> 
-
-<p><b>Customer collaboration</b> over <b>contract negotiation</b>. Ensure customer buy-in between Business and IT, with marketable visibility.</p>
-
-<p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
-            <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
-          </div>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-        <li>
-    <button class="usa-button-unstyled" aria-controls="question-2">
-          What is the Agile Manifesto?
+          <button class="usa-button-unstyled" aria-controls="question-2">
+            What is the Agile Manifesto?
           </button>
           <div id="question-2" class="usa-accordion-content">
-            <p>The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . The participants found consensus around four main values [below] that makeup the Agile manifesto.</p> 
+            <p> The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . The participants found consensus around four main values [below] that makeup the Agile manifesto.</p> 
 <p><b>Individuals and interactions</b> over <b>processes and tools</b>. Agile is more about transparent interactions than technology.</p>
 
 <p><b>Working software</b> over <b>comprehensive documentation</b>. Create something usable quickly to enable faster customer feedback.</p> 
@@ -70,13 +41,19 @@ audiences:
 
 <p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
             <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
-       </div>
+          </div>
         </li>
-        <li>
-    <button class="usa-button-unstyled" aria-controls="question-2">
-             What are the Principles of Agile?
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+
+   <li>
+        <button class="usa-button-unstyled" aria-controls="question-2">
+            What are the Principles of Agile?
           </button>
-          <div id="question-3" class="usa-accordion-content">
+          <div id="question-2" class="usa-accordion-content">
             <p> 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p>
             <p> 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</p>
             <p> 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p>
@@ -90,9 +67,18 @@ audiences:
             <p> 11. The best architectures, requirements, and designs emerge from self-organizing teams.</p>
             <p> 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p>
             <p>More information and associated documents can be found in our <a href="#">Guides</a>.</p>
-        </div>
+          </div>
         </li>
-        <li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+        
+        
+        
+        
+ 
     <button class="usa-button-unstyled" aria-controls="question-2">
           What are the most common Agile methodologies?
           </button>
