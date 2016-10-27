@@ -1,0 +1,17 @@
+{
+  "name": "cto-website",
+  "description": "Website for the GSA Office of the Chief Technology Officer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSA/cto-website.git"
+  },
+  "author": "GSA",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/GSA/cto-website/issues"
+  },
+  "homepage": "https://github.com/GSA/cto-website#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  }
+}
