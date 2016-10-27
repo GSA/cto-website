@@ -64,10 +64,10 @@ command_group :dev, 'Development commands'
 #  exec_cmd "rake test #{args_to_string args}"
 #end
 
-#def_command :lint, 'Run style-checking tools' do |files|
+def_command :lint, 'Run style-checking tools' do |files|
 #  lint_ruby files  # uses rubocop
-#  lint_javascript Dir.pwd, files  # uses node_modules/eslint
-#end
+  lint_javascript Dir.pwd, files  # uses node_modules/eslint
+end
 
 def_command :serve, 'Run the site locally on Jekyll' do
   begin
