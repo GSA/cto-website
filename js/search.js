@@ -17,12 +17,18 @@
             var pagesData = JSON.parse(xhr.responseText);
             search(pagesData.entries, searchTerm);
           } else {
-            console.error(xhr.statusText);
+            var $results = document.getElementById("search-results");
+            var output = '<p>There was an error while searching. Please try again.</p>';
+            output += '<p>' + xhr.statusText + '</p>';
+            $results.innerHTML = output;
           }
         }
       };
       xhr.onerror = function () {
-        console.error(xhr.statusText);
+        var $results = document.getElementById("search-results");
+        var output = '<p>There was an error while searching. Please try again.</p>';
+        output += '<p>' + xhr.statusText + '</p>';
+        $results.innerHTML = output;
       };
       xhr.send(null);
     }
