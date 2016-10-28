@@ -1,3 +1,5 @@
+/* global lunr */
+
 (function(baseurl) {
   if (baseurl === undefined) {
     baseurl = "";
@@ -46,7 +48,7 @@
 
   function getSearchQuery() {
     var rawParams = window.location.search.replace(/^\?/, "");
-    params = rawParams.split("&");
+    var params = rawParams.split("&");
     for (var index in params) {
       var keyValuePair = params[index].split("=");
       var key = keyValuePair[0];
