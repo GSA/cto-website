@@ -9,7 +9,7 @@
       var url = baseurl + "/api/v1/pages.json";
       var xhr = new XMLHttpRequest();
       xhr.open("GET", url, true);
-      xhr.onload = function (e) {
+      xhr.onload = function () {
         if (xhr.readyState === 4) {
           if (xhr.status === 200) {
             var pagesData = JSON.parse(xhr.responseText);
@@ -19,7 +19,7 @@
           }
         }
       };
-      xhr.onerror = function (e) {
+      xhr.onerror = function () {
         console.error(xhr.statusText);
       };
       xhr.send(null);
