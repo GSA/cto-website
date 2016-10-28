@@ -1,5 +1,5 @@
 ---
-title: Doing agile well
+title: Embracing Agile
 category: Agile
 audiences:
   - Project Managers
