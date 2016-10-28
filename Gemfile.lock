@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.4.0)
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
@@ -8,7 +9,8 @@ GEM
       bundler (~> 1.10)
       safe_yaml (~> 1.0)
     htmlentities (4.3.4)
-    jekyll (3.2.1)
+    jekyll (3.3.0)
+      addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -33,7 +35,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    rb-fsevent (0.9.7)
+    rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
