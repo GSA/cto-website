@@ -177,7 +177,7 @@ audiences:
   alt="How often Agile project management is used"
   class="guide-image">
   
-  <p>The top three industries adopting agile are Software Development, Financial and Professional Services. (Source: State of Agile Report 2015). Agile approaches are also being used for teams outside of IT such as marketing and Human Resources </p> 
+  <p> Agile approaches are also being used for teams outside of IT such as Marketing and Human Resources. The top three industries adopting Agile are Software Development, Financial and Professional Services (Source: State of Agile Report 2015). </p> 
   
   <img src="{{ site.baseurl }}/img/guides/Agile_Industries.PNG"
   alt="Agile Industries"
