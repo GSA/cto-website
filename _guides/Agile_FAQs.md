@@ -156,3 +156,42 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           Who is practicing Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">        
+ <p> According to the [State of Agile Report: Agile Trends - 2015 Agile Survey](https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf), agile software development has grown increasingly popular over the last decade. The number of large enterprises that are embracing agile continues to increase each year.</p>
+ <p> <b> Agile Demographics </b> </p>       
+<img src="{{ site.baseurl }}/img/guides/AgileOrgs_Location.PNG"
+  alt="Agile Organizations Locations"
+  class="guide-image"> 
+
+<p> In addition, 2 out of 3 IT organizations are either pure agile or or leaning toward agile (Source: [PMI Pulse of the Profession, 2016] (http://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/pulse-of-the-profession-2016.pdf)). </p>
+
+<img src="{{ site.baseurl }}/img/guides/Agile_In_PM.png"
+  alt="How often Agile project management is used"
+  class="guide-image">
+  
+  <p>The top three industries adopting agile are software, Financial and Professional Services. (Source: State of Agile Report 2015) </p> 
+  
+  <img src="{{ site.baseurl }}/img/guides/Agile_Industries.PNG"
+  alt="Agile Industries"
+  class="guide-image">
+  
+<p> The most popular Agile methodology is Scrum (Sources: Gartner 2015, VersionOne 2015). </p>
+
+  <img src="{{ site.baseurl }}/img/guides/Agile_Methods_Used.PNG"
+  alt="Most Popular Agile Methods Used"
+  class="guide-image">
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
