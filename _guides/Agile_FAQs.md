@@ -171,8 +171,6 @@ audiences:
   alt="Agile Organizations Locations"
   class="guide-image"> 
   
-<a href="http://www.yahoo.com">here</a>
-
 <p> In addition, 2 out of 3 IT organizations are either pure agile or or leaning toward agile (Source: <a href="http://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/pulse-of-the-profession-2016.pdf">PMI Pulse of the Profession, 2016</a>). </p>
 
 <img src="{{ site.baseurl }}/img/guides/Agile_In_PM.png"
