@@ -195,3 +195,25 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           What are the trends in Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">      
+        
+<p> The most popular Agile methodology is Scrum (Sources: Gartner 2015, VersionOne 2015). </p>
+
+  <img src="{{ site.baseurl }}/img/guides/Agile_Methods_Used.PNG"
+  alt="Most Popular Agile Methods Used"
+  class="guide-image">
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
