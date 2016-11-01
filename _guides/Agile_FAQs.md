@@ -165,13 +165,15 @@ audiences:
            Who is practicing Agile?
           </button>
         <div id="question-2" class="usa-accordion-content">        
- <p> According to the [State of Agile Report: Agile Trends - 2015 Agile Survey](https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf), agile software development has grown increasingly popular over the last decade. The number of large enterprises that are embracing agile continues to increase each year.</p>
+ <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf">State of Agile Report: Agile Trends - 2015 Agile Survey</a>, agile software development has grown increasingly popular over the last decade. The number of large enterprises that are embracing agile continues to increase each year.</p>
  <p> <b> Agile Demographics </b> </p>       
 <img src="{{ site.baseurl }}/img/guides/AgileOrgs_Location.PNG"
   alt="Agile Organizations Locations"
   class="guide-image"> 
+  
+<a href="http://www.yahoo.com">here</a>
 
-<p> In addition, 2 out of 3 IT organizations are either pure agile or or leaning toward agile (Source: [PMI Pulse of the Profession, 2016] (http://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/pulse-of-the-profession-2016.pdf)). </p>
+<p> In addition, 2 out of 3 IT organizations are either pure agile or or leaning toward agile (Source: <a href="http://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/pulse-of-the-profession-2016.pdf">PMI Pulse of the Profession, 2016</a>). </p>
 
 <img src="{{ site.baseurl }}/img/guides/Agile_In_PM.png"
   alt="How often Agile project management is used"
