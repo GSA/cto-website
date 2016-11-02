@@ -177,16 +177,10 @@ audiences:
   alt="How often Agile project management is used"
   class="guide-image">
   
-  <p>The top three industries adopting agile are Software Development, Financial and Professional Services. (Source: State of Agile Report 2015) </p> 
+  <p> Agile approaches are also being used for teams outside of IT such as Marketing and Human Resources. The top three industries adopting Agile are Software Development, Financial and Professional Services (Source: State of Agile Report 2015). </p> 
   
   <img src="{{ site.baseurl }}/img/guides/Agile_Industries.PNG"
   alt="Agile Industries"
-  class="guide-image">
-  
-<p> The most popular Agile methodology is Scrum (Sources: Gartner 2015, VersionOne 2015). </p>
-
-  <img src="{{ site.baseurl }}/img/guides/Agile_Methods_Used.PNG"
-  alt="Most Popular Agile Methods Used"
   class="guide-image">
          </div>
         </li>
@@ -210,6 +204,11 @@ audiences:
   <img src="{{ site.baseurl }}/img/guides/Agile_Methods_Used.PNG"
   alt="Most Popular Agile Methods Used"
   class="guide-image">
+  
+  <p> - <b> 80% </b> of organizations now have distributed agile teams, up from 35% two years ago (Source: VersionOne) </p>
+  <p> - Scaling agile is increasing: <b> 57% </b> of organizations use Agile for program management; </p>
+  <p> - <b> 51% </b> use Agile for portfolio management (Source: PMI, 2016) </p>
+
          </div>
         </li>
       </ul>
