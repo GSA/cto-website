@@ -23,7 +23,6 @@ body {
 
 h1, h2, h3, h4, h5 {
   color: $color-primary-darker;
-  font-weight: normal;
 }
 
 body.front {
@@ -99,6 +98,7 @@ header#front-hero {
 
     h1 {
       color: white;
+      font-weight: normal;
       margin: 0;
       padding: 0;
       text-align: center;
