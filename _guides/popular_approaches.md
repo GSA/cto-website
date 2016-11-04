@@ -121,21 +121,21 @@ Use your Sprint Retrospectives to identify areas of improvement for the Team.
 ### Good Reads
 These are good references when setting up Agile Teams:
 
-##### Setting Up an Agile Team
+#### Setting Up Agile Teams
 * 3 Key Steps to Building an Agile Team
 * An Operating Model for Company-Wide Agile Development 
 * Building an Agile Team
 * Top Ten Mistakes Made by New Agile Teams 
 * Who is Watching After Your Agile Money?
 
-##### Scrum Teams
+#### Scrum Teams
 * Pigs & Chickens
 * Scrum Framework
 * Scrum Is, Scrum Is Not
 * Scrum Reference Card
 * Why Scrum?
 
-##### Kanban Teams
+#### Kanban Teams
 * Everyday Kanban
 * Kanban Blog
 * Kanban Explained 
