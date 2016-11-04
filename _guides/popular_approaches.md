@@ -5,11 +5,11 @@ audiences:
   - All
 ---
 
-### Popular Approaches to Agile Adoption
+## Popular Approaches to Agile Adoption
 
 While Agile is a mindset, there are a number of popular approaches. DevOps, Lean frameworks, SAFe, Extreme Programming (XP), Test-driven Development (TDD), as well as many others are used extensively. In GSA IT, we primarily focus on and are actively using both Scrum and Kanban.
 
-#### What is Scrum?
+### What is Scrum?
 Scrum provides a process, or framework, for complex projects and can be “deceptively simple.” It is the most popular Agile approach in use and encourages high-performing, cross-functional teams. While it was originally formalized for software development projects, Scrum works well for any complex, innovative scope of work.
 
 Scrum is neither synonymous with Agile nor with an increment (i.e. a Sprint / Iteration). Scrum is an Agile process or framework. Scrum is not a tool (i.e. JIRA, Rally, etc.), but the process can be supported by one.
@@ -19,14 +19,14 @@ Scrum is neither synonymous with Agile nor with an increment (i.e. a Sprint / It
   style="float: left; width: 60px; margin-right: 10px;"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 <div style="clear: both;"></div>
 
-##### Scrum Values
+#### Scrum Values
 **Focus.** Because we focus on only a few things at a time, we work well together and produce excellent work. We deliver valuable items sooner.
 **Openness.** As we work together, we express how we're doing, what's in our way, and our concerns so they can be addressed. 
 **Courage.** Because we work as a team, we feel supported and have more resources at our disposal. This gives us the courage to undertake greater challenges.
 **Commitment.** Because we have great control over our own destiny, we are more committed to success.
 **Respect.** As we work together, sharing successes and failures, we come to respect each other and to help each other become worthy of respect.
 
-##### Scrum Ceremonies
+#### Scrum Ceremonies
 Typical team Scrum Ceremonies include:
 * Release Planning (also Pilot / Project Kickoff)
 * Sprint Planning
@@ -38,7 +38,7 @@ Typical team Scrum Ceremonies include:
 
 Most ceremonies are primarily for the core Scrum Team, however, Release Planning and Sprint Demos should include key Stakeholders and SMEs (and as needed).
 
-##### Common Scrum Terms
+#### Common Scrum Terms
 Some common Scrum terms include:
 * Release Trains
 * Sprint
@@ -47,14 +47,14 @@ Some common Scrum terms include:
 * Story Cards (depends on the tool)
 * Potentially Shippable Product
 
-##### Scrum Roles
+#### Scrum Roles
 The **Scrum Master** is the facilitator of the Agile process and protects the team; they allow the team to self-organize and make changes quickly. The Scrum Master also manages the process for how information is exchanged, helps the team by removing impediments, and essentially functions as the “The Coach” of the team.
 
 The **Product Owner** is responsible for communicating product vision. They prioritize the Product Backlog and clarify requirements for the team. The Product Owner makes the decision to accept or reject each product increment and whether or not it is “shippable”.
 
 The **Scrum Team** is a cross-functional team. They negotiate commitments with the Product Owner and have autonomy regarding how to reach those commitments. The Scrum Team is intensely collaborative and should be composed of no more than three to nine members.
 
-##### Getting Started with Scrum
+#### Getting Started with Scrum
 According to All About Agile, they recommend the following steps for “getting started” with Scrum:
 
 **Step #1: Get your product backlog in order!**
@@ -87,7 +87,7 @@ In the Sprint Review, reflect on the work accomplished and whether the work comp
 **Step #10: Review, reflect, repeat…**
 Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out TastyCupcakes for suggested Agile retrospective activities.
 
-#### What is Kanban?
+### What is Kanban?
 A process that can be thought of as a pipeline with feature requests entering one end and improved products from the other. Kanban encourages better communication through visual management. A Japanese term, Kanban means a “visual signal” or “card.” Most notably, Toyota line-workers used a kanban (i.e., an actual card) to signal steps in their manufacturing process. The system’s highly visual nature allowed teams to communicate more easily on what work needed to be done and when. Through its standardized cues and refined processes, the line-workers were better able to reduce waste and maximize value / delivery.
 
 When setting up a Kanban Team, the Scrum Master and Product Owner roles can be leveraged to support and provide direction for the team. Additionally, the Kanban Team can also use Sprint Planning and Sprint Retrospective activities to aid continuous improvement.
@@ -97,7 +97,7 @@ When setting up a Kanban Team, the Scrum Master and Product Owner roles can be l
   style="float: left; width: 60px; margin-right: 10px;"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 <div style="clear: both;"></div>
 
-##### Getting Started with Kanban
+#### Getting Started with Kanban
 According to the Kanban Blog, they recommend the following steps for “getting started” with Kanban:
 
 **Step #1: Map the value stream (or development process)**
@@ -118,24 +118,24 @@ Be sure to keep work visible and communicate progress. Whether using a whiteboar
 **Step #6: Empirically adjust over time.**
 Use your Sprint Retrospectives to identify areas of improvement for the Team.
 
-#### Good Reads
+### Good Reads
 These are good references when setting up Agile Teams:
 
-Setting Up an Agile Team
+##### Setting Up an Agile Team
 * 3 Key Steps to Building an Agile Team
 * An Operating Model for Company-Wide Agile Development 
 * Building an Agile Team
 * Top Ten Mistakes Made by New Agile Teams 
 * Who is Watching After Your Agile Money?
 
-Scrum Teams
+##### Scrum Teams
 * Pigs & Chickens
 * Scrum Framework
 * Scrum Is, Scrum Is Not
 * Scrum Reference Card
 * Why Scrum?
 
-Kanban Teams
+##### Kanban Teams
 * Everyday Kanban
 * Kanban Blog
 * Kanban Explained 
