@@ -21,9 +21,13 @@ Scrum is neither synonymous with Agile nor with an increment (i.e. a Sprint / It
 
 #### Scrum Values
 **Focus.** Because we focus on only a few things at a time, we work well together and produce excellent work. We deliver valuable items sooner.
+
 **Openness.** As we work together, we express how we're doing, what's in our way, and our concerns so they can be addressed. 
+
 **Courage.** Because we work as a team, we feel supported and have more resources at our disposal. This gives us the courage to undertake greater challenges.
+
 **Commitment.** Because we have great control over our own destiny, we are more committed to success.
+
 **Respect.** As we work together, sharing successes and failures, we come to respect each other and to help each other become worthy of respect.
 
 #### Scrum Ceremonies
