@@ -62,31 +62,31 @@ According to [All About Agile](http://www.allaboutagile.com/), they recommend th
 **Step #1: Get your product backlog in order!**
 Identify the high-level requirements for the effort and begin organizing them into Epics (groups of features) and Stories (a specific feature).
 
-**Step #2: How to estimate your product backlog**
+**Step #2: How to estimate your product backlog** 
 Determine the relative size of your backlog items and estimate the level of effort.
 
-**Step #3: Sprint Grooming**
+**Step #3: Sprint Grooming** 
 Clarify requirements that will be worked on in the upcoming sprint.
 
-**Step #4: Sprint Planning**
+**Step #4: Sprint Planning** 
 Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/) prior to adding them to the Sprint Backlog.
 
-**Step #5: Create a collaborative workspace**
+**Step #5: Create a collaborative workspace** 
 This can be a shared folder space in Google Drive or a Confluence space in JIRA.
 
-**Step #6: Sprint!**
+**Step #6: Sprint!** 
 Go forth and iterate! Continuously refine and groom requirements as needed. Only bring in work that is achievable during the sprint.
 
-**Step #7: Stand up and be counted!**
+**Step #7: Stand up and be counted!** 
 Daily Standups should focus on “what you did yesterday, what you are doing today, and whether you have any blockers / impediments.”
 
-**Step #8: Track progress with a daily burndown chart**
+**Step #8: Track progress with a daily burndown chart** 
 Progress at the end of the sprint is reflected in the burndown chart and reviewed during the Sprint Demo.
 
-**Step #9: Finish when you said you would**
+**Step #9: Finish when you said you would** 
 In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
 
-**Step #10: Review, reflect, repeat…**
+**Step #10: Review, reflect, repeat…** 
 Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out [TastyCupcakes](http://tastycupcakes.org/category/agile/) for suggested Agile retrospective activities.
 
 ### What is Kanban?
@@ -100,23 +100,22 @@ When setting up a Kanban Team, the Scrum Master and Product Owner roles can be l
 #### Getting Started with Kanban
 According to the [Kanban Blog](http://kanbanblog.com/), they recommend the following steps for “[getting started](http://kanbanblog.com/explained/GettingStarted.html)” with Kanban:
 
-**Step #1: Map the value stream (or development process)**
-
+**Step #1: Map the value stream (or development process)** 
 Identify where feature ideas come from and what are all the steps that the idea goes through until it is sitting in the hands of the end user.
 
-**Step #2: Define the start and end points for the Kanban system**
+**Step #2: Define the start and end points for the Kanban system** 
 Start and end points (i.e. Definition of Done) should preferably be where you have political control. Don't worry too much about starting with a narrow focus, as people outside the span will soon ask to join in.
 
-**Step #3: Agree**
+**Step #3: Agree** 
 Determine the initial WIP limits and policies for changing or temporarily breaking them (i.e. “Team Norms”). Define the process for prioritizing and selecting features as well as the policies for different classes of service (e.g. "standard", "expedite", "fixed delivery date"). Determine estimates and when choosing work, define which will be selected first through prioritization. There should also be definition around the frequency of reviews.
 
-**Step #4: Draw up a Kanban board**
+**Step #4: Draw up a Kanban board** 
 All you need is a whiteboard and some Post-It™ notes. Don't spend too much time making it look beautiful because it will almost certainly evolve. However, the Kanban process can be also supported through tools like JIRA, etc.
 
-**Step #5: Start using it!**
+**Step #5: Start using it!** 
 Be sure to keep work visible and communicate progress. Whether using a whiteboard or tool, ensure progress is continuously updated and reflective of current status.  
 
-**Step #6: Empirically adjust over time.**
+**Step #6: Empirically adjust over time.** 
 Use your Sprint Retrospectives to identify areas of improvement for the Team.
 
 ### Good Reads
