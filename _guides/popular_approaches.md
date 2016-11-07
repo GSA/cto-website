@@ -59,34 +59,34 @@ The **Scrum Team** is a cross-functional team. They negotiate commitments with t
 #### Getting Started with Scrum
 According to [All About Agile](http://www.allaboutagile.com/), they recommend the following steps for “[getting started](http://www.allaboutagile.com/how-to-implement-scrum-in-10-easy-steps/)” with Scrum:
 
-**Step #1: Get your product backlog in order!**
+**Step #1: Get your product backlog in order!**  
 Identify the high-level requirements for the effort and begin organizing them into Epics (groups of features) and Stories (a specific feature).
 
-**Step #2: How to estimate your product backlog** 
+**Step #2: How to estimate your product backlog**  
 Determine the relative size of your backlog items and estimate the level of effort.
 
-**Step #3: Sprint Grooming** 
+**Step #3: Sprint Grooming**  
 Clarify requirements that will be worked on in the upcoming sprint.
 
-**Step #4: Sprint Planning** 
+**Step #4: Sprint Planning**  
 Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/) prior to adding them to the Sprint Backlog.
 
-**Step #5: Create a collaborative workspace** 
+**Step #5: Create a collaborative workspace**  
 This can be a shared folder space in Google Drive or a Confluence space in JIRA.
 
-**Step #6: Sprint!** 
+**Step #6: Sprint!**  
 Go forth and iterate! Continuously refine and groom requirements as needed. Only bring in work that is achievable during the sprint.
 
-**Step #7: Stand up and be counted!** 
+**Step #7: Stand up and be counted!**  
 Daily Standups should focus on “what you did yesterday, what you are doing today, and whether you have any blockers / impediments.”
 
-**Step #8: Track progress with a daily burndown chart** 
+**Step #8: Track progress with a daily burndown chart**  
 Progress at the end of the sprint is reflected in the burndown chart and reviewed during the Sprint Demo.
 
-**Step #9: Finish when you said you would** 
+**Step #9: Finish when you said you would**  
 In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
 
-**Step #10: Review, reflect, repeat…** 
+**Step #10: Review, reflect, repeat…**  
 Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out [TastyCupcakes](http://tastycupcakes.org/category/agile/) for suggested Agile retrospective activities.
 
 ### What is Kanban?
