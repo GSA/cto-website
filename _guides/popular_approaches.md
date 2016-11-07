@@ -2,7 +2,9 @@
 title: Popular Approaches to Agile Adoption
 category: Agile
 audiences:
-  - All
+  - Developers
+  - Designers
+  - Project Managers
 ---
 
 ## Popular Approaches to Agile Adoption
