@@ -124,19 +124,19 @@ These are good references when setting up Agile Teams:
 #### Setting Up Agile Teams
 * [3 Key Steps to Building an Agile Team](https://www.cprime.com/2014/04/3-key-steps-to-building-an-agile-team/)
 * [An Operating Model for Company-Wide Agile Development](http://www.mckinsey.com/business-functions/business-technology/our-insights/an-operating-model-for-company-wide-agile-development)
-* [Building an Agile Team](https://www.atlassian.com/agile/teams%20%20%20%20https://www.infoq.com/articles/building-an-agile-team)
+* [Building an Agile Team](https://www.infoq.com/articles/building-an-agile-team)
 * [Top Ten Mistakes Made by New Agile Teams](https://help.rallydev.com/top-10-mistakes-teams)
 * [Who is Watching After Your Agile Money?](http://www.cio.com/article/3085450/cio-role/who-is-watching-after-your-agile-money.html)
 
 #### Scrum Teams
-* Pigs & Chickens
-* Scrum Framework
-* Scrum Is, Scrum Is Not
-* Scrum Reference Card
-* Why Scrum?
+* [Pigs & Chickens](http://searchsoftwarequality.techtarget.com/definition/pigs-and-chickens)
+* [Scrum Framework]https://guntherverheyen.com/2013/03/21/scrum-framework-not-methodology/
+* [Scrum Is, Scrum Is Not](https://kenschwaber.wordpress.com/2011/08/11/scrum-is-scrum-is-not-2/)
+* [Scrum Reference Card](http://scrumreferencecard.com/scrum-reference-card/)
+* [Why Scrum?](https://www.scrumalliance.org/why-scrum)
 
 #### Kanban Teams
-* Everyday Kanban
-* Kanban Blog
-* Kanban Explained 
-* LeanKit
+* [Everyday Kanban](http://www.everydaykanban.com/what-is-kanban)
+* [Kanban Blog](http://kanbanblog.com/)
+* [Kanban Explained](http://kanbanblog.com/explained/)
+* [LeanKit](https://leankit.com/learn/kanban/what-is-kanban/)
