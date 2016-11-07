@@ -69,16 +69,22 @@ Through Agile Investment, the CTO Office introduces business and development tea
 #### Agile Behavior Adaptation
 Here are just some of the ways we can support Agile adoption:
 
-**Stop the Jargon!** : Be informed & know the proper terminology to better support Agile adoption and reduce confusion.
+**Stop the Jargon!**  
+Be informed & know the proper terminology to better support Agile adoption and reduce confusion.
 
-**Shift the Mindset** : Be open, flexible, responsive, & transparent in developing a more Agile mindset, but know that transition takes time and patience.
+**Shift the Mindset**  
+Be open, flexible, responsive, & transparent in developing a more Agile mindset, but know that transition takes time and patience.
 
-**Change Management** : Be flexible as new processes are implemented, but call pain points and issues so that they can be addressed.
+**Change Management**  
+Be flexible as new processes are implemented, but call pain points and issues so that they can be addressed.
 
-**Communication** : Be a reliable source for & encourage open communication.
+**Communication**  
+Be a reliable source for & encourage open communication.
 
-**Accountability** : Be reliable & responsible to the Team and with assigned work.
+**Accountability**  
+Be reliable & responsible to the Team and with assigned work.
 
-**Transparency** : Be honest & transparent with the Team and assigned work.
+**Transparency**  
+Be honest & transparent with the Team and assigned work.
 
 And finally, as we learn from each experience, we celebrate and share the success through "storytelling." In GSA IT, our current successes include the OMB endorsement of Agile, the introduction of standards, and each Agile Investment project-level implementation. Moreover, the collaboration we continue to build between Business and IT leads to faster, more efficient product delivery and is a win towards Agile adoption!
