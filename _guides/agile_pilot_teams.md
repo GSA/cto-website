@@ -11,9 +11,11 @@ Agile Investment is an agile, phased approach to piloting potential solution inv
 
 The goal of this approach is to create a stronger partnership between the Business and IT by increasing collaboration, providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
+
 <img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
   alt="Kanban Board"
   class="guide-image guide-image-half">
+
 
 ### Before we begin...
 
