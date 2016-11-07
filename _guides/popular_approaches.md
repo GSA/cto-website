@@ -7,8 +7,6 @@ audiences:
   - Project Managers
 ---
 
-## Popular Approaches to Agile Adoption
-
 While Agile is a mindset, there are a number of popular approaches. DevOps, Lean frameworks, SAFe, Extreme Programming (XP), Test-driven Development (TDD), as well as many others are used extensively. In GSA IT, we primarily focus on and are actively using both Scrum and Kanban.
 
 ### What is Scrum?
@@ -117,7 +115,7 @@ All you need is a whiteboard and some Post-It™ notes. Don't spend too much tim
 **Step #5: Start using it!**  
 Be sure to keep work visible and communicate progress. Whether using a whiteboard or tool, ensure progress is continuously updated and reflective of current status.  
 
-**Step #6: Empirically adjust over time.**  
+**Step #6: Empirically adjust over time**  
 Use your Sprint Retrospectives to identify areas of improvement for the Team.
 
 ### Good Reads
