@@ -161,6 +161,24 @@ audiences:
       <ul class="usa-unstyled-list">
         <li>
           <button class="usa-button-unstyled" aria-controls="question-2">
+           How does one benefit from being Agile and adopting Agile approaches?
+          </button>
+        <div id="question-2" class="usa-accordion-content">        
+ <p> One benefit of agile is to reduce a product’s time to market by delivering a product increment frequently. Through this process, customers and users are engaged throughout the delivery cycle to regularly review the product increment and provide feedback. By creating feedback loops with every increment, the product created value working with customers rather than for them. As a result, excess time and resources are not spent creating something customers do not want.</p>
+         <p> Being Agile also promotes innovation in product teams. Taking an iterative, incremental approach promotes experiential learning, and short release cycles encourage teams to experiment to find relevant, simple solutions. </p>
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
            Who is practicing Agile?
           </button>
         <div id="question-2" class="usa-accordion-content">        
