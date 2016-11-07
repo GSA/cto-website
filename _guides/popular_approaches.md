@@ -57,7 +57,7 @@ The **Product Owner** is responsible for communicating product vision. They prio
 The **Scrum Team** is a cross-functional team. They negotiate commitments with the Product Owner and have autonomy regarding how to reach those commitments. The Scrum Team is intensely collaborative and should be composed of no more than three to nine members.
 
 #### Getting Started with Scrum
-According to All About Agile, they recommend the following steps for “getting started” with Scrum:
+According to [All About Agile](http://www.allaboutagile.com/), they recommend the following steps for “[getting started](http://www.allaboutagile.com/how-to-implement-scrum-in-10-easy-steps/)” with Scrum:
 
 **Step #1: Get your product backlog in order!**
 Identify the high-level requirements for the effort and begin organizing them into Epics (groups of features) and Stories (a specific feature).
@@ -69,7 +69,7 @@ Determine the relative size of your backlog items and estimate the level of effo
 Clarify requirements that will be worked on in the upcoming sprint.
 
 **Step #4: Sprint Planning**
-Task requirements and add pointed estimates. Ensure cards meet the Definition of Ready (DoR) prior to adding them to the Sprint Backlog.
+Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/) prior to adding them to the Sprint Backlog.
 
 **Step #5: Create a collaborative workspace**
 This can be a shared folder space in Google Drive or a Confluence space in JIRA.
@@ -84,10 +84,10 @@ Daily Standups should focus on “what you did yesterday, what you are doing tod
 Progress at the end of the sprint is reflected in the burndown chart and reviewed during the Sprint Demo.
 
 **Step #9: Finish when you said you would**
-In the Sprint Review, reflect on the work accomplished and whether the work completed met the Definition of Done (DoD).
+In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
 
 **Step #10: Review, reflect, repeat…**
-Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out TastyCupcakes for suggested Agile retrospective activities.
+Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out [TastyCupcakes](http://tastycupcakes.org/category/agile/) for suggested Agile retrospective activities.
 
 ### What is Kanban?
 A process that can be thought of as a pipeline with feature requests entering one end and improved products from the other. Kanban encourages better communication through visual management. A Japanese term, Kanban means a “visual signal” or “card.” Most notably, Toyota line-workers used a kanban (i.e., an actual card) to signal steps in their manufacturing process. The system’s highly visual nature allowed teams to communicate more easily on what work needed to be done and when. Through its standardized cues and refined processes, the line-workers were better able to reduce waste and maximize value / delivery.
@@ -98,7 +98,7 @@ When setting up a Kanban Team, the Scrum Master and Product Owner roles can be l
   alt="LeanKit Kanban Board">
 
 #### Getting Started with Kanban
-According to the Kanban Blog, they recommend the following steps for “getting started” with Kanban:
+According to the [Kanban Blog](http://kanbanblog.com/), they recommend the following steps for “[getting started](http://kanbanblog.com/explained/GettingStarted.html)” with Kanban:
 
 **Step #1: Map the value stream (or development process)**
 Identify where feature ideas come from and what are all the steps that the idea goes through until it is sitting in the hands of the end user.
@@ -122,11 +122,11 @@ Use your Sprint Retrospectives to identify areas of improvement for the Team.
 These are good references when setting up Agile Teams:
 
 #### Setting Up Agile Teams
-* 3 Key Steps to Building an Agile Team
-* An Operating Model for Company-Wide Agile Development 
-* Building an Agile Team
-* Top Ten Mistakes Made by New Agile Teams 
-* Who is Watching After Your Agile Money?
+* [3 Key Steps to Building an Agile Team](https://www.cprime.com/2014/04/3-key-steps-to-building-an-agile-team/)
+* [An Operating Model for Company-Wide Agile Development](http://www.mckinsey.com/business-functions/business-technology/our-insights/an-operating-model-for-company-wide-agile-development)
+* [Building an Agile Team](https://www.atlassian.com/agile/teams%20%20%20%20https://www.infoq.com/articles/building-an-agile-team)
+* [Top Ten Mistakes Made by New Agile Teams](https://help.rallydev.com/top-10-mistakes-teams)
+* [Who is Watching After Your Agile Money?](http://www.cio.com/article/3085450/cio-role/who-is-watching-after-your-agile-money.html)
 
 #### Scrum Teams
 * Pigs & Chickens
