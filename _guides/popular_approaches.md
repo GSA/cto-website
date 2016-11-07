@@ -130,7 +130,7 @@ These are good references when setting up Agile Teams:
 
 #### Scrum Teams
 * [Pigs & Chickens](http://searchsoftwarequality.techtarget.com/definition/pigs-and-chickens)
-* [Scrum Framework]https://guntherverheyen.com/2013/03/21/scrum-framework-not-methodology/
+* [Scrum Framework](https://guntherverheyen.com/2013/03/21/scrum-framework-not-methodology/)
 * [Scrum Is, Scrum Is Not](https://kenschwaber.wordpress.com/2011/08/11/scrum-is-scrum-is-not-2/)
 * [Scrum Reference Card](http://scrumreferencecard.com/scrum-reference-card/)
 * [Why Scrum?](https://www.scrumalliance.org/why-scrum)
