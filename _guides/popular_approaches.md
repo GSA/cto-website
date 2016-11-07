@@ -100,22 +100,22 @@ When setting up a Kanban Team, the Scrum Master and Product Owner roles can be l
 #### Getting Started with Kanban
 According to the [Kanban Blog](http://kanbanblog.com/), they recommend the following steps for “[getting started](http://kanbanblog.com/explained/GettingStarted.html)” with Kanban:
 
-**Step #1: Map the value stream (or development process)** 
+**Step #1: Map the value stream (or development process)**  
 Identify where feature ideas come from and what are all the steps that the idea goes through until it is sitting in the hands of the end user.
 
-**Step #2: Define the start and end points for the Kanban system** 
+**Step #2: Define the start and end points for the Kanban system**  
 Start and end points (i.e. Definition of Done) should preferably be where you have political control. Don't worry too much about starting with a narrow focus, as people outside the span will soon ask to join in.
 
-**Step #3: Agree** 
+**Step #3: Agree**  
 Determine the initial WIP limits and policies for changing or temporarily breaking them (i.e. “Team Norms”). Define the process for prioritizing and selecting features as well as the policies for different classes of service (e.g. "standard", "expedite", "fixed delivery date"). Determine estimates and when choosing work, define which will be selected first through prioritization. There should also be definition around the frequency of reviews.
 
-**Step #4: Draw up a Kanban board** 
+**Step #4: Draw up a Kanban board**  
 All you need is a whiteboard and some Post-It™ notes. Don't spend too much time making it look beautiful because it will almost certainly evolve. However, the Kanban process can be also supported through tools like JIRA, etc.
 
-**Step #5: Start using it!** 
+**Step #5: Start using it!**  
 Be sure to keep work visible and communicate progress. Whether using a whiteboard or tool, ensure progress is continuously updated and reflective of current status.  
 
-**Step #6: Empirically adjust over time.** 
+**Step #6: Empirically adjust over time.**  
 Use your Sprint Retrospectives to identify areas of improvement for the Team.
 
 ### Good Reads
