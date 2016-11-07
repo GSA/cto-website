@@ -1,11 +1,11 @@
 ---
-title: Forming Agile Pilot Teams
+title: Taking an Agile Investment Approach
 category: Agile
 audiences:
+  - Developers
+  - Designers
   - Project Managers
 ---
-
-## Taking an Agile Investment Approach
 
 Agile Investment is an agile, phased approach to piloting potential solution investments. The piloting process [begins with a Business-approved concept]({{ site.baseurl }}/guides/agile_investment_overview/). The Business identifies strong Product Owners with available time commitment to work the CTO Office in facilitating a Scrum Team, throughout the pilot phases. The release of funding dollars is staggered in order to better inform investment decision-making and reduce IT spend.
 
