@@ -193,9 +193,6 @@ audiences:
          <p> -  Changing the development culture </p>
          <p> -  Team work using traditional development methods </p>
          <p> -  Lacking consistent practices </p>
-         <img src="{{ site.baseurl }}/img/guides/Agile_Benefits.png"
-  alt="Agile Benefits"
-  class="guide-image"> 
   <p> Source: <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> VersionOne: 10th State of Agile Survey </a> and <a href="http://www.gartner.com/technology/topics/trends.jsp"> Gartner </a> </p>
          </div>
         </li>
