@@ -71,3 +71,12 @@
   links:
     - title: GSA OSS Policy
       url: https://gsa.github.io/GSAOpenSourcePolicy/policy/
+
+- name: GSA Open Gov Plan
+  contact_name: Sara cope
+  contact_email: sara.cope@gsa.gov
+  stage:
+  link: https://gsa.github.io/opengovplan/
+  repository_link:
+  picture: project_opengovplan.png
+  description: Microsite dedicated to sharing the General Services Administration’s (GSA) 2016 policy on open government.
