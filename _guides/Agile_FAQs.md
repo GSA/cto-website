@@ -166,6 +166,37 @@ audiences:
         <div id="question-2" class="usa-accordion-content">        
  <p> One benefit of agile is to reduce a product’s time to market by delivering a product increment frequently. Through this process, customers and users are engaged throughout the delivery cycle to regularly review the product increment and provide feedback. By creating feedback loops with every increment, the product created value working with customers rather than for them. As a result, excess time and resources are not spent creating something customers do not want.</p>
          <p> Being Agile also promotes innovation in product teams. Taking an iterative, incremental approach promotes experiential learning, and short release cycles encourage teams to experiment to find relevant, simple solutions. </p>
+         <img src="{{ site.baseurl }}/img/guides/Agile_Benefits.png"
+  alt="Agile Benefits"
+  class="guide-image"> 
+  <p> <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> VersionOne: 10th State of Agile Survey </a></p>
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           What are the common challenges to adopting Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">        
+ <p>Various data indicate that the top most common challenges to a successful Agile in organizations is mostly related to all or one of the following: </p>
+         <p> -  Company philosophy at odds with core agile values </p>
+         <p> -  Lack of experience with agile methods </p>
+         <p> -  Lack of management support </p>
+         <p> -  Changing the development culture </p>
+         <p> -  Team work using traditional development methods </p>
+         <p> -  Lacking consistent practices </p>
+         <img src="{{ site.baseurl }}/img/guides/Agile_Benefits.png"
+  alt="Agile Benefits"
+  class="guide-image"> 
+  <p> Source: <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> VersionOne: 10th State of Agile Survey </a> and <a href="http://www.gartner.com/technology/topics/trends.jsp"> Gartner </a> </p>
          </div>
         </li>
       </ul>
