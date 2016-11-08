@@ -51,7 +51,7 @@ layout: base
         {% if project.links %}
           {% for link in project.links %}
             <div class="project-data-element project-link">
-              <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+              <a href="{{ link.url }}">{{ link.title }}</a>
             </div>
           {% endfor %}
         {% endif %}
