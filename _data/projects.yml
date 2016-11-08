@@ -59,3 +59,15 @@
   links:
     - title: NSA Case Study
       url: /downloads/NSA_Case_Study.pdf
+
+- name: GSA Open Source Software Policy
+  contact_name: Joseph Castle
+  contact_email: joseph.castle@gsa.gov
+  stage:
+  link:
+  repository_link:
+  picture: project_osspolicy.png
+  description: Microsite dedicated to sharing the recently published General Services Administration’s (GSA) policy on open source software development and to communicate responsibilities to the organization for compliance with Office of Management and Budget’s (OMB) open source policy.
+  links:
+    - title: GSA OSS Policy
+      url: https://gsa.github.io/GSAOpenSourcePolicy/policy/
