@@ -207,6 +207,25 @@ audiences:
       <ul class="usa-unstyled-list">
         <li>
           <button class="usa-button-unstyled" aria-controls="question-2">
+           Do Agile approaches only work in the Software Industry?
+          </button>
+        <div id="question-2" class="usa-accordion-content">        
+        <p> Although it arose out of software development practices, Agile is <b> not </b> just a software development framework. </p>
+         <p> Many other areas outside of Technology have found success in developing an Agile culture, including <a href="http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf"> Manufacturing </a>, <a href="http://agilemarketingmanifesto.org/"> Marketing </a>, <a href="http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/"> Legal </a>, <a href="http://www.award-entry.nl/2014/cases/klm/happy-to-help/"> Cutomer Support </a>, and more recently, <a href="http://www.bottomlineperformance.com/what-is-agile-learning-design/"> Learning Design </a>, and <a href="http://hr-gazette.com/hr-agile-manifesto/"> Human Resources </a>. The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
+ </p>
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
            Who is practicing Agile?
           </button>
         <div id="question-2" class="usa-accordion-content">        
