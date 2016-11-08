@@ -51,6 +51,8 @@ During UAT or review, user story criteria might include:
 Once the requirement, or user story meets the outlined criteria, it is finally considered done when approved by the product owner and accepted by stakeholders.
 
 ### Good Reads
+These are good references when defining your Definition of Ready (DoR) and Definition of Done (DoD:
+
 * [Definition of Ready](https://www.agilealliance.org/glossary/definition-of-ready/)
 * [Definition of DONE! 10 Point Checklist](http://www.allaboutagile.com/definition-of-done-10-point-checklist/)
 * [Definition of Done: User Stories](https://www.agilealliance.org/definition-done-user-stories/)
