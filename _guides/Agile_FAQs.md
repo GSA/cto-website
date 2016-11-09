@@ -226,6 +226,32 @@ audiences:
       <ul class="usa-unstyled-list">
         <li>
           <button class="usa-button-unstyled" aria-controls="question-2">
+           Is Agile suitable for all projects?
+          </button>
+        <div id="question-2" class="usa-accordion-content">        
+        <p> Not necessarily. Depending on the nature of the project and the product in question, there are times where plan-driven project management methodologies (like the waterfall method) provide a higher likelihood of project success. </p>
+         <p> According to Mike Cohn, one of the contributors to the invention of the Scrum software development, the most <a href="https://www.mountaingoatsoftware.com/blog/deciding-what-kind-of-projects-are-most-suited-for-agile"> appropriate projects suitable for Agile </a> (Scrum, Kanban, etc.) are ones with aggressive deadlines, a high degree of complexity, and a high degree of novelty (uniqueness) to them, or at least new to the team building it. For instance, developing a new phone application.</p>  
+<p> If the project/product is very familiar to the team and if the team continues building the same thing everyday, there is an element of predictability that may not require an Agile approach to succeed. For instance, a fast food restaurant producing fries or burger with set recipes.</p>
+<p> If the project/product is very familiar to the team and if the team continues building the same thing everyday, there is an element of predictability that may not require an Agile approach to succeed. For instance, a fast food restaurant producing fries or burger with set recipes. </p>
+<p> There are various ways that can be used to decide whether the project team tasked with completing should be handled using an Agile framework or traditional plan-driven project management method, and it starts by taking a look at the information the team already has. Below is an example analysis based on risk and complexity. </p>
+
+       <img src="{{ site.baseurl }}/img/guides/Agile_Projects.png"
+  alt="'Agile' Suitable Project Management"
+  class="guide-image">  
+       
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
            Who is practicing Agile?
           </button>
         <div id="question-2" class="usa-accordion-content">        
