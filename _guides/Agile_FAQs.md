@@ -207,7 +207,7 @@ audiences:
       <ul class="usa-unstyled-list">
         <li>
           <button class="usa-button-unstyled" aria-controls="question-2">
-           Do Agile approaches only work in the Software Industry?
+           Do Agile approaches only work in the Software Development Industry?
           </button>
         <div id="question-2" class="usa-accordion-content">        
         <p> Although it arose out of software development practices, Agile is <b> not </b> just a software development framework. </p>
