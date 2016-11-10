@@ -321,7 +321,7 @@ audiences:
 
  <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> 10th State of Agile Survey (2015)</a>, out of the many software management solutions on the market, over two-thirds of survey respondents use Microsoft® Excel (60%) to manage agile projects. Other commonly used tools were Atlassian / JIRA (51%), Microsoft Project (33%), and VersionOne (28%).</p>
   
-  <img src="{{ site.baseurl }}/img/guides/Agile_Tools.PNG"
+  <img src="{{ site.baseurl }}/img/guides/Agile_Tools.png"
   alt="Tools for Agile"
   class="guide-image">
 
