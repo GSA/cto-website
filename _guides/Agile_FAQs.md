@@ -307,3 +307,28 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           Are there specific tools for Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">      
+        
+<p> Although Agile does not require a specific set of tools for a successful adoption, not all traditional project management and other tools work well with Agile. Some companies configure existing tools in an Agile way while others use index cards and sticky notes to follow the frameworks. Some development group use JIRA software to help with things like requirements management, collaboration and testing. </p>
+
+ <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> 10th State of Agile Survey (2015)></a>, out of the many software management solutions on the market, over two-thirds of survey respondents use Microsoft® Excel (60%) to manage agile projects. Other commonly used tools were Atlassian / JIRA (51%), Microsoft Project (33%), and VersionOne (28%).</p>
+  
+  <img src="{{ site.baseurl }}/img/guides/Agile_Tools.PNG"
+  alt="Tools for Agile"
+  class="guide-image">
+
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
