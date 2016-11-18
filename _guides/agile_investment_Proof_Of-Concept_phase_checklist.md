@@ -15,21 +15,21 @@ During the PoC Phase:
 
 *Input Checklist Before Starting PoC*
 
-** Scope and Approach
-𐄂 PoC scope is defined
-𐄂 High-level business needs have been identified prioritized
-𐄂 High-level technical needs and requirements have been identified prioritized
-𐄂 Approach for PoC phase had been defined
+** Scope and Approach **
+* PoC scope is defined
+* High-level business needs have been identified prioritized
+* High-level technical needs and requirements have been identified prioritized
+* Approach for PoC phase had been defined
 
 
-** People and Resources
-𐄂 Sponsoring Department/Executive has been defined
-𐄂 Key personnel resources and skill sets identified and secured
-𐄂 Assigned Product Owner from the Business Team
-	𐄂 Assigned Scrum Master
-	𐄂 Agile coaching support and guidance 
-𐄂 Team members are fully dedicated to the PoC effort
+** People and Resources **
+* Sponsoring Department/Executive has been defined
+* Key personnel resources and skill sets identified and secured
+* Assigned Product Owner from the Business Team
+	* Assigned Scrum Master
+	* Agile coaching support and guidance 
+* Team members are fully dedicated to the PoC effort
 
-** Development Environment
-𐄂 Has development environment been defined? (e.g. test/dev environment, production, etc.)
-𐄂 Has required access been identified, requested and setup completed?
+** Development Environment ** 
+* Has development environment been defined? (e.g. test/dev environment, production, etc.)
+* Has required access been identified, requested and setup completed?
