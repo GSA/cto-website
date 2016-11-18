@@ -15,14 +15,14 @@ During the PoC Phase:
 
 *Input Checklist Before Starting PoC*
 
-** Scope and Approach **
+**Scope and Approach**
 * PoC scope is defined
 * High-level business needs have been identified prioritized
 * High-level technical needs and requirements have been identified prioritized
 * Approach for PoC phase had been defined
 
 
-** People and Resources **
+**People and Resources**
 * Sponsoring Department/Executive has been defined
 * Key personnel resources and skill sets identified and secured
 * Assigned Product Owner from the Business Team
@@ -30,7 +30,7 @@ During the PoC Phase:
 	* Agile coaching support and guidance 
 * Team members are fully dedicated to the PoC effort
 
-** Development Environment ** 
+**Development Environment** 
 * Has development environment been defined? (e.g. test/dev environment, production, etc.)
 * Has required access been identified, requested and setup completed?
 
@@ -52,7 +52,7 @@ During the PoC Phase:
 	* Agile coaching support and guidance 
 * Team members are fully dedicated to the Prototype effort
 
-** Development Environment** 
+**Development Environment** 
 * Has development environment been defined? (e.g. test/dev environment, production, etc.)
 * Has required access been identified, requested and setup completed?
 
@@ -62,7 +62,7 @@ During the PoC Phase:
 * Specify if it will reside on a current GSA IT platform that is up for contract renegotiation
 * Has it been determined if Solution is cloud based, if not, will it need to integrate with an application maintained in Cloud Services or on premise services?
 
-** Software** 
+**Software** 
 * Has solution languages, tools and applications been determined e.g. web, mobile, core SW languages (Java, Python), Open source/public code, etc.?
 * Has it been specified if the solution requested is a service or solution IaaS, PaaS or SaaS?
 
