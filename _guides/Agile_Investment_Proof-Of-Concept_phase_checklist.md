@@ -13,7 +13,7 @@ During the PoC Phase:
 * Business / Technical review to approve/reject progressing to next Phase
 
 
-***Input* Checklist Before Starting PoC**
+	***Input* Checklist Before Starting PoC**
 
 **Scope and Approach**
 * PoC scope is defined
@@ -34,7 +34,7 @@ During the PoC Phase:
 * Has development environment been defined? (e.g. test/dev environment, production, etc.)
 * Has required access been identified, requested and setup completed?
 
-**PoC *Output* Checklist**
+   **PoC *Output* Checklist**
 
 **PoC Success Criteria**
 * Measures of success for PoC have been met and accepted by stakeholders 
