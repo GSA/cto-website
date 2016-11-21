@@ -4,7 +4,6 @@ license: https://github.com/GSA/cto-website/blob/dev/LICENSE.md
 openSourceProject: 1
 governmentWideReuseProject: 1
 tags:
-  - gsa
   - jekyll
 contact:
   email: cto@gsa.gov
