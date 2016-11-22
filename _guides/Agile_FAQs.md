@@ -391,8 +391,7 @@ audiences:
            Where can I find credible resources on Agile?
           </button>
         <div id="question-2" class="usa-accordion-content">      
-        
-        <p> Agile Overview </p>
+<p> Agile Overview </p>
 <p><a href="http://www.agilemanifesto.org"> Agile Manifesto </a></p>
 <p><a href="https://www.agilealliance.org"> Agile Alliance </a></p>
 <p><a href="https://versionone.com"> VersionOne </a></p>
@@ -412,17 +411,15 @@ audiences:
 <p><a href="https://kenschwaber.wordpress.com/2011/08/11/scrum-is-scrum-is-not-2/"> Scrum Is, Scrum Is Not </a></p>
 <p><a href="https://www.scrumalliance.org/why-scrum"> Why Scrum? </a></p>
 
-
 <p> Kanban Teams </p>
-<p><a href="https://www.scrumalliance.org/why-scrum"> Everyday Kanban </a></p>
-<p><a href="https://www.scrumalliance.org/why-scrum"> Kanban Explained </a></p>
-<p><a href="https://www.scrumalliance.org/why-scrum"> LeanKit </a></p>
+<p><a href="http://www.everydaykanban.com/what-is-kanban"> Everyday Kanban </a></p>
+<p><a href="http://kanbanblog.com/explained/"> Kanban Explained </a></p>
+<p><a href="https://leankit.com/learn/kanban/what-is-kanban/"> LeanKit </a></p>
 
 <p> Data and Information on Agile Trends, Blogs, etc. </p>
-VersionOne
-ScrumAlliance.org
-Scrum.org
-Gartner Research </p>
+<p><a href="https://versionone.com"> VersionOne </a></p>
+<p><a href="http://www.scrumalliance.org"> ScrumAlliance </a></p>
+<p><a href="http://www.gartner.com/technology/research.jsp"> Gartner Research </a></p>
            </div>
         </li>
       </ul>
