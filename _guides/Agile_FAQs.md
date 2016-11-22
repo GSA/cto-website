@@ -382,3 +382,51 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           Where can I find credible resources on Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">      
+        
+        <p> Agile Overview </p>
+<p><a href="http://www.agilemanifesto.org"> Agile Manifesto </a></p>
+<p><a href="https://www.agilealliance.org"> Agile Alliance </a></p>
+<p><a href="https://versionone.com"> VersionOne </a></p>
+<p><a href="https://www.atlassian.com/"> Atlassian </a></p>
+
+<p> Setting Up Agile Teams </p>
+<p><a href="https://www.atlassian.com/agile/teams%20%20%20%20https://www.infoq.com/articles/building-an-agile-team"> Building an Agile Team </a></p>
+<p><a href="https://www.cprime.com/2014/04/3-key-steps-to-building-an-agile-team/"> 3 Key Steps to Building an Agile Team </a></p>
+<p><a href="https://help.rallydev.com/top-10-mistakes-teams"> Top Ten Mistakes Made by New Agile Teams </a></p>
+<p><a href="http://www.mckinsey.com/business-functions/business-technology/our-insights/an-operating-model-for-company-wide-agile-development"> An Operating Model for Company-Wide Agile Development </a></p>
+<p><a href="http://www.cio.com/article/3085450/cio-role/who-is-watching-after-your-agile-money.html"> Who is Watching After Your Agile Money? </a></p>
+ 
+ <p> Scrum Teams </p>
+<p><a href="https://guntherverheyen.com/2013/03/21/scrum-framework-not-methodology/"> Scrum Framework </a></p>
+<p><a href="http://scrumreferencecard.com/scrum-reference-card/"> Scrum Reference Card </a></p>
+<p><a href="http://searchsoftwarequality.techtarget.com/definition/pigs-and-chickens"> Pigs and Chickens </a></p>
+<p><a href="https://kenschwaber.wordpress.com/2011/08/11/scrum-is-scrum-is-not-2/"> Scrum Is, Scrum Is Not </a></p>
+<p><a href="https://www.scrumalliance.org/why-scrum"> Why Scrum? </a></p>
+
+
+<p> Kanban Teams </p>
+<p><a href="https://www.scrumalliance.org/why-scrum"> Everyday Kanban </a></p>
+<p><a href="https://www.scrumalliance.org/why-scrum"> Kanban Explained </a></p>
+<p><a href="https://www.scrumalliance.org/why-scrum"> LeanKit </a></p>
+
+<p> Data and Information on Agile Trends, Blogs, etc. </p>
+VersionOne
+ScrumAlliance.org
+Scrum.org
+Gartner Research </p>
+           </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
