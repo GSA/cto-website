@@ -350,8 +350,32 @@ audiences:
 
 <p><b>International Consortium for Agile (ICAgile)</b></p>
 <p>The <a href="https://icagile.com/">International Consortium for Agile</a> is an independent accrediting agency offering comprehensive agile certifications that provide role expertise across all agile 'flavors,' including Scrum, eXtreme Programming (XP), Kanban and more. There are three certification levels: Professional, Expert and Master, to test and evaluate candidate's knowledge acquisition and competency within Agile.</p>
-
          </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           Where can I find industry Agile conferences / events?
+          </button>
+        <div id="question-2" class="usa-accordion-content">      
+        
+<p> The following websites provide information on the most popular and relevant Agile events and conferences taking place in the United States and around the world.</p>
+<p><a href="https://www.agilealliance.org/events/"> AgileAlliance - Events </a></p>
+<p><a href="https://www.techwell.com/software-conferences/agile-development-conferences"> TechWell AgileDev Conferences </a></p>
+<p><a href="https://www.scrumalliance.org/courses-events/events/global-gatherings"> Global Scrum Gatherings </a></p>
+<p><a href="http://agileandbeyond.com/"> Agile and Beyond </a></p>
+<p><a href="http://www.lkce15.com/"> Lean Kanban Central Europe </a></p>
+<p><a href="http://devopsenterprise.io"> DevOps Enterprise Summit (DOES) </a></p>
+<p><a href="http://www.gartner.com/events/"> Gartner’s Symposium/ITxpo </a></p>
+           </div>
         </li>
       </ul>
     </div>
