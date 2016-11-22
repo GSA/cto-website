@@ -332,3 +332,29 @@ audiences:
     <hr>
   </div>
 </div>
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           What are the most popular trainings / certifications on Agile?
+          </button>
+        <div id="question-2" class="usa-accordion-content">  
+        <p><b> Project Management Institute - Agile Certified Practitioner (PMI-ACP)</b></p>
+  <p> The <a href="http://www.pmi.org/certifications/types/agile-acp"> Agile Certified Practitioner (ACP) </a> from the Project Management Institute (PMI), is for project management professionals whose organizations currently use or are moving to agile practices. The PMI-ACP proves certification holders have real-world experience managing agile projects and familiarity with many subsets of the agile methodology including Scrum, Kanban, Lean and others. Those who achieve the certification must earn 30 professional development units (PDUs) every three years to maintain their status.</p>
+        
+        <p><b> Scrum Alliance </b></p>
+<p> Scrum is the leading framework of the agile methodology, especially for software development. The Scrum Alliance is the leading membership organization for Scrum professionals, with the mission of supporting widespread adoption and effective practice of Scrum. The Scrum Alliance offers <a href="https://www.scrumalliance.org/certifications"> six Scrum certifications </a> for IT and software development professionals: Certified Scrum Master, Certified Scrum Product Owner, Certified Scrum Developer, Certified Scrum Trainer, Certified Scrum Coach and Certified Scrum Professional. </p>
+
+
+<p><b>International Consortium for Agile (ICAgile)</b></p>
+<p>The <a href="https://icagile.com/">International Consortium for Agile</a> is an independent accrediting agency offering comprehensive agile certifications that provide role expertise across all agile 'flavors,' including Scrum, eXtreme Programming (XP), Kanban and more. There are three certification levels: Professional, Expert and Master, to test and evaluate candidate's knowledge acquisition and competency within Agile.</p>
+
+         </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
