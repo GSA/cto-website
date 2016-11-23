@@ -46,7 +46,7 @@ While a consensus should be reached for each estimate, the level of effort shoul
 Estimation and story pointing identifies the level of effort to complete a requirement, or user story, but avoids bias and influence. It should facilitate the Team’s discussion and understanding of a requirement. Story points should be updated accordingly as additional information becomes available. Understand that in the initial stages, estimates may be all over the map, but over time the Team will begin to produce an average velocity and burndown.
 
 ### Good Reads
-These are good references for estimatation:
+These are good references for estimation:
 * [Scrum Effort Estimation and Story Points](http://scrummethodology.com/scrum-effort-estimation-and-story-points/)
 * [Secrets of Agile Estimation](https://www.atlassian.com/agile/estimation)
 * [Estimation Exercise (TastyCupcakes)](http://tastycupcakes.org/tag/estimation/)
