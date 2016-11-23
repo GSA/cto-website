@@ -18,7 +18,8 @@ Assigning a numerical value (i.e story points) to relative estimates allows Team
 Story Points are an arbitrary measure used by Scrum Teams to measure the effort required to implement a user story, or requirement. The story points tell how hard the story is, the level of complexity, account for unknowns, and provide an indication of effort.
 
 <img src="{{ site.baseurl }}/img/guides/maxresdefault_ed.png"
-  alt="Point-based System">
+  alt="Point-based System"
+  class="guide-image guide-image-half">
 
 In terms of sizing, story points can range from extra small to extra large, but mostly commonly used is the Fibonacci series.
 
@@ -41,7 +42,8 @@ Begin with a single user story and then compare each story in the Backlog to det
 While a consensus should be reached for each estimate, the level of effort should be reflective of the overall effort - experience of all team members, development, quality testing, user acceptance testing, etc. - in order to achieve the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
 
 <img src="{{ site.baseurl }}/img/guides/communities_consensus.png"
-  alt="Consensus">
+  alt="Consensus"
+  class="guide-image guide-image-half">
 
 Estimation and story pointing identifies the level of effort to complete a requirement, or user story, but avoids bias and influence. It should facilitate the Team’s discussion and understanding of a requirement. Story points should be updated accordingly as additional information becomes available. Understand that in the initial stages, estimates may be all over the map, but over time the Team will begin to produce an average velocity and burndown.
 
