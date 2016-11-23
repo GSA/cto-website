@@ -19,7 +19,7 @@ Story Points are an arbitrary measure used by Scrum Teams to measure the effort 
 
 <img src="{{ site.baseurl }}/img/guides/maxresdefault_ed.png"
   alt="Point-based System"
-  class="guide-image guide-image-half">
+  class="guide-image">
 
 In terms of sizing, story points can range from extra small to extra large, but mostly commonly used is the Fibonacci series.
 
@@ -32,7 +32,7 @@ The Fibonacci series is a mathematical sequence where each number is the sum of 
 
 The Fibonacci series uses a range to help recognize uncertainty and removes the “emotional attachment” to hours and dates. Using the Fibonacci series guides estimation in “being roughly right over being precisely wrong.”
 
-### Defining Your Team’s Scale (or Estimating for Your Team)
+### Estimation for Your Team
 When estimating for your Team, there is no standardized approach other than the level of effort you think it will truly take to complete the requirement, or user story. Typically, most Teams will begin by using an estimation exercise to identify the “relative size” of stories in their Backlog. 
 
 Begin with a single user story and then compare each story in the Backlog to determine if it is relatively smaller or larger. As you compare the stories, a scale will begin to evolve. The stories with the smallest level of effort should be assigned a 1-point estimate while the largest should be a 5-point estimate (ideally, stories that are larger than a 5-point estimate should be decomposed further.) 
