@@ -19,7 +19,7 @@ Story Points are an arbitrary measure used by Scrum Teams to measure the effort 
 
 <img src="{{ site.baseurl }}/img/guides/maxresdefault_ed.png"
   alt="Point-based System"
-  class="guide-image">
+  class="guide-image guide-image-half">
 
 In terms of sizing, story points can range from extra small to extra large, but mostly commonly used is the Fibonacci series.
 
@@ -28,7 +28,7 @@ The Fibonacci series is a mathematical sequence where each number is the sum of 
 
 <img src="{{ site.baseurl }}/img/guides/Fibonacci_Sequence_1.jpg"
   alt="Fibonacci Series"
-  class="guide-image">
+  class="guide-image guide-image-half">
 
 The Fibonacci series uses a range to help recognize uncertainty and removes the “emotional attachment” to hours and dates. Using the Fibonacci series guides estimation in “being roughly right over being precisely wrong.”
 
@@ -39,7 +39,7 @@ Begin with a single user story and then compare each story in the Backlog to det
 
 <img src="{{ site.baseurl }}/img/guides/Klimov_FIGURE.png"
   alt="Pointing Story Cards"
-  class="guide-image">
+  class="guide-image guide-image-half">
 
 While a consensus should be reached for each estimate, the level of effort should be reflective of the overall effort - experience of all team members, development, quality testing, user acceptance testing, etc. - in order to achieve the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
 
