@@ -47,12 +47,12 @@ Estimation and story pointing identifies the level of effort to complete a requi
 
 ### Good Reads
 These are good references for estimatation:
-* Scrum Effort Estimation and Story Points 
-* Secrets of Agile Estimation
-* Estimation Exercise (TastyCupcakes)
+* [Scrum Effort Estimation and Story Points](http://scrummethodology.com/scrum-effort-estimation-and-story-points/)
+* [Secrets of Agile Estimation](https://www.atlassian.com/agile/estimation)
+* [Estimation Exercise (TastyCupcakes)](http://tastycupcakes.org/tag/estimation/)
 
 These are good references for story pointing and the Fibonacci series:
-* How You Should Create User Stories & Give Story Points  
-* Story Points Are Still About Effort
-* The Main Benefit of Story Points
-* What is a Story Point?
+* [How You Should Create User Stories & Give Story Points](https://hackernoon.com/following-agile-this-is-how-you-should-create-user-stories-and-give-story-points-bdffba0cfe5a#.1qcc949on)
+* [Story Points Are Still About Effort](https://www.mountaingoatsoftware.com/blog/story-points-are-still-about-effort)
+* [The Main Benefit of Story Points](https://www.mountaingoatsoftware.com/blog/the-main-benefit-of-story-points)
+* [What is a Story Point?](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/)
