@@ -42,12 +42,12 @@ IMAGE
 Estimation and story pointing identifies the level of effort to complete a requirement, or user story, but avoids bias and influence. It should facilitate the Team’s discussion and understanding of a requirement. Story points should be updated accordingly as additional information becomes available. Understand that in the initial stages, estimates may be all over the map, but over time the Team will begin to produce an average velocity and burndown.
 
 ### Good Reads
-These are good references when defining Estimates
+These are good references for estimatation:
 * Scrum Effort Estimation and Story Points 
 * Secrets of Agile Estimation
 * Estimation Exercise (TastyCupcakes)
 
-These are good references when defining Story Points & Fibonacci
+These are good references for story pointing and the Fibonacci series:
 * How You Should Create User Stories & Give Story Points  
 * Story Points Are Still About Effort
 * The Main Benefit of Story Points
