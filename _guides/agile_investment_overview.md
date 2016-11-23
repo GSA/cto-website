@@ -19,7 +19,7 @@ Why Agile Investment approach?
 
 <img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
-  class="guide-image guide-image-half">
+  class="guide-image">
 
 What is the Agile Investment process?
 
