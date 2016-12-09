@@ -2,6 +2,8 @@
 title: Agile Adoption at GSA
 category: Agile
 audiences:
+  - Developers
+  - Designers
   - Project Managers
 ---
 
