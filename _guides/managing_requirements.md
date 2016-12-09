@@ -11,8 +11,7 @@ In many ways, the manner of capturing requirements in an Agile project managemen
 
 Some fundamental differences in managing requirements include:
 
-|:---------------:|:----------------:|
-| **Traditional Requirements Management** | **Agile Requirements Management** |
+| :**Traditional Requirements Management**: | :**Agile Requirements Management**: |
 |---------------|----------------|
 | *In a “waterfall” project management environment, the approach is to capture and define **all** of the end-state requirements upfront.* | *In an Agile project management environment, while high-level requirements are also captured upfront, it is understood that requirements may evolve over the course of the effort.* 
 | *Requirements are documented in a business requirements document (BRD) or business specifications document (BSD) for the purpose of designing the end state of a product.* | *The effort begins with a high-level scope agreement where initial business requirements are translated into user stories. Those user stories specify the needs of the product based on the information at the time given.* 
