@@ -11,6 +11,7 @@ In many ways, the manner of capturing requirements in an Agile project managemen
 
 Some fundamental differences in managing requirements include:
 
+|:---------------:|:---------------:|
 | **Traditional Requirements Management** | **Agile Requirements Management**
 |:---------------|:---------------|
 | *In a “waterfall” project management environment, the approach is to capture and define **all** of the end-state requirements upfront.* | *In an Agile project management environment, while high-level requirements are also captured upfront, it is understood that requirements may evolve over the course of the effort.* 
