@@ -25,6 +25,10 @@ h1, h2, h3, h4, h5 {
   color: $color-primary-darker;
 }
 
+table th {
+  text-align: center;
+}
+
 body.front {
   h2 {
     margin-top: 0.5em;
