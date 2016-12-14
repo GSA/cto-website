@@ -7,9 +7,9 @@ audiences:
   - Project Managers
 ---
 
-A User Story describes a feature, or requirement, that is to be implemented. **User stories** are used in various Agile frameworks including Scrum, Kanban, Extreme Programming, and are independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). 
+A **User Story** describes a feature, or requirement, that is to be implemented. **User stories** are used in various Agile frameworks including Scrum, Kanban, Extreme Programming, and are independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). 
 
-User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. Product Owners write functional user stories, while the Scrum Team can contribute non-functional / technical stories. However, any user stories added to the Backlog **must** be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
+User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. Product Owners write functional user stories, while the Scrum Team can contribute non-functional / technical stories. However, any user stories added to the Backlog _***must***_ be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
 
 ### Writing User Stories 
 During Sprint Grooming, groups of features / requirements, or Epics, are broken down into user stories by the Product Owner. Then Sprint Planning is used to estimate the level of effort to complete a user story through tasking by the Scrum Team. 
