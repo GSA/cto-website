@@ -25,8 +25,8 @@ An example:
 When writing a user story, it requires key content:
 * **Description**, or summary of the feature or requirement that meets the business need
 * **Acceptance criteria**, or the actions necessary to call the user story _“done,”_ i.e. meet the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/)
-* And any other items as identified by the team and / or their tool of choice (e.g. Epic, Label, etc.),
-And most importantly, it should be:  
+* And any other items as identified by the team _(e.g. Epic, Label, etc.)_ and / or their tool of choice (e.g. Epic, Label, etc.),
+* And most importantly, it should be:  
 
 <img src="{{ site.baseurl }}/img/guides/invest.png"
   alt="INVEST"
