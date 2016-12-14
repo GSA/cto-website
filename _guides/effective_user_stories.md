@@ -24,11 +24,13 @@ An example:
 
 When writing a user story, it requires key content:
 * **Description**, or summary of the feature or requirement that meets the business need
-* **Acceptance criteria**, or the actions necessary to call the user story “done,” i.e. meet the established Definition of Done (DoD)
+* **Acceptance criteria**, or the actions necessary to call the user story _“done,”_ i.e. meet the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/)
 * And any other items as identified by the team and / or their tool of choice (e.g. Epic, Label, etc.),
 And most importantly, it should be:  
 
-IMAGE  
+<img src="{{ site.baseurl }}/img/guides/invest.png"
+  alt="INVEST"
+  class="guide-image">  
 
 User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives drives its priority. 
 
