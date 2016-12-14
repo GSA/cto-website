@@ -25,7 +25,7 @@ An example:
 When writing a user story, it requires key content:
 * **Description**, or summary of the feature or requirement that meets the business need
 * **Acceptance criteria**, or the actions necessary to call the user story _“done,”_ i.e. meet the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/)
-* And any other items as identified by the team (_e.g. Epic, Label, etc._) and within their tool of choice _(e.g. JIRA, Rally, etc.)_,
+* And any other items as identified by the team _(e.g. Epic, Label, etc.)_ and within their tool of choice _(e.g. JIRA, Rally, etc.)_,
 * And most importantly, it should be: 
 
 <img src="{{ site.baseurl }}/img/guides/invest.png"
@@ -34,7 +34,7 @@ When writing a user story, it requires key content:
 
 User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives drives its priority. 
 
-Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” (_user_), “The What”  (_capability_), and “The Why” (_outcome_) of the increment. For additional detail regarding defining acceptance criteria, check out Defining When a Requirement is Complete.  
+Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_), nd “The Why” _(outcome)_ of the increment. For additional detail regarding defining acceptance criteria, check out [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/)
 
 ### Good Reads
 These are good references for writing user stories:  
