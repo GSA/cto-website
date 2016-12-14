@@ -37,13 +37,13 @@ User story independence is ensured when the delivery increment has been fully de
 Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_), nd “The Why” _(outcome)_ of the increment. For additional detail regarding defining acceptance criteria, check out [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/).
 
 ### Good Reads
-These are good references for writing user stories:  
-* 5 Common Mistakes We Make Writing User Stories
-* 10 Tips for Writing Good User Stories
-* How to Write Great Agile User Stories
-* The Easy Way to Writing Good User Stories
-* Non-functional Requirements as User Stories
-* User Stories: An Agile Introduction
-* User Stories: What is a User Story?
-* Write a Great User Story
-* Your Best Agile User Story
+These are good references for writing user stories
+* [5 Common Mistakes We Make Writing User Stories](https://www.scrumalliance.org/community/articles/2011/august/5-common-mistakes-we-make-writing-user-stories)
+* [10 Tips for Writing Good User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+* [How to Write Great Agile User Stories](https://sprint.ly/blog/agile-user-stories/)
+* [The Easy Way to Writing Good User Stories](http://codesqueeze.com/the-easy-way-to-writing-good-user-stories/)
+* [Non-functional Requirements as User Stories](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
+* [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
+* [User Stories: What is a User Story?](https://www.mountaingoatsoftware.com/agile/user-stories)
+* [Write a Great User Story](https://help.rallydev.com/writing-great-user-story)
+* [Your Best Agile User Story](http://www.alexandercowan.com/best-agile-user-story/)
