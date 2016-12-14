@@ -16,7 +16,7 @@ During Sprint Grooming, groups of features / requirements, or Epics, are broken 
 
 The user story is a short, simple description of a feature / function written from the perspective of the end user:
 
-**_As a [** _type of user_ **], I want [** _some goal, function_ **] so that [** _some reason_ **]._**
+_**As a [** _type of user_ **], I want [** _some goal, function_ **] so that [** _some reason_ **].**_
 
 An example:
 
