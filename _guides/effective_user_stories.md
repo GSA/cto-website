@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-A **User Story** describes a feature, or requirement, that is to be implemented. User stories are used in various Agile frameworks including Scrum, Kanban, Extreme Programming, and are independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). 
+A _**User Story**_ describes a feature, or requirement, that is to be implemented. User stories are used in various Agile frameworks including Scrum, Kanban, Extreme Programming, and are independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). 
 
 User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. Product Owners write functional user stories, while the Scrum Team can contribute non-functional / technical stories. However, any user stories added to the Backlog ***must*** be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
 
@@ -20,8 +20,7 @@ The user story is a short, simple description of a feature / function written fr
 
 An example:
 
-**_As a Leasing Specialist, I want the ability to upload 
-an SF-81 document so that I can attach it to my lease file._**
+**_As a Leasing Specialist, I want the ability to upload an SF-81 document so that I can attach it to my lease file._**
 
 When writing a user story, it requires key content:
 Description, or summary of the feature or requirement that meets the business need
