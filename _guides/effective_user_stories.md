@@ -16,12 +16,12 @@ During Sprint Grooming, groups of features / requirements, or Epics, are broken 
 
 The user story is a short, simple description of a feature / function written from the perspective of the end user:
 
-**_As a <type of user>, I want <some goal, function> so that <some reason>._**
+**_As a [type of user], I want [some goal, function] so that [some reason]._**
 
 An example:
 
-As a Leasing Specialist, I want the ability to upload an SF-81 document 
-so that I can attach it to my lease file.
+<c>**_As a Leasing Specialist, I want the ability to upload 
+an SF-81 document so that I can attach it to my lease file._**<c>
 
 When writing a user story, it requires key content:
 Description, or summary of the feature or requirement that meets the business need
