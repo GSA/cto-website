@@ -16,7 +16,7 @@ During Sprint Grooming, groups of features / requirements, or Epics, are broken 
 
 The user story is a short, simple description of a feature / function written from the perspective of the end user:
 
-As a <type of user>, I want <some goal, function> so that <some reason>.
+**_As a <type of user>, I want <some goal, function> so that <some reason>._**
 
 An example:
 
@@ -39,10 +39,10 @@ Further, testability of the user story is captured in the acceptance criteria; i
 These are good references for writing user stories:  
 * 5 Common Mistakes We Make Writing User Stories
 * 10 Tips for Writing Good User Stories
-*How to Write Great Agile User Stories
-*The Easy Way to Writing Good User Stories
-*Non-functional Requirements as User Stories
-*User Stories: An Agile Introduction
-*User Stories: What is a User Story?
-*Write a Great User Story
-*Your Best Agile User Story
+* How to Write Great Agile User Stories
+* The Easy Way to Writing Good User Stories
+* Non-functional Requirements as User Stories
+* User Stories: An Agile Introduction
+* User Stories: What is a User Story?
+* Write a Great User Story
+* Your Best Agile User Story
