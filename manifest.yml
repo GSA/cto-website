@@ -1,0 +1,8 @@
+---
+applications:
+  - name: cto-website
+    memory: 64M
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+    env:
+      FORCE_HTTPS: true
+    path: _site
