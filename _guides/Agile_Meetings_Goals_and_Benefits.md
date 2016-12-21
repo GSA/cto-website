@@ -76,7 +76,68 @@ Below are some of the benefits of running a successful Sprint daily Scrum meetin
 * High visibility of progress
 * Promotes self-organization in team: team members hold each other accountable for achieving their daily commitments |
 
+
 **The Sprint Review (Demo) Meeting**
+
+| **Purpose:** 
+To provide the platform for the Scrum Team to showcase what they accomplished during the sprint while creating the opportunity to stakeholders to inspect and adapt the product as it emerges, and iteratively refine everyone’s understanding of the requirements. |
+
+| **Who should attend:** 
+
+Product Owner, the Scrum team, the ScrumMaster, management/ stakeholders, customers and developers from other projects. |
+
+| **How it is conducted:**  
+* The ScrumMaster makes administrative arrangements for the review -- reserving the conference rooms, arranging for refreshments, getting additional presentation aids (projectors, whiteboards, flip charts, etc.). 
+* The product owner makes sure key business stakeholders are available to attend and confirm and assess the product or product increment.
+* The Product Owner provides a demonstration of features completed and reviews the commitments made at the Sprint Planning Meeting, and declares which items are accepted and considered done. 
+* Product Owner answers questions and gathers feedback from Stakeholders. 
+* The Scrum Master helps the Product Owner and stakeholders convert their feedback to new Product Backlog Items for prioritization by the Product Owner. |
+
+| **Useful Tips:**
+* Timebox to one hour per week of Sprint length
+* Focus on acceptance criteria - ideally you have defined your Definition of Done during the sprint planning session, so focus your demo around proving that you’re actually done.
+* Prepare and practice before the meeting
+* Center the demo around a realistic user experience and business value (not just proving functionality). |
+
+| **Benefits:** 
+Below are some of the benefits of running a successful Sprint Review meeting: 
+* Stakeholder engagement (early and frequent feedback)
+* Maximizing Responsiveness to Customers
+* Team building and collaboration
+* Maximizing quality. |
+
+
+**The Backlog Refinement (Grooming) Meeting**
+
+| **Purpose:** 
+To review items on the backlog to ensure the backlog contains the appropriate items, that are prioritized, and items that are at the top of the backlog are ready for delivery. |
+
+| **Who should attend:** 
+ Scrum Team, Scrum master, Product Owner |
+
+| **How it is conducted:**  
+Occurs on a regular basis and may be an officially scheduled meeting or an ongoing activity. Some of the activities that occur during this refinement of the backlog include:
+* Refining and removing user stories that no longer appear relevant
+* creating new user stories in response to newly discovered needs
+* Re-assessing the relative priority of stories
+* Assigning estimates to stories 
+* Correcting estimates in light of newly discovered information
+* Splitting user stories which are high priority but too coarse grained to fit in an upcoming iteration/sprint |
+
+| **Useful Tips:**
+* Set a goal for the meeting
+* Treat the backlog refinement meeting just like the first part of the Sprint Planning Meeting
+* Ensure everyone understands that estimates are not final until Sprint backlog items have been accepted into a sprint.
+* Consider doing some informal backlog refinement with SMEs before the full team backlog refinement.
+* Assign action items for questions and any big risks or unknown items |
+
+| **Benefits:** 
+Below are some of the benefits of running a successful Backlog Grooming meeting: 
+* Helps ensure that the backlog remains populated with items that are relevant, detailed and estimated to a degree appropriate with their priority
+* Enables the Team to ask questions and have requirements cleared before sprint planning 
+* Helps the team understand the project or product and its objectives
+* Helps the team break down larger stories into a more manageable, smaller stories, which makes for easier estimating, and saves time during sprint planning session. |
+
 
 
 ------
