@@ -34,7 +34,8 @@ The Product Owner, ScrumMaster and the entire Scrum Team. |
 * Ensure the team asks questions to the Product Owner and stakeholders on unclear requirements. 
 * Plan for collaboration of team members and NOT for optimal ‘resource utilization’ or try to be over efficient with everybody’s time. |
 
-| **Benefits:** Below are some of the benefits of running a successful Sprint Planning meeting: 
+| **Benefits:** 
+Below are some of the benefits of running a successful Sprint Planning meeting: 
 * Enables the Team to agree on the sprint goal and commitment 
 * Creates the platform to communicate dependencies and identify team capacity to set and commit to an achievable sprint goal.
 * Ensures that daily sprints remain productive. |
@@ -66,7 +67,8 @@ The ScrumMaster and the entire Scrum team, Product Owner (optional), and Outside
 * Ensure that each team member remains present till the end of the meeting. 
 * Make sure it is understood this meeting is not a status update meeting in which a boss is collecting information about who is on schedule or behind schedule. Rather, it is a meeting in which team members make commitments to each other. |
 
-| **Benefits:** Below are some of the benefits of running a successful Sprint daily Scrum meeting: 
+| **Benefits:** 
+Below are some of the benefits of running a successful Sprint daily Scrum meeting: 
 * Enables the team to be in sync on how things are going
 * Allows for identification and solution of impediments 
 * Provides an opportunity for small course corrections within the sprint
