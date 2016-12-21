@@ -19,7 +19,6 @@ To define a realistic Sprint goal and backlog containing all items that could be
 The Product Owner, ScrumMaster and the entire Scrum Team. |
 
 | **How it is conducted:**  
-
 * The Product Owner defines the Sprint Goal - a short description of what the sprint will attempt to achieve, clarifies the details on backlog items and their respective acceptance criteria
 * These entries are updated and broken into smaller stories by the team so that they can be completed within one Sprint.
 * The stories are estimated, prioritized and tasked.
@@ -28,7 +27,6 @@ The Product Owner, ScrumMaster and the entire Scrum Team. |
 * The team is ready to start with the daily sprints. |
 
 | **Useful Tips:**
-
 * Timebox the meeting. And stop when you reach that time. 
 * Make sure the Product Owner has the Product Backlog prioritized and ready before the meeting. Use the Definition of Ready (DOR), i.e. only work with stories that are ‘Ready
 * Review and agree on the acceptance criteria and when a given work is considered ‘done’ (use a Definition of Done)
