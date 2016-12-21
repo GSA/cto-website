@@ -48,7 +48,7 @@ To provide a platform for a Scrum team to get together and review progress towar
 
 | **Who should attend:** 
 
-The ScrumMaster and the entire Scrum team, Product Owner (optional), and Outside stakeholders may attend by invitation of the team |
+The Scrum Master and the entire Scrum team, Product Owner (optional), and Outside stakeholders may attend by invitation of the team |
 
 | **How it is conducted:**  
 * During the daily scrum, each team member answers the following three questions:
