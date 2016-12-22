@@ -138,7 +138,39 @@ Below are some of the benefits of running a successful Backlog Grooming meeting:
 * Helps the team understand the project or product and its objectives
 * Helps the team break down larger stories into a more manageable, smaller stories, which makes for easier estimating, and saves time during sprint planning session. |
 
+**The Sprint Retrospective Meeting**
 
+| **Purpose:** 
+A meeting where the team discusses the just-concluded sprint and determines any changes to improve the next sprint. Looks at the “how” or team delivery process. |
+
+| **Who should attend:** 
+Scrum Team, Scrum master, Product Owner (optional) and Note: ideally no management. |
+
+| **How it is conducted:**  
+* Retrospective activities try to address three main questions/points through discussion:
+    *What went well during the sprint cycle?*
+    *What went wrong during the sprint cycle?*
+    *What could we do differently to improve?*
+* Example Topics include:
+    *Milestones, dependencies, motivations, misunderstandings, processes, etc.*
+    *Process and way of working*
+    *Focus on continuous improvement*
+    *Look ahead to mitigate possible risks or concerns*
+* The meeting is facilitated by the ScrumMaster. |
+
+| **Useful Tips:**
+* Gather information/data based on facts 
+* Generate relevant insights - conversations over accusations. Open, honest and constructive.
+* Prioritize and decide on actionable commitments, assigned to a team member with a timeline
+* Revisit issues and check-in on status in the future. |
+
+| **Benefits:** 
+Teams that conduct retrospectives at the end of each sprint (iteration) are able to:
+* Reflect on their process and agree upon a way of working
+* Collectively find ways to improve productivity and reach goals
+* Determine and constantly update the Definition of Done
+* Continuously improve and evolve 
+* Build the team's sense of ownership and its self-management. |
 
 ------
 **More Resources on Agile Meetings**
