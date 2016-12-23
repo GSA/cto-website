@@ -172,6 +172,34 @@ Teams that conduct retrospectives at the end of each sprint (iteration) are able
 * Continuously improve and evolve 
 * Build the team's sense of ownership and its self-management. |
 
+**The Release Planning Meeting** 
+
+| **Purpose:** 
+To commit to a plan for delivering an increment of product value represents the amount of scope that a team intends to deliver by a given deadline. To enable multiple Teams plan development for a product release. |
+
+| **Who should attend:** 
+
+The Scrum master, Product owner, Delivery team or agile team, Stakeholders |
+
+| **How it is conducted:**  
+* The Product owner prepares High-level vision, market, business objectives and a prioritized backlog
+* Scrum master – Facilitates the meeting
+* The Agile Development team – Provide insights into technical feasibility and dependencies, overall capabilities, known velocity, technical impacts, etc. |
+
+| **Useful Tips:**
+* Have a “definition of ready” for backlog items to be discussed during release planning
+* Ensure leadership and stakeholders are present and engaged
+* For small teams, make sure the entire cross-functional team is there to participate for both input and accountability purposes. For larger teams and organizations, a subset of the team may be selected or elected to represent the team.
+* Establish a common baseline for sizing estimates. 
+* Logistics: Create an agenda in advance. Consider room size and breakout rooms or online video conferencing is available for distributed teams. 
+* Plan to limit releases deadlines - typically range between 2 and 12 months. |
+
+| **Benefits:** 
+Below are some of the benefits of running a successful release Planning meeting: 
+* Provides the team a common vision about what needs to be achieved, and when. 
+* Provides the platform for collaboration across multiple teams to identify cross-Team dependencies and sequence of work
+* Guides the team to make informed decisions based on dependency, capacity and available skills. |
+
 ------
 **More Resources on Agile Meetings**
 * [How to Use the Daily Stand-up Meeting Effectively](https://www.scrumalliance.org/community/articles/2012/june/how-to-use-the-daily-stand-up-meeting-effectively#sthash.gn5O13bq.dpuf) 
