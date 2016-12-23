@@ -177,7 +177,7 @@ Teams that conduct retrospectives at the end of each sprint (iteration) are able
 | **Purpose:** 
 To commit to a plan for delivering an increment of product value represents the amount of scope that a team intends to deliver by a given deadline. To enable multiple Teams plan development for a product release. |
 
-| **Who should attend:** 
+| **Who should attend:**
 
 The Scrum master, Product owner, Delivery team or agile team, Stakeholders |
 
