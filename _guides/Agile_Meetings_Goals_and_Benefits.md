@@ -13,8 +13,10 @@ audiences:
 
 | **Purpose:** 
 To define a realistic Sprint goal and backlog containing all items that could be fully implemented until the end of the Sprint by the Scrum team. The sprint planning meeting results in two Scrum Artifacts, the Spring goal and Sprint backlog.
+
 **Who should attend:** 
 The Product Owner, ScrumMaster and the entire Scrum Team.
+
 **How it is conducted:**  
 * The Product Owner defines the Sprint Goal - a short description of what the sprint will attempt to achieve, clarifies the details on backlog items and their respective acceptance criteria
 * These entries are updated and broken into smaller stories by the team so that they can be completed within one Sprint.
@@ -22,6 +24,7 @@ The Product Owner, ScrumMaster and the entire Scrum Team.
 * The Scrum Team defines their capacity for the upcoming Sprint - the total capacity of the Scrum Team might change from Sprint to Sprint. In order to come to realistic commitments it is necessary to know the total capacity of the team for the upcoming Sprint considering e.g. vacations, public holidays, efforts for Scrum Meetings and time needed for other activities during the Sprint.
 * Tasks are taken up by the team members based on their experience levels and expertise
 * The team is ready to start with the daily sprints.
+
 **Useful Tips:**
 * Timebox the meeting. And stop when you reach that time. 
 * Make sure the Product Owner has the Product Backlog prioritized and ready before the meeting. Use the Definition of Ready (DOR), i.e. only work with stories that are ‘Ready
@@ -29,6 +32,7 @@ The Product Owner, ScrumMaster and the entire Scrum Team.
 * The Scrum Team selects how much work they can do in the coming sprint based on their capacity (not influenced by the Product Owner).
 * Ensure the team asks questions to the Product Owner and stakeholders on unclear requirements. 
 * Plan for collaboration of team members and NOT for optimal ‘resource utilization’ or try to be over efficient with everybody’s time.
+
 **Benefits:** 
 Below are some of the benefits of running a successful Sprint Planning meeting: 
 * Enables the Team to agree on the sprint goal and commitment 
