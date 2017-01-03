@@ -10,7 +10,7 @@ audiences:
 ### Scrum Meetings, AKA Ceremonies
 
 **The Sprint Planning Meeting** 
-|**Purpose:** 
+**Purpose:** 
 To define a realistic Sprint goal and backlog containing all items that could be fully implemented until the end of the Sprint by the Scrum team. The sprint planning meeting results in two Scrum Artifacts, the Spring goal and Sprint backlog.
 
 **Who should attend:** 
@@ -36,13 +36,13 @@ The Product Owner, ScrumMaster and the entire Scrum Team.
 Below are some of the benefits of running a successful Sprint Planning meeting: 
 * Enables the Team to agree on the sprint goal and commitment 
 * Creates the platform to communicate dependencies and identify team capacity to set and commit to an achievable sprint goal.
-* Ensures that daily sprints remain productive.|
+* Ensures that daily sprints remain productive.
 
 
 
 **The Daily Scrum / Stand-up** 
 
-| **Purpose:** 
+**Purpose:** 
 To provide a platform for a Scrum team to get together and review progress toward their Sprint goal and assess any risks to their Sprint commitment.
 
 **Who should attend:** 
@@ -72,12 +72,12 @@ Below are some of the benefits of running a successful Sprint daily Scrum meetin
 * Provides an opportunity for small course corrections within the sprint
 * Building trust between team members 
 * High visibility of progress
-* Promotes self-organization in team: team members hold each other accountable for achieving their daily commitments.|
+* Promotes self-organization in team: team members hold each other accountable for achieving their daily commitments.
 
 
 **The Sprint Review (Demo) Meeting**
 
-| **Purpose:** 
+**Purpose:** 
 To provide the platform for the Scrum Team to showcase what they accomplished during the sprint while creating the opportunity to stakeholders to inspect and adapt the product as it emerges, and iteratively refine everyone’s understanding of the requirements.
 
 **Who should attend:** 
@@ -107,7 +107,7 @@ Below are some of the benefits of running a successful Sprint Review meeting:
 
 **The Backlog Refinement (Grooming) Meeting**
 
-| **Purpose:** 
+**Purpose:** 
 To review items on the backlog to ensure the backlog contains the appropriate items, that are prioritized, and items that are at the top of the backlog are ready for delivery.
 
 **Who should attend:** 
