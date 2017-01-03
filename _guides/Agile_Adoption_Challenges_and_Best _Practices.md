@@ -1,5 +1,5 @@
 ---
-title: Agile Adoption at GSA
+title: Agile Adoption Challenges and Best Practices
 category: Agile
 audiences:
   - Developers
