@@ -4,7 +4,6 @@ audiences:
   - Developers
   - Designers
   - Project Managers
-  
 ---
 
 ### Scrum Meetings, AKA Ceremonies
