@@ -15,7 +15,6 @@ audiences:
 To define a realistic Sprint goal and backlog containing all items that could be fully implemented until the end of the Sprint by the Scrum team. The sprint planning meeting results in two Scrum Artifacts, the Spring goal and Sprint backlog. |
 
 | **Who should attend:** 
-
 The Product Owner, ScrumMaster and the entire Scrum Team. |
 
 | **How it is conducted:**  
