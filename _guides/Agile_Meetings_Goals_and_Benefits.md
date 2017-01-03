@@ -10,8 +10,7 @@ audiences:
 ### Scrum Meetings, AKA Ceremonies
 
 **The Sprint Planning Meeting** 
-
-| **Purpose:** 
+|**Purpose:** 
 To define a realistic Sprint goal and backlog containing all items that could be fully implemented until the end of the Sprint by the Scrum team. The sprint planning meeting results in two Scrum Artifacts, the Spring goal and Sprint backlog.
 
 **Who should attend:** 
@@ -37,7 +36,8 @@ The Product Owner, ScrumMaster and the entire Scrum Team.
 Below are some of the benefits of running a successful Sprint Planning meeting: 
 * Enables the Team to agree on the sprint goal and commitment 
 * Creates the platform to communicate dependencies and identify team capacity to set and commit to an achievable sprint goal.
-* Ensures that daily sprints remain productive. |
+* Ensures that daily sprints remain productive.|
+
 
 
 **The Daily Scrum / Stand-up** 
