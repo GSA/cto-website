@@ -12,7 +12,7 @@ Visibility provides **transparency** into the development process. It is the abi
 
 In an Agile environment, **visibility** is not only privy to key stakeholders, but also end users as they engage in a continuous cycle of feedback, acceptance testing, and iteration demos. Insight into the development process enables “Responding to change over following a plan” ([Agile Manifesto](http://agilemanifesto.org/)) and is inherent to most Agile frameworks, like Scrum, Kanban, etc.
 
-**Communication** in an Agile environment should be consistent, not limited to a scheduled status report or meeting. Further, as Joseph Flahiff notes in Integrating Agile into a Waterfall World, we must “constantly communicate the boundary between the project and the product” so that we ensure value is clear and we remain focused on the “delivery of the project, within the context of the product.”
+**Communication** in an Agile environment should be consistent, not limited to a scheduled status report or meeting. Further, as Joseph Flahiff notes in [Integrating Agile into a Waterfall World](https://www.infoq.com/articles/agile-in-waterfall-world), we must “constantly communicate the boundary between the project and the product” so that we ensure value is clear and we remain focused on the “delivery of the project, within the context of the product.”
 
 ### What information is important in communicating status? 
 Well, it depends. What information is needed to support the team? What information will convey the team’s internal, or external, impacts or dependencies? Most importantly, what information will drive management / executive decisions, including the project schedule, time to market, etc.? 
