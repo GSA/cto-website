@@ -24,14 +24,14 @@ At the project level, status should revolve around the prioritization of tasks a
 ### What tools can I use to support visibility and transparency? 
 Remember, Agile is a mindset - it is not a process or tool. Attitudes, business processes, and approaches to projects, and products, must change first. Most importantly, C-suite executives should encourage the adoption process, keep the pace [for the organization], and identify management activities that can be supported through Agile adoption ([Rigby, et al](https://hbr.org/2016/05/embracing-agile)). Further, managers and executives should provide timely feedback and business decisions, and ensure appropriate removal of team impediments.
 
-With these supporting changes in place, Agile teams can incorporate a working board, using a whiteboard with post-it notes or index cards to convey status. Teams can also use virtual tracking or visibility tools such as JIRA, Rally, VersionOne,etc. to display their working boards in electronic format. While working boards should be updated as their status changes, communication regarding progress is guaranteed during standups, iteration demos and reviews (Scrum). Whether on a specific wall, or in a room, or even a shared link, the team’s progress is visible and transparent to all. 
+With these supporting changes in place, Agile teams can incorporate a working board, using a whiteboard with post-it notes or index cards to convey status. Teams can also use virtual tracking or visibility tools such as JIRA, Rally, VersionOne, etc. to display their working boards in electronic format. While working boards should be updated as their status changes, communication regarding progress is guaranteed during standups, iteration demos and reviews (Scrum). Whether on a specific wall, or in a room, or even a shared link, the team’s progress is visible and transparent to all. 
 
 ### Good Reads 
 These are good references for understanding the visibility and status in an Agile environment:
-* 4 Benefits of a Transparent Work Environment
-* Controlling agile development in a project portfolio framework
-* Embracing Agile
-* Integrating Agile into a Waterfall World
-* Transitioning Toward a New Organizational Paradigm
-* (In Agile) Where do all the managers go?
-* Why is visibility so important in scrum / any agile team?
+* [4 Benefits of a Transparent Work Environment](https://www.liquidplanner.com/blog/why-transparency-matters-and-how-to-make-it-happen/)
+* [Controlling agile development in a project portfolio framework](http://www.networkworld.com/article/2183797/tech-primers/controlling-agile-development-in-a-project-portfolio-framework.html)
+* [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
+* [Integrating Agile into a Waterfall World](https://www.infoq.com/articles/agile-in-waterfall-world)
+* [Transitioning Toward a New Organizational Paradigm](http://www.robbinsgioia.com/downloads/perspectives/program-management-agile.pdf)
+* [(In Agile) Where do all the managers go?](http://www.disciplinedagiledelivery.com/where-managers-go/)
+* [Why is visibility so important in scrum / any agile team?](https://charlenedickson.wordpress.com/why-is-visibility-so-important-in-scrum-any-agile-team/)
