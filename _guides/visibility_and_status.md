@@ -7,6 +7,8 @@ audiences:
   - Project Managers
 ---
 
+As organizations and teams work towards becoming more Agile, the nature of communication must change. Information should be readily available and visible.
+
 ### How are visibility and status communicated differently?
 Visibility provides **transparency** into the development process. It is the ability to see progress at any point and determine the distance to completion of a goal. Visibility provides **status** of not only the progress of the project, but the product itself.
 
