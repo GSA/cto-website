@@ -37,7 +37,7 @@ User story independence is ensured when the delivery increment has been fully de
 Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail regarding defining acceptance criteria, check out [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/).
 
 ### Good Reads
-These are good references for writing user stories
+These are good references for writing user stories:
 * [5 Common Mistakes We Make Writing User Stories](https://www.scrumalliance.org/community/articles/2011/august/5-common-mistakes-we-make-writing-user-stories)
 * [10 Tips for Writing Good User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 * [How to Write Great Agile User Stories](https://sprint.ly/blog/agile-user-stories/)
