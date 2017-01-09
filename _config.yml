@@ -53,6 +53,12 @@ intake:
     button: Submit
     privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice.</a>
     fields:
+      - type: submitter name
+        name: entry.20395120
+        label: Your Name
+      - type: submitter email
+        name: entry.525550689
+        label: Your Email
       - type: problem statement
         name: entry.1314705153
         label: Problem Statement
