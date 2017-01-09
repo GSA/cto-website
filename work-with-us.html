@@ -30,7 +30,7 @@ permalink: /work-with-us/
   <fieldset>
 <div class="usa-grid">
     <div class="usa-width-one-half">
-      {% for field in f.fields limit:6 %}
+      {% for field in f.fields limit:6 %} <!-- only show the first 6 form fields -->
         {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
         <input id="contact-{{ field.name }}"
           name="{{ field.name }}" type="{{ field.type }}"
@@ -38,7 +38,7 @@ permalink: /work-with-us/
       {% endfor %}
     </div>
       <div class="usa-width-one-half">
-        {% for field in f.fields offset:6 %}
+        {% for field in f.fields offset:6 %} <!-- start at position 6 and show the rest of the fields in the set -->
           {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
           <input id="contact-{{ field.name }}"
             name="{{ field.name }}" type="{{ field.type }}"
