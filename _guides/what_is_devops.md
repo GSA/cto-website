@@ -40,19 +40,19 @@ Mind the Product has created an informative list of useful DevOps terminology. T
 
 ### Good Reads 
 These are good references for understanding DevOps, Continuous Integration (CI), and Continuous Delivery (CD):
-* 12factor.net: The Twelve-Factor App
-* 2016 Version Control Software Comparison: SVN, Git, Mercurial
-* Best Version Control Systems
-* Cloud.gov
-* DevOps.com
-* DevOps and Agile
-* DevOps Handbook
-* Continuous integration
-* Gartner and Software Advice examine Agile Lifecycle Management Tools
-* MartinFowler.com: ContinuousDelivery
-* ShiwaForce: What is DevOps?
-* The Agile Admin: What is DevOps?
-* The business case for continuous delivery
-* The Phoenix Project
-* The Product Managers’ Guide to Continuous Delivery and DevOps
-* Top 5 open source version control tools for system admins
+* [12factor.net: The Twelve-Factor App]()
+* [2016 Version Control Software Comparison: SVN, Git, Mercurial]()
+* [Best Version Control Systems]()
+* [Cloud.gov]()
+* [DevOps.com]()
+* [DevOps and Agile]()
+* [DevOps Handbook]()
+* [Continuous integration]()
+* [Gartner and Software Advice examine Agile Lifecycle Management Tools]()
+* [MartinFowler.com: ContinuousDelivery]()
+* [ShiwaForce: What is DevOps?]()
+* [The Agile Admin: What is DevOps?]()
+* [[The business case for continuous delivery]()
+* [The Phoenix Project]()
+* [The Product Managers’ Guide to Continuous Delivery and DevOps]()
+* [Top 5 open source version control tools for system admins]()
