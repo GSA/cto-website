@@ -17,9 +17,9 @@ audiences:
 
 **Continuous Integration (CI)**: The practice of developers ensuring that code is frequently checked in and integration tested with its dependencies with each check-in.
 
-**Development Environment**: Where developers create, integrate, build, and test code.
-
 **Deployment Pipeline, or Pipeline**: This is the set of phases that code changes go through before it is complete and ready to be delivered to production; typically includes a “build," “unit test,” “functional test,” “performance test,” and “deploy” phases. Various automated tests can be run at different stages. Only once the code goes through the entire deployment pipeline can the software be delivered to production.
+
+**Development Environment**: Where developers create, integrate, build, and test code.
 
 **Green Build**: A green build, or version, is one that has passed the tests for that particular stage of the development and delivery process. Generally, a build or version of the software will not be promoted to the next stage of the deployment pipeline unless it is “green." The opposite of a green build is a red build (see below).
 
