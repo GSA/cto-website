@@ -7,9 +7,13 @@ audiences:
   - Project Managers
 ---
 
-**Checking in**: The process of pushing local development code changes to the common source repository.
+**Checking In**: The process of pushing local development code changes to the common source repository.
 
 **CI Server**: A tool used to build and test source code. The CI Server will tell a developer if their latest code builds were successful and if they continue to pass tests.
+
+**Continuous Delivery**: The process of pushing local development code changes to the common source repository.
+
+**Continuous Integration**: The process of pushing local development code changes to the common source repository.
 
 **Development Environment**: Where developers create, integrate, build, and test code.
 
@@ -17,7 +21,7 @@ audiences:
 
 **Green Build**: A green build, or version, is one that has passed the tests for that particular stage of the development and delivery process. Generally, a build or version of the software will not be promoted to the next stage of the deployment pipeline unless it is “green." The opposite of a green build is a red build (see below).
 
-**Incremental Development**: Not to be confused with *Iterative Development* (see below). Incremental Development is where a little bit of the product gets built at a time until it is all complete. Pieces are added on in each increment, and those increments may be small or large. You can use CI with incremental development but it can be harder to achieve Continuous Delivery or Continuous Deployment with incremental development, as you must wait until all increments are completed to deliver value. A great illustration of the difference between Incremental and Iterative development is Jeff Paton’s Mona Lisa.
+**Incremental Development**: Not to be confused with *Iterative Development* (see below). In Incremental Development, a small chunk of the product gets built at a time until it is all complete. Pieces are added on in each increment, and those increments may be small or large. You can use CI with incremental development, but it can be harder to achieve Continuous Delivery or Continuous Deployment with incremental development, as you must wait until all increments are completed to deliver value. A great illustration of the difference between Incremental and Iterative development is Jeff Paton’s Mona Lisa.
 
 **Integration**: All code that is written by individuals or teams needs to be combined. We call this integration. In continuous integration, we generally mean software from individuals needs to be consolidated on a regular basis. In continuous delivery, we often mean software from different teams is integrated together to create the whole product.
 
