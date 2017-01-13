@@ -10,12 +10,12 @@ audiences:
 DevOps is best described as the conventions and practices that create collaborative and communicative partnership between development and operation groups. These practices incorporate two concepts that contribute to the automation of the process of software delivery and infrastructure changes.
 
 OLD IMAGE
-<img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
+<img src="{{ site.baseurl }}/img/guides/Mind_the_Product_old_way.png"
   alt="Mind the Product: Old Way"
   class="guide-image guide-image-half">
 
 NEW IMAGE
-<img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
+<img src="{{ site.baseurl }}/img/guides/Mind_the_Product_new_way.png"
   alt="Mind the Product: New Way"
   class="guide-image">
 
