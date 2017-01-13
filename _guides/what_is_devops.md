@@ -11,11 +11,11 @@ DevOps is best described as the conventions and practices that create collaborat
 
 <img src="{{ site.baseurl }}/img/guides/Mind_the_Product_old_way.png"
   alt="Mind the Product: Old Way"
-  class="guide-image guide-image-half">
+  class="guide-image">
 
 <img src="{{ site.baseurl }}/img/guides/Mind_the_Product_new_way.png"
   alt="Mind the Product: New Way"
-  class="guide-image  guide-image-half">
+  class="guide-image guide-image-half">
 
 ### Continuous Integration (CI)
 Continuous Integration (CI) is the practice of developers ensuring that code is frequently checked in and integration tested with its dependencies with each check-in. Based on the methods and practices developed by Rational (IBM) programmer, Grady Booth, continuous integration has provided the foundation for a number of subsequent frameworks, including Extreme Programming (XP).
