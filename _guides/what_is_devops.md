@@ -16,13 +16,13 @@ NEW IMAGE
 ### Continuous Integration (CI)
 Continuous Integration (CI) is the practice of developers ensuring that code is frequently checked in and integration tested with its dependencies with each check-in. Based on the methods and practices developed by Rational (IBM) programmer, Grady Booth, continuous integration has provided the foundation for a number of subsequent frameworks, including Extreme Programming (XP).
 
-According to the Agile Alliance, the goals of CI are “to minimize the duration and effort required by each integration episode and to be able to deliver a product version suitable for release at any moment.” Achievement of these goals is supported through not only automation, but also the use of version control tools (e.g. SVN, GIT, Mercurial, etc.) and team working agreements that promote continuous code integration.
+According to the [Agile Alliance](https://www.agilealliance.org/glossary/continuous-integration/), the goals of CI are “to minimize the duration and effort required by each integration episode and to be able to deliver a product version suitable for release at any moment.” Achievement of these goals is supported through not only automation, but also the use of version control tools (e.g. [SVN, GIT, Mercurial, etc.](https://biz30.timedoctor.com/git-mecurial-and-cvs-comparison-of-svn-software/)) and team working agreements that promote continuous code integration.
 
 ### Continuous Delivery (CD)
-Continuous Delivery (CD), according to ThoughtWorks, can also help large organizations become lean, agile, and innovative. “Through reliable, low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market and changes to business strategy. Test, support, development and operations work together as one delivery team to automate and streamline the build, test and release process.”
+Continuous Delivery (CD), according to [ThoughtWorks](https://www.thoughtworks.com/continuous-delivery), can also help large organizations become lean, agile, and innovative. “Through reliable, low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market and changes to business strategy. Test, support, development and operations work together as one delivery team to automate and streamline the build, test and release process.”
 
 ### Common DevOps Terms
-Mind the Product has created an informative list of useful DevOps terminology. The definitions can be found in our [DevOps Glossary](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/devops_glossary/).
+[Mind the Product](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/) has created an informative list of useful DevOps terminology. The definitions can be found in our [DevOps Glossary](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/devops_glossary/).
 * Checking in
 * CI server
 * Development environment
