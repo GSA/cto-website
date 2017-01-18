@@ -1,6 +1,6 @@
 ---
 title: DevOps Glossary
-category: Agile
+category: DevOps
 audiences:
   - Developers
   - Designers

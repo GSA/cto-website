@@ -1,6 +1,6 @@
 ---
 title: What is DevOps?
-category: Agile
+category: DevOps
 audiences:
   - Developers
   - Designers
@@ -42,7 +42,7 @@ Continuous Delivery (CD), according to [ThoughtWorks](https://www.thoughtworks.c
 * Test automation
 * Unit tests
 
-### Good Reads 
+### Good Reads
 These are good references for understanding DevOps, Continuous Integration (CI), and Continuous Delivery (CD):
 * [12factor.net: The Twelve-Factor App](https://12factor.net/)
 * [2016 Version Control Software Comparison: SVN, Git, Mercurial](https://biz30.timedoctor.com/git-mecurial-and-cvs-comparison-of-svn-software/)

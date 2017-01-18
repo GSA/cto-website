@@ -9,3 +9,6 @@
 
 - name: Development
   slug: development
+
+- name: DevOps
+  slug: devops
