@@ -27,7 +27,7 @@ The Product Owner, ScrumMaster and the entire Scrum Team.
 
 **Useful Tips:**
 * Timebox the meeting. And stop when you reach that time. 
-* Make sure the Product Owner has the Product Backlog prioritized and ready before the meeting. Use the Definition of Ready (DOR), i.e. only work with stories that are ‘Ready
+* Make sure the Product Owner has the Product Backlog prioritized and ready before the meeting. Use the Definition of Ready (DOR), i.e. only work with stories that are ‘Ready'
 * Review and agree on the acceptance criteria and when a given work is considered ‘done’ (use a Definition of Done)
 * The Scrum Team selects how much work they can do in the coming sprint based on their capacity (not influenced by the Product Owner).
 * Ensure the team asks questions to the Product Owner and stakeholders on unclear requirements. 
