@@ -19,6 +19,7 @@ The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on customer c
 * **Leadership by Engagement:** leadership and senior management support agility and collaboration practices through making the organizational and cultural changes and actively participating in projects to bring business units, IT, and customers together as a team. 
 
 **Collaboration Tools and Techniques**
+
 Supporting an organization’s move towards agility needs technological tools that minimize siloes and drive change in the organization. There are various tools and techniques that can be used to ensure business users are involved throughout the entire project lifecycle. Some noteworthy examples of Agile approaches and tools are highlighted below.
 
    *Agile Meetings and Activities* 
