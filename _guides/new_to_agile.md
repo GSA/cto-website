@@ -1,5 +1,5 @@
 ---
-title: A Guide: New to Agile?
+title: 'A Guide: New to Agile?'
 category: Agile
 audiences:
   - Developers
