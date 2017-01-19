@@ -1,5 +1,5 @@
 ---
-title: Agile Meetings Goals and Benefits
+title: Agile Meetings: Goals and Benefits
 category: Agile
 audiences:
   - Developers
