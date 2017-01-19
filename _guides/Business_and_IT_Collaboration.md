@@ -22,6 +22,7 @@ The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on customer c
 Supporting an organization’s move towards agility needs technological tools that minimize siloes and drive change in the organization. There are various tools and techniques that can be used to ensure business users are involved throughout the entire project lifecycle. Some noteworthy examples of Agile approaches and tools are highlighted below.
 
    *Agile Meetings and Activities* 
+   
    There are a number of regular activities and meetings that take place among Agile Team members and stakeholders that emphasize    collaboration and the flexibility to adapt to changing business realities. Each meeting/activity in Agile methodologies has a specific [purpose and multiple benefits](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/Agile_Meetings_Goals_and_Benefits/). Below are some examples on how customers and business units can ensure engagement within Agile teams:
 * Participating in product demonstrations
 * Reviewing and providing timely feedback and business decisions, 
