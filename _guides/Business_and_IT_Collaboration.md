@@ -7,7 +7,6 @@ audiences:
   - Project Managers
 ---
 
-### Business and IT Collaboration
 
 Technology and software are shaping industries and transforming the way business is done. As organizations evolve, business leaders are increasingly recognizing that continuous learning and responsiveness thrive only on the foundations of collaboration and for business engagement.
 
