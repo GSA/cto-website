@@ -21,7 +21,25 @@ The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on customer c
 **Collaboration Tools and Techniques**
 Supporting an organization’s move towards agility needs technological tools that minimize siloes and drive change in the organization. There are various tools and techniques that can be used to ensure business users are involved throughout the entire project lifecycle. Some noteworthy examples of Agile approaches and tools are highlighted below.
 
-      **Agile Meetings and Activities** 
-    There are a number of regular activities and meetings that take place among Agile Team members and stakeholders that emphasize    collaboration and the flexibility to adapt to changing business realities. Each meeting/activity in Agile methodologies has a specific [purpose and multiple benefits](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/Agile_Meetings_Goals_and_Benefits/). Below are some examples on how customers and business units can ensure engagement within Agile teams:
+   *Agile Meetings and Activities* 
+   There are a number of regular activities and meetings that take place among Agile Team members and stakeholders that emphasize    collaboration and the flexibility to adapt to changing business realities. Each meeting/activity in Agile methodologies has a specific [purpose and multiple benefits](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/Agile_Meetings_Goals_and_Benefits/). Below are some examples on how customers and business units can ensure engagement within Agile teams:
+* Participating in product demonstrations
+* Reviewing and providing timely feedback and business decisions, 
+* Clarifying requirements on ongoing basis
+* Ensuring appropriate removal of team impediments.
+* Performing user acceptance tests
+* Approving changes to requirements, etc.
 
+*Technology Tools*
 
+Organizations are faced with the challenges to support distributed workers, attract global and mobile talent and connect a worldwide ecosystem of customers and project teams. A wide variety of software products are available for organizations to choose from, inline with their needs and unique organizational culture.  To this end, technology resources need to support constant mobility, real-time, quality and reliable collaboration.
+Some examples of the top collaboration tools will provide organizations with the ability to:
+* Manage requirements and collaborate, real-time on documents/prototyping - example software include ActiveColab, MindMapping softwares, Visio, Google Drive, etc.
+* Virtual prioritization, tasking, and [visually track status](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/visibility_and_status/) in an agile environment - top available tools include JIRA, Rally, VersionOne, Trello, etc. 
+
+**Additional Reads**
+* [Bring Agile to the Whole Organization - Harvard Business Review](https://hbr.org/2014/11/bring-agile-to-the-whole-organization)
+* [Agile-management-and-leadership](http://searchsoftwarequality.techtarget.com/feature/FAQ-Agile-management-and-leadership)
+* [Finding Ways to Improve Business – IT Collaboration](https://www.infoq.com/news/2013/06/improve-business-it-cooperation)
+* [Developer picks 7 hot tools for agile development](http://searchsoftwarequality.techtarget.com/feature/FAQ-Agile-management-and-leadership)
+* [Enhance Collaboration Between Business and the IT Department](http://www.cio.com/article/2445035/collaboration/enhance-collaboration-between-business-and-the-it-department.html)
