@@ -10,6 +10,11 @@ audiences:
 
 Technology and software are shaping industries and transforming the way business is done. As organizations evolve, business leaders are increasingly recognizing that continuous learning and responsiveness thrive only on the foundations of collaboration and for business engagement.
 
+<img src="{{ site.baseurl }}/img/guides/collaboration_0.jpg"
+  alt="Business and IT collaboration"
+  class="guide-image">
+  
+
 The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on customer collaboration, specifically consistent interaction of the customer with the product at every phase of the development lifecycle. When used effectively, Agile frameworks can improve collaboration between leaders, managers, end-users and the development team. True agility enables business processes and engagement throughout the development process, resulting in the production and delivery of successful products that help end-users do their jobs better. 
 
 **What is Effective Collaboration?**  
