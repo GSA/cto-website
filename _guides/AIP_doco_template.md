@@ -1,5 +1,5 @@
 ---
-title: GSA API Documentation Template
+title: API Documentation Template
 category: Development
 audiences:
   - Developers
