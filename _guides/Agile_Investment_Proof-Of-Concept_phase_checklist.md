@@ -17,8 +17,8 @@ During the PoC Phase:
 
 **Scope and Approach**
 * PoC scope is defined
-* High-level business needs have been identified prioritized
-* High-level technical needs and requirements have been identified prioritized
+* High-level business needs have been identified and prioritized
+* High-level technical needs and requirements have been identified and prioritized
 * Approach for PoC phase had been defined
 
 
