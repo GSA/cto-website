@@ -41,6 +41,10 @@ The core Scrum Team Members must...
 
 Throughout the pilot phases, the Core Implementation Team leverages the Scrum approach to manage requirements and tasks. The roles include:
 
+<img src="{{ site.baseurl }}/img/guides/scrum-team.jpg"
+  alt="Bravent.net Scrum Team"
+  class="guide-image guide-image-half">
+
 **Scrum Master** serves as facilitator for the Team; enables the Team to self-organize and make changes quickly; manages the agile process for how information is exchanged. The Scrum Master is essentially "The Coach" of the Team.
 
 **Product Owner** is responsible for communicating product vision; prioritizing the Product Backlog; clarifying requirements; accepting / rejecting each product increment; is empowered to decide whether the product increment is done or "shippable."
