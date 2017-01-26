@@ -64,7 +64,7 @@ The result, or the answer to **“[What’s in it for me?!](https://hbr.org/2016
 In GSA IT, we are currently pursuing Agile adoption through the formation of Scrum [pilot teams]({{ site.baseurl }}/guides/agile_pilot_teams/) that support the Agile Investment process. **“[Agile Investment]({{ site.baseurl }}/guides/agile_investment_overview/)”** is a phased approach to piloting potential solution investments that create a stronger partnership between the Business and IT; thereby increasing collaboration, providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
 ### How Do We “Be”-come More Agile?
-Agile adoption begins with a top-down approach; it must be fully supported by the entire organization. As we develop an enterprise-wide strategy, we will continue to focus on project-level implementations through our Agile Investment approach.
+Agile adoption begins with a top-down approach; it must be fully supported by the entire organization. While it can be challenging, there are [best practices]({{ site.baseurl }}/guides/Agile_Adoption_Challenges_and_Best-_Practices/) that can serve as a guide throughout transition. As we develop an enterprise-wide strategy, we will continue to focus on project-level implementations through our Agile Investment approach.
 
 Through Agile Investment, the CTO Office introduces business and development team members to Scrum (and Kanban). We coach pilot teams in developing agile processes, establishing working agreements for delivery, and in creating a supportive infrastructure with tools and standards that can be leveraged enterprise-wide.
 
