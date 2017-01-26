@@ -1,5 +1,5 @@
 ---
-title: Agile Adoption at GSA
+title: Agile Adoption
 category: Agile
 audiences:
   - Developers
