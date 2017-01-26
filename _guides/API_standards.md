@@ -17,6 +17,6 @@ In short, we consider the following as good practice:
 4. Utilize [api.data.gov](http://api.data.gov/docs/gsa/) as a gateway to your APIs. This provides key management, analytics, and throttling.
 5. Use JSON!  There are other types of machine-readable formats that would work but recently JSON has become the most common and easiest to use.
 6. Consider keys, HTTPs, error handling, etc.  These need to be executed on the GSA side to provide users appropriate access and messaging.
-7. Use the [GSA API Documentation Template](https://github.com/GSA/api-documentation-template)  Clone it, change it, make it look good, make it work for consumers.
+7. Use the [GSA API Documentation Template](https://github.com/GSA/api-documentation-template).  Clone it, change it, make it look good, make it work for consumers.
 
-Good API management starts with the program office that recognizes the need to expose data in an easy to understand way.  APIs create the connection to share with external customers, support mobile apps, transition from legacy, and many other situations.
+Good API management starts with the program office that recognizes the need to expose data in an easy to understand way.  APIs create the connection to share with external customers, support mobile apps, transition from legacy technology, and many other situations.
