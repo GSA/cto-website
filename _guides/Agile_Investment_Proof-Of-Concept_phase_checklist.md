@@ -25,14 +25,14 @@ During the PoC Phase:
 **People and Resources**
 * Sponsoring Department/Executive has been defined
 * Key personnel resources and skill sets identified and secured
-* Assigned Product Owner from the Business Team
+	* Assigned Product Owner from the Business Team
 	* Assigned Scrum Master
 	* Agile coaching support and guidance 
 * Team members are fully dedicated to the PoC effort
 
 **Development Environment** 
-* Has development environment been defined? (e.g. test/dev environment, production, etc.)
-* Has required access been identified, requested and setup completed?
+* Development environment defined (e.g. test/dev environment, production, etc.)
+* Access requirements identified, requested and setup completed
 
    **PoC *Output* Checklist**
 
@@ -51,10 +51,6 @@ During the PoC Phase:
 	* Assigned Scrum Master
 	* Agile coaching support and guidance 
 * Team members are fully dedicated to the Prototype effort
-
-**Development Environment** 
-* Has development environment been defined? (e.g. test/dev environment, production, etc.)
-* Has required access been identified, requested and setup completed?
 
 **Existing Solutions and Systems** 
 * Has it been specified if the solution requested is a feature fix or capability enhancement on an existing platform?
