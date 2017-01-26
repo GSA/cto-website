@@ -40,7 +40,6 @@ Below are some of the benefits of running a successful Sprint Planning meeting:
 * Ensures that daily sprints remain productive.
 
 
-
 **The Daily Scrum / Stand-up** 
 
 **Purpose:** 
@@ -53,7 +52,7 @@ The Scrum Master and the entire Scrum team, Product Owner (optional), and Outsid
 * During the daily scrum, each team member answers the following three questions:
   * What did the team do yesterday?
     What will the team do today?
-    Are there any impediments in the way? *
+    Are there any impediments in the way?
 * By focusing on what each person accomplished yesterday and will accomplish today, the team gains an understanding of what work has been done and what work remains.
 
 **Useful Tips:**
@@ -140,7 +139,7 @@ Below are some of the benefits of running a successful Backlog Grooming meeting:
 
 **The Sprint Retrospective Meeting**
 
-| **Purpose:** 
+**Purpose:** 
 A meeting where the team discusses the just-concluded sprint and determines any changes to improve the next sprint. Looks at the “how” or team delivery process.
 
 **Who should attend:** 
@@ -174,7 +173,7 @@ Teams that conduct retrospectives at the end of each sprint (iteration) are able
 
 **The Release Planning Meeting** 
 
-| **Purpose:** 
+**Purpose:** 
 To commit to a plan for delivering an increment of product value represents the amount of scope that a team intends to deliver by a given deadline. To enable multiple Teams plan development for a product release.
 
 **Who should attend:**
