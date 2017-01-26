@@ -19,9 +19,17 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Inadequate experience with Agile approaches.** For most new Agile teams, members are typically inexperienced in applying basic Agile practices and unfamiliar with successful agile transformations. An Agile process will expose problems and issues with the project more quickly than a more traditional development process; addressing such and what to do about those problems and issues is also not always very clear to new and inexperienced Agile teams.  Challenges can surface in prioritization, breaking up requirements into testable and independent increments, understanding and communicating problems that need to be addressed on a retrospective, etc. that add up and make the difference for the team’s success or failure with Agile.  
 
+<img src="{{ site.baseurl }}/img/guides/InadequateAgileExperience.png"
+  alt="Inadequate Experience with Agile"
+  class="guide-image">
+
 *Recommendation*: Understand that inexperienced teams need more formal process and guidance. Focus on collaborating to design an intuitive product or process rather than extensive training. Include an experienced Agile resource to coach on the team that has strong experience practicing Agile methods, and experience being successful with Agile. Optimize work with distributed teams using easily accessible, intuitive communication and collaboration tools. If possible, keep team members stable on a project until the project is completed. This will help teams mature and develop a cadence and well-defined velocities that provide better predictability to product owners and stakeholders. Invest in making training and continued coaching guidance available for the teams to consult. Encourage a learning organization by launching a community of practice. 
 
 **Lack of management support.** Typically this relates to ‘middle management’ lack of trust for a new process, lack of understanding of changing roles and a lack of engagement or buy-in to the new process. In most enterprise wide agile implementation efforts, it is common for teams and executive to have great enthusiasm for the effort. However, in the absence of a strong Agile transformation plan, project and program managers or, functional “resource” managers often feel isolated mainly because their roles are no longer clear. This results in a general resistance and creates additional barriers to further Agile adoption and success.
+
+<img src="{{ site.baseurl }}/img/guides/MgtSupport.png"
+  alt="Lack of management support"
+  class="guide-image">
 
 *Recommendation*: Executive leaders should model the behavior they want their management team to display. Lead by being an example and live the values they want them to adopt, and help middle managers understand how they fit into the changing organization.
 
