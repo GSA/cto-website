@@ -10,7 +10,7 @@ audiences:
 
 The GSA API Documentation Template is an open source template that business/IT offices can use to assist with documentation of RESTful APIs.  It is a template that can be cloned, changed, and posted for support of API consumption.  
 
-It was developed by GSA Digital Services to provide a consistent look and feel for GSA APIs. It is based on excellent work from the Consumer Financial Protection Bureau and GSA's 18F organization, along with best practices from private industry.
+It was developed to provide a consistent look and feel for GSA APIs. It is based on excellent work from the Consumer Financial Protection Bureau and GSA's 18F organization, along with best practices from private industry.
 
 To use this template, follow the instructions for cloning the project in this GitHub repository:
 
