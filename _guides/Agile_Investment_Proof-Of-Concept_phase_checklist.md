@@ -46,7 +46,7 @@ During the PoC Phase:
 	* High-level *technical features* and requirements have been identified and prioritized
 
 ------
-**Sample Technical Considerations for Next Phase Recomendaitons** 
+**Sample Technical Considerations for Next Phase Recommendations** 
 
 *Existing Solutions and Systems* 
 * Has it been specified if the solution requested is a feature fix or capability enhancement on an existing platform?
