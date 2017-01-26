@@ -1,5 +1,5 @@
 ---
-title: Agile Investment - Proof Of Concept (PoC) Phase Checklist
+title: Agile Investment - Proof Of Concept (PoC) Checklist
 category: Agile
 audiences:
   - Project Managers
@@ -8,9 +8,9 @@ audiences:
 During the PoC Phase:
 
 * Agile Scrum team is assigned to implement and test solution recommendation
-* Provide and Measure outcome of PoC team
+* Provide and measure outcome of PoC team
 * Review PoC recommendation 
-* Business / Technical review to approve/reject progressing to next Phase
+* Business / technical review to approve/reject progressing to next Phase
 
 
 	***Input* Checklist Before Starting PoC**
