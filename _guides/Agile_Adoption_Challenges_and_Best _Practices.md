@@ -35,6 +35,10 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **External pressure to follow Legacy systems and processes.** This is especially common in large enterprises, where some teams follow Agile approaches and other parts of the organization operates within traditional waterfall approaches, sometimes working under the umbrella of the same portfolio or program. In such cases, the Agile teams are usually being grafted into the existing traditional portfolio and project management methodology, and with teams that are working against  different schedules, trying to deliver on a specific project. 
 
+<img src="{{ site.baseurl }}/img/guides/LegacyPMO.png"
+  alt="External pressure to follow Legacy systems and processes"
+  class="guide-image">
+  
 *Recommendation*: Aim to get business units aligned through training to ensure that managers of different areas are not siloed and understand the implications of interacting with teams that do work in the new way. The ultimate goal should be to break dependencies across the entire organization. Adopt an Agile funding model where investment is made in small increments in a way that allows for prototyping, learning early and course correction so that cross-functional teams can learn to work using an Agile approach. Change your metrics. Identify new metrics that move away from measuring and tracking lines of codes, quality issues and reports as success factors and deliverables Focus on “working product” and value delivery; they should be the greatest measure of success in an Agile environment. And to achieve this, facilitate continuous collaboration between the business and the development team.
 
 **Data Sources**
