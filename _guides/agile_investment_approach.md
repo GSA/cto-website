@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-Agile Investment is an agile, phased approach to piloting potential solution investments. The piloting process [begins with a Business-approved concept]({{ site.baseurl }}/guides/agile_investment_overview/). The Business identifies strong Product Owners with available time commitment to work the CTO Office in facilitating a Scrum Team, throughout the pilot phases. The release of funding dollars is staggered in order to better inform investment decision-making and reduce IT spend.
+[Agile Investment]({{ site.baseurl }}/guides/agile_investment_overview/) is an agile, phased approach to piloting potential solution investments. The piloting process begins with a Business-approved concept. The Business identifies strong Product Owners with the available time commitment to work the CTO Office in [managing requirements]({{ site.baseurl }}/guides/managing_requirements/) and facilitating a [Scrum Team]({{ site.baseurl }}/guides/agile_adoption/) throughout the pilot phases. The release of funding dollars is staggered in order to better inform investment decision-making and reduce IT spend.
 
 The goal of this approach is to create a stronger partnership between the Business and IT by increasing collaboration, providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
