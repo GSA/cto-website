@@ -32,7 +32,7 @@ All pilots begin with an approved Business concept. Once the Product Owner and S
   class="guide-image">  
 
 #### What is the role for GSA organizations?
-To work together collaboratively in solution delivery! The CTO Office is available to provide Agile coaching and development resources through Digital Services and an Agile BPA, as needed. Click [here]({{ site.baseurl }}/dev/work-with-us/) to work with us! 
+To work together collaboratively in solution delivery! The CTO Office is available to provide Agile coaching and development resources through Digital Services and an Agile BPA, as needed. Click [here]({{ site.baseurl }}/work-with-us/) to work with us! 
 
 <img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
   alt="Diagram of roles in the agile approach: CTO Office, ACIO SMEs, and Business Line Owners work together around the Core Implementation Team"
