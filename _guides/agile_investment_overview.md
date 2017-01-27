@@ -22,8 +22,8 @@ Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more
   class="guide-image guide-image-half">  
 
 #### What is the Agile Investment Process?
-
-* All projects derive from approved business concepts
+All pilots begin with an approved Business concept. Once the Product Owner and Scrum Team members are identified, the CTO Office then engages the right resources for [Discovery]({{ site.baseurl }}/guides/agile_investment_discovery_phase_checklist/) that will lead into the [Proof of Concept (PoC)]({{ site.baseurl }}/guides/Agile_Investment_Proof-Of-Concept_phase_checklist/) phase and beyond. 
+* All projects derive from approved Business concepts
 * All projects engage the right resources for success
 * Not all pilots lead to prototype / scalable solutions  
 
@@ -32,7 +32,7 @@ Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more
   class="guide-image">  
 
 #### What is the role for GSA organizations?
-To work together collaboratively in solution delivery! Upon Business approval of the business concept, the ACIO SMEs and Business Line Owner will identify a Product Owner that will engage with the CTO Office. We are available to provide Agile coaching and resources (Digital Services and an Agile BPA) as needed. Click [here]({{ site.baseurl }}/dev/work-with-us/) to work with us! 
+To work together collaboratively in solution delivery! The CTO Office is available to provide Agile coaching and development resources through Digital Services and an Agile BPA, as needed. Click [here]({{ site.baseurl }}/dev/work-with-us/) to work with us! 
 
 <img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
   alt="Diagram of roles in the agile approach: CTO Office, ACIO SMEs, and Business Line Owners work together around the Core Implementation Team"
