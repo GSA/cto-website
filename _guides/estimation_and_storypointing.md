@@ -7,10 +7,10 @@ audiences:
   - Project Managers
 ---
 
-Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/), the level of effort to complete the work must be estimated. The Product Owner and **ALL** members of the Scrum (or Kanban) Team; not only development, but testers, user interface designers, database administrators, etc.; that are needed to complete the requirement should work together to identify the level of effort and establish an estimate.
+Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/), the level of effort to complete the work must be estimated. The Product Owner and **ALL** members of the Team; not only development, but testers, user interface designers, database administrators, etc.; that are needed to complete the requirement should work together to identify the level of effort and establish an estimate.
 
 ### What is Estimation?
-An estimate is a rough calculation of the value, number, quantity, or extent of something. When used in Scrum, it is a point-based, valuation system for estimating the level of effort it takes to deliver a requirement, or user story. While estimates account for the level of effort to deliver “the product,” they are relative to the Team providing the estimate and will typically vary across teams. The valuation scale for estimates is usually reflected in terms of size, but most often as story points.
+An estimate is a rough calculation of the value, number, quantity, or extent of something. When used in Scrum (or Kanban), it is a point-based, valuation system for estimating the level of effort it takes to deliver a requirement, or user story. While estimates account for the level of effort to deliver “the product,” they are relative to the Team providing the estimate and will typically vary across teams. The valuation scale for estimates is usually reflected in terms of size, but most often as story points.
 
 Assigning a numerical value (i.e story points) to relative estimates allows Teams (especially newly formed ones) to reach consensus about the level of effort needed to complete a requirement, or user story. By removing the implied precision of the numerical score, they increase the accuracy of capacity estimates and measurement for planning.
 
