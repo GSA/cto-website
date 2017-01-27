@@ -12,7 +12,7 @@ While Agile itself is a mindset, there are a number of popular approaches to cre
 ### What is Scrum?
 Scrum provides a process, or framework, for complex projects and can be “deceptively simple.” Currently, it is the most popular Agile approach in use and encourages high-performing, cross-functional teams. While it was originally formalized for software development projects, Scrum works well for any complex, innovative scope of work.
 
-Scrum is neither synonymous with Agile nor with an "[increment]({{ site.baseurl }}/guides/agile_glossary/#Increment)" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
+Scrum is neither synonymous with Agile nor with an "[increment]({{ site.baseurl }}/guides/agile_glossary/#increment)" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
 
 <img src="{{ site.baseurl }}/img/guides/Maxxor_Scrum.jpg"
   alt="Maxxor: The Scrum Software Development Process">
