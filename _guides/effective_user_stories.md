@@ -12,7 +12,7 @@ A **User Story** describes a feature, or requirement, that is to be implemented 
 User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. While Product Owners write functional user stories, the Scrum Team can contribute non-functional / technical stories. However, any non-functional user stories added to the Backlog **must** also be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
 
 ### Writing User Stories 
-During Sprint Grooming, groups of features / requirements, or [Epics]({{ site.baseurl }}/guides/agile_glossary/), are broken down into user stories by the Product Owner. Then Sprint Planning is used to estimate the level of effort to complete a user story through tasking by the Scrum Team. 
+During Sprint Grooming, groups of features / requirements, or [Epics]({{ site.baseurl }}/guides/agile_glossary/#epic), are broken down into user stories by the Product Owner. Then Sprint Planning is used to estimate the level of effort to complete a user story through tasking by the Scrum Team. 
 
 The user story is a short, simple description of a feature or function written from the perspective of the end user:
 
@@ -24,7 +24,7 @@ An example:
 
 When writing a user story, it requires key content:
 * **Description**, or summary of the feature or requirement that meets the business need
-* **Acceptance criteria**, or the actions necessary to call the user story _“done,”_ in other words, meet the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/)
+* **Acceptance criteria**, or the actions necessary to call the user story _“done,”_ in other words, meet the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-done)
 * And any other items as identified by the team (e.g. Epic, Label, etc.) and within their tool of choice (e.g. JIRA, Rally, etc.),
 * And most importantly, it should be: 
 
