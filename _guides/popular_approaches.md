@@ -69,7 +69,7 @@ Determine the relative size of your backlog items and estimate the level of effo
 Clarify requirements that will be worked on in the upcoming sprint.
 
 **Step #4: Sprint Planning**  
-Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/) prior to adding them to the Sprint Backlog.
+Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-ready) prior to adding them to the Sprint Backlog.
 
 **Step #5: Create a collaborative workspace**  
 This can be a shared folder space in Google Drive or a Confluence space in JIRA.
@@ -84,7 +84,7 @@ Daily Standups should focus on “what you did yesterday, what you are doing tod
 Progress at the end of the sprint is reflected in the burndown chart and reviewed during the Sprint Demo.
 
 **Step #9: Finish when you said you would**  
-In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/).
+In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-done).
 
 **Step #10: Review, reflect, repeat…**  
 Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out [TastyCupcakes](http://tastycupcakes.org/category/agile/) for suggested Agile retrospective activities.
