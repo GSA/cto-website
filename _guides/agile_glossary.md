@@ -163,7 +163,7 @@ Scrum should not be used interchangeably with the term Agile. Agile is not a fra
 <a name="vertical-slicing"></a>**Vertical Slicing (VS):** is a type of milestone, benchmark, or deadline, with emphasis on demonstrating progress across all components of a project. The term "vertical slice" refers to a cross-sectional slice through the layers that form the structure of the software code base. It is mostly used in Scrum terminology where the work is planned in terms of features (or stories). For example, as a very basic approach, a software project may consist of three layers (or components):
 * Data access layer (bottom)
 * Business logic layer (middle)
-* User interface layer (top)
+* User interface layer (top) 
 
 **References:**
 [SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
