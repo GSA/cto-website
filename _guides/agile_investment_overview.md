@@ -21,7 +21,7 @@ Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
   class="guide-image guide-image-half">  
 
-#### What is the Agile Investment Process?
+### What is the Agile Investment Process?
 All pilots begin with an approved Business concept. Once the Product Owner and Scrum Team members are identified, the CTO Office then engages the right resources for [Discovery]({{ site.baseurl }}/guides/agile_investment_discovery_phase_checklist/) that will lead into the [Proof of Concept (PoC)]({{ site.baseurl }}/guides/Agile_Investment_Proof-Of-Concept_phase_checklist/) phase and beyond. 
 * All projects derive from approved Business concepts
 * All projects engage the right resources for success
@@ -31,7 +31,7 @@ All pilots begin with an approved Business concept. Once the Product Owner and S
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
   class="guide-image">  
 
-#### What is the role for GSA organizations?
+### What is the role for GSA organizations?
 To work together collaboratively in solution delivery! The CTO Office is available to provide Agile coaching and development resources through Digital Services and an Agile BPA, as needed. Click [here]({{ site.baseurl }}/work-with-us/) to work with us! 
 
 <img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
