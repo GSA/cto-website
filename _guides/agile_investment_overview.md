@@ -7,12 +7,12 @@ audiences:
 
 #### What is Agile Investment?
 
-* An agile, phased approach to prototyping potential solution investments
+* An [Agile](http://agilemanifesto.org/), phased approach to prototyping potential solution investments
 * Identify strong product owners (business-side) with available time commitment
 * Stagger release of funding dollars
 
 #### Why an Agile Investment Approach?
-Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) tTo learn more about the Agile Investment Approach.
+Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more about the Agile Investment Approach.
 * Reduced risk and improved IT investments
 * Increased collaboration among IT & Business Owners
 * Provide faster solution delivery & increase transparency
@@ -32,7 +32,8 @@ Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) tTo learn mor
   class="guide-image">
 
 #### What is the role for GSA organizations?
-To work together collaboratively in solution delivery.
+To work together collaboratively in solution delivery! Upon Business approval of the business concept, the ACIO SMEs and Business Line Owner will identify a Product Owner that will engage with the CTO Office. We are available to provide Agile coaching and resources (Digital Services and a Agile BPA) as needed.
+
 <img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
   alt="Diagram of roles in the agile approach: CTO Office, ACIO SMEs, and Business Line Owners work together around the Core Implementation Team"
   class="guide-image guide-image-half">
