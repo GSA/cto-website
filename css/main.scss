@@ -129,7 +129,7 @@ header#front-hero {
 }
 
 // Compensate for fixed nav when jumping to anchors on a page.
-a[id]:not([href]) {
+a[id]:not([href]), a[name]:not([href]) {
   display: block;
   position: relative;
   visibility: hidden;
