@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/), the level of effort to complete the work must be estimated. The Product Owner and ALL members of the Team needed to complete the requirement; not only development, but testers, user interface designers, database administrators, etc.; should work together to identify the level of effort and establish an estimate for a requirement.
+Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/), the level of effort to complete the work must be estimated. The Product Owner and **ALL** members of the Scrum (or Kanban) Team; not only development, but testers, user interface designers, database administrators, etc.; that are needed to complete the requirement should work together to identify the level of effort and establish an estimate.
 
 ### What is Estimation?
 An estimate is a rough calculation of the value, number, quantity, or extent of something. When used in Scrum, it is a point-based, valuation system for estimating the level of effort it takes to deliver a requirement, or user story. While estimates account for the level of effort to deliver “the product,” they are relative to the Team providing the estimate and will typically vary across teams. The valuation scale for estimates is usually reflected in terms of size, but most often as story points.
@@ -15,7 +15,7 @@ An estimate is a rough calculation of the value, number, quantity, or extent of 
 Assigning a numerical value (i.e story points) to relative estimates allows Teams (especially newly formed ones) to reach consensus about the level of effort needed to complete a requirement, or user story. By removing the implied precision of the numerical score, they increase the accuracy of capacity estimates and measurement for planning.
 
 ### What are Story Points?
-Story Points are an arbitrary measure used by Scrum Teams to measure the effort required to implement a user story, or requirement. The story points tell how hard the story is, the level of complexity, account for unknowns, and provide an indication of effort.
+Story Points are an arbitrary measure used by Teams to measure the effort required to implement a user story, or requirement. The story points tell how hard the story is, the level of complexity, account for unknowns, and provide an indication of effort.
 
 <img src="{{ site.baseurl }}/img/guides/maxresdefault_ed.png"
   alt="Point-based System"
@@ -47,7 +47,7 @@ While a consensus should be reached for each estimate, the level of effort shoul
   alt="Consensus"
   class="guide-image">
 
-Estimation and story pointing identifies the level of effort to complete a requirement, or user story, but avoids bias and influence. It should facilitate the Team’s discussion and understanding of a requirement. Story points should be updated accordingly as additional information becomes available. Understand that in the initial stages, estimates may be all over the map, but over time the Team will begin to produce an average velocity and burndown.
+Estimation and story pointing identifies the level of effort to complete a requirement, or user story, but avoids bias and influence. It should drive the Team’s discussion and understanding of a requirement. Story points should be updated accordingly as additional information becomes available. Understand that in the initial stages, estimates may be all over the map, but over time the Team will begin to produce an average velocity and burndown.
 
 ### Good Reads
 These are good references for estimation:
