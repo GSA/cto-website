@@ -9,7 +9,4 @@ GSA promotes an API-first approach for making its solutions optimal for data tra
 
 We are adopting industry best practices with API design, development, and management. Our approach to APIs is found in our [API Strategy]({{ site.baseurl }}/downloads/GSAAPIStrategy.pdf).
 
-In short, we are developing a framework and considering the approach to APIs from two complimentary approaches:
 
-1. As an API developer in a business or IT office looking to expose data
-2. As an API consumer either in GSA our outside that wants to consume our data
