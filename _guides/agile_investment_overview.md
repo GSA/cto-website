@@ -5,13 +5,13 @@ audiences:
   - Project Managers
 ---
 
-#### What is Agile Investment?
+### What is Agile Investment?
 
 * An [Agile](http://agilemanifesto.org/), phased approach to prototyping potential solution investments
 * Identify strong product owners (business-side) with available time commitment
 * Stagger release of funding dollars  
 
-#### Why an Agile Investment Approach?
+### Why an Agile Investment Approach?
 Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more about the Agile Investment Approach.
 * Reduced risk and improved IT investments
 * Increased collaboration among IT & Business Owners
