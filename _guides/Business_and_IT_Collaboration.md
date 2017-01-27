@@ -8,7 +8,7 @@ audiences:
 ---
 
 
-Technology and software are shaping industries and transforming the way business is done. As organizations evolve, business leaders are increasingly recognizing that continuous learning and responsiveness thrive only on the foundations of collaboration and for business engagement.
+Technology and software are shaping industries and transforming the way business is done. As organizations evolve, business leaders are increasingly recognizing that continuous learning and responsiveness thrive only on collaboration and business engagement.
 
 <img src="{{ site.baseurl }}/img/guides/collaboration_0.jpg"
   alt="Business and IT collaboration"
