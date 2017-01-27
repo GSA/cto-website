@@ -7,12 +7,12 @@ audiences:
   - Project Managers
 ---
 
-While Agile is a mindset, there are a number of popular approaches. DevOps, Lean frameworks, SAFe, Extreme Programming (XP), Test-driven Development (TDD), as well as many others are used extensively. In GSA IT, we primarily focus on and are actively using both Scrum and Kanban.
+While Agile itself is a mindset, there are a number of popular approaches to creating an Agile environment. DevOps, Extreme Programming (XP), Kanban, Lean frameworks, SAFe, Scrum, Test-driven Development (TDD), as well as many others are used extensively to promote Agile practices primarily within software development. In GSA IT, we are actively using both Scrum and Kanban.
 
 ### What is Scrum?
-Scrum provides a process, or framework, for complex projects and can be “deceptively simple.” It is the most popular Agile approach in use and encourages high-performing, cross-functional teams. While it was originally formalized for software development projects, Scrum works well for any complex, innovative scope of work.
+Scrum provides a process, or framework, for complex projects and can be “deceptively simple.” Currently, it is the most popular Agile approach in use and encourages high-performing, cross-functional teams. While it was originally formalized for software development projects, Scrum works well for any complex, innovative scope of work.
 
-Scrum is neither synonymous with Agile nor with an increment (i.e. a Sprint / Iteration). Scrum is an Agile process or framework. Scrum is not a tool (i.e. JIRA, Rally, etc.), but the process can be supported by one.
+Scrum is neither synonymous with Agile nor with an "increment" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
 
 <img src="{{ site.baseurl }}/img/guides/Maxxor_Scrum.jpg"
   alt="Maxxor: The Scrum Software Development Process">
