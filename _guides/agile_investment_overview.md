@@ -11,7 +11,7 @@ What is Agile Investment?
 * Identify strong product owners (business-side) with available time commitment
 * Stagger release of funding dollars
 
-Why Agile Investment approach?
+Why an [Agile Investment Approach]({{ site.baseurl }}/guides/agile_investment_approach/)?
 
 * Reduced risk and improved IT investments
 * Increased collaboration among IT & Business Owners
@@ -21,7 +21,7 @@ Why Agile Investment approach?
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
   class="guide-image guide-image-half">
 
-What is the Agile Investment process?
+What is the Agile Investment Process?
 
 * All projects derive from approved business concepts
 * All projects engage the right resources for success
