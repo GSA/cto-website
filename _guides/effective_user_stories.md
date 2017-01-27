@@ -7,9 +7,9 @@ audiences:
   - Project Managers
 ---
 
-A **User Story** describes a feature, or requirement, that is to be implemented. User stories are used in various Agile frameworks including Scrum, Kanban, Extreme Programming, and are independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). 
+A **User Story** describes a feature, or requirement, that is to be implemented and is independent of a specific tool (i.e. JIRA, Rally, Trello, etc.). They are employed in various Agile frameworks including Scrum, Kanban, and Extreme Programming. 
 
-User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. Product Owners write functional user stories, while the Scrum Team can contribute non-functional / technical stories. However, any user stories added to the Backlog **must** be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
+User stories should be written as small, independently, testable increments of the business need, and prioritized by the Product Owner. While Product Owners write functional user stories, the Scrum Team can contribute non-functional / technical stories. However, any non-functional user stories added to the Backlog **must** also be vetted **and** prioritized by the Product Owner. Overall, user stories should enable conversation between the Product Owner, Scrum Team, and business group(s).
 
 ### Writing User Stories 
 During Sprint Grooming, groups of features / requirements, or [Epics]({{ site.baseurl }}/guides/agile_glossary/), are broken down into user stories by the Product Owner. Then Sprint Planning is used to estimate the level of effort to complete a user story through tasking by the Scrum Team. 
@@ -32,7 +32,7 @@ When writing a user story, it requires key content:
   alt="INVEST"
   class="guide-image guide-image-half">  
 
-User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives drives its priority. 
+User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives its priority. 
 
 Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail regarding defining acceptance criteria, check out [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/).
 
