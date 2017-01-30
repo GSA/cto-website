@@ -1,14 +1,9 @@
 name: CTO Website
-description: GSA CTO Website
-license: https://github.com/GSA/cto-website/blob/dev/LICENSE.md
-openSourceProject: 1
-governmentWideReuseProject: 1
 tags:
   - jekyll
   - federalist
 contact:
   email: cto@gsa.gov
-repository: https://github.com/GSA/cto-website
 languages:
   - javascript
   - ruby
