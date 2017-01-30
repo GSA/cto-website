@@ -28,21 +28,17 @@ audiences:
     * Assigned Scrum Master
     * Agile coaching support and guidance approved
 
-*Users*
+* Users
+    * Types of users of the new request identified (e.g. Employees only, employees and contractors, partners and public, etc)?
+    * Number of people the request will serve is estimated?
+    * Type of user roles defined (e.g. One type of user, user and administrators, more than 2 types of users, etc.)?
 
-* Types of users of the new request identified (e.g. Employees only, employees and contractors, partners and public, etc)?
-* Number of people the request will serve is estimated?
-* Type of user roles defined (e.g. One type of user, user and administrators, more than 2 types of users, etc.)?
+* Data
+    * Type of data the request will work with identified? (e.g. No Data, Structured Data OR/AND Unstructured Data)
+    * Condition of the data specified? (e.g. format, data size, frequency of capture, current storage)
 
-*Data*
+* Security
+    * PII or Payment Card Information need determined (e.g. credit card numbers) will be stored?
 
-* Type of data the request will work with identified? (e.g. No Data, Structured Data OR/AND Unstructured Data)
-* Condition of the data specified? (e.g. format, data size, frequency of capture, current storage)
-
-*Security*
-
-* PII or Payment Card Information need determined (e.g. credit card numbers) will be stored?
-
-*Environment and Integration*
-
-* Need for integration with other systems identified?
+* Environment and Integration
+    * Need for integration with other systems identified?
