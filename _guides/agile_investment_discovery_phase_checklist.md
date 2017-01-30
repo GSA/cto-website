@@ -5,20 +5,22 @@ audiences:
   - Project Managers
 ---
 
-Approved concept gains definition:
+**Phase Description**
 
+* Approved 'concept' gains definition
 * High-level analysis leveraging concept/problem definition and business case
 * Specific user-focused and, possibly, technology-focused problems are defined for exploration
-* Strategic direction and platform capabilities, e.g. analysis on strategic direction of IT investment * leveraging existing solutions
-* Wireframes, user engagement, interviews, etc.
+* Strategic direction and platform capabilities, e.g. analysis on strategic direction of IT investment, leveraging existing solutions, etc. 
+* High-level wireframes, user engagement, interviews, etc.
 
-Outputs (for a successful discovery)
+Outputs from the Discovery Phase
 
-* Completed Proof of Concept (PoC) request form
 * Problem Statement
-* PoC Approach
-* Measures of Success
-* Major features
+* Completed Proof of Concept (PoC) request form
+    * PoC scope defined
+    * Approach defined for PoC
+    * PoC Measures of Success
+    * High-level features prioritized
 * Committed Team Member & Stakeholder participation
 * Assigned/committed Product Owner from the Business Team identified
 * Assigned Scrum Master
