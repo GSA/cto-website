@@ -2,7 +2,7 @@
 
 nav.nav-topnav {
   transition: all 0.25s ease;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: $color-base;
   position: fixed;
   top: 0;
   left: 0;
@@ -118,12 +118,11 @@ nav.nav-topnav {
       line-height: $nav-height-mobile;
       display: block;
       padding: 0 1em;
-      font-weight: lighter;
       color: white;
       border-top: 1px dotted #333;
       @media only screen and (min-width: $nav-breakpoint) {
         margin: 38px 0 0 0;
-        font-size: 20px;
+        font-size: 17px;
         text-transform: uppercase;
         border: none;
       }
