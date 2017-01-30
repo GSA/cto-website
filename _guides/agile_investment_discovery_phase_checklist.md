@@ -5,7 +5,7 @@ audiences:
   - Project Managers
 ---
 
-**During the Discoveryy Phase:**
+**During the Discovery Phase:**
 
 * Approved 'concept' gains definition
 * High-level analysis leveraging concept/problem definition and business case
@@ -21,30 +21,28 @@ audiences:
     * Approach defined for PoC
     * PoC Measures of Success
     * High-level features prioritized
-* Committed Team Member & Stakeholder participation
-* Assigned/committed Product Owner from the Business Team identified
-* Assigned Scrum Master
-* Agile coaching support and guidance approved
-* Defined approach for PoC
+    * Technical requirements to conduct PoC are identified and acquired, if PoC is to be pursued
 * Key personnel resources and skill sets identified and secured
-* Technical requirements to conduct PoC are identified and acquired, if PoC is to be pursued
+    * Committed Team Member & Stakeholder participation
+    * Product Owner from the Business Team identified and committed
+    * Assigned Scrum Master
+    * Agile coaching support and guidance approved
 
 *Users*
 
 * Types of users of the new request identified (e.g. Employees only, employees and contractors, partners and public, etc)?
-* Has the number of people the request will serve been estimated?
-* Has the type of user roles been stated (e.g. One type of user, user and administrators, more than 2 types of users, etc.)?
+* Number of people the request will serve is estimated?
+* Type of user roles defined (e.g. One type of user, user and administrators, more than 2 types of users, etc.)?
 
 *Data*
 
-* Has the type of data the request will work with been identified? (e.g. No Data, Structured Data OR/AND Unstructured Data)
-* Has the condition of the data been specified? (e.g. format, data size, frequency of capture, current storage)
+* Type of data the request will work with identified? (e.g. No Data, Structured Data OR/AND Unstructured Data)
+* Condition of the data specified? (e.g. format, data size, frequency of capture, current storage)
 
 *Security*
 
-* Has it been determined if PII or Payment Card Information (e.g. credit card numbers) will be stored?
-* Has it been stated if the request should leverage Single Sign-on (SSO)?
+* PII or Payment Card Information need determined (e.g. credit card numbers) will be stored?
 
 *Environment and Integration*
 
-* Will there be a need for integration with other systems?
+* Need for integration with other systems identified?
