@@ -5,7 +5,7 @@ audiences:
   - Developers
 ---
 
-![RESTful API image demonstrating how an API works with a client and DB]({{ site.baseurl }}/img/RESTfulAPI.png)
+![RESTful API image demonstrating how an API works with a client and DB]({{ site.baseurl }}/assets/img/RESTfulAPI.png)
 
 
 This guide follows the practices outlined by Thomas Hunter on [Code Planet](https://codeplanet.io/principles-good-restful-api-design/).

@@ -17,7 +17,7 @@ Click [here]({{ site.baseurl }}/guides/agile_investment_approach/) to learn more
 * Increased collaboration among IT & Business Owners
 * Provide faster solution delivery & increase transparency  
 
-<img src="{{ site.baseurl }}/img/guides/agile_investment_process.png"
+<img src="{{ site.baseurl }}/assets/img/guides/agile_investment_process.png"
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
   class="guide-image guide-image-half">  
 
@@ -27,13 +27,13 @@ All pilots begin with an approved Business concept. Once the Product Owner and S
 * All projects engage the right resources for success
 * Not all pilots lead to prototype / scalable solutions  
 
-<img src="{{ site.baseurl }}/img/guides/agile_investment_process_detail.png"
+<img src="{{ site.baseurl }}/assets/img/guides/agile_investment_process_detail.png"
   alt="List of steps in the agile approach: Concept, Discovery, Proof of Concept, Prototype, and Scale"
   class="guide-image">  
 
 ### What is the role for GSA organizations?
 To work together collaboratively in solution delivery! The CTO Office is available to provide Agile coaching and development resources through Digital Services and an Agile BPA, as needed. Click [here]({{ site.baseurl }}/work-with-us/) to work with us! 
 
-<img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
+<img src="{{ site.baseurl }}/assets/img/guides/agile_investment_roles.png"
   alt="Diagram of roles in the agile approach: CTO Office, ACIO SMEs, and Business Line Owners work together around the Core Implementation Team"
   class="guide-image guide-image-half">

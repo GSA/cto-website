@@ -133,14 +133,14 @@ audiences:
 <p><u> Challenges </u></p> 
 <p> - Months before customers are interacting with what was developed </p>
 <p> - No time to change course along the way.  By the time people provide feedback, it is too late.</p>
-<img src="{{ site.baseurl }}/img/guides/EK_Waterfall.png"
+<img src="{{ site.baseurl }}/assets/img/guides/EK_Waterfall.png"
   alt="'Waterfall' Project Management"
   class="guide-image"> 
 
 <p> <b> “Agile” Project Management </b> </p>
 <p> An agile approach enables rapid incrementally shippable deliverables and collaborative decision-making between the parties. In software, Agile is a method of software development that is based on <b> iterative and incremental delivery </b> approach that anticipates the need for flexibility into the delivery of the finished product.</p>
 
-<img src="{{ site.baseurl }}/img/guides/EK_Agile.png"
+<img src="{{ site.baseurl }}/assets/img/guides/EK_Agile.png"
   alt="'Agile' Project Management"
   class="guide-image">
   
@@ -166,7 +166,7 @@ audiences:
         <div id="question-2" class="usa-accordion-content">        
  <p> One benefit of agile is to reduce a product’s time to market by delivering a product increment frequently. Through this process, customers and users are engaged throughout the delivery cycle to regularly review the product increment and provide feedback. By creating feedback loops with every increment, the product created value working with customers rather than for them. As a result, excess time and resources are not spent creating something customers do not want.</p>
          <p> Being Agile also promotes innovation in product teams. Taking an iterative, incremental approach promotes experiential learning, and short release cycles encourage teams to experiment to find relevant, simple solutions. </p>
-         <img src="{{ site.baseurl }}/img/guides/Agile_Benefits.png"
+         <img src="{{ site.baseurl }}/assets/img/guides/Agile_Benefits.png"
   alt="Agile Benefits"
   class="guide-image"> 
   <p> <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> VersionOne: 10th State of Agile Survey </a></p>
@@ -236,7 +236,7 @@ audiences:
 <p> If the project/product is very familiar to the team and if the team continues building the same thing everyday, there is an element of predictability that may not require an Agile approach to succeed. For instance, a fast food restaurant producing fries or burger with set recipes. </p>
 <p> There are various ways that can be used to decide whether the project team tasked with completing should be handled using an Agile framework or traditional plan-driven project management method, and it starts by taking a look at the information the team already has. Below is an example analysis based on risk and complexity. </p>
 
-       <img src="{{ site.baseurl }}/img/guides/Agile_Projects.png"
+       <img src="{{ site.baseurl }}/assets/img/guides/Agile_Projects.png"
   alt="'Agile' Suitable Project Management"
   class="guide-image">  
        
@@ -258,19 +258,19 @@ audiences:
         <div id="question-2" class="usa-accordion-content">        
  <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf">State of Agile Report: Agile Trends - 2015 Agile Survey</a>, agile software development has grown increasingly popular over the last decade. The number of large enterprises that are embracing agile continues to increase each year.</p>
  <p> <b> Agile Demographics </b> </p>       
-<img src="{{ site.baseurl }}/img/guides/AgileOrgs_Location.PNG"
+<img src="{{ site.baseurl }}/assets/img/guides/AgileOrgs_Location.PNG"
   alt="Agile Organizations Locations"
   class="guide-image"> 
   
 <p> In addition, 2 out of 3 IT organizations are either pure agile or or leaning toward agile (Source: <a href="http://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pulse/pulse-of-the-profession-2016.pdf">PMI Pulse of the Profession, 2016</a>). </p>
 
-<img src="{{ site.baseurl }}/img/guides/Agile_In_PM.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Agile_In_PM.png"
   alt="How often Agile project management is used"
   class="guide-image">
   
   <p> Agile approaches are also being used for teams outside of IT such as Marketing and Human Resources. The top three industries adopting Agile are Software Development, Financial and Professional Services (Source: State of Agile Report 2015). </p> 
   
-  <img src="{{ site.baseurl }}/img/guides/Agile_Industries.PNG"
+  <img src="{{ site.baseurl }}/assets/img/guides/Agile_Industries.PNG"
   alt="Agile Industries"
   class="guide-image">
          </div>
@@ -292,7 +292,7 @@ audiences:
         
 <p> The most popular Agile methodology is Scrum (Sources: Gartner 2015, VersionOne 2015). </p>
 
-  <img src="{{ site.baseurl }}/img/guides/Agile_Methods_Used.PNG"
+  <img src="{{ site.baseurl }}/assets/img/guides/Agile_Methods_Used.PNG"
   alt="Most Popular Agile Methods Used"
   class="guide-image">
   
@@ -321,7 +321,7 @@ audiences:
 
  <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf"> 10th State of Agile Survey (2015)</a>, out of the many software management solutions on the market, over two-thirds of survey respondents use Microsoft® Excel (60%) to manage agile projects. Other commonly used tools were Atlassian / JIRA (51%), Microsoft Project (33%), and VersionOne (28%).</p>
   
-  <img src="{{ site.baseurl }}/img/guides/Agile_Tools.png"
+  <img src="{{ site.baseurl }}/assets/img/guides/Agile_Tools.png"
   alt="Tools for Agile"
   class="guide-image">
 

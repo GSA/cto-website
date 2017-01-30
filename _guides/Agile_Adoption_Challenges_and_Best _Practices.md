@@ -11,7 +11,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Company philosophy at odds with core Agile values.** Company culture continues to dominate as the top cause of failed organizational Agile implementations. The failure to overcome cultural resistance and build an Agile-ready organization is the number one barrier to successful enterprise Agile adoption. Cultural change is critical to ongoing successful corporate Agile adoption because in most cases, Agile must co-exist with traditional development approaches. Successful Agile implementations need support from the team members, management, and executives to embrace new ways of completing work and collaborating. Roles in the organization will be affected in some way. 
 
-<img src="{{ site.baseurl }}/img/guides/OrgCultureOdds.png"
+<img src="{{ site.baseurl }}/assets/img/guides/OrgCultureOdds.png"
   alt="Org Culture at Odds"
   class="guide-image">
 
@@ -19,7 +19,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Inadequate experience with Agile approaches.** For most new Agile teams, members are typically inexperienced in applying basic Agile practices and unfamiliar with successful agile transformations. An Agile process will expose problems and issues with the project more quickly than a more traditional development process; addressing such and what to do about those problems and issues is also not always very clear to new and inexperienced Agile teams.  Challenges can surface in prioritization, breaking up requirements into testable and independent increments, understanding and communicating problems that need to be addressed on a retrospective, etc. that add up and make the difference for the team’s success or failure with Agile.  
 
-<img src="{{ site.baseurl }}/img/guides/InadequateAgileExperience.png"
+<img src="{{ site.baseurl }}/assets/img/guides/InadequateAgileExperience.png"
   alt="Inadequate Experience with Agile"
   class="guide-image">
 
@@ -27,7 +27,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Lack of management support.** Typically this relates to ‘middle management’ lack of trust for a new process, lack of understanding of changing roles and a lack of engagement or buy-in to the new process. In most enterprise wide agile implementation efforts, it is common for teams and executive to have great enthusiasm for the effort. However, in the absence of a strong Agile transformation plan, project and program managers or, functional “resource” managers often feel isolated mainly because their roles are no longer clear. This results in a general resistance and creates additional barriers to further Agile adoption and success.
 
-<img src="{{ site.baseurl }}/img/guides/MgtSupport.png"
+<img src="{{ site.baseurl }}/assets/img/guides/MgtSupport.png"
   alt="Lack of management support"
   class="guide-image">
 
@@ -35,7 +35,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **External pressure to follow Legacy systems and processes.** This is especially common in large enterprises, where some teams follow Agile approaches and other parts of the organization operates within traditional waterfall approaches, sometimes working under the umbrella of the same portfolio or program. In such cases, the Agile teams are usually being grafted into the existing traditional portfolio and project management methodology, and with teams that are working against  different schedules, trying to deliver on a specific project. 
 
-<img src="{{ site.baseurl }}/img/guides/LegacyPMO.png"
+<img src="{{ site.baseurl }}/assets/img/guides/LegacyPMO.png"
   alt="External pressure to follow Legacy systems and processes"
   class="guide-image">
   

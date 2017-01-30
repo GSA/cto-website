@@ -9,6 +9,8 @@ description: >
 baseurl: ""
 url: "http://cto.gsa.gov"
 markdown: kramdown
+include:
+  - '_pages'
 exclude:
   - 'README.md'
   - 'go'

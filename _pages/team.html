@@ -15,9 +15,9 @@ layout: base
     <div class="member usa-width-one-fourth">
       <a href="{{ member.url | prepend: site.baseurl }}">
         {% if member.photo %}
-          <img src="{{ site.baseurl }}/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+          <img src="{{ site.baseurl }}/assets/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
         {% else %}
-          <img src="{{ site.baseurl }}/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+          <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
         {% endif %}
       </a>
       <div class="member-name">

@@ -17,7 +17,7 @@ Assigning a numerical value (i.e story points) to relative estimates allows Team
 ### What are Story Points?
 Story Points are an arbitrary measure used by Teams to measure the effort required to implement a user story, or requirement. The story points tell how hard the story is, the level of complexity, account for unknowns, and provide an indication of effort.
 
-<img src="{{ site.baseurl }}/img/guides/maxresdefault_ed.png"
+<img src="{{ site.baseurl }}/assets/img/guides/maxresdefault_ed.png"
   alt="Point-based System"
   class="guide-image guide-image-half">
 
@@ -26,7 +26,7 @@ In terms of sizing, story points can range from extra small to extra large, but 
 ### Fibonacci
 The Fibonacci series is a mathematical sequence where each number is the sum of the previous two, with the scale being 1, 2, 3, 5, 8…and as a best practice, usually work that is an 8 or beyond should be further decomposed into more manageable chunks that can be accomplished within a sprint.
 
-<img src="{{ site.baseurl }}/img/guides/Fibonacci_Sequence_1.jpg"
+<img src="{{ site.baseurl }}/assets/img/guides/Fibonacci_Sequence_1.jpg"
   alt="Fibonacci Series"
   class="guide-image guide-image-half">
 
@@ -37,13 +37,13 @@ When estimating for your Team, there is no standardized approach other than the 
 
 Begin with a single user story and then compare each story in the Backlog to determine if it is relatively smaller or larger. As you compare the stories, a scale will begin to evolve. The stories with the smallest level of effort should be assigned a 1-point estimate while the largest should be a 5-point estimate (ideally, stories that are larger than a 5-point estimate should be decomposed further.) 
 
-<img src="{{ site.baseurl }}/img/guides/Klimov_FIGURE.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Klimov_FIGURE.png"
   alt="Pointing Story Cards"
   class="guide-image guide-image-half">
 
 While a consensus should be reached for each estimate, the level of effort should be reflective of the overall effort - experience of all team members, development, quality testing, user acceptance testing, etc. - in order to achieve the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-done).
 
-<img src="{{ site.baseurl }}/img/guides/communities_consensus.png"
+<img src="{{ site.baseurl }}/assets/img/guides/communities_consensus.png"
   alt="Consensus"
   class="guide-image">
 

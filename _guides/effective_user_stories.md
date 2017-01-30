@@ -28,7 +28,7 @@ When writing a user story, it requires key content:
 * And any other items as identified by the team (e.g. Epic, Label, etc.) and within their tool of choice (e.g. JIRA, Rally, etc.),
 * And most importantly, it should be: 
 
-<img src="{{ site.baseurl }}/img/guides/invest.png"
+<img src="{{ site.baseurl }}/assets/img/guides/invest.png"
   alt="INVEST"
   class="guide-image guide-image-half">  
 

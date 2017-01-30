@@ -12,7 +12,7 @@ audiences:
 The goal of this approach is to create a stronger partnership between the Business and IT by [increasing collaboration]({{ site.baseurl }}/guides/Business_and_IT_Collaboration/), providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
 
-<img src="{{ site.baseurl }}/img/guides/agile_investment_roles.png"
+<img src="{{ site.baseurl }}/assets/img/guides/agile_investment_roles.png"
   alt="Kanban Board"
   class="guide-image guide-image-half">
 
@@ -41,7 +41,7 @@ The core Scrum Team Members must...
 
 Throughout the pilot phases, the Core Implementation Team leverages the Scrum approach to manage requirements and tasks. The roles include:
 
-<img src="{{ site.baseurl }}/img/guides/scrum-team.jpg"
+<img src="{{ site.baseurl }}/assets/img/guides/scrum-team.jpg"
   alt="Bravent.net Scrum Team"
   class="guide-image guide-image-half">
 

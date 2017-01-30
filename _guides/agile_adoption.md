@@ -15,22 +15,22 @@ Though it arose out of software development practices, Agile is **not** just a s
 
 #### Agile Values
 
-<img src="{{ site.baseurl }}/img/guides/Individuals_and_Interactions.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Individuals_and_Interactions.png"
   alt="Individuals and Interactions"
   style="float: left; width: 60px; margin-right: 10px;"> **Individuals and interactions** over processes and tools. Agile is more about transparent interactions than technology.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Working_Software.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Working_Software.png"
   alt="Working Software"
   style="float: left; width: 60px; margin-right: 10px;"> **Working software** over comprehensive documentation. Create something usable quickly to enable faster customer feedback.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Customer_Collaboration.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Customer_Collaboration.png"
   alt="Customer Collaboration"
   style="float: left; width: 60px; margin-right: 10px;"> **Customer collaboration** over contract negotiation. Ensure customer buy-in between Business & IT, with marketable visibility.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/img/guides/Responding_to_Change.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Responding_to_Change.png"
   alt="Responding to Change"
   style="float: left; width: 60px; margin-right: 10px;"> **Responding to change** over following a plan. Leave room for emergent solutions and better respond to change.
 <div style="clear: both;"></div>

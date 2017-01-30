@@ -14,7 +14,7 @@ Scrum provides a process, or framework, for complex projects and can be “decep
 
 Scrum is neither synonymous with Agile nor with an "[increment]({{ site.baseurl }}/guides/agile_glossary/#increments)" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
 
-<img src="{{ site.baseurl }}/img/guides/Maxxor_Scrum.jpg"
+<img src="{{ site.baseurl }}/assets/img/guides/Maxxor_Scrum.jpg"
   alt="Maxxor: The Scrum Software Development Process">
 
 #### Scrum Values
@@ -94,7 +94,7 @@ Kanban is a process that can be thought of as a pipeline; feature requests enter
 
 When setting up a Kanban Team, the Scrum Master and Product Owner roles can be leveraged to support and provide direction for the team. Additionally, the Kanban Team can also use Sprint Planning and Sprint Retrospective activities to aid continuous improvement.
 
-<img src="{{ site.baseurl }}/img/guides/LeanKit_Kanban_Board.jpg"
+<img src="{{ site.baseurl }}/assets/img/guides/LeanKit_Kanban_Board.jpg"
   alt="LeanKit Kanban Board">
 
 #### Getting Started with Kanban
