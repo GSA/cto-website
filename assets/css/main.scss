@@ -83,19 +83,15 @@ body:not(.front) {
 
 header#front-hero {
   color: white;
-  background-color: black;
-  background-image: url(../img/whitehouse_bg.jpg);
-  background-position: bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: $color-primary-darker;
+  background-image: radial-gradient(ellipse at bottom center, $color-primary-darker, $color-base);
   padding-top: ($nav-height-mobile + $usa-banner-height + 20px);
-  padding-bottom: 20px;
+  padding-bottom: 4rem;
   @media only screen and (min-width: $nav-breakpoint) {
     min-height: 600px;
   }
 
   .header-blurb {
-    background: radial-gradient(rgba(0, 0, 0, 0.6) 30%, transparent 70%);
     @media only screen and (min-width: $nav-breakpoint) {
       margin-top: ($nav-height + 80px);
     }
