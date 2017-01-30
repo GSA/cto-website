@@ -25,7 +25,6 @@ nav.nav-topnav {
 
         a.nav-title-text {
           padding: 10px 0 0 0;
-          font-size: 30px;
         }
       }
 
@@ -68,13 +67,12 @@ nav.nav-topnav {
     a.nav-title-text {
       transition: all 0.25s ease;
       display: inline-block;
-      padding: 24px 0 0 0;
-      font-size: 20px;
+      padding: 14px 0 0 0;
+      font-size: 30px;
       font-weight: lighter;
       color: white;
       @media only screen and (min-width: $nav-breakpoint) {
-        padding: 38px 0 0 0;
-        font-size: 40px;
+        padding: 48px 0 0 0;
       }
     }
   }
