@@ -21,7 +21,7 @@ const assets = {
   }
 };
 
-gulp.task("default", ["build", "serve"]);
+gulp.task("default", ["serve"]);
 
 gulp.task("build", function () {
   const jekyll = cp.spawn("bundle", ["exec", "jekyll", "build", "--watch", "--incremental"]);
@@ -34,7 +34,7 @@ gulp.task("build", function () {
   jekyll.stderr.on("data", jekyllLogger);
 });
 
-gulp.task("serve", function () {
+gulp.task("serve", ["build"], function () {
   browserSync.init({
     server: {
       baseDir: "_site/"
