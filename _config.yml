@@ -13,6 +13,7 @@ include:
   - '_pages'
 exclude:
   - 'README.md'
+  - 'LICENSE.md'
   - 'go'
   - 'Gemfile*'
   - 'package.json'
