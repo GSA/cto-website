@@ -13,10 +13,16 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ### Prerequisites
 
+#### Ruby
+
 Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get
 Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the
 [rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
 to set it up on your system.
+
+#### Node.js and npm
+
+We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You only need it if you plan to update the [vendor assets](/assets/vendor/).
 
 ### Building and Previewing
 
