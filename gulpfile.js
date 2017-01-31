@@ -3,6 +3,23 @@ const gutil = require("gulp-util");
 const eslint = require("gulp-eslint");
 const cp = require("child_process");
 const browserSync = require("browser-sync").create();
+const _ = require("lodash");
+
+/* CONFIGURE NPM VENDOR ASSETS */
+const assets = {
+  "uswds": {
+    js: ["dist/js/**"],
+    css: ["dist/css/**"],
+    img: ["dist/img/**"],
+    fonts: ["dist/fonts/**"]
+  },
+  "lunr": {
+    js: ["lunr.min.js"]
+  },
+  "font-awesome": {
+    fonts: ["fonts/*"]
+  }
+};
 
 gulp.task("default", ["build", "serve"]);
 
@@ -31,4 +48,12 @@ gulp.task("lint", function () {
     .pipe(eslint())
     .pipe(eslint.format())
     .pipe(eslint.failOnError());
+});
+
+gulp.task("copy-assets", function () {
+  _.forEach(assets, function (vendorAssets, vendor) {
+    _.forEach(vendorAssets, function (asset, type) {
+      gulp.src("node_modules/" + vendor + "/" + asset).pipe(gulp.dest("assets/vendor/" + vendor + "/" + type));
+    })
+  });
 });

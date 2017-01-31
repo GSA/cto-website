@@ -17,5 +17,10 @@
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
     "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "lunr": "^0.7.2",
+    "uswds": "^0.14.0"
   }
 }
