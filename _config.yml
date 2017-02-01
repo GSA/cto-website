@@ -7,7 +7,7 @@ description: >
   The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
 
 baseurl: ""
-url: "http://cto.gsa.gov"
+url: "http://tech.gsa.gov"
 markdown: kramdown
 include:
   - '_pages'
