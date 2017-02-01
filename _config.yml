@@ -14,8 +14,9 @@ include:
 exclude:
   - 'README.md'
   - 'LICENSE.md'
-  - 'go'
-  - 'Gemfile*'
+  - 'Rakefile'
+  - 'Gemfile'
+  - 'Gemfile.lock'
   - 'package.json'
   - 'node_modules'
   - 'gulpfile.js'

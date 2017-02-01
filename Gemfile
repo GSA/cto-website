@@ -1,8 +1,14 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'go_script'
 
 group :jekyll_plugins do
   gem 'jekyll_pages_api'
+  gem 'hawkins'
+end
+
+group :development, :test do
+  gem 'rake'
+  gem 'html-proofer'
+  gem 'eslintrb'
 end
