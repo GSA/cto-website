@@ -15,8 +15,11 @@ end
 desc "Run HTML Proofer"
 task :htmlproofer do
   puts "Running HTML Proofer..."
+  options = {
+    url_ignore: [/^\#$/]  # Allow href="#"
+  }
   sh "bundle exec jekyll build -q"
-  HTMLProofer.check_directory("_site").run
+  HTMLProofer.check_directory("./_site", options).run
 end
 
 desc "Run all tests"
