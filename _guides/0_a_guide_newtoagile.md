@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-Are you new to Agile? Trying to understand how this approach to project management differs from more traditional methods? Wondering how this will affect projects at the General Services Administration (GSA)? The CTO Team and [TECH.GSA.GOV]({{ site.baseurl }}) can help! This guide will direct you through the content and resources we offer regarding Agile adoption.
+Are you new to Agile? Trying to understand how this approach to project management differs from more traditional methods? Wondering how this will affect projects at the General Services Administration (GSA)? The CTO Team and [TECH.GSA.GOV]({{ site.baseurl }}) can help! This guide will direct you through the content and resources we offer in regards to [Embracing Agile]({{ site.baseurl }}/guides/embracing_agile/).
 
 ### Understanding Agile
 Agile is not a process, methodology, or a specific tool. Agile is a mindset. The [Agile Manifesto](http://agilemanifesto.org/) fully details the [values and principles](http://agilemanifesto.org/) that comprise Agile behavior, which we summarize in [Agile Adoption]({{ site.baseurl }}/guides/agile_adoption/). It also includes some common terminology, an introduction to the benefits of Agile culture, and behaviors we can adapt to becoming more Agile.
