@@ -7,8 +7,8 @@ audiences:
 
 These are the steps to consider when starting an Agile project at GSA:
 
-1. Review [process and intake guide]({{ site.baseurl }}/downloads/AgileApproachforGSAPilotTeams.pdf) and 18F [Agile Principles & Practices](https://pages.18f.gov/agile/)
-2. Conduct [Agile IT Investment]({{ site.baseurl }}/downloads/GSAAgileInvestmentTemplate.pdf) and [Technical Sprint Framework]({{ site.baseurl }}/downloads/TechnicalSprintFramework.pdf) reviews
+1. Review [process and intake guide]({{ site.baseurl }}/assets/downloads/AgileApproachforGSAPilotTeams.pdf) and 18F [Agile Principles & Practices](https://pages.18f.gov/agile/)
+2. Conduct [Agile IT Investment]({{ site.baseurl }}/assets/downloads/GSAAgileInvestmentTemplate.pdf) and [Technical Sprint Framework]({{ site.baseurl }}/assets/downloads/TechnicalSprintFramework.pdf) reviews
 3. Schedule planning session for Sprint 1 - usually about 2hrs with development team, business team, and stakeholders
 4. Use GSA's internal version of JIRA (managed by IE) to document Sprint tasks and members responsible, consider burndown when appropriate
 5. Conduct daily Scrum meeting for 15-30 minutes where each person provides an update on work accomplished, work planned for today, and any blockers

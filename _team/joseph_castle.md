@@ -14,4 +14,4 @@ Interested in all things digital in the federal government.  Often perplexed abo
 
 In my spare time, I can be found watching videos of past tech conferences for fun, walking around small towns with my kids looking for Pokemon, and out in the mountains for hours on my mountain bike.
 
-My [bio]({{ site.baseurl }}/downloads/CastleBio.pdf) and CV (forthcoming) are works in progress as I continue my professional journey!
+My [bio]({{ site.baseurl }}/assets/downloads/CastleBio.pdf) and CV (forthcoming) are works in progress as I continue my professional journey!

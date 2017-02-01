@@ -46,7 +46,7 @@
   description: An application that utilizes environmental sensor data at GSA to integrate with hoteling and reserving workspaces in GSA buildings. It allows users to choose where to sit based on temperature, light, sound, etc.
   links:
     - title: PBS Case Study
-      url: /downloads/PBS_Case_Study.pdf
+      url: /assets/downloads/PBS_Case_Study.pdf
 
 - name: National Staffing Application
   contact_name: Joseph Castle
@@ -58,7 +58,7 @@
   description: An application within GSA managed by GSA IT Corporate Solutions providing data and reports pertaining to staffing. It allows for budget and personnel current views and forecasting.
   links:
     - title: NSA Case Study
-      url: /downloads/NSA_Case_Study.pdf
+      url: /assets/downloads/NSA_Case_Study.pdf
 
 - name: GSA Open Source Software Policy
   contact_name: Joseph Castle
