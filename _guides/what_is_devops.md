@@ -26,7 +26,7 @@ According to the [Agile Alliance](https://www.agilealliance.org/glossary/continu
 Continuous Delivery (CD), according to [ThoughtWorks](https://www.thoughtworks.com/continuous-delivery), can also help large organizations become lean, agile, and innovative. “Through reliable, low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market and changes to business strategy. Test, support, development and operations work together as one delivery team to automate and streamline the build, test and release process.”
 
 ### Common DevOps Terms
-[Mind the Product](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/) has created an informative list of useful DevOps terminology. The definitions can be found in our [DevOps Glossary](https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/devops_glossary/).
+[Mind the Product](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/) has created an informative list of useful DevOps terminology. The definitions can be found in our [DevOps Glossary]({{ site.baseurl}}/guides/devops_glossary/).
 * Checking in
 * CI server
 * Development environment
