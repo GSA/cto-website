@@ -398,7 +398,8 @@ audiences:
 <p><a href="https://www.atlassian.com/"> Atlassian </a></p>
 
 <p> Setting Up Agile Teams </p>
-<p><a href="https://www.atlassian.com/agile/teams%20%20%20%20https://www.infoq.com/articles/building-an-agile-team"> Building an Agile Team </a></p>
+<p><a href="https://www.atlassian.com/agile/teams"> How to build a kick-ass agile team </a></p>
+<p><a href="https://www.infoq.com/articles/building-an-agile-team"> Building an Agile Team </a></p>
 <p><a href="https://www.cprime.com/2014/04/3-key-steps-to-building-an-agile-team/"> 3 Key Steps to Building an Agile Team </a></p>
 <p><a href="https://help.rallydev.com/top-10-mistakes-teams"> Top Ten Mistakes Made by New Agile Teams </a></p>
 <p><a href="http://www.mckinsey.com/business-functions/business-technology/our-insights/an-operating-model-for-company-wide-agile-development"> An Operating Model for Company-Wide Agile Development </a></p>
