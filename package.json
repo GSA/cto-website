@@ -12,8 +12,8 @@
   },
   "homepage": "https://github.com/GSA/cto-website#readme",
   "scripts": {
-    "test": "gulp lint",
-    "start": "gulp serve"
+    "test": "rake test",
+    "start": "rake serve"
   },
   "devDependencies": {
     "browser-sync": "^2.18.7",
