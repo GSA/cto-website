@@ -29,7 +29,7 @@ audiences:
 
 <a name="burndown-chart"></a>**Burndown Chart:** a publicly displayed large graph relating to the quantity of work remaining (on the vertical axis) and the time elapsed since the start of the project (on the horizontal, showing future as well as past). Two variants exist, depending on whether the amount graphed is for the work remaining in the iteration ("sprint burndown") or more commonly the entire project ("product burndown").
 
-<a name="burnup-chart"></a>**Burnup Chart:** representation of the amount of stories completed, with points plotted on an X and Y axis that map an upward trend of work completed until reaching 100%. 
+<a name="burnup-chart"></a>**Burnup Chart:** representation of the amount of stories completed, with points plotted on an X and Y axis that map an upward trend of work completed until reaching 100%.
 
 <a name="business-owners"></a>**Business Owners:** a small group of management stakeholders who have the primary efficacy, governance, and ROI responsibility for the value delivered by a specific release train. Business Owners play a key role throughout the flow of value, and have particularly critical roles during Release Planning, where they participate in the management review and problem solving meeting, approve plans, and assign Business.
 
@@ -39,7 +39,7 @@ audiences:
 
 <a name="collective-ownership"></a>**Collective Ownership:** commonly only one developer "owns" each code file. Collective code ownership, as the name suggests, is the explicit convention that "every" team member is not only allowed, but in fact has a positive duty, to make changes to "any" code file as necessary: either to complete a development task, to repair a defect, or even to improve the code's overall structure.
 
-<a name="continuous-delivery"></a>**Continuous Delivery (CD):** a software development discipline where you build software in such a way that the software can be released to production at any time in the product lifecycle. 
+<a name="continuous-delivery"></a>**Continuous Delivery (CD):** a software development discipline where you build software in such a way that the software can be released to production at any time in the product lifecycle.
 In the event that the software is for whatever reason not deployable, the Delivery Team swarms to rectify the issue. The team can perform push-button deployments of any version of the software to any environment on demand.
 
 <a name="continuous-deployment"></a>**Continuous Deployment:** a software development discipline where you build software in such a way that every successful change goes through the development pipeline and automatically gets put into production, resulting in many possible production deployments every day. An extension of Continuous Integration, Continuous Deployment aims to minimize the time between coding and releasing produced code to a live production environment where the end-user can benefit from it.
@@ -48,7 +48,7 @@ In the event that the software is for whatever reason not deployable, the Delive
 
 <a name="cross-functional-team"></a>**Cross-Functional Team:** Team comprised of members with all functional skills and specialties necessary to complete a project from start to finish.
 
-<a name="daily-scrum"></a>**Daily Scrum / Stand-up:** one of the five Scrum ceremonies, generally held in the form of a time-boxed Standup Meeting. The Daily Scrum provides some guidelines to improve Team efficacy when its members are thoroughly aligned on the stories they are working on, any impediments blocking those tasks, and what next steps are after the story is completed. 
+<a name="daily-scrum"></a>**Daily Scrum / Stand-up:** one of the five Scrum ceremonies, generally held in the form of a time-boxed Standup Meeting. The Daily Scrum provides some guidelines to improve Team efficacy when its members are thoroughly aligned on the stories they are working on, any impediments blocking those tasks, and what next steps are after the story is completed.
 Team members come to the Daily Scrum ready to answer the following three questions:
 * What have you done since yesterday?
 * What are you planning to do today?
@@ -62,7 +62,7 @@ Non-team members may participate, but Daily Scrum is a platform to help the team
 * Done: Verified by running unit tests, code review, etc.
 * Done: Validated as being of deliverable quality with functional tests, reviews, etc.
 
-<a name="definition-of-ready"></a>**Definition of Ready:** by analogy with the "Definition of Done", the team makes explicit and visible the criteria that a user story must meet prior to being accepted into the upcoming iteration. For instance, a team may require that work can begin on a specific work item once priority is assigned, User Acceptance Criteria Defined, etc. 
+<a name="definition-of-ready"></a>**Definition of Ready:** by analogy with the "Definition of Done", the team makes explicit and visible the criteria that a user story must meet prior to being accepted into the upcoming iteration. For instance, a team may require that work can begin on a specific work item once priority is assigned, User Acceptance Criteria Defined, etc.
 
 <a name="demo"></a>**Demonstration (Demo):** at the end of each iteration, the development unit performs a demo of the functionality completed during the iteration. The demo is a forum for the customer to provide feedback on the product’s development to influence the evolution of the product.
 
@@ -93,7 +93,7 @@ Feasibility and business study, Functional model / prototype iteration, Design a
 
 <a name="moscow"></a>**MoSCoW:** A feature classification/categorization method rooted in rapid application development that is commonly utilized in agile projects. The method is intended for short, time-boxed development iterations in which the focus remains on items deemed most critical for delivery within the time-boxed period. MoSCoW is a modified acronym that represents four levels of priority classification:
 * Must have – generally baseline, or critical path features.
-* Should have – also critical project level requirements, but not as time critical 
+* Should have – also critical project level requirements, but not as time critical
 * Could Have – considered nice-to-have requirements. Not necessarily required for the success of the iteration or project. Would increase end-user/customer satisfaction.
 * Won’t have – lowest priority requirements.  Not scheduled or planned within the delivery time box.
 
@@ -103,11 +103,11 @@ Feasibility and business study, Functional model / prototype iteration, Design a
 
 <a name="personas"></a>**Personas:** A fictional character that is created to represent the attributes of a group of a product’s users. Personas are helpful tools to use as a guide when deciding on a product’s features, functionality or visual design. Personas allow a team to easily identify with a fictional version of the product’s end users.
 
-<a name="planning-poker"></a>**Planning Poker:** Is a playful way to estimate level of effort. The team meets in presence of the customer or Product Owner. Around the table, each team member holds a set of playing cards, bearing numerical values appropriate for points estimation of a user story. Encourages a consensus-based technique for estimating, mostly used to estimate effort or relative size of tasks in software development. 
+<a name="planning-poker"></a>**Planning Poker:** Is a playful way to estimate level of effort. The team meets in presence of the customer or Product Owner. Around the table, each team member holds a set of playing cards, bearing numerical values appropriate for points estimation of a user story. Encourages a consensus-based technique for estimating, mostly used to estimate effort or relative size of tasks in software development.
 
 <a name="points"></a>**Points (estimates in):** Agile teams generally prefer to express estimates in units other than the time-honored "man-day" or "man-hour". Possibly the most widespread unit is "story points".
 
-<a name="refactoring"></a>**Refactoring:** Changing existing software code in order to improve the overall design. Refactoring normally doesn’t change the observable behavior of the software; it improves its internal structure. For example, if a programmer wants to add new functionality to a program, they may decide to refactor the program first to simplify the addition of new functionality in order to reduce technical debt. Refactoring is one of the original twelve extreme programming practices and is considered critical for incrementally maintaining technical quality on Agile development projects. 
+<a name="refactoring"></a>**Refactoring:** Changing existing software code in order to improve the overall design. Refactoring normally doesn’t change the observable behavior of the software; it improves its internal structure. For example, if a programmer wants to add new functionality to a program, they may decide to refactor the program first to simplify the addition of new functionality in order to reduce technical debt. Refactoring is one of the original twelve extreme programming practices and is considered critical for incrementally maintaining technical quality on Agile development projects.
 
 <a name="regression-test"></a>**Regression Test:** A test completed to validate previously completed and tested code. The regression test is performed in an effort to ensure that subsequent deliveries of code segments have not corrupted previously completed code. These tests are also often performed after defects are remediated to ensure that the fixes have not corrupted any other portion of the software.
 
@@ -115,7 +115,7 @@ Feasibility and business study, Functional model / prototype iteration, Design a
 
 <a name="release-train"></a>**Release Train:** The Agile Release Train (ART) is a long-lived team of agile teams, typically consisting of 50-125 individuals that serve as the program-level value delivery mechanism in SAFe. Using a common cadence, each train has the dedicated resources necessary to continuously define, built, test and deliver value to one of the enterprises value streams. Each train produces valuable and evaluate-able, system-level increments every two weeks, and additional quantum, Program Increment milestones every 8-12 weeks. ARTs can Release at any time in accordance with market needs.
 
-<a name="scrum"></a>**Scrum:** A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software. The framework is comprised of: 
+<a name="scrum"></a>**Scrum:** A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software. The framework is comprised of:
 * Three roles: Product Owner, ScrumMaster, (Scrum) Team
 * Four ceremonies: Daily Standup Meeting, Sprint Planning Meeting, Sprint Review, Retrospective
 * Three artifacts: Burndown charts, Product backlog, Sprint backlog
@@ -163,11 +163,10 @@ Scrum should not be used interchangeably with the term Agile. Agile is not a fra
 <a name="vertical-slicing"></a>**Vertical Slicing (VS):** is a type of milestone, benchmark, or deadline, with emphasis on demonstrating progress across all components of a project. The term "vertical slice" refers to a cross-sectional slice through the layers that form the structure of the software code base. It is mostly used in Scrum terminology where the work is planned in terms of features (or stories). For example, as a very basic approach, a software project may consist of three layers (or components):
 * Data access layer (bottom)
 * Business logic layer (middle)
-* User interface layer (top) 
+* User interface layer (top)
 
 **References:**
-[SolutionsIQ](http://www.solutionsiq.com/agile-glossary/), 
-[Agile Alliance](https://www.agilealliance.org/agile101/guide-to-agile/agile-glossary/),
+[SolutionsIQ](http://www.solutionsiq.com/agile-glossary/),
+[Agile Alliance](https://www.agilealliance.org/agile101/agile-glossary/),
 [Agile Manifesto](http://agilemanifesto.org/),
 [Scrum Alliance](https://www.scrumalliance.org/?gclid=COSknaWf1c8CFYaDaQodTh8DTg)
-
