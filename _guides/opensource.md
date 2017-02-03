@@ -5,7 +5,7 @@ audiences:
   - Developers
 ---
 
-We are currently developing our internal policy and inventorying all of our code repos for publication on [code.gov](https://code.gov/).  More information will be posted here soon on our progress in complying with [M-16-21](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) and contributing to an open coding ecosystem.
+We are currently developing our internal policy and inventorying all of our code repos for publication on [code.gov](https://code.gov/).  More information will be posted here soon on our progress in complying with [M-16-21](https://sourcecode.cio.gov/) and contributing to an open coding ecosystem.
 
 The [Open Source website](https://gsa.github.io/GSAOpenSourcePolicy/) will be a site to spread our knowledge of Open Source Software (OSS) when possible with recently being asked to share our policy with all CFO Act agencies.  Agencies are considering our policy as they develop theirs.
 
