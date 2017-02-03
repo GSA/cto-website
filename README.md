@@ -42,6 +42,10 @@ You should now be able to preview the site on your local machine at [http://loca
 
 ## Contributing
 
+### Testing
+
+Please run `rake test` locally before pushing new content or code. This runs a JavaScript linter and HTML proofer.
+
 ### Contributing content and code
 
 1. Fork the repository (or clone it if you have commit access)
