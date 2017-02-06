@@ -39,7 +39,7 @@ audiences:
 <p><b>Customer collaboration</b> over <b>contract negotiation</b>. Ensure customer buy-in between Business and IT, with marketable visibility.</p>
 
 <p><b>Responding to change</b> over <b>following a plan</b>. Leave room for emergent solutions and better respond to change</p>
-            <p>More information and associated documents can be found in our <a href="#">Agile guides</a>.</p>
+            <p>More information and associated documents can be found in our <a {{ site.baseurl }} href="https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/0_a_guide_newtoagile/">Agile guides</a>.</p>
           </div>
         </li>
       </ul>
@@ -68,7 +68,7 @@ audiences:
             <p> 10. Simplicity — the art of maximizing the amount of work not done — is essential.</p>
             <p> 11. The best architectures, requirements, and designs emerge from self-organizing teams.</p>
             <p> 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</p>
-            <p>More information and associated documents can be found in our <a href="#">Guides</a>.</p>
+            <p>More information and associated documents can be found in our <a {{ site.baseurl }} href="https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/0_a_guide_newtoagile/">Agile guides</a>.</p>
           </div>
         </li>
       </ul>
@@ -109,7 +109,7 @@ audiences:
 
            <p><b> Extreme Programming (XP)</b></p>
 <p> A software development methodology adhering to a very iterative and incremental approach, Extreme Programming is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles (timeboxing), which is intended to improve productivity and introduce checkpoints where new customer requirements can be adopted. XP consists of a number of integrated practices for developers and management – the original twelve practices of XP include Small Releases, On-site Customer, Sustainable Pace, Simple Design, Continuous Integration, Unit Testing, Coding Conventions, Refactoring Mercilessly, Test-Driven Development, System Metaphor, Collective Code Ownership, and Pair Programming. Most successful Agile practitioners adopt some subset of XP practices, often in conjunction with Scrum.</p>
-            <p>More information and associated documents can be found in our <a href="#">guides</a>.</p>        
+            <p>More information and associated documents can be found in our <a {{ site.baseurl }} href="https://federalist.18f.gov/preview/GSA/cto-website/dev/guides/0_a_guide_newtoagile/">Agile guides</a>.</p>        
          </div>
         </li>
       </ul>
