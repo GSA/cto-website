@@ -1,5 +1,5 @@
 ---
-title: Collaboration Across Large Agile Teams
+title: Collaboration Across Agile Teams
 category: Agile
 audiences:
   - Developers
