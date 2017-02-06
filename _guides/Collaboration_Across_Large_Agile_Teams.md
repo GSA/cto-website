@@ -9,6 +9,10 @@ audiences:
 
 The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on on individuals and interactions over processes and tools, specifically encouraging face-to-face communication as the most effective way of conveying information and collaboration between Agile teams. Effective collaboration enables teams develop workable solutions to complex problems. However, in reality, this is constantly challenged with large, distributed teams, forcing communications into different directions.
 
+<img src="{{ site.baseurl }}/assets/img/guides/LargeTeamCollaboration.jpg"
+  alt="Business and IT collaboration"
+  class="guide-image">
+
 **What is Effective Collaboration?**  
 
 **Clear objectives and separation of work** each team member should understand. Separation of work between multiple teams also creates independence for teams to minimize duplication of efforts and enables teams to identify and plan for cross-team dependencies. This is best achieved by developing and maintaining a Team product backlog for respective teams to ensure each team is driving solutions towards delivery of the big picture. 
