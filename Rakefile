@@ -9,7 +9,7 @@ end
 desc "Build the site to the default Jekyll output directory"
 task :build do
   puts "Building the website..."
-  sh "bundle exec jekyll build -q", verbose: false
+  sh "bundle exec jekyll build -q -d _test", verbose: false
 end
 
 namespace :test do
@@ -28,7 +28,7 @@ namespace :test do
         url_ignore: [/^\#$/], # Allow href="#"
         disable_external: true
       }
-      HTMLProofer.check_directory("./_site", options).run
+      HTMLProofer.check_directory("./_test", options).run
     end
 
     desc "Run HTML Proofer on all links"
@@ -38,7 +38,7 @@ namespace :test do
         check_html: true,
         url_ignore: [/^\#$/] # Allow href="#"
       }
-      HTMLProofer.check_directory("./_site", options).run
+      HTMLProofer.check_directory("./_test", options).run
     end
   end
 

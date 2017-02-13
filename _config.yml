@@ -20,6 +20,7 @@ exclude:
   - 'package.json'
   - 'node_modules'
   - 'gulpfile.js'
+  - '_test'
 
 collections:
   team:
