@@ -7,7 +7,7 @@ audiences:
 
 As GSA continues down the past to "open all the things" and take an "open first" approach to data, APIs, code, etc., we consider standards around how to make "things" open.  
 
-We are developing draft [API Standards](https://github.com/GSA/api-standards/tree/converting-gsa-standards). We invite you to participate in the discussion of those standards as they develop.
+We are developing draft [API Standards](https://github.com/GSA/api-standards). We invite you to participate in the discussion of those standards as they develop.
 
 In short, we consider the following as good practice:
 
