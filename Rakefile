@@ -24,6 +24,7 @@ namespace :test do
     task :internal => [:build] do
       puts "Running HTML Proofer on internal links..."
       options = {
+        check_html: true,
         url_ignore: [/^\#$/], # Allow href="#"
         disable_external: true
       }
@@ -34,6 +35,7 @@ namespace :test do
     task :all => [:build] do
       puts "Running HTML Proofer on all links..."
       options = {
+        check_html: true,
         url_ignore: [/^\#$/] # Allow href="#"
       }
       HTMLProofer.check_directory("./_site", options).run
