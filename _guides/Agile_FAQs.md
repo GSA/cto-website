@@ -52,10 +52,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-3">
            What are the Principles of Agile?
           </button>
-          <div id="question-2" class="usa-accordion-content">
+          <div id="question-3" class="usa-accordion-content">
             <p> 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</p>
             <p> 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</p>
             <p> 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</p>
@@ -81,10 +81,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-4">
           What are the most common Agile methodologies?
           </button>
-        <div id="question-2" class="usa-accordion-content">
+        <div id="question-4" class="usa-accordion-content">
          <p><b> Scrum </b></p>
             <p> A framework for the iterative development of complex products, particularly software. Scrum is the most widely recognized Agile framework, and is compatible with other Agile practices like Extreme Programming. Scrum is comprised of a series of short iterations – called sprints – each of which ends with the delivery of an increment of working software.</p>
             <p> <u> The framework is comprised of three roles: </u> </p>
@@ -122,10 +122,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-5">
            What is the difference between Agile and Traditional Project Management?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-5" class="usa-accordion-content">        
  <p> <b> Traditional “Waterfall” Project Management </b> </p>
          <p> - Requirements and design decisions are made up front </p>
          <p> - Months of planning before development begins </p>
@@ -160,10 +160,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-6">
            How do organizations benefit from being Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-6" class="usa-accordion-content">        
  <p> One benefit of agile is to reduce a product’s time to market by delivering a product increment frequently. Through this process, customers and users are engaged throughout the delivery cycle to regularly review the product increment and provide feedback. By creating feedback loops with every increment, the product created value working with customers rather than for them. As a result, excess time and resources are not spent creating something customers do not want.</p>
          <p> Being Agile also promotes innovation in product teams. Taking an iterative, incremental approach promotes experiential learning, and short release cycles encourage teams to experiment to find relevant, simple solutions. </p>
          <img src="{{ site.baseurl }}/assets/img/guides/Agile_Benefits.png"
@@ -182,10 +182,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-7">
            What are the common challenges to adopting Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-7" class="usa-accordion-content">        
  <p>Various data indicate that the top most common challenges to a successful Agile in organizations is mostly related to all or one of the following: </p>
          <p> -  Company philosophy at odds with core agile values </p>
          <p> -  Lack of experience with agile methods </p>
@@ -206,10 +206,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-8">
            Do Agile approaches only work in the Software Development Industry?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-8" class="usa-accordion-content">        
         <p> Although it arose out of software development practices, Agile is <b> not </b> just a software development framework. </p>
          <p> Many other areas outside of Technology have found success in developing an Agile culture, including <a href="http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf"> Manufacturing </a>, <a href="http://agilemarketingmanifesto.org/"> Marketing </a>, <a href="http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/"> Legal </a>, <a href="http://www.award-entry.nl/2014/cases/klm/happy-to-help/"> Cutomer Support </a>, and more recently, <a href="http://www.bottomlineperformance.com/what-is-agile-learning-design/"> Learning Design </a>, and <a href="http://hr-gazette.com/hr-agile-manifesto/"> Human Resources </a>. The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
  </p>
@@ -225,10 +225,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-9">
            Is Agile suitable for all projects?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-9" class="usa-accordion-content">        
         <p> Not necessarily. Depending on the nature of the project and the product in question, there are times where plan-driven project management methodologies (like the waterfall method) provide a higher likelihood of project success. </p>
          <p> According to Mike Cohn, one of the contributors to the invention of the Scrum software development, the most <a href="https://www.mountaingoatsoftware.com/blog/deciding-what-kind-of-projects-are-most-suited-for-agile"> appropriate projects suitable for Agile </a> (Scrum, Kanban, etc.) are ones with aggressive deadlines, a high degree of complexity, and a high degree of novelty (uniqueness) to the organization or at least new to the team building it. For instance, developing a new phone application.</p>  
 
@@ -252,10 +252,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-10">
            Who is practicing Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">        
+        <div id="question-10" class="usa-accordion-content">        
  <p> According to the <a href="https://versionone.com/pdf/VersionOne-10th-Annual-State-of-Agile-Report.pdf">State of Agile Report: Agile Trends - 2015 Agile Survey</a>, agile software development has grown increasingly popular over the last decade. The number of large enterprises that are embracing agile continues to increase each year.</p>
  <p> <b> Agile Demographics </b> </p>       
 <img src="{{ site.baseurl }}/assets/img/guides/AgileOrgs_Location.PNG"
@@ -285,10 +285,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-11">
            What are the trends in Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">      
+        <div id="question-11" class="usa-accordion-content">      
 
 <p> The most popular Agile methodology is Scrum (Sources: Gartner 2015, VersionOne 2015). </p>
 
@@ -312,10 +312,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-12">
            Are there specific tools for Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">      
+        <div id="question-12" class="usa-accordion-content">      
 
 <p> Although Agile does not require a specific set of tools for a successful adoption, not all traditional project management and other tools work well with Agile. Some companies configure existing tools in an Agile way while others use index cards and sticky notes to follow the frameworks. Some development group use JIRA software to help with things like requirements management, collaboration and testing. </p>
 
@@ -337,10 +337,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-13">
            What are the most popular trainings / certifications on Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">  
+        <div id="question-13" class="usa-accordion-content">  
         <p><b> Project Management Institute - Agile Certified Practitioner (PMI-ACP)</b></p>
   <p> The <a href="http://www.pmi.org/certifications/types/agile-acp"> Agile Certified Practitioner (ACP) </a> from the Project Management Institute (PMI), is for project management professionals whose organizations currently use or are moving to agile practices. The PMI-ACP proves certification holders have real-world experience managing agile projects and familiarity with many subsets of the agile methodology including Scrum, Kanban, Lean and others. Those who achieve the certification must earn 30 professional development units (PDUs) every three years to maintain their status.</p>
 
@@ -362,10 +362,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-14">
            Where can I find industry Agile conferences / events?
           </button>
-        <div id="question-2" class="usa-accordion-content">      
+        <div id="question-14" class="usa-accordion-content">      
 
 <p> The following websites provide information on the most popular and relevant Agile events and conferences taking place in the United States and around the world.</p>
 <p><a href="https://www.agilealliance.org/events/"> AgileAlliance - Events </a></p>
@@ -387,10 +387,10 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-button-unstyled" aria-controls="question-15">
            Where can I find credible resources on Agile?
           </button>
-        <div id="question-2" class="usa-accordion-content">      
+        <div id="question-15" class="usa-accordion-content">      
 <p> Agile Overview </p>
 <p><a href="http://www.agilemanifesto.org"> Agile Manifesto </a></p>
 <p><a href="https://www.agilealliance.org"> Agile Alliance </a></p>
