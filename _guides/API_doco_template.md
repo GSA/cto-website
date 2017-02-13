@@ -18,4 +18,4 @@ To use this template, follow the instructions for cloning the project in this Gi
 
 You can see a working version of this template at the following location:
 
-[https://gsa.github.io/api-documentation-template/api-docs/](https://github.com/GSA/api-documentation-template)
+[https://gsa.github.io/api-documentation-template/api-docs/](https://gsa.github.io/api-documentation-template/api-docs/)
