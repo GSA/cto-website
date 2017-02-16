@@ -11,7 +11,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Company philosophy at odds with core Agile values.** Company culture continues to dominate as the top cause of failed organizational Agile implementations. The failure to overcome cultural resistance and build an Agile-ready organization is the number one barrier to successful enterprise Agile adoption. Cultural change is critical to ongoing successful corporate Agile adoption because in most cases, Agile must co-exist with traditional development approaches. Successful Agile implementations need support from the team members, management, and executives to embrace new ways of completing work and collaborating. Roles in the organization will be affected in some way. 
 
-<img src="{{ site.baseurl }}/assets/img/guides/OrgCultureOdds.png"
+<img src="{{ site.baseurl }}/assets/img/guides/OddswithAgile.PNG"
   alt="Org Culture at Odds"
   class="guide-image">
 
