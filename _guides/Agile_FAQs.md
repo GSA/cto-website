@@ -23,7 +23,7 @@ audiences:
 <p>The term agile was first coined for this in 2001, in the Manifesto for Agile Software Development (Agile Manifesto) and although originally written as Agile (with a capital A) this is progressively becoming deprecated.</p>
 
 <p> Success in Agile is based on an attitude of “servant leadership” and focuses on the team, not just developers. Agile encourages and does not lack in accountability or ownership. As a solution for complex problems, teams must “be” Agile, not just “do” Agile.</p>
-            <p>More information and associated documents can be found in our <a {{site.baseurl}} href="https://tech.gsa.gov/guides/0_a_guide_newtoagile/">Agile guides</a>.</p>
+            <p>More information and associated documents can be found in our <a {{ site.baseurl }} href="https://tech.gsa.gov/guides/0_a_guide_newtoagile/">Agile guides</a>.</p>
         </div>
         </li>
         <li>
