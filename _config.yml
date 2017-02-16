@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: GSA Chief Technology Officer
+title: Tech at GSA
 email: cto@gsa.gov
 description: >
-  The Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
+  We utilize collaborative practices and modern IT tools to facilitate a new GSA.
 
 baseurl: ""
 url: "http://tech.gsa.gov"
