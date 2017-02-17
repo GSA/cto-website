@@ -1,4 +1,4 @@
-# CTO Website
+# Tech at GSA website
 
 This is the website for the GSA Office of the Chief Technology Officer.
 
@@ -81,9 +81,8 @@ feature branch to GitHub, you can preview it using this URL format:
 
 ### Production
 
-The website is not yet in production. The tentative production deployment
-process is to merge the `dev` branch into `master`. Federalist will
-automatically deploy `master` to the production site.
+The production deployment process is to merge the `dev` branch into `master`.
+Federalist will automatically deploy `master` to the [tech.gsa.gov production site](https://tech.gsa.gov/).
 
 ## License
 
