@@ -30,7 +30,7 @@ table th {
 }
 
 body.front {
-  background-color: $color-gray-lightest;
+  background-color: #f8f8f8;
 
   h2 {
     margin-top: 0.5em;
@@ -138,22 +138,21 @@ a[id]:not([href]), a[name]:not([href]) {
 }
 
 footer {
-  color: white;
+  background-color: $color-gray-lightest;
   padding: 2em 0;
 
   h3 {
-    color: white;
+    margin-top: 1em !important;
   }
 
-  .gsads-built-by p {
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #ddd;
+  .footer-logos {
+    padding-top: 1em;
+    margin-top: 1em;
   }
 
-  .gsads-logo {
-    width: auto;
-    height: 90px;
+  .footer-logo {
+    display: block;
+    margin-bottom: 2em;
+    width: 120px;
   }
 }
