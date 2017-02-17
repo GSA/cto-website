@@ -26,24 +26,24 @@ First, Agile behaviors are not beholden to any one framework (i.e. Scrum, Kanban
 Second, Agile behaviors not only accommodate visibility of the business team’s work, but allow for better prioritization and breakdown of project work and tasks. They also support the setting and achievement of short, targeted goals and increase collaboration among team members. Finally, Agile behavior encourages communication of progress within and outside the team, without adding lengthy meetings that take away from prioritized work.
 
 ### Creating a Responsive Environment
-In addition to changing the mindsets and behaviors of the business teams, the organization itself must also adapt. As Agile adoption progresses, the organization must champion a supportive environment that enables its individuals to better respond to change and shifts the measurement of success and business value to meeting customer needs. According to the Agile Alliance, Agile is “the ability to create and respond to change in order to succeed in an uncertain and turbulent environment.” That responsiveness is matured over time through the incorporation of customer-focused, cost-effective Agile practices.
+In addition to changing the mindsets and behaviors of the business teams, the organization itself must also adapt. As Agile adoption progresses, the organization must champion a supportive environment that enables its individuals to better respond to change and shifts the measurement of success and business value to meeting customer needs. According to the [Agile Alliance](https://www.agilealliance.org/agile101/), **Agile is “the ability to create and respond to change in order to succeed in an uncertain and turbulent environment.”** That responsiveness is matured over time through the incorporation of customer-focused, cost-effective Agile practices.
 
 Like software development, an organization’s business departments, project management offices, and product development also face complex problems - often with many unknowns or changing requirements that can only be addressed as more information becomes available. By breaking efforts down, partnering with end users / customers to obtain rapid feedback, and eliminating silos through cross-functional collaboration, these groups can leverage an Agile approach in order to face challenges in a more responsive manner. Organizations can support the agility of these groups through encouraging the adaption of Agile behaviors and by creating a responsive environment.
 
 ### Good Reads
 These are good references for understanding the application of Agile practices to Business Teams:
-* 6 agile principles that apply to everything
-* 7 aspects of Agile HR
-* Agile Alliance: Agile 101
-* Agile HR: Transforming a Human Resources Team Using Scrum
-* Agile Marketing Manifesto
-* Agile Marketing Manifesto Explained
-* Bring Agile to the Whole Organization
-* Building the Agile Enterprise
-* Embracing Agile
-* How NPR benefits from agile project development & you can too
-* How to apply Agile practices with your non-tech team or business
-* Organisational agility: How business can survive and thrive in turbulent times
-* Scaling Agile at Spotify
-* The Dawn of the Agile Attorney
-* What is Agile HR? And is it right for you?
+* [6 agile principles that apply to everything](http://www.cio.com/article/2971822/agile-development/6-agile-principles-that-apply-to-everything.html)
+* [7 aspects of Agile HR](https://hrtrendinstitute.com/2015/02/14/7-aspects-of-agile-hr/)
+* [Agile Alliance: Agile 101](https://www.agilealliance.org/agile101/)
+* [Agile HR: Transforming a Human Resources Team Using Scrum](http://www.slideshare.net/seedbox/hr-programspublic?next_slideshow=1)
+* [Agile Marketing Manifesto](http://agilemarketingmanifesto.org/)
+* [Agile Marketing Manifesto Explained](http://theagilemarketer.net/agile-marketing-manifesto-explained/)
+* [Bring Agile to the Whole Organization](https://hbr.org/2014/11/bring-agile-to-the-whole-organization)
+* [Building the Agile Enterprise](http://www.slideshare.net/jbersin/impact-2012-keynote-josh-bersin)
+* [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
+* [How NPR benefits from agile project development & you can too](http://www.poynter.org/2012/how-npr-benefits-from-agile-project-development-you-can-too/175487/)
+* [How to apply Agile practices with your non-tech team or business](http://www.techrepublic.com/article/how-to-apply-agile-practices-with-your-non-tech-team-or-business/)
+* [Organisational agility: How business can survive and thrive in turbulent times](https://www.emc.com/collateral/leadership/organisational-agility-230309.pdf)
+* [Scaling Agile at Spotify](https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups/)
+* [The Dawn of the Agile Attorney](http://www.lawpracticetoday.org/article/dawn-agile-attorney/)
+* [What is Agile HR? And is it right for you?](http://www.hrsg.ca/what-is-agile-hr-and-is-it-right-for-you/)
