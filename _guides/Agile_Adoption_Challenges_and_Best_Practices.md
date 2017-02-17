@@ -19,7 +19,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Inadequate experience with Agile approaches.** For most new Agile teams, members are typically inexperienced in applying basic Agile practices and unfamiliar with successful agile transformations. An Agile process will expose problems and issues with the project more quickly than a more traditional development process; addressing such and what to do about those problems and issues is also not always very clear to new and inexperienced Agile teams.  Challenges can surface in prioritization, breaking up requirements into testable and independent increments, understanding and communicating problems that need to be addressed on a retrospective, etc. that add up and make the difference for the team’s success or failure with Agile.  
 
-<img src="{{ site.baseurl }}/assets/img/guides/InadequateAgileExperience.png"
+<img src="{{ site.baseurl }}/assets/img/guides/InexperiencewithAgile.png"
   alt="Inadequate Experience with Agile"
   class="guide-image">
 
