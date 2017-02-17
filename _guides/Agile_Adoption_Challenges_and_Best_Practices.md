@@ -27,7 +27,7 @@ Various [data sources](https://versionone.com/pdf/VersionOne-10th-Annual-State-o
 
 **Lack of management support.** Typically this relates to ‘middle management’ lack of trust for a new process, lack of understanding of changing roles and a lack of engagement or buy-in to the new process. In most enterprise wide agile implementation efforts, it is common for teams and executive to have great enthusiasm for the effort. However, in the absence of a strong Agile transformation plan, project and program managers or, functional “resource” managers often feel isolated mainly because their roles are no longer clear. This results in a general resistance and creates additional barriers to further Agile adoption and success.
 
-<img src="{{ site.baseurl }}/assets/img/guides/MgtSupport.png"
+<img src="{{ site.baseurl }}/assets/img/guides/NoMgtSupport.png"
   alt="Lack of management support"
   class="guide-image">
 
