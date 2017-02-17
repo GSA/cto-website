@@ -10,7 +10,7 @@ audiences:
 
 Technology and software are shaping industries and transforming the way business is done. As organizations evolve, business leaders are increasingly recognizing that continuous learning and responsiveness thrive only on collaboration and business engagement.
 
-<img src="{{ site.baseurl }}/assets/img/guides/collaboration_0.jpg"
+<img src="{{ site.baseurl }}/assets/img/BusITCollaboration.png"
   alt="Business and IT collaboration"
   class="guide-image">
   
