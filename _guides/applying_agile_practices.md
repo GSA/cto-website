@@ -32,18 +32,18 @@ Like software development, an organization’s business departments, project man
 
 ### Good Reads
 These are good references for understanding Agile & DevOps:
-6 agile principles that apply to everything
-7 aspects of Agile HR
-Agile Alliance: Agile 101
-Agile HR: Transforming a Human Resources Team Using Scrum
-Agile Marketing Manifesto
-Agile Marketing Manifesto Explained
-Bring Agile to the Whole Organization
-Building the Agile Enterprise
-Embracing Agile
-How NPR benefits from agile project development & you can too
-How to apply Agile practices with your non-tech team or business
-Organisational agility: How business can survive and thrive in turbulent times
-Scaling Agile at Spotify
-The Dawn of the Agile Attorney
-What is Agile HR? And is it right for you?
+* 6 agile principles that apply to everything
+* 7 aspects of Agile HR
+* Agile Alliance: Agile 101
+* Agile HR: Transforming a Human Resources Team Using Scrum
+* Agile Marketing Manifesto
+* Agile Marketing Manifesto Explained
+* Bring Agile to the Whole Organization
+* Building the Agile Enterprise
+* Embracing Agile
+* How NPR benefits from agile project development & you can too
+* How to apply Agile practices with your non-tech team or business
+* Organisational agility: How business can survive and thrive in turbulent times
+* Scaling Agile at Spotify
+* The Dawn of the Agile Attorney
+* What is Agile HR? And is it right for you?
