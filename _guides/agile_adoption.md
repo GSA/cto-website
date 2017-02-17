@@ -56,7 +56,7 @@ Some common Agile terms include:
 
 Additional terms can be found in our [**Agile Glossary**]({{ site.baseurl }}/guides/agile_glossary/).
 
-<a name="agileculturebenefits"></a>### Benefits of an Agile Culture
+### <a name="agileculturebenefits"></a>Benefits of an Agile Culture
 Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), [Customer Support](http://www.award-entry.nl/2014/cases/klm/happy-to-help/), and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
 
 The result, or the answer to **“[What’s in it for me?!](https://hbr.org/2016/05/embracing-agile)”** rather - is additional cost-savings and more informed spend; greater visibility with executive leadership; empowered, self-organized teams; work that is broken down into smaller, achievable increments; and shared responsibility between Business and IT.
