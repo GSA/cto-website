@@ -61,5 +61,7 @@ While a traditional waterfall approach can work well for projects with routine a
   class="guide-image">
   
   In the phased investment approach, an agile team learns early what works and what does not, which gives them more knowledge on the product and alternatives. Releasing the funds in increments allows an agile team to better inform investment decision-making and potentially reduce their overall spending. The advantage of the incremental approach is that the team learns early, fails early, and can course-correct while the budget is still intact.
+  
 Often times, in a Waterfall approach, defects are not discovered until the end of the process when testing takes place. Once the errors are exposed, the team has to retrace steps back to the beginning, while the project budget and schedule are both at risk.
+
 In order to measure success, a product must meet the success criteria determined at the beginning of the project. Typically, the criteria will include meeting all customer requirements and business lines getting to see the product early and making decisions. These decisions are an important part of determining success as they range from the ability to learn early and stop before spending all funds, to if the product plan proves not feasible during the discovery or proof of concept phases.
