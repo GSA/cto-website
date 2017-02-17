@@ -11,7 +11,7 @@ The [Agile Manifesto](http://agilemanifesto.org/) emphasizes value on on individ
 
 <img src="{{ site.baseurl }}/assets/img/guides/LargeTeamCollaboration.jpg"
   alt="Business and IT collaboration"
-  class="guide-image">
+  class="guide-image guide-image-half">
 
 **What is Effective Collaboration?**  
 
