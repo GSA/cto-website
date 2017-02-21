@@ -12,28 +12,32 @@ layout: base
   {% team %}
     {% assign loopstatus = forloop.index | modulo: 4 %}
     {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
-    <div class="member usa-width-one-fourth">
-      <a href="{{ member.url | prepend: site.baseurl }}">
-        {% if member.photo %}
-          <img src="{{ site.baseurl }}/assets/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
-        {% else %}
-          <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+      <div class="member usa-width-one-fourth">
+        <a href="{{ member.url | prepend: site.baseurl }}">
+          {% if member.photo %}
+            <img src="{{ site.baseurl }}/assets/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+          {% else %}
+            <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+          {% endif %}
+        </a>
+        <div class="member-name">
+          <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+        </div>
+        {% if member.role %}
+          <div class="member-role">
+            {{ member.role }}
+          </div>
         {% endif %}
-      </a>
-      <div class="member-name">
-        <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+        {% if member.group %}
+          <div class="member-group">
+            {{ member.group }}
+          </div>
+        {% endif %}
       </div>
-      {% if member.role %}
-        <div class="member-role">
-          {{ member.role }}
-        </div>
-      {% endif %}
-      {% if member.group %}
-        <div class="member-group">
-          {{ member.group }}
-        </div>
-      {% endif %}
-    </div>
-    {% if loopstatus == 0 %}</div>{% endif %}
+    {% if loopstatus == 0 %}
+      </div>
+    {% elsif forloop.last %}
+      </div>
+    {% endif %}
   {% endteam %}
 </div>
