@@ -57,6 +57,10 @@ layout: base
         {% endif %}
       </div>
     </div>
-    {% if loopstatus == 0 %}</div>{% endif %}
+    {% if loopstatus == 0 %}
+      </div>
+    {% elsif forloop.last %}
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
