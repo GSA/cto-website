@@ -25,6 +25,6 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "lunr": "^0.7.2",
-    "uswds": "^0.14.0"
+    "uswds": "^1.0.0"
   }
 }
