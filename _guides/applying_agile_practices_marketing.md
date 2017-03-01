@@ -34,4 +34,4 @@ These are good references for understanding Agile practices implemented outside 
 
 #### Marketing
 * [Agile Marketing Manifesto](http://agilemarketingmanifesto.org/)
-* [gile Marketing Manifesto Explained](http://theagilemarketer.net/agile-marketing-manifesto-explained/)
+* [Agile Marketing Manifesto Explained](http://theagilemarketer.net/agile-marketing-manifesto-explained/)
