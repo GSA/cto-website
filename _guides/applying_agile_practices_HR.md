@@ -16,8 +16,8 @@ According to the [HR Trend Institute](https://hrtrendinstitute.com/), “Agile H
 
 With Agile HR, the traditional focus on control and alignment has shifted to a more Agile focus on speed of responsiveness and customers.
 
-<img src="{{ site.baseurl }}/assets/img/guides/New_Rules_HR.png"
-  alt="Agile HR"
+<img src="{{ site.baseurl }}/assets/img/guides/New_Rules_HR.jpg"
+  alt="New Rules & Roles in HR"
   class="guide-image">  
 *Source: [Agile HR](http://2ivc9q2m0zajpk0cz1zc598z.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/LeighAnnShaffner.pdf) presentation by Leigh Ann Shaffner*
 
