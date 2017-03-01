@@ -19,7 +19,9 @@ Like software development, Marketing efforts must balance a customer-focused app
 
 As the [Agile Marketer](http://theagilemarketer.net/agile-marketing-manifesto-explained/) explains, there are many traditional approaches used in marketing campaigns and efforts that should be modified to avoid potential delays and/or adverse impacts. As marketers examine current practices, taking a more Agile approach can help them overcome such challenges. For example:
 
-IMG SRC
+<img src="{{ site.baseurl }}/assets/img/guides/Agile_Marketing.png"
+  alt="Agile Marketing"
+  class="guide-image guide-image-half">  
 *Source: The Agile Marketer*
 
 ### Good Reads
