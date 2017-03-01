@@ -18,7 +18,7 @@ With Agile HR, the traditional focus on control and alignment has shifted to a m
 
 <img src="{{ site.baseurl }}/assets/img/guides/New_Rules_HR.jpg"
   alt="New Rules & Roles in HR"
-  class="guide-image guide-image-half">  guide-image-half
+  class="guide-image">
 *Source: [Agile HR](http://2ivc9q2m0zajpk0cz1zc598z.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/LeighAnnShaffner.pdf) presentation by Leigh Ann Shaffner*
 
 Human Resources is no longer limited to just implementing controls and standards to drive execution, but rather to facilitate programs and strategies that improve organizational agility, innovation, collaboration, and enhance decision-making. [HRSG](http://www.hrsg.ca/what-is-agile-hr-and-is-it-right-for-you/) provides a few examples of how traditional approaches to HR must shift when using an Agile approach:
