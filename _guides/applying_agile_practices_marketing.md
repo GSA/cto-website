@@ -1,5 +1,5 @@
 ---
-title: Applying Agile Practices in Agile Marketing
+title: Applying Agile Practices - Agile Marketing
 category: Agile
 audiences:
   - Developers
