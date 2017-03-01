@@ -25,7 +25,7 @@ As the [Agile Marketer](http://theagilemarketer.net/agile-marketing-manifesto-ex
 *Source: The Agile Marketer*
 
 ### Good Reads
-These are good references for understanding Agile practices implemented outside of software development:
+These are good references for understanding Agile practices used in Marketing:
 * [6 agile principles that apply to everything](http://www.cio.com/article/2971822/agile-development/6-agile-principles-that-apply-to-everything.html)
 * [Agile Alliance: Agile 101](https://www.agilealliance.org/agile101/)
 * [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
