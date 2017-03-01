@@ -19,6 +19,8 @@ While many lawyers struggle with the idea of incorporating traditional project m
   class="guide-image">  
 *Source: The Agile Attorney & Sound Immigration*
 
+Using an Agile Legal approach makes work visible, encourages collaboration, enables responsiveness, supports consistency of communication, and can even create a competitive advantage with clients that “speak Agile.”
+
 ### Good Reads
 These are good references for understanding Agile practices used in Legal:
 * [6 agile principles that apply to everything](http://www.cio.com/article/2971822/agile-development/6-agile-principles-that-apply-to-everything.html)
