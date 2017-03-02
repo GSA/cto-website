@@ -33,7 +33,7 @@ Like software development, an organization’s business departments, project man
 For more information on how specific domains are applying Agile practices to their business, check out the following:
 * [Applying Agile Practices - Agile Human Resources (HR)]({{ site.baseurl }}/guides/applying_agile_practices_HR/)
 * [Applying Agile Practices - Agile Legal]({{ site.baseurl }}/guides/applying_agile_practices_legal/)
-* [Applying Agile Practices - Agile Marketing]({{ site.baseurl }}/applying_agile_practices_marketing/)
+* [Applying Agile Practices - Agile Marketing]({{ site.baseurl }}/guides/applying_agile_practices_marketing/)
 
 ### Good Reads
 These are good references for understanding the application of Agile practices to Business Teams:
