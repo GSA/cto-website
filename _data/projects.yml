@@ -3,7 +3,7 @@
 - name: tech.gsa.gov
   contact_name: Office of the CTO
   contact_email: cto@gsa.gov
-  stage: alpha
+  stage: beta
   link:
   repository_link: https://github.com/GSA/cto-website
   picture: project_tech.gsa.gov.jpg
