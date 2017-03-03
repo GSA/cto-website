@@ -14,7 +14,7 @@ audiences:
 
 This content provides scenarios and questions that are intended to guide the the government representative during  the interview and evaluation phase where a vendor representative has been shortlisted and is being considered for an Agile delivery RFI or RFP. These sample questions can be used to assess the overall experience, competency and compatibility of a vendor or contractor for Agile product development or project management  engagements. Please refer to the *“Agile Roles: Interview Questions”* guide for interview questions for evaluating candidates being considered for specific roles in agile methodologies (e.g. Scrum Master, Solutions Architect, etc.).
 
-**1. Product Development: Scope and changing Requirements**
+**1. Product Development: Scope and Changing Requirements**
 
 |**Interview Questions** | **Agile Response Samples**
 |---------------|---------------|
@@ -33,7 +33,7 @@ This content provides scenarios and questions that are intended to guide the the
 
 **3. Delivery Process**
 
-|**Interview Questions** | **Agile Response Samples**
+|**Interview Questions** | **Agile Response Samples**|
 |---------------|---------------|
 |How would you explain a minimum viable product (MVP) based on your delivery approach? | Process ensures the highest priority items are delivered in increments. {::nomarkdown}<ul><li> Ready and able to showcase development process if given one week to develop a piece of functionality </li> <li> Process in place to deliver increments which represent a cumulatively growing subset of the final product </li> <li> Deliver the minimum set of features required to meet the objectives of users and customers </li></ul> {:/}|
 |What process do you use to identify end-users and capture their needs? | Process ensures end-user requirements are continuously reflected in the effort. {::nomarkdown}<ul><li> Methodology (e.g. Focus group workshops, surveys, interviews, shadowing, mindmaps, etc.) </li> <li> Sample questions to be answered by users, that are intended to facilitate the understanding of user needs and not developing fully detailed specifications upfront </li> <li> Participants: sample list of primary characteristics of users or personas to be recruited to participate in the research or approach for persona identification </li><li> Schedules: that are timeboxed and iterative, enable the process for feedback </li><li> Tools: UI / UX demo and test tools, meeting space needs </li><li>Reports / results format and dates </li></ul> {:/}|
