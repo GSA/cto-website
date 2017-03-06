@@ -80,3 +80,12 @@
   repository_link:
   picture: project_opengovplan.png
   description: Microsite dedicated to sharing the General Services Administration’s (GSA) 2016 policy on open government.
+
+- name: SOM
+  contact_name: Joseph Castle
+  contact_email: joseph.castle@gsa.gov
+  stage: discovery
+  link:
+  repository_link:
+  picture:
+  description: Sustainability Operations and Maintenance (SOM) tool.
