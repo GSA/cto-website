@@ -12,10 +12,10 @@
 - name: open.gsa.gov
   contact_name: Sara Cope
   contact_email: sara.cope@gsa.gov
-  stage: alpha
+  stage: beta
   link: http://open.gsa.gov/
   repository_link: https://github.com/GSA/open-gsa-redesign
-  picture: project_open.gsa.gov.jpg
+  picture: project_open.gsa.gov.png
   description: open.gsa.gov is the current developer portal for all GSA data, APIs, and code open to the public. The focus of this project is the redesign of the site, offering a new, user-focused experience emphasizing engagement with the public.
 
 - name: Open Opportunities
