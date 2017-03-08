@@ -3,7 +3,7 @@
 - name: tech.gsa.gov
   contact_name: Office of the CTO
   contact_email: cto@gsa.gov
-  stage: alpha
+  stage: beta
   link:
   repository_link: https://github.com/GSA/cto-website
   picture: project_tech.gsa.gov.jpg
@@ -12,10 +12,10 @@
 - name: open.gsa.gov
   contact_name: Sara Cope
   contact_email: sara.cope@gsa.gov
-  stage: alpha
+  stage: beta
   link: http://open.gsa.gov/
   repository_link: https://github.com/GSA/open-gsa-redesign
-  picture: project_open.gsa.gov.jpg
+  picture: project_open.gsa.gov.png
   description: open.gsa.gov is the current developer portal for all GSA data, APIs, and code open to the public. The focus of this project is the redesign of the site, offering a new, user-focused experience emphasizing engagement with the public.
 
 - name: Open Opportunities
@@ -80,3 +80,12 @@
   repository_link:
   picture: project_opengovplan.png
   description: Microsite dedicated to sharing the General Services Administration’s (GSA) 2016 policy on open government.
+
+- name: SOM
+  contact_name: Joseph Castle
+  contact_email: joseph.castle@gsa.gov
+  stage: discovery
+  link:
+  repository_link:
+  picture:
+  description: Sustainability Operations and Maintenance (SOM) tool.

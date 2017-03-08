@@ -30,6 +30,11 @@ In addition to changing the mindsets and behaviors of the business teams, the or
 
 Like software development, an organization’s business departments, project management offices, and product development also face complex problems - often with many unknowns or changing requirements that can only be addressed as more information becomes available. By breaking efforts down, partnering with end users / customers to obtain rapid feedback, and eliminating silos through cross-functional collaboration, these groups can leverage an Agile approach in order to face challenges in a more responsive manner. Organizations can support the agility of these groups through encouraging the adaption of Agile behaviors and by creating a responsive environment.
 
+For more information on how specific domains are applying Agile practices to their business, check out the following:
+* [Applying Agile Practices - Agile Human Resources (HR)]({{ site.baseurl }}/guides/applying_agile_practices_HR/)
+* [Applying Agile Practices - Agile Legal]({{ site.baseurl }}/guides/applying_agile_practices_legal/)
+* [Applying Agile Practices - Agile Marketing]({{ site.baseurl }}/guides/applying_agile_practices_marketing/)
+
 ### Good Reads
 These are good references for understanding the application of Agile practices to Business Teams:
 * [6 agile principles that apply to everything](http://www.cio.com/article/2971822/agile-development/6-agile-principles-that-apply-to-everything.html)
