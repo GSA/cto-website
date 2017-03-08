@@ -1,5 +1,22 @@
 /* Guides section styles */
 
+.guides-filter {
+  margin-top: 1em;
+
+  input {
+    width: auto; /* USWDS 'width: 100%' causes inputs to bleed into the table */
+  }
+
+  legend {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.guides-table-heading {
+  text-align: left;
+}
+
 .guide-content h2 {
   margin-top: 0;
 }
