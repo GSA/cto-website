@@ -36,13 +36,13 @@ $(document).ready(function () {
 
     if (selectedAudiences !== null) {
       $(".guides-filter-audience").each(function () {
-        $(this).prop("checked", selectedAudiences.includes($(this).val()));
+        $(this).prop("checked", selectedAudiences.split(",").includes($(this).val()));
       });
     }
 
     if (selectedCategories !== null) {
       $(".guides-filter-category").each(function () {
-        $(this).prop("checked", selectedCategories.includes($(this).val()));
+        $(this).prop("checked", selectedCategories.split(",").includes($(this).val()));
       });
     }
 
