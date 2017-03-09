@@ -1,0 +1,53 @@
+/* TechTalks section styles */
+
+.demo {
+  padding: 20px;
+}
+
+.usa-card-header,
+.usa-card-content,
+.usa-card-footer {
+  padding: 1rem 2rem;
+}
+
+.usa-card {
+  max-width: 390px;
+  border: 1px solid #ddd;
+}
+
+.usa-card h1,
+.usa-card h2,
+.usa-card h3,
+.usa-card h4,
+.usa-card h5,
+.usa-card h6 {
+  font-family: Source Sans Pro;
+}
+
+.usa-card-header {
+  background: #efefef;
+}
+
+.usa-card-title {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.usa-card-subtitle {
+  font-size: 2rem;
+  margin-top: 0;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.usa-card-content h2 {
+  font-size: 2rem;
+}
+
+.usa-card-content:first-child {
+  margin-top: 1rem;
+}
+
+.usa-card-footer {
+  background: #0071bc
+}
