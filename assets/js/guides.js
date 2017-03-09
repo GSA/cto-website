@@ -1,10 +1,10 @@
-(function() {
+$(document).ready(function () {
   function getFilterValues(selector, checked) {
     var modifier = checked ? ":checked" : ":not(:checked)";
-    var $selectedInputs = document.querySelectorAll(selector + modifier);
+    var $selectedInputs = $(selector + modifier);
     var matches = [];
-    $selectedInputs.forEach(function (input) {
-      matches.push(input.value);
+    $selectedInputs.each(function () {
+      matches.push($(this).val());
     });
     return matches;
   }
@@ -16,47 +16,38 @@
     return (intersection.length > 0);
   }
 
-  function refresh() {
+  function filtersUpdated() {
     var selectedAudiences = getFilterValues(".guides-filter-audience", true);
     var selectedCategories = getFilterValues(".guides-filter-category", true);
-    sessionStorage.setItem("selectedAudiences", selectedAudiences);
-    sessionStorage.setItem("selectedCategories", selectedCategories);
-    var $guideTableRows = document.querySelectorAll(".guides-table-row");
-    $guideTableRows.forEach(function (row) {
-      if (selectedCategories.includes(row.dataset.category) && hasIntersection(selectedAudiences, row.dataset.audiences.split(","))) {
-        row.style.display = "";
-      } else {
-        row.style.display = "none";
-      }
+    sessionStorage.setItem("selectedAudiences", selectedAudiences.join(","));
+    sessionStorage.setItem("selectedCategories", selectedCategories.join(","));
+    $(".guides-table-row").each(function () {
+      var categorySelected = selectedCategories.includes($(this).data("category"));
+      var audienceSelected = hasIntersection(selectedAudiences, $(this).data("audiences").split(","));
+      $(this).toggle(categorySelected && audienceSelected);
     });
   }
 
   function init() {
-    var $allInputs = document.querySelectorAll(".guides-filter");
-    var $audienceInputs = document.querySelectorAll(".guides-filter-audience");
-    var $categoryInputs = document.querySelectorAll(".guides-filter-category");
-
-    $allInputs.forEach(function (input) {
-      input.addEventListener("change", refresh);
-    });
+    $(".guides-filter").change(filtersUpdated);
 
     var selectedAudiences = sessionStorage.getItem("selectedAudiences");
     var selectedCategories = sessionStorage.getItem("selectedCategories");
 
     if (selectedAudiences !== null) {
-      $audienceInputs.forEach(function (input) {
-        input.checked = selectedAudiences.includes(input.value);
+      $(".guides-filter-audience").each(function () {
+        $(this).prop("checked", selectedAudiences.includes($(this).val()));
       });
     }
 
     if (selectedCategories !== null) {
-      $categoryInputs.forEach(function (input) {
-        input.checked = selectedCategories.includes(input.value);
+      $(".guides-filter-category").each(function () {
+        $(this).prop("checked", selectedCategories.includes($(this).val()));
       });
     }
 
-    refresh();
+    filtersUpdated();
   }
 
   init();
-})();
+});
