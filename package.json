@@ -12,8 +12,7 @@
   },
   "homepage": "https://github.com/GSA/cto-website#readme",
   "scripts": {
-    "test": "rake test",
-    "start": "rake serve"
+    "assets": "gulp copy-assets"
   },
   "devDependencies": {
     "browser-sync": "^2.18.7",
@@ -24,6 +23,7 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
     "lunr": "^0.7.2",
     "uswds": "^1.0.0"
   }

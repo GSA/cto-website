@@ -60,6 +60,7 @@ description: >
 
     {% include footer.html %}
 
+    <script src="{{ '/assets/vendor/jquery/js/jquery.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ '/assets/vendor/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ site.baseurl }}/assets/js/global.js"></script>
     {% if page.custom_js %}
