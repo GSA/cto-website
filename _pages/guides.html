@@ -12,32 +12,28 @@ custom_js:
 <p>We encourage comments via opening an issue at our <a href="https://github.com/GSA/cto-website/issues">GitHub repo</a>.</p>
 
 <div class="usa-width-one-fourth">
-  <div>
-    <fieldset class="usa-fieldset-inputs guides-filter">
-      <legend>Audiences</legend>
-      <ul class="usa-unstyled-list">
-        {% for audience in site.data.guides.audiences %}
-        <li>
-          <input class="guides-filter-audience" id="audience-{{ audience.slug }}" type="checkbox" name="audiences" value="{{ audience.name }}" checked>
-          <label for="audience-{{ audience.slug }}">{{ audience.name }}</label>
-        </li>
-        {% endfor %}
-      </ul>
-    </fieldset>
-  </div>
-  <div>
-    <fieldset class="usa-fieldset-inputs guides-filter">
-      <legend>Categories</legend>
-      <ul class="usa-unstyled-list">
-        {% for category in site.data.guides.categories %}
-        <li>
-          <input class="guides-filter-category" id="category-{{ category.slug }}" type="checkbox" name="categories" value="{{ category.name }}" checked>
-          <label for="category-{{ category.slug }}">{{ category.name }}</label>
-        </li>
-        {% endfor %}
-      </ul>
-    </fieldset>
-  </div>
+  <fieldset class="usa-fieldset-inputs guides-filter">
+    <legend>Categories</legend>
+    <ul class="usa-unstyled-list">
+      {% for category in site.data.guides.categories %}
+      <li>
+        <input class="guides-filter-category" id="category-{{ category.slug }}" type="checkbox" name="categories" value="{{ category.name }}" checked>
+        <label for="category-{{ category.slug }}">{{ category.name }}</label>
+      </li>
+      {% endfor %}
+    </ul>
+  </fieldset>
+  <fieldset class="usa-fieldset-inputs guides-filter">
+    <legend>Audiences</legend>
+    <ul class="usa-unstyled-list">
+      {% for audience in site.data.guides.audiences %}
+      <li>
+        <input class="guides-filter-audience" id="audience-{{ audience.slug }}" type="checkbox" name="audiences" value="{{ audience.name }}" checked>
+        <label for="audience-{{ audience.slug }}">{{ audience.name }}</label>
+      </li>
+      {% endfor %}
+    </ul>
+  </fieldset>
 </div>
 
 <div class="usa-width-three-fourths">
