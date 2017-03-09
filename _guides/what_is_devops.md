@@ -56,7 +56,7 @@ These are good references for understanding DevOps, Continuous Integration (CI),
 * [MartinFowler.com: ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
 * [ShiwaForce: What is DevOps?](https://www.shiwaforce.com/mi-az-devops/)
 * [The Agile Admin: What is DevOps?](https://theagileadmin.com/what-is-devops/)
-* [[The business case for continuous delivery](https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery)
+* [The business case for continuous delivery](https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery)
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 * [The Product Managers’ Guide to Continuous Delivery and DevOps](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
 * [Top 5 open source version control tools for system admins](https://www.getfilecloud.com/blog/2015/02/top-5-open-source-version-control-tools-for-system-admins/#.WHVSSVMrLIU)
