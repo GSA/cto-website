@@ -24,6 +24,8 @@ to set it up on your system.
 
 We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You only need it if you plan to update the [vendor assets](/assets/vendor/).
 
+To update the vendor assets, run `npm run assets`.
+
 ### Building and Previewing
 
 First, install Ruby gem dependencies:
