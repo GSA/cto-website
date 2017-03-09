@@ -19,8 +19,8 @@ $(document).ready(function () {
   function filtersUpdated() {
     var selectedAudiences = getFilterValues(".guides-filter-audience", true);
     var selectedCategories = getFilterValues(".guides-filter-category", true);
-    sessionStorage.setItem("selectedAudiences", selectedAudiences.join(","));
-    sessionStorage.setItem("selectedCategories", selectedCategories.join(","));
+    sessionStorage.setItem("selectedAudiences", JSON.stringify(selectedAudiences));
+    sessionStorage.setItem("selectedCategories", JSON.stringify(selectedCategories));
     $(".guides-table-row").each(function () {
       var categorySelected = selectedCategories.includes($(this).data("category"));
       var audienceSelected = hasIntersection(selectedAudiences, $(this).data("audiences").split(","));
@@ -31,18 +31,18 @@ $(document).ready(function () {
   function init() {
     $(".guides-filter").change(filtersUpdated);
 
-    var selectedAudiences = sessionStorage.getItem("selectedAudiences");
-    var selectedCategories = sessionStorage.getItem("selectedCategories");
+    var selectedAudiences = JSON.parse(sessionStorage.getItem("selectedAudiences"));
+    var selectedCategories = JSON.parse(sessionStorage.getItem("selectedCategories"));
 
     if (selectedAudiences !== null) {
       $(".guides-filter-audience").each(function () {
-        $(this).prop("checked", selectedAudiences.split(",").includes($(this).val()));
+        $(this).prop("checked", selectedAudiences.includes($(this).val()));
       });
     }
 
     if (selectedCategories !== null) {
       $(".guides-filter-category").each(function () {
-        $(this).prop("checked", selectedCategories.split(",").includes($(this).val()));
+        $(this).prop("checked", selectedCategories.includes($(this).val()));
       });
     }
 
