@@ -27,6 +27,7 @@ namespace :test do
       puts "Running HTML Proofer on internal links..."
       options = {
         check_html: true,
+        empty_alt_ignore: true,
         disable_external: true
       }
       HTMLProofer.check_directory("./_test", options).run
@@ -39,6 +40,7 @@ namespace :test do
       puts "Running HTML Proofer on all links..."
       options = {
         check_html: true,
+        empty_alt_ignore: true
       }
       HTMLProofer.check_directory("./_test", options).run
     end
