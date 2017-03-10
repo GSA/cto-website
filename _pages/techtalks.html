@@ -28,7 +28,7 @@ permalink: /techtalks/
                   <p class="txt">
                       {{ event.description }}
                   </p>
-                  <p class="location">{{ event.location }}</p>
+                  {% if event.location %}<p class="location">{{ event.location }}</p>{% endif %}
                   <h3>Who</h3>
                   <p>{{ event.presenter }}</p>
                   {% if event.register %}<a href="{{ event.register | prepend: site.baseurl }}" class="details">Register</a>{% endif %}
