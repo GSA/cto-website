@@ -71,7 +71,6 @@
       var output = '<ul class="usa-unstyled-list">';
       for (var index in matches) {
         var page = pages[matches[index].ref];
-        console.log(page);
         var pageNote = "";
         if (page.meta.layout === "guide") {
           pageNote = "<small>(" + page.meta.category + " Guides)</small>";
