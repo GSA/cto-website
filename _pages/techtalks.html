@@ -14,38 +14,44 @@ permalink: /techtalks/
 
   <br><hr><br>
 
-  <div class="techtalks">
-    <div class="demo usa-width-one-third">
-    <div class="usa-card">
-      <header class="usa-card-header">
-        <h1 class="usa-card-title">GSA Digital Services - <span class="usa-label">New</span></h1>
-        <p class="usa-card-subtitle">March 14, 2017, 1p-1:30p</p>
-      </header>
-      <div class="usa-card-content">
-        <h2>Objective</h2>
-        <p>Technology in the federal sector is rapidly changing with focus on new technologies to meet emerging customer and end user needs.  Design elicitation, rapid and continuous software deployments, open source technologies, sprint management cycles, etc., are the new norm.  This talk will provide insight into Digital Services at GSA, how it started, its focus, and current projects.
-        <h2>Who</h2>
-        <p>Joseph Castle, Digital Service Team, CTO</p>
-        <p><strong>
-        <a href="#">Register</a> | <a href="#">Slides</a> | <a href="#">Recording</a></strong></p>
-      </div>
-      <footer class="usa-card-footer">
-      </footer>
+<div class="usa-grid">
+    <div class="usa-width-one-whole">
+        {% for event in site.data.tech-talks %}
+        
+          <article class="card">
+              <header>
+                  <h3 class="title">{{ event.title }}</h3>
+                  <p class="date">{{ event.date }}, {{event.time }}</p>
+              </header>
+              <div class="content">
+                  <h3>Objective</h3>
+                  <p class="txt">
+                      {{ event.description }}
+                  </p>
+                  <p class="location">{{ event.location }}</p>
+                  <h3>Who</h3>
+                  <p>{{ event.presenter }}</p>
+                  <a href="{{ event.register | prepend: site.baseurl }}" class="details">Register</a>
+              </div>
+              <footer class="usa-card-footer">
+              </footer>
+          </article>
+
+        {% endfor %}
     </div>
-    </div>
-  </div>
+
 
 <!--
 
   <h3>GSA Digital Services - <span class="usa-label">New</span></h3>
   <h5>3/14/17</h5>
-  
+
   <p>
     Technology in the federal sector is rapidly changing with focus on new technologies to meet emerging customer and end user needs.  Design elicitation, rapid and continuous software deployments, open source technologies, sprint management cycles, etc., are the new norm.  This requires a new digital approach to IT in GSA.
   </p>
 
   <p>
-    In 2016, GSA IT established the Digital Services Division within the Office of the CTO focusing on modern design, development, and product/project management. 
+    In 2016, GSA IT established the Digital Services Division within the Office of the CTO focusing on modern design, development, and product/project management.
   </p>
 
   <p>
@@ -60,10 +66,10 @@ permalink: /techtalks/
     </div>
   </div>
 
-  <div class="usa-width-one-third guide-content"> 
+  <div class="usa-width-one-third guide-content">
   <h3>Open Source at GSA</h3>
   <h5>2/28/17</h5>
-  
+
   <p>
     The Digital Services Division in the Office of the CTO is responsible for assisting with innovation and modernization of GSA IT by promoting policies establish by the White House Office of Management and Budget (OMB) including open government, open data, and open source software (OSS).
   </p>
@@ -79,10 +85,10 @@ permalink: /techtalks/
   </p>
   </div>
 
-  <div class="usa-width-one-third guide-content"> 
+  <div class="usa-width-one-third guide-content">
   <h3>A Look into the CTO's Office</h3>
   <h5>2/21/17</h5>
-  
+
   <p>
     The Office of the Chief Technology Officer (CTO) is responsible for driving innovation and modernizing technologies for GSA.
   </p>
