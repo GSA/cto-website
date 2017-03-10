@@ -1,0 +1,27 @@
+- title: GSA Digital Services
+  date: March 14, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F
+  description: Technology in the federal sector is rapidly changing with focus on new technologies to meet emerging customer and end user needs. Design elicitation, rapid and continuous software deployments, open source technologies, sprint management cycles, etc., are the new norm. This talk will provide insight into Digital Services at GSA, how it started, its focus, and current projects.
+  presenter: Joseph Castle, Digital Service Team, CTO
+  register: 
+  slides: 
+  recording:
+- title: Open Source at GSA
+  date: February 28, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F
+  description: In this Tech Talk, Joseph Castle and Jeffrey Fredrickson from the Digital Services Division provided an overview of the OMB and GSA policies, discussed implementation and measurement, and discussed the importance of OSS to the agency.
+  presenter: Joseph Castle and Jeffrey Fredrickson, Digital Service Team, CTO
+  register:
+  slides: /assets/downloads/techtalks/OpenSourceGSA.pdf
+  recording:
+- title: A Look into the CTO's Office
+  date: February 21, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F
+  description: The Office of the Chief Technology Officer (CTO) is responsible for driving innovation and modernizing technologies for GSA.  In this Tech Talk, Navin Vembar, GSA CTO, provided the CTO vision for the future of technology at GSA, what services the office provides, and information about the projects currently underway.
+  presenter: Navin Vembar, GSA Chief Technology Officer (CTO)
+  register:
+  slides: /assets/downloads/techtalks/TheCTOOffice.pdf
+  recording:
