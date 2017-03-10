@@ -17,7 +17,7 @@ permalink: /techtalks/
 <div class="usa-grid">
     <div class="usa-width-one-whole">
         {% for event in site.data.tech-talks %}
-        
+
           <article class="card">
               <header>
                   <h3 class="title">{{ event.title }}</h3>
@@ -31,7 +31,9 @@ permalink: /techtalks/
                   <p class="location">{{ event.location }}</p>
                   <h3>Who</h3>
                   <p>{{ event.presenter }}</p>
-                  <a href="{{ event.register | prepend: site.baseurl }}" class="details">Register</a>
+                  {% if event.register %}<a href="{{ event.register | prepend: site.baseurl }}" class="details">Register</a>{% endif %}
+                  {% if event.slides %}| <a href="{{ event.slides | prepend: site.baseurl }}" class="details">Slides</a>{% endif %}
+                  {% if event.recording %}| <a href="{{ event.recording | prepend: site.baseurl }}" class="details">Recording</a>{% endif %}
               </div>
               <footer class="usa-card-footer">
               </footer>
