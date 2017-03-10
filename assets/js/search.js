@@ -71,7 +71,14 @@
       var output = '<ul class="usa-unstyled-list">';
       for (var index in matches) {
         var page = pages[matches[index].ref];
-        output += '<li><h3><a href="' + page.url + '">' + page.title + '</a></h3><p>' + page.body.substring(0, 200) + ' ...</p></li>';
+        var pageNote = "";
+        if (page.meta.layout === "guide") {
+          pageNote = "<small>(" + page.meta.category + " Guides)</small>";
+        }
+        output += '<li>';
+        output += '<h3><a href="' + page.url + '">' + page.title + '</a> ' + pageNote + '</h3>';
+        output += '<p>' + page.body.substring(0, 200) + ' ...</p>';
+        output += '</li>';
       }
       output += "</ul>";
       $results.innerHTML = output;
