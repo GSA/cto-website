@@ -5,6 +5,13 @@ custom_js:
   - guides
 ---
 
+{% assign categories = "" | split: "" %}
+{% for guide in site.guides %}
+  {% assign categoryName = guide.category | strip %}
+  {% assign categories = categories | push: categoryName | uniq | sort %}
+{% endfor %}
+{% assign categories = categories | uniq | sort %}
+
 <h1>GSA Tech Guides</h1>
 
 <p>These guides are a collection of best practices that the GSA CTO team strives to follow. They include high-level strategy documents, practical project management approaches, and technology approaches based on the GSA CTO vision.</p>
@@ -15,10 +22,10 @@ custom_js:
   <fieldset class="usa-fieldset-inputs guides-filter">
     <legend>Categories</legend>
     <ul class="usa-unstyled-list">
-      {% for category in site.data.guides.categories %}
+      {% for category in categories %}
       <li>
-        <input class="guides-filter-category" id="category-{{ category.name | slugify }}" type="checkbox" name="categories" value="{{ category.name }}" checked>
-        <label for="category-{{ category.name | slugify }}">{{ category.name }}</label>
+        <input class="guides-filter-category" id="category-{{ category | slugify }}" type="checkbox" name="categories" value="{{ category }}" checked>
+        <label for="category-{{ category | slugify }}">{{ category }}</label>
       </li>
       {% endfor %}
     </ul>
@@ -34,15 +41,15 @@ custom_js:
       </tr>
     </thead>
     <tbody>
-      {% for category in site.data.guides.categories %}
-        <tr class="guides-table-category-heading" data-category="{{ category.name }}">
-          <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category.name | slugify }}"><b>{{ category.name }} Guides</b></th>
+      {% for category in categories %}
+        <tr class="guides-table-category-heading" data-category="{{ category }}">
+          <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category | slugify }}"><b>{{ category }} Guides</b></th>
         </tr>
         {% for guide in site.guides %}
-          {% if guide.category == category.name %}
+          {% if guide.category == category %}
             <tr class="guides-table-row" data-category="{{ guide.category }}">
-              <td headers="guides-table-heading-{{ category.name | slugify }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
-              <td headers="guides-table-heading-{{ category.name | slugify }} guides-table-heading-description">{{ guide.description }}</td>
+              <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
+              <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-description">{{ guide.description }}</td>
             </tr>
           {% endif %}
         {% endfor %} <!--guide-->
