@@ -1,6 +1,6 @@
 ---
 title:
-category: Agile, Team, Design, Development
+category: Agile, Team, Design, Development, DevOps
 ---
 
 This is a template for writing a Guide. To get started:
