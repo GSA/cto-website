@@ -17,8 +17,8 @@ custom_js:
     <ul class="usa-unstyled-list">
       {% for category in site.data.guides.categories %}
       <li>
-        <input class="guides-filter-category" id="category-{{ category.slug }}" type="checkbox" name="categories" value="{{ category.name }}" checked>
-        <label for="category-{{ category.slug }}">{{ category.name }}</label>
+        <input class="guides-filter-category" id="category-{{ category.name | slugify }}" type="checkbox" name="categories" value="{{ category.name }}" checked>
+        <label for="category-{{ category.name | slugify }}">{{ category.name }}</label>
       </li>
       {% endfor %}
     </ul>
@@ -36,13 +36,13 @@ custom_js:
     <tbody>
       {% for category in site.data.guides.categories %}
         <tr class="guides-table-category-heading" data-category="{{ category.name }}">
-          <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category.slug }}"><b>{{ category.name }} Guides</b></th>
+          <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category.name | slugify }}"><b>{{ category.name }} Guides</b></th>
         </tr>
         {% for guide in site.guides %}
           {% if guide.category == category.name %}
             <tr class="guides-table-row" data-category="{{ guide.category }}">
-              <td headers="guides-table-heading-{{ category.slug }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
-              <td headers="guides-table-heading-{{ category.slug }} guides-table-heading-description">{{ guide.description }}</td>
+              <td headers="guides-table-heading-{{ category.name | slugify }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
+              <td headers="guides-table-heading-{{ category.name | slugify }} guides-table-heading-description">{{ guide.description }}</td>
             </tr>
           {% endif %}
         {% endfor %} <!--guide-->
