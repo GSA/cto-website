@@ -16,6 +16,10 @@ $(document).ready(function () {
       var audienceSelected = hasIntersection(selectedAudiences, $(this).data("audiences").split(","));
       $(this).toggle(categorySelected && audienceSelected);
     });
+    $(".guides-table-category-heading").each(function () {
+      var categorySelected = selectedCategories.indexOf($(this).data("category")) !== -1;
+      $(this).toggle(categorySelected);
+    });
   }
 
   function init() {

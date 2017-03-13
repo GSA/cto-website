@@ -46,7 +46,7 @@ custom_js:
     </thead>
     <tbody>
       {% for category in site.data.guides.categories %}
-        <tr>
+        <tr class="guides-table-category-heading" data-category="{{ category.name }}">
           <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category.slug }}"><b>{{ category.name }} Guides</b></th>
         </tr>
         {% for guide in site.guides %}
