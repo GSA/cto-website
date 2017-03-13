@@ -1,10 +1,6 @@
 ---
 title:
 category: Agile, Team, Design, Development
-audiences:
-  - Developers
-  - Designers
-  - Project Managers
 ---
 
 This is a template for writing a Guide. To get started:
@@ -16,7 +12,6 @@ This is a template for writing a Guide. To get started:
 2. At the top of this file, you will want to specify the following items:
     - title: The title of this guide
     - category: Choose only one category from the list, deleting the rest
-    - audiences: Choose all appropriate audiences, deleting the rest
 
 3. Delete this instructional text and replace it with your actual guide.
 

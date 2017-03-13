@@ -23,17 +23,6 @@ custom_js:
       {% endfor %}
     </ul>
   </fieldset>
-  <fieldset class="usa-fieldset-inputs guides-filter">
-    <legend>Audiences</legend>
-    <ul class="usa-unstyled-list">
-      {% for audience in site.data.guides.audiences %}
-      <li>
-        <input class="guides-filter-audience" id="audience-{{ audience.slug }}" type="checkbox" name="audiences" value="{{ audience.name }}" checked>
-        <label for="audience-{{ audience.slug }}">{{ audience.name }}</label>
-      </li>
-      {% endfor %}
-    </ul>
-  </fieldset>
 </div>
 
 <div class="usa-width-three-fourths">
@@ -51,7 +40,7 @@ custom_js:
         </tr>
         {% for guide in site.guides %}
           {% if guide.category == category.name %}
-            <tr class="guides-table-row" data-category="{{ guide.category }}" data-audiences="{{ guide.audiences | join: ',' }}">
+            <tr class="guides-table-row" data-category="{{ guide.category }}">
               <td headers="guides-table-heading-{{ category.slug }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
               <td headers="guides-table-heading-{{ category.slug }} guides-table-heading-description">{{ guide.description }}</td>
             </tr>
