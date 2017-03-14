@@ -1,45 +1,56 @@
 ---
 title: Guides
 permalink: /guides/
+custom_js:
+  - guides
 ---
 
-<h1>Guides</h1>
+{% assign categories = "" | split: "" %}
+{% for guide in site.guides %}
+  {% assign categoryName = guide.category | strip %}
+  {% assign categories = categories | push: categoryName | uniq | sort %}
+{% endfor %}
+{% assign categories = categories | uniq | sort %}
 
-<aside class="usa-width-one-fourth guide-nav">
-  <ul class="usa-sidenav-list">
-    <li><a href="{{ page.url | prepend: site.baseurl }}" class="usa-current">All guides</a></li>
-    {% for audience in site.data.guides.audiences %}
-      <li>
-        <a href="{{ site.baseurl }}/guides/{{ audience.slug }}/">{{ audience.name }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
+<h1>GSA Tech Guides</h1>
 
-<div class="usa-width-three-fourths guide-content">
-  <h2>GSA Tech Guides</h2>
+<p>These guides are a collection of best practices that the GSA CTO team strives to follow. They include high-level strategy documents, practical project management approaches, and technology approaches based on the GSA CTO vision.</p>
 
-  <p>These guides are a collection of best practices that the GSA CTO team strives to follow. They include high-level strategy documents, practical project management approaches, and technology approaches based on the GSA CTO vision.</p>
+<p>We encourage comments via opening an issue at our <a href="https://github.com/GSA/cto-website/issues">GitHub repo</a>.</p>
 
   <p><a href="{{ site.baseurl }}/techtalks/" class="usa-current">Tech Talks</a> - GSA IT provided technology deep dives.  There are many opportunties for GSA employees to participate in upcoming events.  You can look through slides, audio, and video of past events.</p>
+<div class="usa-width-one-fourth">
+  <fieldset class="usa-fieldset-inputs guides-filter">
+    <legend>Categories</legend>
+    <ul class="usa-unstyled-list">
+      {% for category in categories %}
+      <li>
+        <input class="guides-filter-category" id="category-{{ category | slugify }}" type="checkbox" name="categories" value="{{ category }}" checked>
+        <label for="category-{{ category | slugify }}">{{ category }}</label>
+      </li>
+      {% endfor %}
+    </ul>
+  </fieldset>
+</div>
 
+<div class="usa-width-three-fourths">
   <table class="usa-table-borderless">
     <thead class="usa-sr-only">
       <tr>
-        <th id="guide-table-heading-title" scope="col">Title</th>
-        <th id="guide-table-heading-description" scope="col">Description</th>
+        <th id="guides-table-heading-title" scope="col">Title</th>
+        <th id="guides-table-heading-description" scope="col">Description</th>
       </tr>
     </thead>
     <tbody>
-      {% for category in site.data.guides.categories %}
-      <tr>
-        <th colspan="2" id="guide-table-heading-{{ category.slug }}"><b>{{ category.name }}</b></th>
-      </tr>
+      {% for category in categories %}
+        <tr class="guides-table-category-heading" data-category="{{ category }}">
+          <th colspan="2" class="guides-table-heading" id="guides-table-heading-{{ category | slugify }}"><b>{{ category }} Guides</b></th>
+        </tr>
         {% for guide in site.guides %}
-          {% if guide.category == category.name %}
-            <tr>
-              <td headers="guide-table-heading-{{ category.slug }} guide-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
-              <td headers="guide-table-heading-{{ category.slug }} guide-table-heading-description">{{ guide.description }}</td>
+          {% if guide.category == category %}
+            <tr class="guides-table-row" data-category="{{ guide.category }}">
+              <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
+              <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-description">{{ guide.description }}</td>
             </tr>
           {% endif %}
         {% endfor %} <!--guide-->

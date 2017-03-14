@@ -49,11 +49,6 @@ description: >
 
     <link rel="stylesheet" href="{{ '/assets/vendor/uswds/css/uswds.min.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
-
-    <script src="{{ '/assets/vendor/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
-
-    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
-    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA" id="_fed_an_ua_tag"></script>
   </head>
   <body class="{{ page.bodyClasses }}">
 
@@ -65,58 +60,17 @@ description: >
 
     {% include footer.html %}
 
-    <script>
+    <script src="{{ '/assets/vendor/jquery/js/jquery.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/assets/vendor/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ site.baseurl }}/assets/js/global.js"></script>
+    {% if page.custom_js %}
+      {% for file in page.custom_js %}
+        <script src="{{ site.baseurl }}/assets/js/{{ file }}.js"></script>
+      {% endfor %}
+    {% endif %}
 
-      // Handle the nav toggle button click event.
-      var $navToggleButton = document.getElementById("nav-toggle-button");
-      $navToggleButton.addEventListener("click", function () {
-        document.getElementsByClassName("nav-list")[0].classList.toggle("nav-revealed");
-      });
-
-      // Trigger point at which to perform dynamic effects on the nav bar
-      var triggerPoint = 60;
-
-      var $navPrimary = document.getElementById("nav-primary");
-      var $bannerButton = document.querySelector("button.usa-banner-button");
-
-      if (document.body.classList.contains("front")) {
-
-        // Initially set the nav to transparent.
-        $navPrimary.classList.add("nav-transparent");
-
-        // Remove transparency when scrolling down.
-        window.addEventListener("scroll", function () {
-          var bannerExpanded = $bannerButton.getAttribute("aria-expanded") === "true";
-          if (window.pageYOffset > triggerPoint) {
-            $navPrimary.classList.remove("nav-transparent");
-          } else if (!bannerExpanded) {
-            $navPrimary.classList.add("nav-transparent");
-          }
-        });
-
-        // Give the nav a background if the usa-banner is expanded. Otherwise,
-        // the nav text may overlay the page content when the usa-banner pushes
-        // it down.
-        $bannerButton.addEventListener("click", function () {
-          var bannerExpanded = $bannerButton.getAttribute("aria-expanded") === "true";
-          if (!bannerExpanded) {
-            $navPrimary.classList.remove("nav-transparent");
-          } else {
-            $navPrimary.classList.add("nav-transparent");
-          }
-        });
-      }
-
-      // Shrink the nav bar upon page scroll.
-      window.addEventListener("scroll", function () {
-        if (window.pageYOffset > triggerPoint) {
-          $navPrimary.classList.add("scrolled");
-        } else {
-          $navPrimary.classList.remove("scrolled");
-        }
-      });
-
-    </script>
+    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA" id="_fed_an_ua_tag"></script>
 
   </body>
 </html>
