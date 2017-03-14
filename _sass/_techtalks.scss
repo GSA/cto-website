@@ -1,0 +1,53 @@
+
+/* TechTalks section styles */
+
+
+$grey: #efefef;
+$blue: #0071bc;
+$black: #000;
+
+$border-radius:3px;
+$box-shadow:0 1px 4px rgba($black, .3);
+
+
+article.card {
+  text-align: left;
+	border-radius: $border-radius;
+  margin: 10px;
+  margin-bottom: 40px;
+	box-shadow: $box-shadow;
+  h3 {
+    font-family: Source Sans Pro;
+  }
+  header, .content, footer {
+    padding: 1rem 2rem;
+    }
+  header {
+    background: $grey;
+  }
+  .content {
+    padding:14px 24px;
+  }
+  .content:first-child {
+    margin-top: 1rem;
+  }
+	.title {
+    margin: 0;
+    font-size: 2.5rem;
+	}
+	.date, .time {
+    font-size: 2rem;
+    margin-top: 0;
+    font-weight: 400;
+    margin-bottom: 0;
+	}
+	.txt {
+		line-height: 1.5;
+	}
+  button a{
+    text-decoration: none;
+  }
+	footer {
+    background: $blue;
+	}
+}

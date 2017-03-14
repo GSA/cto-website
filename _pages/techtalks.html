@@ -1,0 +1,44 @@
+---
+title: Tech Talks
+permalink: /techtalks/
+---
+
+<br>
+<div class="usa-grid usa-width-one-fourth">
+  <h1>Tech<br>&nbsp;&nbsp;&nbsp;Talks</h1>
+</div>
+
+  <p>The GSA CTO team in-depth Tech Talks.  This is where members of the team discuss topics found in the <a href="{{ site.baseurl }}/guides/" class="usa-current">guides</a> affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&A.</p>
+
+  <p>A future Tech Talk schedule is forthcoming and past events will be posted here.  Register for upcoming events and enjoy content from past events.  You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.</p>
+
+  <br><hr><br>
+
+<div class="usa-grid">
+    <div class="usa-width-one-whole">
+        {% for event in site.data.techtalks %}
+
+          <article class="card">
+              <header>
+                  <h3 class="title">{{ event.title }}</h3>
+                  <p class="date">{{ event.date }}, {{event.time }}</p>
+              </header>
+              <div class="content">
+                  <h3>Objective</h3>
+                  <p class="txt">
+                      {{ event.description }}
+                  </p>
+                  {% if event.location %}<p class="location">{{ event.location }}</p>{% endif %}
+                  <h3>Who</h3>
+                  <p>{{ event.presenter }}</p>
+                  {% if event.register %}<button class="usa-button-outline"><a href="{{ event.register | prepend: site.baseurl }}">Register</a></button>{% endif %}
+                  {% if event.slides %}<button class="usa-button-outline"><a href="{{ event.slides | prepend: site.baseurl }}">Slides</a></button>{% endif %}
+                  {% if event.recording %}<button class="usa-button-outline"><a href="{{ event.recording | prepend: site.baseurl }}">Recording</a></button>{% endif %}
+              </div>
+              <footer class="usa-card-footer">
+              </footer>
+          </article>
+
+        {% endfor %}
+    </div>
+  </div>

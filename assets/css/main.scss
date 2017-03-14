@@ -16,6 +16,8 @@ $nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling
 @import "navigation";
 @import "projects";
 @import "team";
+@import "techtalks";
+@import "search";
 
 body {
   color: $color-gray-warm-dark;

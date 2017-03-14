@@ -14,6 +14,9 @@ const assets = {
   },
   "font-awesome": {
     fonts: ["fonts/*"]
+  },
+  "jquery": {
+    js: ["dist/jquery.min.js"]
   }
 };
 
