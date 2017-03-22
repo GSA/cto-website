@@ -31,9 +31,9 @@ permalink: /techtalks/
                   {% if event.location %}<p class="location">{{ event.location }}</p>{% endif %}
                   <h3>Who</h3>
                   <p>{{ event.presenter }}</p>
-                  {% if event.register %}<button class="usa-button-outline"><a href="{{ event.register }}">Register</a></button>{% endif %}
-                  {% if event.slides %}<button class="usa-button-outline"><a href="{{ event.slides | prepend: site.baseurl }}">Slides</a></button>{% endif %}
-                  {% if event.recording %}<button class="usa-button-outline"><a href="{{ event.recording | prepend: site.baseurl }}">Recording</a></button>{% endif %}
+                  {% if event.register %}<a class="usa-button usa-button-outline" href="{{ event.register }}">Register</a>{% endif %}
+                  {% if event.slides %}<a class="usa-button usa-button-outline" href="{{ event.slides | prepend: site.baseurl }}">Slides</a>{% endif %}
+                  {% if event.recording %}<a class="usa-button usa-button-outline" href="{{ event.recording | prepend: site.baseurl }}">Recording</a>{% endif %}
               </div>
               <footer class="usa-card-footer">
               </footer>
