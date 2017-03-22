@@ -8,9 +8,9 @@ permalink: /techtalks/
   <h1>Tech<br>&nbsp;&nbsp;&nbsp;Talks</h1>
 </div>
 
-  <p>The GSA CTO team in-depth Tech Talks.  This is where members of the team discuss topics found in the <a href="{{ site.baseurl }}/guides/" class="usa-current">guides</a> affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&amp;A.</p>
+  <p>The GSA CTO team hosts in-depth Tech Talks.  This is where members of the team discuss topics found in the <a href="{{ site.baseurl }}/guides/" class="usa-current">guides</a> affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&amp;A.</p>
 
-  <p>A future Tech Talk schedule is forthcoming and past events will be posted here.  Register for upcoming events and enjoy content from past events.  You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.</p>
+  <p>Register for upcoming events here and enjoy content from past events.  You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.</p>
 
   <br><hr><br>
 
@@ -31,9 +31,9 @@ permalink: /techtalks/
                   {% if event.location %}<p class="location">{{ event.location }}</p>{% endif %}
                   <h3>Who</h3>
                   <p>{{ event.presenter }}</p>
-                  {% if event.register %}<button class="usa-button-outline"><a href="{{ event.register }}">Register</a></button>{% endif %}
-                  {% if event.slides %}<button class="usa-button-outline"><a href="{{ event.slides | prepend: site.baseurl }}">Slides</a></button>{% endif %}
-                  {% if event.recording %}<button class="usa-button-outline"><a href="{{ event.recording | prepend: site.baseurl }}">Recording</a></button>{% endif %}
+                  {% if event.register %}<a class="usa-button usa-button-outline" href="{{ event.register }}">Register</a>{% endif %}
+                  {% if event.slides %}<a class="usa-button usa-button-outline" href="{{ event.slides | prepend: site.baseurl }}">Slides</a>{% endif %}
+                  {% if event.recording %}<a class="usa-button usa-button-outline" href="{{ event.recording | prepend: site.baseurl }}">Recording</a>{% endif %}
               </div>
               <footer class="usa-card-footer">
               </footer>
