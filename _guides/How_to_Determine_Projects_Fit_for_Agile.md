@@ -12,14 +12,14 @@ So, what drives the decision to go with one or the other? What are the factors t
 
 **The Nature of a Project / Product.** A good starting place is to examine the three important aspects of a project: Scope, schedule and cost. In order to determine the best approach, consider these factors against the specifics of the project / product in question. Below are sample real-life project scenarios that could be considered during this process.
 
-<img src="{{ site.baseurl }}/assets/img/guides/ProjectScenariosGSA.png"
+<img src="{{ site.baseurl }}/assets/img/guides/ProjectScenariosGSA1.png"
   alt="Project Scenarios"
   class="guide-image">
 	* *It is also important to highlight that there are times when Agile approaches can be applied to facilitate transparency and communication at team-levels even when the nature of the project is best suited for waterfall approaches. A good example here would be a construction team that adopts Scrum practices, such as daily stand-ups for their daily check-ins, sprints to break down their work, and Kanban boards to visualize progress and track the work in queue.*
 	
 **The Project / Product Environment.** Another vital element that can inform or influence approach selection is the project / product delivery environment and life-cycle. Factors to consider here include:
 
-<img src="{{ site.baseurl }}/assets/img/guides/EnvironmentScenariosGSA.png"
+<img src="{{ site.baseurl }}/assets/img/guides/EnvironmentScenariosGSA1.png"
   alt="Environment Scenarios"
   class="guide-image">
 	
