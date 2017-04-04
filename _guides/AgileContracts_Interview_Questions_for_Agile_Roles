@@ -27,7 +27,7 @@ audiences:
 
 <p> Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:</p>
 
-|**Interview Questions** | **Agile Response Samples**
+|**Interview Questions** | **Agile Response Samples** 
 |---------------|---------------|
 |How do you differentiate your role as a Scrum Master against the Project manager or the Product Owner role?|{::nomarkdown}<ul><li> The primary role of the SM is not meant to “manage” the team or the project, but to guide the Scrum process and encourage self-organization. The Scrum Master has authority over protecting the team from outside influences, including from the Product Owner. </li> <li>  Whereas, the Product Owner role is to guide the vision and the development process through backlog prioritization and management. The Product Owner role has the autonomy over the product and its requirements. </li><li> The Project Manager role in Agile projects on the other hand, shifts from command and control to management of resources, risk and dependencies across teams and removing obstacles.</li></ul>{:/}|
 |How do you help the team set sprint goals?|{::nomarkdown}<ul><li>A sprint goal summarizes the desired outcome of an iteration. It provides a shared objective, and states why it’s worthwhile undertaking the sprint.</li> <li> Ensure the PO and the team get together to refine and prioritize requirements </li> <li> The team agrees and commits on the items to be completed within the sprint.</li><li> Any change to the sprint commitment should be prioritized and agreed with the team. </li></ul> {:/}|
