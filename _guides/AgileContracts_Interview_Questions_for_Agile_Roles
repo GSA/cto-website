@@ -1,0 +1,54 @@
+---
+title: Agile Contracts: Interview Questions for Agile Roles
+category: Agile
+audiences:
+  - Developers
+  - Designers
+  - Project Managers
+---
+
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+</style>
+
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="usa-accordion">
+      <ul class="usa-unstyled-list">
+        <li>
+          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+            Scrum Master Interview Questions
+          </button>
+          <div id="question-1" class="usa-accordion-content">
+            <p>The ScrumMaster is responsible for maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.</p>
+
+<p> Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:</p>
+
+|**Interview Questions** | **Agile Response Samples**
+|---------------|---------------|
+|How do you differentiate your role as a Scrum Master against the Project manager or the Product Owner role?|{::nomarkdown}<ul><li> The primary role of the SM is not meant to “manage” the team or the project, but to guide the Scrum process and encourage self-organization. The Scrum Master has authority over protecting the team from outside influences, including from the Product Owner. </li> <li>  Whereas, the Product Owner role is to guide the vision and the development process through backlog prioritization and management. The Product Owner role has the autonomy over the product and its requirements. </li><li> The Project Manager role in Agile projects on the other hand, shifts from command and control to management of resources, risk and dependencies across teams and removing obstacles.</li></ul>{:/}|
+|How do you help the team set sprint goals?|{::nomarkdown}<ul><li>A sprint goal summarizes the desired outcome of an iteration. It provides a shared objective, and states why it’s worthwhile undertaking the sprint.</li> <li> Ensure the PO and the team get together to refine and prioritize requirements </li> <li> The team agrees and commits on the items to be completed within the sprint.</li><li> Any change to the sprint commitment should be prioritized and agreed with the team. </li></ul> {:/}|
+|Why and how do you conduct the daily Scrum meeting?| {::nomarkdown}<ul><li>The daily scrum meeting provides the team an opportunity to communicate progress and surface impediments/dependencies. </li> <li> The SM understands these Stand-up sessions are to surface issues and not fully resolve or discuss them in the meeting.</li> <li> Limits the stand-up to 10-15 minutes time-box </li><li>Makes it a priority to follow-up and remove obstacles surfaced by the team after the stand-up. </li><li> The SM encourages participation of all team members who are actively working on the product </li></ul> {:/}|
+        </div>
+        </li>
+        <li>
+          <button class="usa-button-unstyled" aria-controls="question-2">
+           Product Owner Interview Questions
+          </button>
+          <div id="question-2" class="usa-accordion-content">
+            <p> The Scrum Product Owner is the primary project key stakeholder. The main role of the product owner is to have a vision of what needs to be built, and convey that vision to the scrum team. The Product Owner is the lead champion of the product and is responsible for ensuring the product creates value for its customers and users as well as the company providing it. The agile product owner does this in part through the product backlog, which is a prioritized features list for the product.</p>
+<p><b>Below are some of the basic Scrum Master Interview Questions when vetting a candidate for position:</b></p>
+
+|**Interview Questions** | **Agile Response Samples**
+|---------------|---------------|
+
+          </div>
+        </li>
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
