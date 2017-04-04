@@ -14,6 +14,8 @@ audiences:
   }
 </style>
 
+<p>This content provides scenarios and questions that are intended to guide the the government representative during  the interview and evaluation phase where a candidate is being considered for an Agile role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in agile methodologies (e.g. Scrum Master, Product Owner, Solutions Architect, etc.)</p>
+
 <div class="usa-grid">
   <div class="usa-width-one-whole">
     <div class="usa-accordion">
@@ -25,7 +27,7 @@ audiences:
           <div id="question-1" class="usa-accordion-content">
             <p>The ScrumMaster is responsible for maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.</p>
 
-<p> Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:</p>
+<p><b>Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:</b></p>
 
 |**Interview Questions**|**Agile Response Samples**| 
 |---------------|---------------|
