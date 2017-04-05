@@ -19,7 +19,7 @@ This content provides scenarios and questions that are intended to guide the the
       <div id="question-1" class="usa-accordion-content">
 {:/}
 
-The ScrumMaster is responsible for maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.
+The ScrumMaster is responsible for facilitating and maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.
 
 **Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:**
 
