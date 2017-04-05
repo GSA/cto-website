@@ -54,7 +54,7 @@ Please run `rake test` locally before pushing new content or code. This runs a J
 2. Create a feature branch
 3. Make your changes in the feature branch
 4. Commit the feature branch
-5. Push the feature branch to GitHub
+5. Push the feature branch to GitHub (preview your changes at `https://federalist.18f.gov/preview/GSA/cto-website/BRANCH_NAME/`)
 6. Open a pull request to merge the feature branch
 
 ### Proposing changes and reporting issues
