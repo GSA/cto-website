@@ -7,29 +7,23 @@ audiences:
   - Project Managers
 ---
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-</style>
+This content provides scenarios and questions that are intended to guide the the government representative during the interview and evaluation phase where a candidate is being considered for an Agile role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in agile methodologies (e.g. Scrum Master, Product Owner, developer, tester, etc.)
 
-<p>This content provides scenarios and questions that are intended to guide the the government representative during the interview and evaluation phase where a candidate is being considered for an Agile role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in agile methodologies (e.g. Scrum Master, Product Owner, developer, tester, etc.)</p>
+{::nomarkdown}
+<div class="usa-accordion">
+  <ul class="usa-unstyled-list">
+    <li>
+      <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+        Scrum Master Interview Questions
+      </button>
+      <div id="question-1" class="usa-accordion-content">
+{:/}
 
-<div class="usa-grid">
-  <div class="usa-width-one-whole">
-    <div class="usa-accordion">
-      <ul class="usa-unstyled-list">
-        <li>
-          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
-            Scrum Master Interview Questions
-          </button>
-          <div id="question-1" class="usa-accordion-content">
-            <p>The ScrumMaster is responsible for maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.</p>
+The ScrumMaster is responsible for maintaining the Scrum process and the overall health of the process and team. The ScrumMaster performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.
 
-<p><b>Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:</b></p>
+**Below are some of the basic Scrum Master Interview Questions when vetting a candidate for this position:**
 
-|**Interview Questions**|**Agile Response Samples**| 
+|**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
 |How do you differentiate your role as a Scrum Master against the Project manager or the Product Owner role?|{::nomarkdown}<ul><li> The primary role of the SM is not meant to “manage” the team or the project, but to guide the Scrum process and encourage self-organization. The Scrum Master has authority over protecting the team from outside influences, including from the Product Owner.</li> <li> Whereas, the Product Owner role is to guide the vision and the development process through backlog prioritization and management. The Product Owner role has the autonomy over the product and its requirements. </li><li> The Project Manager role in Agile projects on the other hand, shifts from command and control to management of resources, risk and dependencies across teams and removing obstacles.</li></ul>{:/}|
 |How do you help the team set sprint goals? | {::nomarkdown}<ul><li>A sprint goal summarizes the desired outcome of an iteration. It provides a shared objective, and states why it’s worthwhile undertaking the sprint.</li> <li> Ensure the PO and the team get together to refine and prioritize requirements </li> <li> The team agrees and commits on the items to be completed within the sprint.</li><li> Any change to the sprint commitment should be prioritized and agreed with the team. </li></ul> {:/}|
@@ -40,23 +34,36 @@ audiences:
 |What is your experience with reporting and metrics?| {::nomarkdown}<ul><li>Ability to understand and clarify objectives for each metrics report. Basic understanding of Agile Metrics, such as, percentage of tasks completed, percentage of work accepted, Story Cycle Time, Defect Density, code coverage, team velocity, etc.) </li> <li> Ability to explain the difference between a BurnUp and a BurnDown </li> <li> A basic understanding of tools used to develop and deliver such metrics - the use of a scrum board</li><li> Reporting dashboards and tools (JIRA, VersionOne, etc.) </li></ul> {:/}|
 |How do you help your teams continuously improve and reach their product/sprint goals?| {::nomarkdown}<ul><li>Guiding, facilitating and following up on action items for removing impediments and dependencies </li> <li> Guiding and facilitating the development and implementation of team working agreements, e.g. acceptance criteria, the definition of of ready and definition of done, etc. </li> <li> Encouraging and facilitating the team to learn development best practices such as Test Driven Development (TDD), pair programming, etc.</li></ul>{:/}|
 
-        </div>
-        </li>
-        <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
-           Product Owner Interview Questions
-          </button>
-          <div id="question-2" class="usa-accordion-content">
-            <p> The Scrum Product Owner is the primary project key stakeholder. The main role of the product owner is to have a vision of what needs to be built, and convey that vision to the scrum team. The Product Owner is the lead champion of the product and is responsible for ensuring the product creates value for its customers and users as well as the company providing it. The agile product owner does this in part through the product backlog, which is a prioritized features list for the product.</p>
-<p><b>Below are some of the basic Scrum Master Interview Questions when vetting a candidate for position:</b></p>
+{::nomarkdown}
+      </div>
+    </li>
+    <li>
+      <button class="usa-button-unstyled" aria-controls="question-2">
+        Product Owner Interview Questions
+      </button>
+      <div id="question-2" class="usa-accordion-content">
+{:/}
+
+The Scrum Product Owner is the primary project key stakeholder. The main role of the product owner is to have a vision of what needs to be built, and convey that vision to the scrum team. The Product Owner is the lead champion of the product and is responsible for ensuring the product creates value for its customers and users as well as the company providing it. The agile product owner does this in part through the product backlog, which is a prioritized features list for the product.
+
+**Below are some of the basic Scrum Master Interview Questions when vetting a candidate for position:**
 
 |**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
+|Q|A|
 
-          </div>
-        </li>
-      </ul>
-    </div>
-    <hr>
-  </div>
-</div>
+{::nomarkdown}
+      </div>
+    </li>
+  </ul><!--.usa-unstyled-list-->
+</div><!--.usa-accordion-->
+{:/}
+
+{::nomarkdown}
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+</style>
+{:/}
