@@ -14,7 +14,10 @@
   date: March 30, 2017
   time: 1p-1:30p
   location: Virtual and 1800F
-  description: Like most organizations, GSA is embracing Agile to more effectively respond to rapid market opportunities, and is investing in approaches that facilitate the delivery of business value and quality products to its internal and external customers. Please join Lulit Tesfaye and Alicia Cyrus from the CTO Office in this Tech Talk. They will discuss what Agile behaviors look like at the Team, Program and Organization level; enabling a supporting environment and share resources from coaching pilot Agile teams across GSA organizations.
+  description: >
+    <p>Like most organizations, GSA is embracing Agile to more effectively respond to rapid market opportunities, and is investing in approaches that facilitate the delivery of business value and quality products to its internal and external customers.</p>
+    <p>So, is there a "right" way to becoming Agile? Should an organization care about "going" Agile or better business results?</p>
+    <p>Please join Lulit Tesfaye and Alicia Cyrus from the CTO Office in this Tech Talk. They will discuss what Agile behaviors look like at the Team, Program and Organization level; enabling a supporting environment and share resources from coaching pilot Agile teams across GSA organizations.</p>
   presenter: Lulit Tesfaye and Alicia Cyrus, CTO Office
   register:
   slides: /assets/downloads/techtalks/tech-talk-agile-behavior.pdf
