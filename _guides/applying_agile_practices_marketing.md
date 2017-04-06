@@ -21,7 +21,7 @@ As the [Agile Marketer](http://theagilemarketer.net/agile-marketing-manifesto-ex
 
 <img src="{{ site.baseurl }}/assets/img/guides/Agile_Marketing.png"
   alt="Agile Marketing"
-  class="guide-image">  
+  class="guide-image guide-image-three-fourths">  
 *Source: The Agile Marketer*
 
 ### Good Reads
