@@ -39,7 +39,7 @@ The ScrumMaster is responsible for facilitating and maintaining the Scrum proces
     </li>
     <li>
       <button class="usa-button-unstyled" aria-controls="question-2">
-        Product Owner* Interview Questions
+        Product Owner Interview Questions
       </button>
       <div id="question-2" class="usa-accordion-content">
 {:/}
