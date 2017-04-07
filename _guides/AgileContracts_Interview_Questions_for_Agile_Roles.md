@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-This content provides scenarios and questions that are intended to guide the the government representative during the interview and evaluation phase where a candidate is being considered for an Agile role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in agile methodologies (e.g. Scrum Master, Product Owner, developer, tester, etc.)
+This content provides scenarios and questions that are intended to guide the the government representative during the interview and evaluation phase where a candidate is being considered for an Agile role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in Agile methodologies (e.g. Scrum Master, Product Owner, developer, tester, etc.)
 
 {::nomarkdown}
 <div class="usa-accordion">
