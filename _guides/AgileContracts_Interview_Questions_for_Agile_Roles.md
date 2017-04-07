@@ -46,11 +46,12 @@ The ScrumMaster is responsible for facilitating and maintaining the Scrum proces
 
 The Scrum Product Owner is the primary project key stakeholder. The main role of the product owner is to have a vision of what needs to be built, and convey that vision to the scrum team. The Product Owner is the lead champion of the product and is responsible for ensuring the product creates value for its customers and users as well as the company providing it. The agile product owner does this in part through the product backlog, which is a prioritized features list for the product.
 
-**Below are some of the basic Scrum Master Interview Questions when vetting a candidate for position:**
+**Below are some of the basic Product Owner (PO) interview questions when vetting a candidate for the position:**
 
 |**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
-|Q|A|
+|How would you characterize your role as a Product Owner?|{::nomarkdown}<ul><li> The primary role of the PO is to guide the vision by translating it into workable business or technical requirements.</li> <li> WThe PO has an in-depth product knowledge and autonomy to prioritize product vision and requirements.</li> The PO responsibilities include: <li> Creating and maintaining the Product Backlog</li><li> Prioritizing and sequencing the Backlog according to business value as expressed by roadmap and stakeholder needs</li> <li>  Preparing for each sprint and release planning by working with team to elaborate Feature Stories into Minimal Marketable Features that deliver increments of value and User Stories that are appropriately sized for each sprint.</li> <li> Representing customer and stakeholder interests, by engaging and soliciting feedback to validate priorities and compromises.</li> <li> Participating in daily standup Scrums, Sprint Planning Meetings, Sprint Reviews, and Retrospectives.</li> <li> Developing acceptance criteria and accepting User Stories during the sprint to confirm implementation meets intent of acceptance criteria. </li> <li> Negotiating Sprint priorities and commitment when team communicates new discoveries that impact size or value of work.</li><li> Communicating status to stakeholders including use of Visible Product Backlog for forecasting release content and dates.</li></ul>{:/}|
+|What is the difference between product backlog and Project backlog?| {::nomarkdown}<ul><li> <b>Product Backlog:</b> evolves throughout the product lifecycle. Requirements will be added, removed and prioritized on an ongoing basis so long as the product is still in maintained. </li> <li> <b>Project backlog:</b> A project backlog is about the creation of an item with limited or scoped for delivery. When that feature/objective is met, the project is done. It is limited to the scope of the project. </li></ul>{:/}|
 
 {::nomarkdown}
       </div>
