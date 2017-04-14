@@ -19,6 +19,8 @@ This content provides contract language guidelines and is intended to serve as a
 
 <h1> PERFORMANCE WORK STATEMENT (PWS) TEMPLATE </h1>
 
+**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
+
 <h2>Background</h2>
 
 <p>[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]</p>
