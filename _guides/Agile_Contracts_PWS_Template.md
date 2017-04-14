@@ -15,21 +15,22 @@ This content provides contract language guidelines and is intended to serve as a
 
 **Scope**
 <p>[Provide scope of work for Task Order]</p>
-
+ 
  Sample Scope Statement:
     <p>*“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}]
      The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.”*</p>
 
+
 **Performance Objectives**
+<p>[Use this section to outline Objectives of the Task Order: Objective summarizes: the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope]</p>
 
-<Use this section to outline Objectives of the Task Order: Objective summarizes: the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope > 
+Sample Objective Statement:
+    <p>*“ {Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.”*</p>
+      <p>*“ A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP.The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."*</p>
+      
 
-Sample Objective Statement
-*<Name of organization> is seeking the creation of <feature name> prototype of <name of system>. The new <name of system> will <desired high-level functionality> and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team. “
-
-“A minimum viable product (MVP) of this system is expected within the first <Time frame> under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see <section name requirements>), are included to the greatest extent possible in the MVP. Inclusion of other major business components defined as “should haves” and “nice to haves,” will be prioritized accordingly. 
-
-“The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives.”*
+     
+   
 
 
 
