@@ -15,7 +15,7 @@ audiences:
 </style>
 
 
-This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in line with an Agile delivery process.
+This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in-line with an Agile delivery process.
 
 <h1> PERFORMANCE WORK STATEMENT (PWS) TEMPLATE </h1>
 
@@ -29,17 +29,17 @@ This content provides contract language guidelines and is intended to serve as a
 
 _Sample Scope Statement_
 
-<p><i>The scope of this task order/SOW/BPA is for the Contractor to deliver the {name of product / system}
+<p><i>The scope of this task order is for the Contractor to deliver the {name of product / system}
 The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.</i></p>
 
 <h2>Performance Objectives</h2>
 
-<p>[Use this section to outline Objectives of the Task Order: Objective summarizes: the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope]</p>
+<p>[Use this section to outline Objectives for the Task Order. Objective summarizes the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope]</p>
 
 _Sample Objective Statement_
 
 <p><i> "{Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.” </i></p>
-<p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP.The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."</i></p>
+<p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP. The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."</i></p>
 
 <h2>Constraints</h2>
 
@@ -48,7 +48,7 @@ _Sample Objective Statement_
 _Sample Constraint Statement_
 
 <p><i> "Contractor shall adhere to US Web Design Standards or other development standards as developed by the 18F team.
-As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on. The contractor and government may mutually agree to alter sprint length as needed. The contractor will not be responsible to perform the following: {add here} e.g. Hosting development environments "</i></p>
+As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on. The contractor and government may mutually agree to alter sprint length as needed. The contractor will not be responsible to perform the following: {add here} e.g. Hosting development environments"</i></p>
 
 <h2>Roles and Responsibilities</h2>
 
@@ -131,9 +131,6 @@ _Sample language on Skills and Knowledge_
 <h2>Deliverables</h2>
 
 <p>[Add specific details here]</p>
-
-_Sample Technical Lead Language_  
-
 <p><i> "The Contractor is required to provide the following deliverables within the designated timeframes:</i></p>
 
 _Sample Deliverables table below_
