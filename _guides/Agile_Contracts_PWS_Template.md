@@ -6,6 +6,15 @@ audiences:
   - Designers
   - Project Managers
 ---
+
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+</style>
+
+
 This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in line with an Agile delivery process.
 
 <h1> PERFORMANCE WORK STATEMENT (PWS) </h1>
@@ -77,7 +86,7 @@ _Sample Scrum Master Role Statement_
 <p><b>Facilitate Scrum Meetings:</b> The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records.
 <b>Team Performance and Metrics:</b> the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.
 <b>Team Coaching and Coordination:</b> When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
-This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."
+*This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."8
 
 <h3>Technical Lead</h3>
 <p>[Add specific roles here]</p>
@@ -98,9 +107,12 @@ _Sample language on Skills and Knowledge _
 
 _Sample Technical Lead Language_  
   <p><i> "The Contractor is required to provide the following deliverables within the designated timeframes:</i></p>
+Sample Deliverables table below
 
-
-
+|**Section(s)** | **Deliverable**| **Due Date**| **Delivery Method**
+|---------------|---------------|---------------|---------------|
+| # | Product Backlog | Beginning of each sprint | Electronic / visual board accessible via web (e.g. JIRA, Trello, etc.) |
+| # |Design Deliverables | End of every applicable sprint | Mock ups and / or design files (if applicable) or design changes reflected in the Development Prototype|
 
 **Download PWS Template**
 
