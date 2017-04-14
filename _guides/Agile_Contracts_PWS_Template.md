@@ -25,16 +25,14 @@ This content provides contract language guidelines and is intended to serve as a
 **Performance Objectives**
 <p>[Use this section to outline Objectives of the Task Order: Objective summarizes: the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope]</p>
 
-* Sample Objective Statement:
-
+<u>Sample Objective Statement:</u>
     <p><i> "{Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.” </i></p>
      <p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP.The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."</i></p>
       
 **Constraints**
 <p>[Provide technical constraints here]</p>
 
-* Sample Constraint Statement:
-
+*<u>Sample Constraint Statement</u>
     <p><i> "Contractor shall adhere to US Web Design Standards or other development standards as developed by the 18F team.
 As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on. The contractor and government may mutually agree to alter sprint length as needed. The contractor will not be responsible to perform the following: {add here} e.g. Hosting development environments "</i></p>
      
