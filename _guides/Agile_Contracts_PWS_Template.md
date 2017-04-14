@@ -77,7 +77,7 @@ _Sample Scrum Master Role Statement_
 <p><b>Facilitate Scrum Meetings:</b> The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records.
 <b>Team Performance and Metrics:</b> the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.
 <b>Team Coaching and Coordination:</b> When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
-*This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
+This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."
 
 <h3>Technical Lead</h3>
 <p>[Add specific roles here]</p>
