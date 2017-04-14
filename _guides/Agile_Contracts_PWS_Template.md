@@ -60,7 +60,7 @@ _Sample Contracting Officer Language_
 
 <p><i> "The Contracting Officer (CO) is responsible for monitoring call order contract compliance, contract administration, and cost control and for resolving any differences between the observations documented by the Government and the contractor. The CO will designate, at a minimum, one (1) CO’s Representative (COR) or one (1) Alternate CO’s Representative (ACOR) as the Government authority for performance management, based on the complexity of the services measured, as well as the contractor’s performance."</i></p>
 
-<h3>Procurement Project Manager</h3>
+<h3>Procurement Manager</h3>
 
 <p>[Add specific roles here]</p>
 
