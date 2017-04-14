@@ -18,8 +18,8 @@ This content provides contract language guidelines and is intended to serve as a
  
  * Sample Scope Statement:
     
-    <p>*“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}
-     The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.”*</p>
+    <p> *The scope of this task order/SOW/BPA is for the Contractor to deliver the (name of product / system)
+     The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in (name of application used for managing the product backlog).* </p>
 
 
 **Performance Objectives**
@@ -27,7 +27,7 @@ This content provides contract language guidelines and is intended to serve as a
 
 * Sample Objective Statement:
 
-    <p> *“{Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.”* </p>
+    <p> *(Name of organization) is seeking the creation of (feature name) prototype of {name of system}. The new {name of system} will (desired high-level functionality) and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.”* </p>
       <p> *“A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP.The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."* </p>
       
 
