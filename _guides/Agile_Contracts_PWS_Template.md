@@ -17,7 +17,7 @@ audiences:
 
 This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in line with an Agile delivery process.
 
-<h1> PERFORMANCE WORK STATEMENT (PWS) </h1>
+<h1> PERFORMANCE WORK STATEMENT (PWS) TEMPLATE </h1>
 
 <h2>Background</h2>
 <p>[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]</p>
