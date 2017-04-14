@@ -63,17 +63,17 @@ Per Agile development principles, the Contractor’s Project Lead will be expect
 <p>[Add specific roles here]</p>
 
 _Sample Product Owner Role Statement_  
-  <p><i> "The Product Owner is the project’s key stakeholder and is from the Federal product line team. The PO shall be responsible for having a vision of what product team wishes to build, and convey the vision to the contractor’s scrum or development team. The PO’s  responsibilities include, but are not limited to, the following:
+  <p><i> "The Product Owner is the project’s key stakeholder and is from the Federal product line team. The PO shall be responsible for having a vision of what product team wishes to build, and convey the vision to the contractor’s scrum or development team. The PO’s  responsibilities include, but are not limited to, the following:</i></p>
 * **Creating and Managing the Product Backlog:** The PO is responsible for delivering and maintaining the Product backlog with a complete with a prioritized list of features containing descriptions of desired functionality of the product.
 * **Providing clarification on requirements during Agile ceremonies:** Working with the Scrum Master, the PO shall hold recurring backlog refinement sessions to continuously refine and prioritize requirements and decision-making during sprint planning and implementation. The PO shall ensure the sprint backlog is created with the highest priority work to deliver the product.
-* **User Acceptance Review:** The Product Owner shall work with the COR / ACOR to inspect and accept / approve Contractor work delivered each sprint."</i></p>
+* **User Acceptance Review:** The Product Owner shall work with the COR / ACOR to inspect and accept / approve Contractor work delivered each sprint."
 *This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
 
 <h3>Scrum Master</h3>
 <p>[Add specific roles here]</p>
 
 _Sample Scrum Master Role Statement_  
-  <p><i> "he Scrum Master is responsible for facilitating Agile ceremonies and discussions among development and customer team members. They are responsible for coaching the team on the Scrum processes and removes impediments for the team. Scrum Master Role activities include, but are not limited to, the following:
+  <p><i> "The Scrum Master is responsible for facilitating Agile ceremonies and discussions among development and customer team members. They are responsible for coaching the team on the Scrum processes and removes impediments for the team. Scrum Master Role activities include, but are not limited to, the following:
 * **Facilitate Scrum Meetings:** The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records. 
 * **Team Performance and Metrics:** the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.
 * **Team Coaching and Coordination:** When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
