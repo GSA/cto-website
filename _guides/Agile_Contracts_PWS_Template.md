@@ -86,7 +86,7 @@ _Sample Scrum Master Role Statement_
 <p><b>Facilitate Scrum Meetings:</b> The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records.
 <b>Team Performance and Metrics:</b> the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.
 <b>Team Coaching and Coordination:</b> When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
-*This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."8
+*This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
 
 <h3>Technical Lead</h3>
 <p>[Add specific roles here]</p>
@@ -123,8 +123,57 @@ Sample Deliverables table below
 
 _Sample Language for Acceptance and Inspection_  
   <p><i> "The Government and Contractor define acceptance of the deliverables as follows:</i></p>
+  <p><i>Deliverable passes all new automated and manual acceptance tests that were defined before the most recent iteration. Deliverable passes all prior automated and manual acceptance tests, verifying that no regression has occurred. Deliverable conforms to the “definition of done” that was defined before the iteration.</i></p>
+<p><i>The customer/PO will have a period of one week within an iteration (“Evaluation Period”) after increments of a deliverable have been provided to verify that the Deliverable or part thereof is not deficient per acceptance criteria. The PO should notify Contractor prior to the expiration of the relevant Evaluation Period if the Deliverable or part thereof is deficient in any material respect (a “Nonconformity” pursuant to the definition of done or acceptance criteria agreed upon by the parties). The Contractor will correct such Nonconformity as soon as reasonably practical but no longer than the length of one iteration whereupon. The Government will receive an additional Iteration period (“Verification Period”) commencing upon its receipt of the corrected Deliverables or part thereof to verify that the specific Non-conformity has been corrected.”  
+“The Contractor will also deliver the release test plan which is a step by step walkthrough of the functionality in the release and allows the user community to make notes and
+comments regarding how that functionality can be improved and made more useable or defect-free. The Contractor shall work to correct all errors and increase usability. Comments that are delivered within [agreed # of days] of the release walkthrough shall be included in the subsequent deliverable/release.”</i></p>
   
+<h2>Transitions</h2>
+ 
+<h3>Transition Plan</h3>
+<p>[Add specific details applicable to transitions here]</p>
+
+<h3>Transition Activities</h3>
+<p>[Add specific details applicable to transitions here]</p>
+
+<h2>Travel and Other Direct Costs (ODC)</h2>
+ <p>[Add specific details applicable here]</p>
+ 
+ <h2>Terms and Conditions</h2>
+ 
+<h3>Type of Contract</h3>
+<p>[Add specific details applicable here]</p>
+
+ _Sample Language for Contract Type_  
+  <p><i> "This is a [labor-hour (LH) FFP, Hybrid, etc.] order under master Agile BPA (aBPA) terms and conditions"</i></p>
+
+<h3>Period of Performance (POP)</h3>
+<p>[Add specific details applicable here]</p>
+
+_Sample Language for POP_  
+  <p><i> "“The Period of Performance (POP) includes a base period of 3 months, with 5 additional option periods, each 3 months in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award."</i></p>
   
+  <h3>Place of Performance</h3>
+<p>[Add specific details applicable here]</p>
+
+  <h3>Contract Administration</h3>
+<p>[Add specific details applicable here]</p>
+
+<h2>Payment and Invoicing Procedures</h2>
+
+ <h3>Content of Invoice</h3>
+<p>[Add specific details applicable here]</p>
+
+<h3>Final Invoice</h3>
+<p>[Add specific details applicable here]</p>
+
+<h3>Close-out Procedures</h3>
+<p>[Add specific details applicable here]</p>
+
+<h3> DOWNLOAD PWS Templage </h3> For additional resources including <b>pricing templates</b>
+
+
+
 
 **Download PWS Template**
 
