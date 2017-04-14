@@ -151,7 +151,7 @@ comments regarding how that functionality can be improved and made more useable 
 <p>[Add specific details applicable here]</p>
 
 _Sample Language for POP_  
-  <p><i> "“The Period of Performance (POP) includes a base period of 3 months, with 5 additional option periods, each 3 months in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award."</i></p>
+  <p><i> "“The Period of Performance (POP) includes a base period of 3 month, with 5 additional option periods, each 3 months in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award."</i></p>
   
   <h3>Place of Performance</h3>
 <p>[Add specific details applicable here]</p>
