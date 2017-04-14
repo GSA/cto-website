@@ -174,6 +174,8 @@ _Sample Language for POP_
 
 
 
+<doc src="{{ site.baseurl }}/assets/downloads/AgileContractsPWSTemplate.docx" 
+  alt="Agile PWS Template">
 
 **Download PWS Template**
 
