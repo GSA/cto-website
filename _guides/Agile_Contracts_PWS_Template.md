@@ -113,6 +113,18 @@ Sample Deliverables table below
 |---------------|---------------|---------------|---------------|
 | # | Product Backlog | Beginning of each sprint | Electronic / visual board accessible via web (e.g. JIRA, Trello, etc.) |
 | # |Design Deliverables | End of every applicable sprint | Mock ups and / or design files (if applicable) or design changes reflected in the Development Prototype|
+| # |Development Prototypes | End of second sprint, and every sprint  | accessible on the web via staging server  /  development server|
+| # |Reports | One business day after each sprint | Demo of product increment, Sprint performance metrics, etc.|
+| # |Transition plan | # business days before the conclusion of the second-to-last sprint | See transitions Section |
+| # |Code Repository of Product - Version controlled | End of call order|Version-controlled Open Source repository of code that comprises product that will remain in the public domain |
+
+<h2>Review and Acceptance</h2>
+<p>[Add specific details applicable to review of deliverables and acceptance process here]</p>
+
+_Sample Language for Acceptance and Inspection_  
+  <p><i> "The Government and Contractor define acceptance of the deliverables as follows:</i></p>
+  
+  
 
 **Download PWS Template**
 
