@@ -16,8 +16,8 @@ This content provides contract language guidelines and is intended to serve as a
 **Scope**
 [Provide scope of work for Task Order]
 
-<p> Sample Scope Statement:
-    *“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}]
+ Sample Scope Statement:
+    <p>*“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}]
      The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.”*</p>
 
 **Performance Objectives**
