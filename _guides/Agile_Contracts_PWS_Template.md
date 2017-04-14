@@ -94,7 +94,7 @@ _Sample Product Owner Role Statement_
 <b>Providing clarification on requirements during Agile ceremonies:</b> Working with the Scrum Master, the PO shall hold recurring backlog refinement sessions to continuously refine and prioritize requirements and decision-making during sprint planning and implementation. The PO shall ensure the sprint backlog is created with the highest priority work to deliver the product.
 <b>User Acceptance Review:</b>The Product Owner shall work with the COR / ACOR to inspect and accept / approve Contractor work delivered each sprint."</p>
 
-*The PO role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
+*The PO role should be filled from the Federal side as a representative of the needs of the sponsoring business line.*
 
 <h3>Scrum Master</h3>
 
