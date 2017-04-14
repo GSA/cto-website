@@ -6,20 +6,19 @@ audiences:
   - Designers
   - Project Managers
 ---
-<p>This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in line with an Agile delivery process.</p>
+This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in line with an Agile delivery process.
 
-<p>**PERFORMANCE WORK STATEMENT (PWS)**</p>
+**PERFORMANCE WORK STATEMENT (PWS)**
 
-<p>**Background**</p>
-<p><Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be> </p>
+**Background**
+[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]
 
-<p>**Scope**</p>
-<p><Provide scope of work for Task Order>  </p>
+**Scope**
+[Provide scope of work for Task Order]
 
-<p>Sample Scope Statement</p>
-<p><i>“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the <name of product / system>.</i></p>  
-
-“The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in <name of application used for managing the product backlog>.”*
+ Sample Scope Statement:
+    *“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}]
+     The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.”*
 
 **Performance Objectives**
 
