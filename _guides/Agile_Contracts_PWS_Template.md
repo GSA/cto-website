@@ -11,10 +11,10 @@ This content provides contract language guidelines and is intended to serve as a
 **PERFORMANCE WORK STATEMENT (PWS)**
 
 **Background**
-[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]
+<p>[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]</p>
 
 **Scope**
-[Provide scope of work for Task Order]
+<p>[Provide scope of work for Task Order]</p>
 
  Sample Scope Statement:
     <p>*“The scope of this task order  /  SOW / BPA is for the Contractor to deliver the {name of product / system}]
