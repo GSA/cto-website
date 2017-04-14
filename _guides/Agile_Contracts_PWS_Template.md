@@ -16,23 +16,22 @@ This content provides contract language guidelines and is intended to serve as a
 **Scope**
 <p>[Provide scope of work for Task Order]</p>
  
- * Sample Scope Statement:
-    
-    <p><i>The scope of this task order/SOW/BPA is for the Contractor to deliver the {name of product / system}
+_Sample Scope Statement_
+        <p><i>The scope of this task order/SOW/BPA is for the Contractor to deliver the {name of product / system}
      The preceding high-level requirements must be met in order to fulfill the objectives of this task order and may be refined     adaptively over the course of the effort to continuously meet specified user needs. User needs will be prioritized based on business value and technical dependencies in {name of application used for managing the product backlog}.</i></p>
 
 
 **Performance Objectives**
 <p>[Use this section to outline Objectives of the Task Order: Objective summarizes: the Product Vision, High-level technical functions, high-level business functions, Primary end-users and their high-level needs (if applicable), the development approach and description of systems to be used (if applicable), ongoing process for evaluating and determining changing scope]</p>
 
-<u>Sample Objective Statement:</u>
+_Sample Objective Statement_
     <p><i> "{Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.” </i></p>
      <p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP.The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."</i></p>
       
 **Constraints**
 <p>[Provide technical constraints here]</p>
 
-*<u>Sample Constraint Statement</u>
+_Sample Constraint Statement_
     <p><i> "Contractor shall adhere to US Web Design Standards or other development standards as developed by the 18F team.
 As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on. The contractor and government may mutually agree to alter sprint length as needed. The contractor will not be responsible to perform the following: {add here} e.g. Hosting development environments "</i></p>
      
@@ -41,19 +40,19 @@ As part of this being purchased off of the Agile Blanket Purchase Agreement (aBP
 Contracting Officer (CO)
 <p>[Add specific roles here]</p>
 
-* Sample Contracting Officer Language:  
+_Sample Contracting Officer Language_  
   <p><i> "The Contracting Officer (CO) is responsible for monitoring call order contract compliance, contract administration, and cost control and for resolving any differences between the observations documented by the Government and the contractor. The CO will designate, at a minimum, one (1) CO’s Representative (COR) or one (1) Alternate CO’s Representative (ACOR) as the Government authority for performance management, based on the complexity of the services measured, as well as the contractor’s performance."</i></p>
 
 Procurement Project Manager
 <p>[Add specific roles here]</p>
 
-* Sample Procurement Manager Language:  
+_Sample Procurement Manager Language_  
   <p><i> "The Procurement Project Manager is the interface between the requiring organization (GSA 18F) and contracting organization. The Procurement PM coordinates technical aspects of the contract with the COR / ACOR and CO, assists with contract administration, ensures client acceptance of services, and reviews invoices for payment."</i></p>
 
 Product Lead
 <p>[Add specific roles here]</p>
 
-* Sample Product Lead Language:  
+_Sample Product Lead Language_  
   <p><i> "The Contractor shall provide a Project Lead as the primary point of contact for the coordination between the contractor, the Product Owner, as well as the CO and COR / ACOR. The Project Lead’s responsibilities include: 
 * Coordination with the contracting organization’s program office to enable timely problem resolution,
 * Properly aligning staffing requirements
@@ -63,7 +62,7 @@ Per Agile development principles, the Contractor’s Project Lead will be expect
 Product Owner (PO)*
 <p>[Add specific roles here]</p>
 
-* Sample Product Owner Role Statement:  
+_Sample Product Owner Role Statement_  
   <p><i> "The Product Owner is the project’s key stakeholder and is from the Federal product line team. The PO shall be responsible for having a vision of what product team wishes to build, and convey the vision to the contractor’s scrum or development team. The PO’s  responsibilities include, but are not limited to, the following:
 * **Creating and Managing the Product Backlog:** The PO is responsible for delivering and maintaining the Product backlog with a complete with a prioritized list of features containing descriptions of desired functionality of the product.
 * **Providing clarification on requirements during Agile ceremonies:** Working with the Scrum Master, the PO shall hold recurring backlog refinement sessions to continuously refine and prioritize requirements and decision-making during sprint planning and implementation. The PO shall ensure the sprint backlog is created with the highest priority work to deliver the product.
