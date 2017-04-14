@@ -74,9 +74,9 @@ _Sample Product Owner Role Statement_
 
 _Sample Scrum Master Role Statement_  
   <p><i> "The Scrum Master is responsible for facilitating Agile ceremonies and discussions among development and customer team members. They are responsible for coaching the team on the Scrum processes and removes impediments for the team. Scrum Master Role activities include, but are not limited to, the following:
-* **Facilitate Scrum Meetings:** The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records. 
-* **Team Performance and Metrics:** the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.
-* **Team Coaching and Coordination:** When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
+  - <p><b>Facilitate Scrum Meetings:</b> The Contractor is to coordinate and facilitate scrum meetings, such as, Sprint planning, Backlog Refinement, Sprint Reviews and Sprint Retrospectives and provide just enough records. </p>
+- <p><b>Team Performance and Metrics:</b> the Contractor works with product leadership and the team to define relevant metrics that are formulated and utilized for meeting project objectives.</p>
+- <p><b>Team Coaching and Coordination:</b> When appropriate, the Scrum Master shall plan and coordinate trainings and coaching for the team on the Scrum processes. The Scrum Master serves the Product Owner Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value”"</i></p>
 *This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
 
 <h3>Technical Lead</h3>
