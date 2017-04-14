@@ -170,7 +170,7 @@ _Sample Language for POP_
 <h3>Close-out Procedures</h3>
 <p>[Add specific details applicable here]</p>
 
-<h3> [DOWNLOAD PWS Templage]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)</h3>For additional resources including <b>pricing templates</b>
+**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)** for additional resources including <b>pricing templates</b>
 
 
 **References**
