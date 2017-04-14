@@ -68,7 +68,7 @@ _Sample Product Lead Language_
 * Facilitating product reporting in line with Agile delivery methods 
 Per Agile development principles, the Contractor’s Project Lead will be expected to work with the 18F Product Owner and Scrum Master to develop Product / Sprint plans and reporting in line with Agile delivery approaches."</i></p>
 
-<h3>Product Owner (PO)*</h3>
+<h3>Product Owner (PO)</h3>
 <p>[Add specific roles here]</p>
 
 _Sample Product Owner Role Statement_  
@@ -76,7 +76,7 @@ _Sample Product Owner Role Statement_
 <p><b>Creating and Managing the Product Backlog:</b> The PO is responsible for delivering and maintaining the Product backlog with a complete with a prioritized list of features containing descriptions of desired functionality of the product.
 <b>Providing clarification on requirements during Agile ceremonies:</b> Working with the Scrum Master, the PO shall hold recurring backlog refinement sessions to continuously refine and prioritize requirements and decision-making during sprint planning and implementation. The PO shall ensure the sprint backlog is created with the highest priority work to deliver the product.
 <b>User Acceptance Review:</b>The Product Owner shall work with the COR / ACOR to inspect and accept / approve Contractor work delivered each sprint."</p>
-*This role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
+*The PO role should be filled from the Federal side as a representative of the needs of the sponsoring business line."*
 
 <h3>Scrum Master</h3>
 <p>[Add specific roles here]</p>
