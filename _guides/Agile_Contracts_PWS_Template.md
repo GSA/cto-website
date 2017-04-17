@@ -151,6 +151,7 @@ _Sample Deliverables table below_
 <p>[Add specific details applicable to review of deliverables and acceptance process here]</p>
 
 _Sample Language for Acceptance and Inspection_
+<p><i> Quality Assurance - "The Government will provide a Quality Assurance Surveillance Plan (QASP) to monitor the Contractor’s performance. The QASP will provide oversight help to ensure that service levels reach and maintain the required levels for performance of this task. Further, the QASP provides the COR with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments. The QASP is a living document and may be updated by the Government as necessary. Any updates to the QASP will be provided to the Contractor.</i></p>"
 
 <p><i> "The Government and Contractor define acceptance of the deliverables as follows:</i></p>
 <p><i>Deliverable passes all new automated and manual acceptance tests that were defined before the most recent iteration. Deliverable passes all prior automated and manual acceptance tests, verifying that no regression has occurred. Deliverable conforms to the “definition of done” that was defined before the iteration.</i></p>
