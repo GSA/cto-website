@@ -41,7 +41,7 @@ The preceding high-level requirements must be met in order to fulfill the object
 _Sample Objective Statement_
 
 <p><i> "{Name of organization} is seeking the creation of {feature name} prototype of {name of system}. The new {name of system} will {desired high-level functionality} and meet evolving requirements while leveraging Agile best practices in software development including but not limited to; open source code, human-centered design, and with an extensible infrastructure and robust communication between the product sponsor and the project team.” </i></p>
-<p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP. The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives."</i></p>
+<p><i> “A minimum viable product (MVP) of this system is expected within the first {Time frame} under this task order. It is the Agency’s desire that the critical components, which are defined as “must haves” in priority (see {section name requirements}), are included to the greatest extent possible in the MVP. The MVP, which emerges out of user testing, must fall within the scope of the Product Vision as described in the statement of work or statement of objectives. Examples of high-level user stories include, “As a program manager, I would live to view a list FedRamp approved applications online so that I can invest on the right tools for my projects"</i></p>
 
 <h2>Constraints</h2>
 
