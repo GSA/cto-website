@@ -72,7 +72,7 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
       </div>
     </li>
     <li>
-      <button class="usa-button-unstyled" aria-controls="question-2">
+      <button class="usa-button-unstyled" aria-controls="question-3">
         Developer Interview Questions
       </button>
       <div id="question-3" class="usa-accordion-content">
