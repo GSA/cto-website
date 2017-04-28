@@ -69,11 +69,9 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
       <div id="question-2" class="usa-accordion-content">
 {:/}
 
-**Below are some of the basic Product Owner interview questions when vetting a candidate for this position:**
-
 |**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
-|How would you say Agile development impacts the programming design and development process?|{::nomarkdown}<ul><li> In Agile environments, there is no single role or person on the team that is in charge of design. The design and development process are intertwined. Developers are also designers and team members alternate between designing, developing and testing throughout the entire development process. </li> <li> Such consolidated development and design reduces errors and improves productivity because developers don’t have to interpret designs or seek clarification from designers before they write the code. </li></ul>{:/}|
+|How would you say Agile development impacts the programming design and development process?| {::nomarkdown}<ul><li> In Agile environments, there is no single role or person on the team that is in charge of design. The design and development process are intertwined. Developers are also designers and team members alternate between designing, developing and testing throughout the entire development process. </li> <li> Such consolidated development and design reduces errors and improves productivity because developers don’t have to interpret designs or seek clarification from designers before they write the code. </li></ul>{:/}|
 |How long is a typical sprint cycle when you are breaking work down and estimating?| {::nomarkdown}<ul><li> A typical sprint cycle should be 2 - 3 weeks maximum. </li> <li>  Agile requires frequent feedback from project owners, short sprints give the Product Owner and users a chance to make adjustments while giving developers a chance to react throughout the development cycle. </li><li>  Short sprints also give the entire team a chance to fix coding or quality issues early. </li></ul>{:/}|
 |What would you say are the most essential programming best practices within the Agile development frameworks?| An in depth understanding of the nature of Agile development and delivery process such as: {::nomarkdown}<ul><li> Familiarity with various Agile frameworks and the role of developer in each, interfacing with different layers of the development framework </li> <li> Knowledge and understanding of test driven development and continuous integration </li><li>  Setting up the development environments, build automation e.g. unit testing  (tools – NUnit, JUnit ), continuous integration tools, code-smell concepts, refactoring concepts, code coverage concepts and tools, code review concepts  and tools, etc.</li></ul>{:/}|
 |What is your experience writing automated test cases? | {::nomarkdown}<ul><li>  Experience and ability to discuss automated regression testing, continuous integration and testing, performance testing techniques and tools. </li> <li> Understands and is able to articulate the benefits of automated testing, such as, quick identification and isolation of development defects as well as the ability to test development work completed in previous iterations. </li><li>  Addresses the need for manual testing as well as automated testing, understanding and comfortable with the changing nature of the code base in Agile. </li></ul>{:/}| 
@@ -90,11 +88,3 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 </div><!--.usa-accordion-->
 {:/}
 
-{::nomarkdown}
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-</style>
-{:/}
