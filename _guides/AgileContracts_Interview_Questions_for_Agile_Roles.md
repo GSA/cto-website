@@ -75,7 +75,7 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
       <button class="usa-button-unstyled" aria-controls="question-2">
         Developer Interview Questions
       </button>
-      <div id="question-2" class="usa-accordion-content">
+      <div id="question-3" class="usa-accordion-content">
 {:/}
 
 |**Interview Questions**|**Agile Response Samples**|
@@ -90,5 +90,10 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 |How do you understand team velocity to measure team capacity?| {::nomarkdown}<ul><li> Team velocity is the rate at which a team is completing or "burning" through story points. For instance, an average velocity of 25 story points per iteration means that so far, the team has been able to identify, code and test 25 units of functionality (story points) in an average iteration and can expect to do about that much in future iterations, all other factors remaining constant.</li></ul>{:/}| 
 |What would you say are the most important skills for an Agile developer?| Technical:{::nomarkdown}<ul><li>  Programming with intention: problem solving and supporting the business and technical needs </li> <li> Design thinking: avoid over and under-design</li><li> Considers testability before writing code</li><li> Succeed with Acceptance Test Driven Development </li><li>  Minimizes complexity and rework</li><li> Knows when and how to use inheritance/legacy </li><li> Continuous learning attitude to developing and delivering standards and best practices (including learning from peers) </li><li>Behavioral:</li><li> Communication, collaboration, time management/ planning, problem solving, conflict management, flexibility to changing requirements, decision making, diplomacy </li></ul>{:/}| 
 
-
+{::nomarkdown}
+      </div>
+    </li>
+  </ul><!--.usa-unstyled-list-->
+</div><!--.usa-accordion-->
+{:/}
 
