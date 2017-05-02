@@ -97,3 +97,11 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 </div><!--.usa-accordion-->
 {:/}
 
+---------------------------------------------------------------------------------------------
+**Additional Reference**
+[Scrum Master Interview Questions](http://www.agilelove.com/methodologies/scrum/scrum-master-interview-questions/)
+[42 Scrum Product Owner Interview Questions](https://age-of-product.com/42-scrum-product-owner-interview-questions/)
+[How to Manage Change Requests](http://www.bridging-the-gap.com/how-to-manage-change-requests/)
+[7 Skills You Need to Be a Great Product Owner](https://www.scrumalliance.org/agile-resources/7-skills-you-need-to-be-a-great-product-owner)
+[Maximizing the Amount of Work Not Done](https://www.scrumalliance.org/community/articles/2015/august/maximizing-the-amount-of-work-not-done-is-%E2%80%93-essent)
+[Essential Skills for the Agile Developer](https://www.agilealliance.org/resources/sessions/essential-skills-for-the-agile-developer/)
