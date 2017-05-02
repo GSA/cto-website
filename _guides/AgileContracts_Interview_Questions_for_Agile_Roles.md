@@ -93,6 +93,24 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 {::nomarkdown}
       </div>
     </li>
+    <li>
+      <button class="usa-button-unstyled" aria-controls="question-3">
+        Developer Interview Questions
+      </button>
+      <div id="question-3" class="usa-accordion-content">
+{:/}
+
+|**Interview Questions**|**Agile Response Samples**|
+|---------------|---------------|
+|How is Agile Testing different from traditional testing models, in light of the role of the tester?| {::nomarkdown}<ul><li> The main difference in Agile environment is that testing is not a phase, it is an activity parallel and intertwined in the development process </li> <li> The role of a software tester in Agile goes beyond “just testing” and logging bugs. It is more working as part of a development team and working closely with the product owner. The tester works with everyone in the team in order to improve and build quality into the product as early and as often as possible.</li><li> The tester has the required technical experience to make suggestions and give input on automating nightly builds, Integration, and regression, as well as exploratory and acceptance testing </li><li> Agile testing also involves all members of an agile team with special skills, such as test automation. </li></ul>{:/}|
+|How do you decide what to test, and how to thoroughly to test?| One approach is to identify and analyze the most and least important in the delivery product. Consider rational inclusion/exclusion criteria based on the product such as; {::nomarkdown}<ul><li> Building a broad testing coverage </li> <li> Identify major features users will actively interact with </li><li> Identify the most complex and potentially problematic components in the system </li><li> Consider prioritizing several test cases that have higher business value and are cheaper to execute as opposed to one big expensive test </li><li> Test cases which cover new features bring more incremental use than those covering partly old and partly new features, it is ideal to incorporate both </li></ul>{:/}|
+|What is your testing approach when requirements change continuously?| Some possible answers can be:; {::nomarkdown}<ul><li> Write generic test plans and test cases which focus on the intent of the requirement rather than its exact details </li><li> Work very closely with the product owners or business analysts to understand the scope of change so testing can be estimated and planned accordingly</li><li> Makes sure test cases are updated and automated with changing requirements to minimize the risk of issues, and outdated test cases, especially as the project nears its end.</li></ul>{:/}|
+|What types of testing are you familiar with?| Examples of the various types of testing in Agile development include; {::nomarkdown}<ul><li> **Unit Testing:** the testing of an individual unit or group of related units. Usually completed by the programmer to test that the unit he/she has implemented is producing an expected output against a given input.</li> <li> **Functional Testing:** testing to ensure that the specified functionality required in the system requirement works. </li><li> **System Testing:** testing to ensure that by putting the software in different environments (e.g., Operating Systems) it still works. System testing is done with full system implementation and environment.</li><li> **Integration Testing:** a group of components are combined to produce output. If software and hardware components have any relation then the interaction between software and hardware is also tested in integration testing.</li></ul>{:/}|
+
+
+{::nomarkdown}
+      </div>
+    </li>
   </ul><!--.usa-unstyled-list-->
 </div><!--.usa-accordion-->
 {:/}
