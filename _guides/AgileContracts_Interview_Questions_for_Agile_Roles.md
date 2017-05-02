@@ -95,7 +95,7 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
     </li>
     <li>
       <button class="usa-button-unstyled" aria-controls="question-4">
-        Developer Interview Questions
+       Tester Interview Questions
       </button>
       <div id="question-4" class="usa-accordion-content">
 {:/}
@@ -111,7 +111,6 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 |What is your experience with Agile frameworks? | {::nomarkdown}<ul><li> Knowledge and experience working with Scrum, Kanban, Lean, etc. frameworks </li> <li> Understanding of common artifacts in Agile environments like the Product backlog, team velocity, definition of done, pair programming, test automation, etc. </li></ul>{:/}|
 |What would you say are the most essential skills for an Agile tester?| {::nomarkdown}<ul><li> Continuous attention to technical excellence and eye for good design enhancements and agility </li> <li> Ensures requirements and test criteria map to the technical or business requirements or acceptance criteria </li><li> Technical knowledge and experience to contribute to the team in the form of code review, requirements/user stories grooming, or coding where it is tenable </li><li> Test management and automation scripts: creating, running and managing automated test scripts. </li><li> Test environment setup, some database Knowledge and understanding of testing concepts such as stub - A small code which mimics a specific component in the system and can replace it. Its output is same as the component it replaces. </li></ul>{:/}|
 |What qualities / attributes should a good Agile tester have?| {::nomarkdown}<ul><li>  Attention to detail, ability to detect and question ambiguity, creativity to help expose hidden bugs and determine all the scenarios that are likely to detect a defect. </li> <li> Seeks to understand the requirements quickly and understand the risk/opportunities around with changing requirements. Seeks to prioritize test work based on such requirements. </li><li> Communication, collaboration, time management/ planning, problem solving, conflict management, flexibility to changing requirements, decision making, diplomacy </li><li> Understanding of Agile concepts and principles, plans to actively participate in daily sprint planning, stand-ups, retrospectives. </li></ul>{:/}|
-
 
 {::nomarkdown}
       </div>
