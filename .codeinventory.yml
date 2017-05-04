@@ -1,7 +1,4 @@
-name: CTO Website
-tags:
-  - jekyll
-  - federalist
+name: Tech at GSA Website
 contact:
   email: cto@gsa.gov
 languages:
