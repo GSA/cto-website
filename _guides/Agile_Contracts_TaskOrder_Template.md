@@ -20,7 +20,7 @@ This content provides contract language guidance and is intended to serve as a t
 
 <h1> AGILE BPA TASK ORDER TEMPLATE </h1>
 
-**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
+**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)**
 
 <h2>Background</h2>
 
@@ -143,7 +143,7 @@ _Sample Language for POP_
 
 <p>[Add specific details applicable here]</p>
 
-**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)** for additional resources including <b>pricing templates</b>
+**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including <b>pricing templates</b>
 
 
 **References**
