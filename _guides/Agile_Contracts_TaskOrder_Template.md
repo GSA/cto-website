@@ -52,10 +52,10 @@ _Sample High-level User Scope in User Story Format_
   <p><i>“As a system security specialist, I want the system to “mask” user's login credentials, so that the user's security information is protected from possible system breaches.”</i></p>
   
  <p><i>The scope also includes the technical and related project management activities such as but not limited to:</i></p>
-  - Tasks that the contractor must successfully perform,
-  - Operational requirements that must be met while the contractor performs,
-  - <p><i> - Generalized administrative requirements and any other terms and conditions,
-  - Invoicing Instructions for contractor to receive payment”
+<p><i><li>Tasks that the contractor must successfully perform,</li></i></p>
+<p><i><li>Operational requirements that must be met while the contractor performs,</li></i></p>
+<p><i><li>Generalized administrative requirements and any other terms and conditions,</li></i></p>
+<p><i><li>Invoicing Instructions for contractor to receive payment”</li></i></p>
 
 <h2>Roles and Responsibilities</h2>
 
@@ -71,7 +71,7 @@ _Sample Tasks Statement_
 
  <p><i>“The following requirements must be met in order to fulfill the objectives of this task order and may be refined iteratively over the course of the effort to continuously meet specified user needs. Specifically, the contractor will provide the following tasks and services:</i></p>
 <p><i><li>Contractor shall coordinate with the government and [name of sponsoring organization] stakeholders to conduct end-user research on the [application name] and agency-user experiences and apply the research to inform application and content design and development.</li></i></p>
-  - Contractor shall use plain language in application design and development, wherever possible.
+<p><i><li>Contractor shall use plain language in application design and development, wherever possible.</li></i></p>
 
  
  
