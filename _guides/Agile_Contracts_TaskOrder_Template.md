@@ -20,7 +20,7 @@ This content provides contract language guidance and is intended to serve as a t
 
 <h1> AGILE BPA TASK ORDER TEMPLATE </h1>
 
-**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
+**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
 
 <h2>Background</h2>
 
@@ -41,6 +41,7 @@ _Sample Objectives Statement_
 <p>[Provide scope of work for Task Order]</p>
 
 _Sample Scope Statement_
+
 <p><i>“The scope of this task order is for the Contractor to deliver the [name of product / feature of a system]"</i></p>
 
 _Sample High-level User Scope in User Story Format_
@@ -51,8 +52,32 @@ _Sample High-level User Scope in User Story Format_
   <p><i>“As a system security specialist, I want the system to “mask” user's login credentials, so that the user's security information is protected from possible system breaches.”</i></p>
   
  <p><i>The scope also includes the technical and related project management activities such as but not limited to:</i></p>
- <p><i> - Tasks that the contractor must successfully perform,</i></p>
-<p><i> - <p><i> - <p><i> - Operational requirements that must be met while the contractor performs,</i></p>
-<p><i> - <p><i> - Generalized administrative requirements and any other terms and conditions,</i></p>
-<p><i> - Invoicing Instructions for contractor to receive payment”</i></p>
+  - Tasks that the contractor must successfully perform,
+  - Operational requirements that must be met while the contractor performs,
+  - <p><i> - Generalized administrative requirements and any other terms and conditions,
+  - Invoicing Instructions for contractor to receive payment”
 
+<h2>Roles and Responsibilities</h2>
+
+<p>[Add specific roles here]</p>
+
+**[DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Agile Roles and responsibilities**
+
+<h2>Tasks</h2>
+
+<p>[Add specific tasks here]</p>
+
+_Sample Tasks Statement_
+
+ <p><i>“The following requirements must be met in order to fulfill the objectives of this task order and may be refined iteratively over the course of the effort to continuously meet specified user needs. Specifically, the contractor will provide the following tasks and services:</i></p>
+  - Contractor shall coordinate with the government and [name of sponsoring organization] stakeholders to conduct end-user research on the [application name] and agency-user experiences and apply the research to inform application and content design and development.
+  - Contractor shall use plain language in application design and development, wherever possible.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
