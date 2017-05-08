@@ -143,7 +143,7 @@ _Sample Language for POP_
 
 <p>[Add specific details applicable here]</p>
 
-**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including <b>pricing templates</b>
+**[DOWNLOAD the Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including <b>pricing templates</b>
 
 
 **References**
@@ -151,7 +151,7 @@ _Sample Language for POP_
 * [Software Development: Effective Practices and Federal Challenges in Applying Agile Methods, Agile Contracts Primer](http://www.gao.gov/products/GAO-12-681) Tom Arbrogast, Craig Larman, and Bas Voddee,
 * [Finding a Partner to Trust](http://www.agilecontracts.org) The Agile RFP, by Peter Stevens cited
 * [Agile Services for the Enterprise, Statement of Work Template](http://www.methodsandtools.com) - GSA Alliant Shared Interest Group (SIG)
-* [PERFORMANCE WORK STATEMENT (PWS)](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md) Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
+* [Performance Work Statement (PWS)](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md) Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
 
  
  
