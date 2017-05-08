@@ -70,7 +70,7 @@ _Sample High-level User Scope in User Story Format_
 _Sample Tasks Statement_
 
  <p><i>“The following requirements must be met in order to fulfill the objectives of this task order and may be refined iteratively over the course of the effort to continuously meet specified user needs. Specifically, the contractor will provide the following tasks and services:</i></p>
-  - Contractor shall coordinate with the government and [name of sponsoring organization] stakeholders to conduct end-user research on the [application name] and agency-user experiences and apply the research to inform application and content design and development.
+<p><i><li>Contractor shall coordinate with the government and [name of sponsoring organization] stakeholders to conduct end-user research on the [application name] and agency-user experiences and apply the research to inform application and content design and development.</li></i></p>
   - Contractor shall use plain language in application design and development, wherever possible.
 
  
