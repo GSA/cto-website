@@ -10,7 +10,9 @@ audiences:
 ### Forming an Agile Team
 When forming a new Agile team, particularly one implementing a Scrum or Kanban approach, we know that it will take some time to develop their optimal productivity flow. In Tuckman’s [stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development), a team must adapt through several phases as they “find their groove:”
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/FSNP.png"
+  alt="F-S-N-P"
+  class="guide-image">  
 
 In the **Forming** phase of an Agile Team, they must set the foundation for building trust, facilitating open communication, and defining their working disciplines that will guide self-organization throughout additional phases. These working disciplines, or “ground rules,” are the Team’s agreement as to how they will interact with one another and plan, set, and achieve common goals.
 
@@ -22,8 +24,9 @@ The process of defining the Team’s working agreement is straightforward. The S
 #### Examples of Team Disciplines
 Here are some examples of Agile Team disciplines included in a working agreement:
 
-IMAGE
-
+<img src="{{ site.baseurl }}/assets/img/guides/working_agreement.png"
+  alt="Working Agreement"
+  class="guide-image guide-image-three-fourths">  
 *Source: AgileFAQ, Getting Agile*
 
 Other examples:
