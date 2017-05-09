@@ -6,8 +6,7 @@
     <p>Version control software allows multiple people to manage changes to a project at the same time without getting in each other's way. At GSA, we use it to help share and collaborate on open source software but it can be used for many other things as well. In this session, we'll talk about the basics of version control, look at how you might use it on your projects and take a tour of the GitHub ecosystem. This is a beginners session and no coding experience is required.</p>
     <p>Please join Sara Cope from the CTO Office in this Tech Talk for a friendly introduction to Version Control and GitHub.</p>
   presenter: Sara Cope, CTO Office
-  register: https://docs.google.com/a/gsa.gov/forms/d/1EJ1A1WXddBqsKBozu53wjx7IeJPrPB3-DdUs78w9LMo/edit
-  slides:
+  slides: https://saracope.github.io/github-techtalk
   recording:
 - title: DevOps
   date: April 25, 2017
