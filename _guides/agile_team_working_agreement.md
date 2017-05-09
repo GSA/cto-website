@@ -14,7 +14,7 @@ IMAGE
 
 In the **Forming** phase of an Agile Team, they must set the foundation for building trust, facilitating open communication, and defining their working disciplines that will guide self-organization throughout additional phases. These working disciplines, or “ground rules,” are the Team’s agreement as to how they will interact with one another and plan, set, and achieve common goals.
 
-### Defining the Team Disciplines
+### Defining Team Disciplines
 The purpose of the **working agreement** is to ensure the Agile Team shares responsibility in defining expectations for how they will function together and enhance their self-organization process. It creates an awareness of both positive (and negative) behaviors that can impact the Team and empowers the Scrum Master to keep them accountable.
 
 The process of defining the Team’s working agreement is straightforward. The Scrum Master facilitates a session with the Agile Team and Product Owner, where they generate a number of team disciplines together. A working agreement should be recalled easily, so they will then vote on the top five to ten disciplines. Once the Team has agreed upon a set of disciplines, they should be posted in their designated area and/or stored in a virtual folder that is accessible to all members.
@@ -35,7 +35,7 @@ Other examples:
 * Update Backlog before Standup daily
 * Respect your team member’s time
 
-### Maintaining the Team Disciplines
+### Maintaining Team Disciplines
 Success of the working agreement is based on the Team’s commitment to their established disciplines, so it is essential that they are agreed upon by the *entire* Agile Team. As they continue through the stages of group development, the Team will begin to hold themselves and each other accountable.
 
 The working agreement should be reviewed periodically, especially when the Team experiences change (i.e. new member joins or leaves the Team) or a member breaks one of the ground rules. [Retrospective meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-retrospective) can provide a vehicle for regular review, so as the Team reflects on their processes, they can also identify lacking or problematic disciplines in their working agreement. If team members find that a specific discipline is consistently broken, they should examine whether it is a reasonable expectation or whether it should be removed due to influences or variables outside the team’s control (e.g. team members are not 100% dedicated so they are unable to consistently meet their ‘DONE’ criteria for stories).
