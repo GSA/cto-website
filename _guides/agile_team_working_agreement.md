@@ -12,7 +12,7 @@ When forming a new Agile team, particularly one implementing a Scrum or Kanban a
 
 <img src="{{ site.baseurl }}/assets/img/guides/FSNP.png"
   alt="F-S-N-P"
-  class="guide-image">  
+  class="guide-image guide-image-three-fourths">  
 
 In the **Forming** phase of an Agile Team, they must set the foundation for building trust, facilitating open communication, and defining their working disciplines that will guide self-organization throughout additional phases. These working disciplines, or “ground rules,” are the Team’s agreement as to how they will interact with one another and plan, set, and achieve common goals.
 
@@ -26,7 +26,7 @@ Here are some examples of Agile Team disciplines included in a working agreement
 
 <img src="{{ site.baseurl }}/assets/img/guides/working_agreement.png"
   alt="Working Agreement"
-  class="guide-image guide-image-three-fourths">  
+  class="guide-image guide-image-half">  
 *Source: AgileFAQ, Getting Agile*
 
 Other examples:
