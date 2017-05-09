@@ -26,7 +26,7 @@ Here are some examples of Agile Team disciplines included in a working agreement
 
 <img src="{{ site.baseurl }}/assets/img/guides/working_agreement.png"
   alt="Working Agreement"
-  class="guide-image guide-image-half">  
+  class="guide-image guide-image-three-fourths">  
 *Source: AgileFAQ, Getting Agile*
 
 Other examples:
