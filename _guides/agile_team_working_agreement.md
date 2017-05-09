@@ -21,7 +21,7 @@ The purpose of the **working agreement** is to ensure the Agile Team shares resp
 
 The process of defining the Team’s working agreement is straightforward. The Scrum Master facilitates a session with the Agile Team and Product Owner, where they generate a number of team disciplines together. A working agreement should be recalled easily, so they will then vote on the top five to ten disciplines. Once the Team has agreed upon a set of disciplines, they should be posted in their designated area and/or stored in a virtual folder that is accessible to all members.
 
-##### Examples of Team Disciplines
+### Examples of Team Disciplines
 Here are some examples of Agile Team disciplines included in a working agreement:
 
 <img src="{{ site.baseurl }}/assets/img/guides/working_agreement.png"
