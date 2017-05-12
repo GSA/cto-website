@@ -15,7 +15,17 @@ audiences:
 </style>
 
 
-This content provides contract language guidance and is intended to serve as a template for the government representative during the development of a Task Order under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the high-level objectives and task-level delivery requirements of the intended product / service in line with an Agile delivery process. Additionally, this Task Order structure enables the government to allow contractors to work in a flexible way while maintaining high expectations for code quality and successful agile project management. 
+<p>This content provides contract language guidance and is intended to serve as a template for the government representative during the development of a Task Order under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the high-level objectives and task-level delivery requirements of the intended product / service in line with an Agile delivery process. Additionally, this Task Order structure enables the government to allow contractors to work in a flexible way while maintaining high expectations for code quality and successful agile project management.</p>
+
+<p> Tech.gsa.gov/guides/ also provides additional content and guidelines that delve further into and provide concrete tools/techniques on requirement breakdown and relevant sizing approaches to encourage delivery on an Agile project. Some example content include: </p>
+
+<p><i><li>[Conducting an Agile Project](https://tech.gsa.gov/guides/conducting_an_agile_project/)</li></i></p>
+<p><i><li>[Managing Requirements in an Agile Environment](https://tech.gsa.gov/guides/managing_requirements/)</li></i></p>
+<p><i><li>[Defining When a Requirement is Complete](https://tech.gsa.gov/guides/requirements_complete/)</li></i></p>
+<p><i><li>[Estimation and Relative Sizing](https://tech.gsa.gov/guides/estimation_and_storypointing/)</li></i></p>
+
+Moreover, [Interview Questions for Agile Vendors](https://tech.gsa.gov/guides/Agile_Contracts_Interview_Questions_for_Agile_Vendors/) and Specific [Agile Roles](https://tech.gsa.gov/guides/AgileContracts_Interview_Questions_for_Agile_Roles/) contents provde further guidance for GSA staff on what to inquire and expect from contractors during the vetting process.
+
 
 
 <h1> AGILE BPA TASK ORDER TEMPLATE </h1>
