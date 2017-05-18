@@ -7,9 +7,11 @@ audiences:
   - Project Managers
 ---
 
-By the end of 2016, [Gartner](http://www.gartner.com/newsroom/id/2999017) predicted that 25 percent of top global 2000 organizations would have adopted DevOps as a mainstream strategy. As one of those organizations, GSA IT continues to cultivate its own strategy. Originally we began with **DevOps** - which differs from other well-known lean approaches, like Agile, in that it focuses on improving delivery outcomes versus the process of delivery. Granted, even if the engaged software development team is not practicing an Agile approach, DevOps can still be successfully implemented in any environment. Further, it promotes a more cohesive collaboration between Development and Operations teams as they work towards continuous integration and delivery.
+By the end of 2016, [Gartner](http://www.gartner.com/newsroom/id/2999017) predicted that 25 percent of top global 2000 organizations would have adopted DevOps as a mainstream strategy. As one of those organizations, GSA IT continues to cultivate its own strategy. Originally we began with **DevOps** - which differs from other well-known lean approaches, like Agile, in that it focuses on improving *delivery outcomes* versus the *process of delivery*. Granted, even if the engaged software development team is *not* practicing an Agile approach, DevOps can still be successfully implemented in any environment. Further, it promotes a more cohesive collaboration between Development and Operations teams as they work towards continuous integration and delivery.
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevOps_Integration.png"
+  alt="DevOps Integration"
+  class="guide-image guide-image-three-fourths"> 
 *Source: Edureka!*
 
 *Example
@@ -24,7 +26,9 @@ IMAGE
 ### Utilizing DevOps
 DevOps is a composition of enhanced “engineering” practices that reduce lead time and increase the frequency of delivery. The primary goal of DevOps is to ensure Operations team members are engaged and collaborating with Development from the very beginning of a project / product development. As Edureka! states, “Gartner believes that rather than being a market per se, DevOps is a philosophy, a cultural shift that merges operations with development and demands a linked toolchain of technologies to facilitate collaborative change.” It requires pushing past departmental lines for more effective planning, design, and release of projects / products.
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevOps_Utilization.png"
+  alt="DevOps Utilization"
+  class="guide-image guide-image-three-fourths"> 
 *Source: McKinsey&Company*
 
 Moreover, as we continue to build upon automated delivery, we find there are opportunities to test for issues beyond typical bugs - potential security flaws, design defects, and code weaknesses. Imagine being able to identify and and fix flaws earlier in delivery process, **before** they are exposed to the public.
@@ -32,7 +36,9 @@ Moreover, as we continue to build upon automated delivery, we find there are opp
 ### DevOps + Security = DevSecOps
 To this end, there’s a growing movement, called DevSecOps, to incorporate Security into the coding process. Its primary focus is to ensure loopholes and weaknesses are exposed early on through monitoring and analytics, so that remediation actions can be implemented efficiently.
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevSecOps.png"
+  alt="DevSecOps"
+  class="guide-image guide-image-three-fourths"> 
 *Source: Hypergrid*
 
 Checkmarx quotes DevOps advocate Shannon Lietz, “The purpose and intent of DevSecOps, is to build on the mindset that ‘everyone is responsible for security’ with the goal of safely distributing security decisions at speed and scale to those who hold the highest level of context without sacrificing the safety required.” 
@@ -42,14 +48,18 @@ In GSA IT, we are actively pursuing a DevSecOps model that will not only engage 
 #### Popular Tools
 Automation is an imperative in any DevSecOps environment, at least where it makes sense. While there are a vast number of tools in the market, some of the most popular that enable automation include:
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevOps_Tools.png"
+  alt="DevOps Tools"
+  class="guide-image guide-image-three-fourths"> 
 *Source: devops.com, Edureka!, Stackify* 
 
 #### GSA IT-Approved Tools
 GSA IT currently uses the following approved tools to support DevSecOps delivery:
 
-IMAGE
-
+<img src="{{ site.baseurl }}/assets/img/guides/DevOps_GSA_Tools.png"
+  alt="DevOps GSA Tools"
+  class="guide-image guide-image-three-fourths"> 
+ 
 ### Measuring DevSecOps Success
 When utilizing DevSecOps practices, success is often measured by the efficiency of continuous development, threat detection, and release cycles. Metrics include: 
 * deployment frequency
