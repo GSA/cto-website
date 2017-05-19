@@ -14,14 +14,15 @@ Both Agile and DevSecOps can be implemented to promote change and collaboration 
 
 Remember, [Agile is a mindset]({{ site.baseurl }}/guides/popular_approaches/); its encompassed values promote a cultural shift in the organization and its departmental functions, project management practices, and product development. Likewise, [DevOps]({{ site.baseurl }}/guides/what_is_devops/) also requires a cultural shift.
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevSecOps.png"
+  alt="DevSecOps Con"
+  class="guide-image guide-image-half"> 
 
 It focuses primarily on the frequency of delivery, pushing past departmental lines and calling for collaboration between Development and Operations for more effective planning, design, and release of projects / products. Further, by incorporating [Security]http://www.devsecops.org/ into the coding process (i.e. DevSecOps), loopholes and weaknesses are exposed early on so that remediation actions can be implemented.
 
-<img src="{{ site.baseurl }}/assets/img/guides/DevSecOps.png"
-  alt="DevSecOps"
+<img src="{{ site.baseurl }}/assets/img/guides/DevOps_Continuous.png"
+  alt="DevOps Continuous Workflow"
   class="guide-image guide-image-half"> 
-*Source: Hypergrid*
 
 As with Agile frameworks, DevSecOps incorporates lean, synergistic practices, like [Continuous Integration]({{ site.baseurl }}/guides/agile_glossary/#continuous-integration) and [Continuous Delivery]({{ site.baseurl }}/guides/agile_glossary/#continuous-delivery), that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback, often through a number of electronic tools. Within a DevSecOps environment, the Business can benefit from such practices by saving dollars and resources through improved operations, reduced re-work, increased quality through automated testing and monitoring, and projects / products delivered early and often with less cycle time to the customer or end-user.
 
