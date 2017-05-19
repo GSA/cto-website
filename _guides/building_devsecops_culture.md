@@ -24,7 +24,7 @@ By the end of 2016, [Gartner](http://www.gartner.com/newsroom/id/2999017) predic
 * *Docker containers provides **testing environment** to test the build features.*
 
 ### Utilizing DevOps
-[DevOps]() is a composition of enhanced “engineering” practices that reduce lead time and increase the frequency of delivery. The primary goal of DevOps is to ensure Operations team members are engaged and collaborating with Development from the very beginning of a project / product development. As [Edureka!](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/) states, *“Gartner believes that rather than being a market per se, DevOps is a philosophy, a cultural shift that merges operations with development and demands a linked toolchain of technologies to facilitate collaborative change.”* It requires pushing past departmental lines for more effective planning, design, and release of projects / products.
+[DevOps]({{ site.baseurl }}/guides/agile_glossary/#devops) is a composition of enhanced “engineering” practices that reduce lead time and increase the frequency of delivery. The primary goal of DevOps is to ensure Operations team members are engaged and collaborating with Development from the very beginning of a project / product development. As [Edureka!](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/) states, *“Gartner believes that rather than being a market per se, DevOps is a philosophy, a cultural shift that merges operations with development and demands a linked toolchain of technologies to facilitate collaborative change.”* It requires pushing past departmental lines for more effective planning, design, and release of projects / products.
 
 <img src="{{ site.baseurl }}/assets/img/guides/DevOps_Utilization.png"
   alt="DevOps Utilization"
@@ -68,7 +68,7 @@ When utilizing DevSecOps practices, success is often measured by the efficiency 
 * mean time to repair
 * and mean time to recovery.
 
-Delivery efficiency is gained through [Continuous Integration]() and [Continuous Delivery]() activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).” Over time, Jez Humble says these metrics lead to “[the top five predictors of IT performance](https://blog.newrelic.com/2015/04/28/devops-jez-humble/):”
+Delivery efficiency is gained through [Continuous Integration]({{ site.baseurl }}/guides/agile_glossary/#continuous-integration) and [Continuous Delivery]({{ site.baseurl }}/guides/agile_glossary/#continuous-delivery) activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).” Over time, Jez Humble says these metrics lead to “[the top five predictors of IT performance](https://blog.newrelic.com/2015/04/28/devops-jez-humble/):”
 * Peer-reviewed change approval process
 * Version control everything
 * Proactive monitoring
