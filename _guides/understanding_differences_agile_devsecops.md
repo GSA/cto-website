@@ -39,17 +39,17 @@ Moreover, by incorporating Agile practices, the Business can better ensure prior
 
 ### Good Reads 
 These are good references for understanding Agile & DevSecOps:
-* 10 Deep DevOps Thoughts From Chef’s Jez Humble
-* Agile Vs. DevOps: 10 Ways They're Different
-* DevOps.com
-* DevOps and Agile
-* DevSecOps.org
-* Continuous integration
-* How are DevOps and Agile different?
-* How are Lean, Agile, and Devops related to each other?
-* Importance of Agile in 2016
-* IT Operations Only Does 4 Things.
-* ShiwaForce: What is DevOps?
-* The Agile Admin: What is DevOps?
-* The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-* The Phoenix Project
+* [10 Deep DevOps Thoughts From Chef’s Jez Humble]()
+* [Agile Vs. DevOps: 10 Ways They're Different]()
+* [DevOps.com]()
+* [DevOps and Agile]()
+* [DevSecOps.org]()
+* [Continuous integration]()
+* [How are DevOps and Agile different?]()
+* [How are Lean, Agile, and Devops related to each other?]()
+* [Importance of Agile in 2016]()
+* [IT Operations Only Does 4 Things.]()
+* [ShiwaForce: What is DevOps?]()
+* [The Agile Admin: What is DevOps?]()
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations]()
+* [The Phoenix Project]()
