@@ -11,7 +11,7 @@ By the end of 2016, [Gartner](http://www.gartner.com/newsroom/id/2999017) predic
 
 <img src="{{ site.baseurl }}/assets/img/guides/DevOps_Integration.png"
   alt="DevOps Integration"
-  class="guide-image guide-image-half"> 
+  class="guide-image guide-image-three-fourths"> 
 *Source: Edureka!*
 
 *Example*
@@ -58,7 +58,7 @@ GSA IT currently uses the following approved tools to support DevSecOps delivery
 
 <img src="{{ site.baseurl }}/assets/img/guides/DevOps_GSA_Tools.png"
   alt="DevOps GSA Tools"
-  class="guide-image guide-image-half"> 
+  class="guide-image guide-image-three-fourths"> 
  
 ### Measuring DevSecOps Success
 When utilizing DevSecOps practices, success is often measured by the efficiency of continuous development, threat detection, and release cycles. Metrics include: 
@@ -68,7 +68,12 @@ When utilizing DevSecOps practices, success is often measured by the efficiency 
 * mean time to repair
 * and mean time to recovery.
 
-Delivery efficiency is gained through [Continuous Integration]() and [Continuous Delivery]() activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).”
+Delivery efficiency is gained through [Continuous Integration]() and [Continuous Delivery]() activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).” Over time, Jez Humble says these metrics lead to “[the top five predictors of IT performance](https://blog.newrelic.com/2015/04/28/devops-jez-humble/):”
+* Peer-reviewed change approval process
+* Version control everything
+* Proactive monitoring
+* High-trust organizational culture
+* A win-win relationship between dev and ops
 
 ### Benefits of a DevSecOps Environment
 DevSecOps provides a number of benefits between Development, Security, and Operations - it eliminates silos, promotes collaboration and teamwork, identifies vulnerabilities early, and provides better, faster delivery. However, be wary of creating a departmental silo from Business team members. The Business can provide valuable support by engaging DevSecOps team members upfront and ensuring Development team members’ time is accounted for and visible.
@@ -87,24 +92,24 @@ DevSecOps also contributes business value through dollars and resources saved, i
 
 ### Good Reads 
 These are good references for understanding DevSecOps culture and tools:
-* 5 Popular Devops tools every devops should know about
-* 9 Open Source DevOps Tools We Love
-* 10 Deep DevOps Thoughts From Chef’s Jez Humble
-* Agile Vs. DevOps: 10 Ways They're Different
-* Beyond agile: Reorganizing IT for faster software delivery
-* DevOps.com
-* DevOps and Agile
-* DevOps & The Secure SDLC: Breaking Down Barriers with DevSecOps
-* DevSecOps Manifesto
-* Continuous integration
-* How are DevOps and Agile different?
-* How are Lean, Agile, and Devops related to each other?
-* HyperCloud Enables DevSecOps to Secure & Scale DevOps at Large Enterprises
-* Importance of Agile in 2016
-* Principles of DevSecOps
-* ShiwaForce: What is DevOps?
-* The 3 most crucial security behaviors in DevSecOps
-* The Agile Admin: What is DevOps?
-* The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
-* Top DevOps Interview Questions You Must Prepare For in 2017
-* Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs
+* [5 Popular Devops tools every devops should know about](http://www.actoncloud.com/blog/devops-tools/)
+* [9 Open Source DevOps Tools We Love](https://devops.com/9-open-source-devops-tools-love/)
+* [10 Deep DevOps Thoughts From Chef’s Jez Humble](https://blog.newrelic.com/2015/04/28/devops-jez-humble/)
+* [Agile Vs. DevOps: 10 Ways They're Different](http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121)
+* [Beyond agile: Reorganizing IT for faster software delivery](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/beyond-agile-reorganizing-it-for-faster-software-delivery)
+* [DevOps.com](https://devops.com/)
+* [DevOps and Agile](https://www.scrumalliance.org/community/articles/2014/april/devops-and-agile)
+* [DevOps & The Secure SDLC: Breaking Down Barriers with DevSecOps](https://www.checkmarx.com/2017/02/02/devops-secure-sdlc-breaking-barriers-devsecops/)
+* [DevSecOps Manifesto](http://www.devsecops.org/)
+* [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+* [How are DevOps and Agile different?](https://www.quora.com/How-are-DevOps-and-Agile-different)
+* [How are Lean, Agile, and Devops related to each other?](http://www.agileweboperations.com/lean-agile-devops-related)
+* [HyperCloud Enables DevSecOps to Secure & Scale DevOps at Large Enterprises](http://hypergrid.com/hypercloud-enables-devsecops-to-secure-scale-devops-at-large-enterprises/)
+* [Importance of Agile in 2016]()
+* [Principles of DevSecOps]()
+* [ShiwaForce: What is DevOps?]()
+* [The 3 most crucial security behaviors in DevSecOps]()
+* [The Agile Admin: What is DevOps?]()
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations]()
+* [Top DevOps Interview Questions You Must Prepare For in 2017]()
+* [Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs]()
