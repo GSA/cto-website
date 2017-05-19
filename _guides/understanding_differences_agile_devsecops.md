@@ -18,7 +18,9 @@ IMAGE
 
 It focuses primarily on the frequency of delivery, pushing past departmental lines and calling for collaboration between Development and Operations for more effective planning, design, and release of projects / products. Further, by incorporating Security into the coding process (i.e. DevSecOps), loopholes and weaknesses are exposed early on so that remediation actions can be implemented.
 
-IMAGE
+<img src="{{ site.baseurl }}/assets/img/guides/DevSecOps.png"
+  alt="DevSecOps"
+  class="guide-image guide-image-half"> 
 *Source: Hypergrid*
 
 As with Agile frameworks, DevSecOps incorporates lean, synergistic practices, like Continuous Integration and Continuous Delivery, that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback, often through a number of electronic tools. Within a DevSecOps environment, the Business can benefit from such practices by saving dollars and resources through improved operations, reduced re-work, increased quality through automated testing and monitoring, and projects / products delivered early and often with less cycle time to the customer or end-user.
