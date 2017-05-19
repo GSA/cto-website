@@ -15,13 +15,13 @@ By the end of 2016, [Gartner](http://www.gartner.com/newsroom/id/2999017) predic
 *Source: Edureka!*
 
 *Example*
-* *Developers develop the code and this source code is managed by **Version Control System** tools like Git, etc.
-* Developers send this code to the Git **repository** and any changes made in the code is  committed to this Repository.
-* Jenkins **pulls this code** from the repository using the Git plugin and build it using tools like Ant or Maven.
-* **Configuration management tools** like puppet deploys & provisions testing environment and then Jenkins **releases this code on the test environment** on which testing is done using tools like Selenium.
-* Once the code is tested, Jenkins **sends it for deployment on the production server** (even production server is provisioned & maintained by tools like puppet).
-* After deployment it is **continuously monitored** by tools like Nagios.
-* Docker containers provides **testing environment** to test the build features.*
+* *Developers develop the code and this source code is managed by **Version Control System** tools like Git, etc.*
+* *Developers send this code to the Git **repository** and any changes made in the code is  committed to this Repository.*
+* *Jenkins **pulls this code** from the repository using the Git plugin and build it using tools like Ant or Maven.*
+* ***Configuration management tools** like puppet deploys & provisions testing environment and then Jenkins **releases this code on the test environment** on which testing is done using tools like Selenium.*
+* *Once the code is tested, Jenkins **sends it for deployment on the production server** (even production server is provisioned & maintained by tools like puppet).*
+* *After deployment it is **continuously monitored** by tools like Nagios.*
+* *Docker containers provides **testing environment** to test the build features.*
 
 ### Utilizing DevOps
 [DevOps]() is a composition of enhanced “engineering” practices that reduce lead time and increase the frequency of delivery. The primary goal of DevOps is to ensure Operations team members are engaged and collaborating with Development from the very beginning of a project / product development. As [Edureka!](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/) states, *“Gartner believes that rather than being a market per se, DevOps is a philosophy, a cultural shift that merges operations with development and demands a linked toolchain of technologies to facilitate collaborative change.”* It requires pushing past departmental lines for more effective planning, design, and release of projects / products.
