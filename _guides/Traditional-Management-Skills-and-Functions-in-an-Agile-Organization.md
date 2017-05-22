@@ -15,7 +15,7 @@ In an Agile environment, the primary skillsets and functions required from Progr
 
 <img src="{{ site.baseurl }}/assets/img/guides/TraditionalRolesProgMgt.jpg"
   alt="Program Management in Agile"
-  class="guide-image guide-image-half"> 
+  class="guide-image guide-image-three-fourths">  
 
 **Vision and Direction:** Program Managers use their leadership and communication skills to drive high-level strategies, develop project/product roadmaps and set priorities based on long-term vision and business objectives. The program manager gets to emphasize on their management functions when it comes to effective resource allocation, design and development of working environments, management of risk and dependencies across teams and the removal of impediments.
 
@@ -32,7 +32,7 @@ As part of this shift, functional managers can employ the following important sk
 
 <img src="{{ site.baseurl }}/assets/img/guides/FunctionalMgt.png"
   alt="Functional Management in Agile"
-  class="guide-image guide-image-half">
+  class="guide-image guide-image-three-fourths"> 
 
 **Subject Matter Expertise:** Can serve as Technical or Business Leads who are subject matter experts advising the team and who can translate the business vision into a technical vision. This means focusing on setting a clear vision, defining acceptance criteria and letting the team figure out the ‘how’ by providing guidance and direction when needed, in addition to coaching and transferring knowledge.
 
@@ -46,7 +46,7 @@ Agile design development shifts the notion of a single person is in charge of de
 
 <img src="{{ site.baseurl }}/assets/img/guides/SysDesignMgt.png"
   alt="Technical Design Management"
-  class="guide-image guide-image-half">
+  class="guide-image guide-image-three-fourths">
   
 **Systems Design:** Architectural designers utilize their technical skills on developing the high-level system design and strategy, while guiding the development team on the architecture design that is to be created during the coding process. 
 
