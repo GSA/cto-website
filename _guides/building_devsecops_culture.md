@@ -68,7 +68,7 @@ When utilizing DevSecOps practices, success is often measured by the efficiency 
 * mean time to repair
 * and mean time to recovery.
 
-Delivery efficiency is gained through [Continuous Integration]({{ site.baseurl }}/guides/agile_glossary/#continuous-integration) and [Continuous Delivery]({{ site.baseurl }}/guides/agile_glossary/#continuous-delivery) activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).” Over time, Jez Humble says these metrics lead to “[the top five predictors of IT performance](https://blog.newrelic.com/2015/04/28/devops-jez-humble/):”
+Delivery efficiency is gained through [Continuous Integration]({{ site.baseurl }}/guides/glossary/#continuous-integration) and [Continuous Delivery]({{ site.baseurl }}/guides/glossary/#continuous-delivery) activities that encourage and support frequent code check-in, version control, sensible test automation, continuous low-risk releases and feedback. Security issue detection gains are achieved through “[threat modeling, code reviews, and red teaming](https://techbeacon.com/3-most-crucial-security-behaviors-devsecops).” Over time, Jez Humble says these metrics lead to “[the top five predictors of IT performance](https://blog.newrelic.com/2015/04/28/devops-jez-humble/):”
 * Peer-reviewed change approval process
 * Version control everything
 * Proactive monitoring
