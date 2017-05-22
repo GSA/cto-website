@@ -12,7 +12,7 @@ While Agile itself is a mindset, there are a number of popular approaches to cre
 ### What is Scrum?
 Scrum provides a process, or framework, for complex projects and can be “deceptively simple.” Currently, it is the most popular Agile approach in use and encourages high-performing, cross-functional teams. While it was originally formalized for software development projects, Scrum works well for any complex, innovative scope of work.
 
-Scrum is neither synonymous with Agile nor with an "[increment]({{ site.baseurl }}/guides/agile_glossary/#increments)" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
+Scrum is neither synonymous with Agile nor with an "[increment]({{ site.baseurl }}/guides/glossary/#increments)" (i.e. a Sprint / Iteration); it is not a tool (i.e. JIRA, Rally, etc.), but the Scrum process can be supported by one.
 
 <img src="{{ site.baseurl }}/assets/img/guides/Maxxor_Scrum.jpg"
   alt="Maxxor: The Scrum Software Development Process">
@@ -69,7 +69,7 @@ Determine the relative size of your backlog items and estimate the level of effo
 Clarify requirements that will be worked on in the upcoming sprint.
 
 **Step #4: Sprint Planning**  
-Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-ready) prior to adding them to the Sprint Backlog.
+Task requirements and add pointed estimates. Ensure cards meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/glossary/#definition-of-ready) prior to adding them to the Sprint Backlog.
 
 **Step #5: Create a collaborative workspace**  
 This can be a shared folder space in Google Drive or a Confluence space in JIRA.
@@ -84,7 +84,7 @@ Daily Standups should focus on “what you did yesterday, what you are doing tod
 Progress at the end of the sprint is reflected in the burndown chart and reviewed during the Sprint Demo.
 
 **Step #9: Finish when you said you would**  
-In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-done).
+In the Sprint Review, reflect on the work accomplished and whether the work completed met the [Definition of Done (DoD)]({{ site.baseurl }}/guides/glossary/#definition-of-done).
 
 **Step #10: Review, reflect, repeat…**  
 Conduct a Sprint Retrospective with the Scrum Team, Product Owner, and Scrum Master to reflect on what went well during the sprint and what can be improved. Check out [TastyCupcakes](http://tastycupcakes.org/category/agile/) for suggested Agile retrospective activities.

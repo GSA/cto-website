@@ -54,7 +54,7 @@ Some common Agile terms include:
 * **Vertical Slicing** : “chunks” of related features
 * **MVP (or MMP)** : Minimum Viable Product (or Minimum Marketable Product)
 
-Additional terms can be found in our [**Agile Glossary**]({{ site.baseurl }}/guides/agile_glossary/).
+Additional terms can be found in our [**Glossary**]({{ site.baseurl }}/guides/glossary/).
 
 ### <a name="agileculturebenefits"></a>Benefits of an Agile Culture
 Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), [Customer Support](http://www.award-entry.nl/2014/cases/klm/happy-to-help/), and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.

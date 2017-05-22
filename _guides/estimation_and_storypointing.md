@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-ready), the level of effort to complete the work must be estimated. The Product Owner and **ALL** members of the Team; not only development, but testers, user interface designers, database administrators, etc.; that are needed to complete the requirement should work together to identify the level of effort and establish an estimate.
+Generally, in order for a requirement to fully meet its [Definition of Ready (DoR)]({{ site.baseurl }}/guides/glossary/#definition-of-ready), the level of effort to complete the work must be estimated. The Product Owner and **ALL** members of the Team; not only development, but testers, user interface designers, database administrators, etc.; that are needed to complete the requirement should work together to identify the level of effort and establish an estimate.
 
 ### What is Estimation?
 An estimate is a rough calculation of the value, number, quantity, or extent of something. When used in Scrum (or Kanban), it is a point-based, valuation system for estimating the level of effort it takes to deliver a requirement, or user story. While estimates account for the level of effort to deliver “the product,” they are relative to the Team providing the estimate and will typically vary across teams. The valuation scale for estimates is usually reflected in terms of size, but most often as story points.
@@ -41,7 +41,7 @@ Begin with a single user story and then compare each story in the Backlog to det
   alt="Pointing Story Cards"
   class="guide-image guide-image-half">
 
-While a consensus should be reached for each estimate, the level of effort should be reflective of the overall effort - experience of all team members, development, quality testing, user acceptance testing, etc. - in order to achieve the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/agile_glossary/#definition-of-done).
+While a consensus should be reached for each estimate, the level of effort should be reflective of the overall effort - experience of all team members, development, quality testing, user acceptance testing, etc. - in order to achieve the established [Definition of Done (DoD)]({{ site.baseurl }}/guides/glossary/#definition-of-done).
 
 <img src="{{ site.baseurl }}/assets/img/guides/communities_consensus.png"
   alt="Consensus"

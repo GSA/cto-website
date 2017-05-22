@@ -1,5 +1,5 @@
 ---
-title: Agile Glossary
+title: Glossary
 category: Agile
 audiences:
   - Developers
