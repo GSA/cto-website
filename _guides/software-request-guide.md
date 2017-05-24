@@ -9,7 +9,7 @@ category: Team
 
 ### Introduction
 
-Occasionally you may need software that is not already available to you. We've created this resource to guide in the process of requesting software. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/) to get started.
+Occasionally you may need software that is not already available to you. We've created this resource to guide you in the process of requesting software. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/) to get started.
 
 ### Research
 Once you have identified a need, discuss this with your supervisor and colleagues. An approved tool may already be available to you. Be sure check if the software you want is available in the GSA EA Analytics & Reporting (GEAR) catalog.
@@ -30,16 +30,16 @@ Once you have gathered the info you will need on the software, it's time to put 
 Resources: [ServiceNow](#)
 
 #### Non-Standard Software Requests
-If the software you are requesting is not listed as Approved in GEAR, it will need to go through the non-standard request process. This involves a few more steps where the software is evaluated for Security and Accessibility requirements. After these reviews, the request is evaluated by the TSC and CTO for addition to the GEAR catalog. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
+If the software you are requesting is not listed as Approved in GEAR, it will need to go through the non-standard request approval process. This involves a few more steps where the software is evaluated for Security and Accessibility requirements. After these reviews, the request is evaluated by the TSC and CTO for addition to the GEAR catalog. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
 
 #### Pilot Software Requests
-If you would like to evaluate software on a trial basis, you will enter the request as a Pilot. This type of request will require a security review and approved by the TSC and CTO. If approved, GEAR will be updated to include the software information with the Pilot status. Approval for all Pilot software expires after 90 days.
+If you would like to evaluate software on a trial basis, you will enter the request as a Pilot. This type of request will require a security review and will need to be approved by the TSC and CTO. If approved, GEAR will be updated to include the software information with the Pilot status. Approval for all Pilot software expires after 90 days.
 
 ### Monitor
-After your software request is entered in ServiceNow, you should receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Follow-up communication will also be to you in email. Keep an eye out for emails requesting more information at your request. The IT Standards team will review your ticket and may ask for any missing info.
+After your software request is entered in ServiceNow, you should receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Follow-up communication will also be sent to you in email. Keep an eye out for requests for more information to be added to your ticket. The IT Standards team will review your ticket and may ask for any missing info.
 
 ### Approve
-It can typically take 2 weeks for a request to be completed if the software is already listed in GEAR as Approved. After your software request is approved, you'll be contacted via phone or email from the your local IT Service Desk.
+It can typically take 2 weeks for a request to be completed if the software is already listed in GEAR as Approved. After your software request is approved, you'll be contacted via phone or email from your local IT Service Desk.
 
 ### Acquire
 Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to see who the correct CO would be.
