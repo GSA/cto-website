@@ -3,13 +3,13 @@ title: Requesting Software at GSA
 category: Team
 ---
 
-  <img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
+  <a href="http://codepen.io/saracope/full/aWPePG/" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
     alt="Software Request Process Map"
-    style="float: left;  margin-right: 10px;">
+    style="float: left;  margin-right: 10px;"></a>
 
 ### Introduction
 
-Occasionally you may need software that is not already available to you. We've created this resource to guide you in the process of requesting software. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/) to get started.
+Occasionally you may need software that is not already available to you. We've created this resource to guide you in the process of requesting software. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/){:target="_blank"} to get started.
 
 ### Research
 Once you have identified a need, discuss this with your supervisor and colleagues. An approved tool may already be available to you. Be sure check if the software you want is available in the GSA EA Analytics & Reporting (GEAR) catalog.
