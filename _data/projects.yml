@@ -89,3 +89,15 @@
   repository_link:
   picture:
   description: Sustainability Operations and Maintenance (SOM) tool.
+
+- name: 'CTO Office: Implementing Agile'
+  contact_name:
+  contact_email:
+  stage: live
+  link:
+  repository_link:
+  picture:
+  description: Implementation of an agile approach to manage all work within the Office of the CTO.
+  links:
+    - title: CTO Case Study
+      url: /assets/downloads/CTO.Office.Case.Study.Implementing.Agile.pdf
