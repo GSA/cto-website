@@ -3,7 +3,9 @@ title: Requesting Software at GSA
 category: Team
 ---
 
-
+  <img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
+    alt="Software Request Process Map"
+    style="float: left;  margin-right: 10px;">
 
 ### Introduction
 
