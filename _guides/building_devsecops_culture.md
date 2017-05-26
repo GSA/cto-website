@@ -45,14 +45,6 @@ To this end, there’s a growing movement, called [DevSecOps](http://www.devseco
 
 In GSA IT, we are actively pursuing a **DevSecOps** model that will not only engage Security throughout the development and operations processes, but more specifically, ensure their involvement as we align the Authority to Operate (ATO) / Lightweight Authority to Operate (LATO) process with the cloud delivery process.
 
-#### Popular Tools
-Automation is an imperative in any DevSecOps environment, at least where it makes sense. While there are a vast number of tools in the market, some of the most popular that enable automation include:
-
-<img src="{{ site.baseurl }}/assets/img/guides/DevOps_Tools.png"
-  alt="DevOps Tools"
-  class="guide-image guide-image-half"> 
-*Source: devops.com, Edureka!, Stackify* 
-
 #### GSA IT-Approved Tools
 GSA IT currently uses the following approved tools to support DevSecOps delivery:
 
