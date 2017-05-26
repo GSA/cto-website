@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-In GSA IT, we examine how Agile and DevOps address different aspects of the delivery process. In terms of software development, **Agile** improves the process of delivery; encouraging changes in the functions and practices of the Business and Development teams to better produce the project / product envisioned by the end-user, or customer. **DecSecOps** (DevOps + a targeted integration of Security) improves the lead time and frequency of delivery outcomes through enhanced engineering practices; promoting a more cohesive collaboration between Development, Security, and Operations teams as they work towards continuous integration and delivery. 
+In GSA IT, we examine how Agile and DevSecOps address different aspects of the delivery process. In terms of software development, **Agile** improves the process of delivery; encouraging changes in the functions and practices of the Business and Development teams to better produce the project / product envisioned by the end-user, or customer. **DecSecOps** improves the lead time and frequency of delivery outcomes through enhanced engineering practices; promoting a more cohesive collaboration between Development, Security, and Operations teams as they work towards continuous integration and delivery. 
 
 ### Understanding the Differences
 Both Agile and DevSecOps can be implemented to promote change and collaboration within their respective domains, resulting in a cultural shift in the practices of the individuals implementing them. In an ideal environment, an organization would employ *both* Agile and DevSecOps practices, however, it is important to note that DevSecOps can be implemented in ***any*** environment - Agile or otherwise.
