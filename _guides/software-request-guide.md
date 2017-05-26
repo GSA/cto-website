@@ -9,43 +9,49 @@ category: Team
 
 ### Introduction
 
-Occasionally you may need software that is not already available to you. We've created this resource to guide you in the process of requesting software. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/){:target="_blank"} to get started.
+Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/){:target="_blank"} to get started.
 
 ### Research
-Once you have identified a need, discuss this with your supervisor and colleagues. An approved tool may already be available to you. Be sure check if the software you want is available in the GSA EA Analytics & Reporting (GEAR) catalog.
+Once you have identified a need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure check if the software you want is available in the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network. Once you have identified the software you would like, you will need to take some time to get all the information you will need to request it.
 <br>
 <br>
-Resources: [GEAR](#)
+Resources: [GEAR](https://ea.gsa.gov/#!/itstandards)
 
 ### Gather
-You will need several pieces of information when completing a software request. Things like purpose, cost, and download link among others. Follow [this checklist](#) to be sure you've gathered all the info you will need.
+You will need several pieces of information when completing a software request. Things like purpose, cost, and download link among others. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.
 <br>
 <br>
-Resources: Software [product checklist](#)
+Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/downloads/software-request-checklist.pdf))
 
 ### Request
-Once you have gathered the info you will need on the software, it's time to put in your request. A quick way to do this is to select the Submit a Service Ticket option from [Insite.gsa.gov](#). Submitting a Service Catalog Request for software in ServiceNow will kick off your request.
+Once you have gathered the info you will need on the software, it's time to put in your request. A quick way to do this is to select the Submitting a Service Catalog, [Request for Software](https://gsa.service-now.com/GSA_Self-Service/software.do) option in ServiceNow.
 <br>
 <br>
-Resources: [ServiceNow](#)
+Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do)
 
 #### Non-Standard Software Requests
-If the software you are requesting is not listed as Approved in GEAR, it will need to go through the non-standard request approval process. This involves a few more steps where the software is evaluated for Security and Accessibility requirements. After these reviews, the request is evaluated by the TSC and CTO for addition to the GEAR catalog. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
+If the software you are requesting is not listed as Approved on the IT Standards List in GEAR, it will need to go through the non-standard request approval process. This involves 2 additional reviews where the software is evaluated for Security and Accessibility requirements. After these reviews are complete, the Technology Standards Committee (TSC) will provide their recommendation as to whether or not the software should be added to the IT Standards list. Finally, the Chief Technology Officer (CTO) will approve or reject the request. If approved, the software will be added to the IT Standards List in Gear. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
 
 #### Pilot Software Requests
-If you would like to evaluate software on a trial basis, you will enter the request as a Pilot. This type of request will require a security review and will need to be approved by the TSC and CTO. If approved, GEAR will be updated to include the software information with the Pilot status. Approval for all Pilot software expires after 90 days.
+If the feasibility or applicability of the software is not known or not yet proven, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot software must never be on a production network or contain sensitive federal data and the cost for a Pilot may not exceed $25k.
+Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information with the Pilot status. Approval for all Pilot software expires after 90 days.
+At the conclusion of the pilot, the requestor will need to provide back to the CTO the following key outcomes:
+* Determination of whether or not the requester believes that the piloted technology is acceptable and should be a candidate for full approval;
+* Path to attain full security, and Section 508 approval; and
+* Evidence of all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance.
 
 ### Monitor
-After your software request is entered in ServiceNow, you should receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Follow-up communication will also be sent to you in email. Keep an eye out for requests for more information to be added to your ticket. The IT Standards team will review your ticket and may ask for any missing info.
+After your software request is entered in ServiceNow, you should receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Keep an eye out for requests for more information to be added to your ticket. If you do not receive an email with your request ticket information, you can still review this information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
 
 ### Approve
-It can typically take 2 weeks for a request to be completed if the software is already listed in GEAR as Approved. After your software request is approved, you'll be contacted via phone or email from your local IT Service Desk.
+It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked at closed and you'll be contacted via phone or email from your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
 
 ### Acquire
 Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to see who the correct CO would be.
 
 ### Use
 If you requested web-based software, then you may go ahead and start using it.
+All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or itservicedesk@gsa.gov for questions.
 
 ### Discontinue
 All software is assigned an expiration date. This date is when the software will be re-evaluated for GSA use. If software is discontinued, you will be notified via email.
@@ -60,55 +66,23 @@ Resources: [ServiceNow](#)
   <li>
     <button class="usa-accordion-button"
       aria-expanded="true" aria-controls="Question-1">
-      First Question
+      What is the difference between Standard and Non-standard software?
     </button>
     <div id="Question-1" class="usa-accordion-content">
       <p>
-      Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+      Standard software has previously been evaluated and approved to be included in the IT Standards List in GEAR. You must still put in a request for Standard software. This type of request typically takes 1-2 weeks to complete.
+      Non-standard software has not been evaluated for inclusion in the IT Standards List and must complete a full review for Security, 508 Accessibility, and Enterprise Architecture requirements. This review and evaluation process can take 4-6 weeks to complete.
       </p>
     </div>
   </li>
   <li>
     <button class="usa-accordion-button"
       aria-controls="Question-2">
-      Second Question
+      Do I still need to enter a ServiceNow ticket if the software I want is already approved in the IT Standards List?
     </button>
     <div id="Question-2" class="usa-accordion-content">
       <p>
-      A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
-      </p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-accordion-button"
-        aria-controls="Question-3">
-      Third Question
-    </button>
-    <div id="Question-3" class="usa-accordion-content">
-      <p>
-      No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
-      </p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-accordion-button"
-      aria-controls="Question-4">
-      Fourth Question
-    </button>
-    <div id="Question-4" class="usa-accordion-content">
-      <p>
-      The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
-      </p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-accordion-button"
-      aria-controls="Question-5">
-      Fifth Question
-    </button>
-    <div id="Question-5" class="usa-accordion-content">
-      <p>
-      No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+      Yes, you will still need to enter a ServiceNow ticket to request approved software.
       </p>
     </div>
   </li>
