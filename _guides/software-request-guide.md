@@ -3,13 +3,13 @@ title: Requesting Software at GSA
 category: Team
 ---
 
-  <a href="http://codepen.io/saracope/full/aWPePG/" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
+  <a href="{{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg" target="_blank"><img src="{{ site.baseurl }}/assets/img/guides/software-request-process-map.png"
     alt="Software Request Process Map"
     style="float: left;  margin-right: 10px;"></a>
 
 ### Introduction
 
-Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA. Follow these simple steps below and view our interactive [process map](http://codepen.io/saracope/full/aWPePG/){:target="_blank"} to get started.
+Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA. Follow these simple steps below and view our interactive [process map]({{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg){:target="_blank"} to get started.
 
 ### Research
 Once you have identified a need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure check if the software you want is available in the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network. Once you have identified the software you would like, you will need to take some time to get all the information you will need to request it.
