@@ -9,10 +9,11 @@ category: Team
 
 ### Introduction
 
-Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA. Follow these simple steps below and view our interactive [process map]({{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg){:target="_blank"} to get started.
+Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA.
+<br>Follow these simple steps below and view our interactive [process map]({{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg){:target="_blank"} to get started.
 
 ### Research
-Once you have identified a need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure check if the software you want is available in the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network. Once you have identified the software you would like, you will need to take some time to get all the information you will need to request it.
+Once you have identified a need, discuss with your supervisor and colleagues to get more information about what tool may be best to use. Be sure check if the software you want is available in the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network. Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it.
 <br>
 <br>
 Resources: [GEAR](https://ea.gsa.gov/#!/itstandards)
@@ -30,24 +31,25 @@ Once you have gathered the info you will need on the software, it's time to put 
 Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do)
 
 #### Non-Standard Software Requests
-If the software you are requesting is not listed as Approved on the IT Standards List in GEAR, it will need to go through the non-standard request approval process. This involves 2 additional reviews where the software is evaluated for Security and Accessibility requirements. After these reviews are complete, the Technology Standards Committee (TSC) will provide their recommendation as to whether or not the software should be added to the IT Standards list. Finally, the Chief Technology Officer (CTO) will approve or reject the request. If approved, the software will be added to the IT Standards List in Gear. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
+If the software you are requesting is not listed as Approved on the IT Standards List in GEAR, it will need to go through the non-standard request approval process. This involves 2 additional reviews where the software is evaluated for Security vulnerabilities and Accessibility features. After these reviews are complete, the Technology Standards Committee (TSC) will provide their recommendation as to whether or not the software should be added to the IT Standards list. Finally, the Chief Technology Officer (CTO) will approve or reject the request. If approved, the software will be added to the IT Standards List in GEAR. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
 
 #### Pilot Software Requests
-If the feasibility or applicability of the software is not known or not yet proven, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot software must never be on a production network or contain sensitive federal data and the cost for a Pilot may not exceed $25k.
-Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information with the Pilot status. Approval for all Pilot software expires after 90 days.
-At the conclusion of the pilot, the requestor will need to provide back to the CTO the following key outcomes:
+If you want to try out a software tool but aren't sure if you want it to go through a full review yet, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot requests can be much faster to process, but there are several requirements it must meet in order to be considered for evaluation.
+<ul><li>Pilot software must never be on a production network or contain sensitive federal data</li><li>The cost for a Pilot may not exceed $25k</li></ul>
+Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information with the status of Pilot. Approval for all Pilot software expires after 90 days.
+At the conclusion of the pilot, the requestor will need to provide to the CTO the following key outcomes:
 * Determination of whether or not the requester believes that the piloted technology is acceptable and should be a candidate for full approval;
 * Path to attain full security, and Section 508 approval; and
 * Evidence of all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance.
 
 ### Monitor
-After your software request is entered in ServiceNow, you should receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Keep an eye out for requests for more information to be added to your ticket. If you do not receive an email with your request ticket information, you can still review this information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
+After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your requesting moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
 
 ### Approve
-It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked at closed and you'll be contacted via phone or email from your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
+It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
 
 ### Acquire
-Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to see who the correct CO would be.
+Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to identify the correct CO.
 
 ### Use
 If you requested web-based software, then you may go ahead and start using it.
@@ -71,7 +73,7 @@ Resources: [ServiceNow](#)
     <div id="Question-1" class="usa-accordion-content">
       <p>
       Standard software has previously been evaluated and approved to be included in the IT Standards List in GEAR. You must still put in a request for Standard software. This type of request typically takes 1-2 weeks to complete.
-      Non-standard software has not been evaluated for inclusion in the IT Standards List and must complete a full review for Security, 508 Accessibility, and Enterprise Architecture requirements. This review and evaluation process can take 4-6 weeks to complete.
+      Non-standard software has not been reviewed and must be fully evaluated for Security, 508 Accessibility, and Enterprise Architecture requirements. This review and evaluation process can take 4-6 weeks to complete.
       </p>
     </div>
   </li>
@@ -82,7 +84,51 @@ Resources: [ServiceNow](#)
     </button>
     <div id="Question-2" class="usa-accordion-content">
       <p>
-      Yes, you will still need to enter a ServiceNow ticket to request approved software.
+      Yes, you will still need to enter a ServiceNow ticket to request approved software. This initiates the process to have the Help Desk team install the software for you.
+      </p>
+    </div>
+  </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-controls="Question-3">
+      How long will it take to have my software request approved?
+    </button>
+    <div id="Question-3" class="usa-accordion-content">
+      <p>
+      This depends on if the software has previously been reviewed and what status it has in GEAR. If the software has a status of Approved in GEAR it will typically take 1-2 weeks to complete. If the software has not been approved it can take much longer to evaluate, up to 4-6 weeks.
+      </p>
+    </div>
+  </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-controls="Question-4">
+      Why do I have to provide so much information for my request and how can I find it?
+    </button>
+    <div id="Question-4" class="usa-accordion-content">
+      <p>
+      This information is required for a ‘new’ software request to ensure that the tool adheres to established GSA standards.  The product must be reviewed for any Security vulnerabilities, and to determine if it is 508 (accessibility) compliant.  The 508 VPAT document must be requested from the vendor. You can go to the vendor’s website and look for it, or you can look for a phone number and contact them directly.
+      </p>
+    </div>
+  </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-controls="Question-5">
+      How do I get software removed from my laptop?
+    </button>
+    <div id="Question-5" class="usa-accordion-content">
+      <p>
+      To remove software from your laptop, you will need to submit a new ServiceNow ticket.
+      </p>
+    </div>
+  </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-controls="Question-6">
+      How do I know what the Approval Expiration date for my Pilot or other software tool is?
+    </button>
+    <div id="Question-6" class="usa-accordion-content">
+      <p>
+      You can find this information in GEAR on the IT Standards List report.  Log into GEAR and pull up the IT Standards List, select the Filter ‘Approval Expiration Date’.  Type in your product name in the Search Bar and hit Enter for the results.
       </p>
     </div>
   </li>
