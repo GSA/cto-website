@@ -9,23 +9,23 @@ category: Team
 
 ### Introduction
 
-Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA.
+Occasionally you may need to use software that is not already available to you. We've created this resource to guide you in the process of requesting software at GSA.<br>
 <br>Follow these simple steps below and view our interactive [process map]({{ site.baseurl }}/assets/img/guides/software-request-guide-process-map.svg){:target="_blank"} to get started.
 
 ### Research
-Once you have identified a need, discuss with your supervisor and colleagues to get more information about what tool may be best to use. Be sure check if the software you want is available in the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network. Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it.
+Once you have identified a software need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure to check if the software you want is listed on the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network.<br><br> Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it.
 <br>
 <br>
 Resources: [GEAR](https://ea.gsa.gov/#!/itstandards)
 
 ### Gather
-You will need several pieces of information when completing a software request. Things like purpose, cost, and download link among others. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.
+You will need several pieces of information, like software purpose, cost, and a download link, to complete a software request. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.
 <br>
 <br>
 Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/downloads/software-request-checklist.pdf))
 
 ### Request
-Once you have gathered the info you will need on the software, it's time to put in your request. A quick way to do this is to select the Submitting a Service Catalog, [Request for Software](https://gsa.service-now.com/GSA_Self-Service/software.do) option in ServiceNow.
+Once you have gathered the info, it's time to put in your request. To do this, select the Submitting a Service Catalog, [Request for Software](https://gsa.service-now.com/GSA_Self-Service/software.do) option in ServiceNow.
 <br>
 <br>
 Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do)
@@ -36,14 +36,14 @@ If the software you are requesting is not listed as Approved on the IT Standards
 #### Pilot Software Requests
 If you want to try out a software tool but aren't sure if you want it to go through a full review yet, you may request to evaluate the software on a trial basis. This type of request is know as a Pilot. Pilot requests can be much faster to process, but there are several requirements it must meet in order to be considered for evaluation.
 <ul><li>Pilot software must never be on a production network or contain sensitive federal data</li><li>The cost for a Pilot may not exceed $25k</li></ul>
-Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information with the status of Pilot. Approval for all Pilot software expires after 90 days.
+Pilot requests require a Security review and will need to be approved by the TSC. If approved, GEAR will be updated to include the software information along with a status of Pilot. Approval for all Pilot software expires after 90 days.
 At the conclusion of the pilot, the requestor will need to provide to the CTO the following key outcomes:
-* Determination of whether or not the requester believes that the piloted technology is acceptable and should be a candidate for full approval;
-* Path to attain full security, and Section 508 approval; and
-* Evidence of all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance.
+* Determination of whether or not the requester believes that the piloted technology is acceptable and should be a candidate for full approval
+* Path to attain full security, and Section 508 approval
+* Evidence that all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance
 
 ### Monitor
-After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your requesting moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
+After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
 
 ### Approve
 It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
@@ -52,7 +52,7 @@ It can typically take up to 2 weeks for a request to be completed for Standard s
 Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to identify the correct CO.
 
 ### Use
-If you requested web-based software, then you may go ahead and start using it.
+If you requested web-based software, you may go ahead and start using it.
 All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or itservicedesk@gsa.gov for questions.
 
 ### Discontinue
