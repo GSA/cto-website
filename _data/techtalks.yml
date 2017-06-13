@@ -1,3 +1,15 @@
+- title: Application Performance Monitoring within GSA's PBS IT
+  date: June 20, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F
+  description:
+    <p>IT applications are getting more robust and complicated each year.  Applications developers are expected to deliver more features while improving application performance for end users.</p>
+    <p>This can be a challenging endeavor without the right tool to baseline and track application performance and identify where the bottlenecks are occurring.</p>
+    <p>During this tech talk, Phil Klokis and Allen Samuel will present how PB-ITS has used Riverbed ARX to improve application performance and identify usage of the application in supporting application rationalization activities.</p>
+  presenter: Phil Klokis and Allen Samuel
+  register: https://docs.google.com/a/gsa.gov/forms/d/19L0HwhSRDwMC1TM0j8cCPWnVbZVCpojYEmDS3IN1BMw/edit
+  slides:
+  recording:
 - title: 'The Agile Product Owner: Beyond the Books & Classrooms'
   date: June 6, 2017
   time: 1p-1:30p
