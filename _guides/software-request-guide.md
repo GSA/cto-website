@@ -43,7 +43,7 @@ At the conclusion of the pilot, the requestor will need to provide to the CTO th
 * Evidence that all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance
 
 ### Monitor
-After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
+After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at [it-standards@gsa.gov](mailto:it-standards@gsa.gov).
 
 ### Approve
 It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
@@ -53,14 +53,14 @@ Once the software is approved, you will work with your local Contract Officer (C
 
 ### Use
 If you requested web-based software, you may go ahead and start using it.
-All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or itservicedesk@gsa.gov for questions.
+All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or [itservicedesk@gsa.gov](mailto:itservicedesk@gsa.gov) for questions.
 
 ### Discontinue
 All software is assigned an expiration date. This date is when the software will be re-evaluated for GSA use. If software is discontinued, you will be notified via email.
 When you no longer need the software, please enter a ticket in ServiceNow to have it removed from your equipment.
 <br>
 <br>
-Resources: [ServiceNow](#)
+Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do)
 
 ### FAQ's
 
