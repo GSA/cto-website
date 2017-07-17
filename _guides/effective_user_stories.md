@@ -34,7 +34,7 @@ When writing a user story, it requires key content:
 
 User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives its priority. 
 
-Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail on [how to write user stories]({{ site.baseurl }}/assets/downloads/UserStoryExamples.pdf) or regarding defining acceptance criteria, check out [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/).
+Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail on writing user stories, check out our [User Story Examples]({{ site.baseurl }}/assets/downloads/UserStoryExamples.pdf), or review [Defining When a Requirement is Complete]({{ site.baseurl }}/guides/requirements_complete/) on defining acceptance criteria.
 
 ### Good Reads
 These are good references for writing user stories:
