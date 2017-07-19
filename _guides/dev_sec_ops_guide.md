@@ -115,5 +115,31 @@ These metrics provide useful information and it is recommended that metrics in t
 #### Description
 *Note:* This is relevant to IaaS and PaaS capabilities, not necessarily SaaS-driven capabilities.
 
-An image in the context of this framework is the definition of a component of computing infrastructure that can be instantiated for use by the platform or by application owners on that platform. Concretely, an image could be a VM image, AMI, a container image or definition, or similar products. Image management refers to lifecycle around the creation, maintenance, and delivery of those images to application developers.
+An **image** in the context of this framework is the definition of a component of computing infrastructure that can be instantiated for use by the platform or by application owners on that platform. Concretely, an image could be a VM image, AMI, a container image or definition, or similar products. **Image management** refers to lifecycle around the creation, maintenance, and delivery of those images to application developers.
+
+### Maturity Model
+* **Level 1 (Not considered viable for DevSecOps):** Application developers must make and secure all of their images from scratch or nearly so (e.g., they use their own AMIs which can vary from team to team).
+* **Level 2:** Application developers are provided base OS images; the owner of the image management process hardens those OS images, and includes any necessary agents. The application team cannot change the underlying hardened image, except to add application code and components.
+* **Level 3:** Applications developers are provided base OS images and images that provide component-level functionality that has also been hardened (e.g., standard images pre-packaged with hardened components i.e. databases or web/application servers). Images and components undergo automatic testing and are pre-approved by security and operations groups.
+
+### Artifacts
+* Repository of images (preferably a link to an open source repository to create image)
+* Process (code, checklist, and/or SOP) for adding a new image into the repository - the process should cover developer request, addressing of security considerations, and delivery to the platform
+* Process (code, checklist, and/or SOP) for instantiating an image in an application
+
+## Logging, Monitoring, and Alerting
+
+### Description
+Logging, monitoring and alerting covers the domain of understanding and managing the health and security of an application’s operational state. This includes capturing what events have occurred (logging), providing information about those events (monitoring) and informing the appropriate parties when those events indicate issues to be resolved (alerting). Application teams need significant autonomy to manage the health of their own applications, but the enterprise at large also needs awareness of the health of applications within it.
+
+### Maturity Model
+* **Level 1 (Not considered viable for a DevSecOps platform):** Event capture is not existent, not granular, or not available to either application developers or platform owners
+* **Level 2:** Platform owners have awareness of platform health and perhaps health of individual applications. Application teams must create their own methods of health management, perhaps with some guidance from the platform owners.
+* **Level 3:** Application owners have full access to their application event information with monitoring and alerting flexibility for their own use. An enterprise-wide application logging and monitoring system is available.
+
+### Artifacts
+* Guide (code and/or document) to application owner access to logging, monitoring, and alerting services; use of the guide should suffice for an application owner to configure and manage their logs, monitoring, and alerts.  The guide should also cover logging configuration for centralized security monitoring by SecOps.
+
+
+
 
