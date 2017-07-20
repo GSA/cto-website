@@ -43,7 +43,7 @@ At the conclusion of the pilot, the requestor will need to provide to the CTO th
 * Evidence that all costs have been identified and budgeted within the requesting office and as required by other affected offices, to include out-year operations and maintenance
 
 ### Monitor
-After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at it-standards@gsa.gov.
+After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at [it-standards@gsa.gov](mailto:it-standards@gsa.gov).
 
 ### Approve
 It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
@@ -53,14 +53,14 @@ Once the software is approved, you will work with your local Contract Officer (C
 
 ### Use
 If you requested web-based software, you may go ahead and start using it.
-All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or itservicedesk@gsa.gov for questions.
+All other types of software will be installed by your local IT Service Desk within 1-2 business days of your request being approved. Contact the IT Service Desk at 1-866-450-5250 or [itservicedesk@gsa.gov](mailto:itservicedesk@gsa.gov) for questions.
 
 ### Discontinue
 All software is assigned an expiration date. This date is when the software will be re-evaluated for GSA use. If software is discontinued, you will be notified via email.
 When you no longer need the software, please enter a ticket in ServiceNow to have it removed from your equipment.
 <br>
 <br>
-Resources: [ServiceNow](#)
+Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do)
 
 ### FAQ's
 
@@ -138,18 +138,16 @@ Resources: [ServiceNow](#)
       GEAR has a lot of different statuses for software on the IT Standards list. What do all these statuses mean?
     </button>
     <div id="Question-7" class="usa-accordion-content">
-      <p>
-      <ul><li>  Approved-Preferred - GSA's preferred solution for a specific IT function (e.g., Document Mgmt). Unconstrained usage is allowed until a date to be determined by the TSC/CTO. You may request software with this status.</li><br>
-<li>Approved-Maintain - acceptable for use until a date to be determined by the TSC/CTO. You may request software with this status.</li><br>
-<li>Exception - the solution is not allowed for use other than under the predefined conditions resulting from the TSC/CTO decision. You may request software with this status.</li><br>
-<li>Denied - software is not allowed for use within GSA. You may not request software with this status.</li><br>
-<li>Proposed - a request has been submitted and is currently under review. You should wait for this software to complete final review before requesting it. </li><br>
-<li>Sunsetting - the Technology has reached end of life and will be moved to Denied status. You may not request software with this status.</li><br>
-<li>Pilot - the Technology is approved for only 'Pilot' purposes for limited duration. You may request software with this status.</li><br>
-<li>Not yet Submitted - Technology in use at GSA but has not been through the approval process yet. You may request software with this status.</li><br>
-<li>Grandfathered Exception - this is a recently added status recommended by CTO and Security.  This status is used for technologies which are determined by CTO/TSC that they can be approved without going through the whole process. You may request software with this status.</li><br>
+      <ul><li>  Approved-Preferred - GSA's preferred solution for a specific IT function (e.g., Document Mgmt). Unconstrained usage is allowed until a date to be determined by the TSC/CTO. You may request software with this status.</li>
+<li>Approved-Maintain - acceptable for use until a date to be determined by the TSC/CTO. You may request software with this status.</li>
+<li>Exception - the solution is not allowed for use other than under the predefined conditions resulting from the TSC/CTO decision. You may request software with this status.</li>
+<li>Denied - software is not allowed for use within GSA. You may not request software with this status.</li>
+<li>Proposed - a request has been submitted and is currently under review. You should wait for this software to complete final review before requesting it. </li>
+<li>Sunsetting - the Technology has reached end of life and will be moved to Denied status. You may not request software with this status.</li>
+<li>Pilot - the Technology is approved for only 'Pilot' purposes for limited duration. You may request software with this status.</li>
+<li>Not yet Submitted - Technology in use at GSA but has not been through the approval process yet. You may request software with this status.</li>
+<li>Grandfathered Exception - this is a recently added status recommended by CTO and Security.  This status is used for technologies which are determined by CTO/TSC that they can be approved without going through the whole process. You may request software with this status.</li>
 </ul>
-      </p>
     </div>
   </li>
 </ul>
