@@ -1,3 +1,12 @@
+- title: Data-to-Decisions (D2D) & GSA with Kris Rowley
+  date: July 26, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F
+  description: D2D is a GSA-wide initiative and cultural shift to bring GSA datasets together, ensure consistency of reporting, and empower employees at all levels with the outcome of building a data-driven organization. It is a capability used to aggregate data, store data securely using  modern cloud technology, and develop flexible reports for your customers.  During this tech talk, Kris Rowley, GSA Chief Data Officer, will present D2D's portal capabilities, offer discussion around what D2D can do to help better support our daily jobs, and answer any data related questions specific to the business. The D2D team hopes to continue contributing to the to the improvement of GSA's overall customer experience by helping reach insights quickly, collaborate meaningfully, and build a community around data.
+  presenter: Kris Rowley, GSA Chief Data Officer
+  register: https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfzfKlfqce7BKIAPiKvOAYrK8opZGvhfejPQTRVOyrH1JZBGA/viewform
+  slides: 
+  recording:
 - title: Application Programming Interfaces (APIs) and GSA
   date: July 20, 2017
   time: 1p-1:30p
@@ -6,8 +15,8 @@
     <p>Do you ever wonder how applications are synced across multiple devices? How you are able to receive instant updates to your mobile apps? This is possible because of Application Programming Interfaces, or APIs. APIs are software programs that enable computer programs and systems to talk directly to each other.</p>
     <p>If you would like to understand how APIs work, then this Tech Talk is for you! Ryan Day and Joe Castle of IC and the GSA Digital Service team are going to explain APIs with particular focus on data transfer over web protocols and RESTful design with considering endpoints, nouns, and verbs. They will also demonstrate popular commercial and GSA examples while discussing the value they provide to the Agency and end consumers. Furthermore, information will be provided about GSA's API strategy, API inventory, and API standards for those wanting to create APIs.</p>
   presenter: Ryan Day and Joe Castle
-  register: https://docs.google.com/a/gsa.gov/forms/d/1M3BKXar4kv85Vf5sOgsupsBN_3UNbUox9giJbQiH2PE
-  slides:
+  register: 
+  slides: /assets/downloads/techtalks/apis-tech-talk.pdf
   recording:
 - title: Application Performance Monitoring within GSA's PBS IT
   date: June 20, 2017
