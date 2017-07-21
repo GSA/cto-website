@@ -140,6 +140,14 @@ Logging, monitoring and alerting covers the domain of understanding and managing
 ### Artifacts
 * Guide (code and/or document) to application owner access to logging, monitoring, and alerting services; use of the guide should suffice for an application owner to configure and manage their logs, monitoring, and alerts.  The guide should also cover logging configuration for centralized security monitoring by SecOps.
 
-
+Patch management is the process by which the operating system, software, and supporting services are upgraded. This is a key element of maintaining the security of systems.
+Maturity Model
+Level 1 (Not considered viable for a DevSecOps platform): Patching is both manual and is not enforceable as a requirement nor is the state of patches running machines discoverable
+Level 2: Security teams inform the application owners of patches, and it is application owners’ responsibility to both be aware of those patches and implement them.
+Level 3: Application owners are automatically notified when there are new security-related patches, and the platform owners are able to identify which applications are using which version of the relevant software via the platform.
+Level 4: The platform automatically tests new patches on applications which run on it, informing the appropriate parties if decision points are reached (e.g., if a CVE is raised on an existing piece of software, the platform can automatically update that software, test it, and inform the application developers of the change if the tests pass or indicate that the patch needs to be applied in a particular timeframe). No downtime for patching.
+Artifacts
+Process (code, checklist or SOP) for patching a running system
+Process (code, checklist or SOP) for introducing a patch into the platform [Note: This may overlap with image management]
 
 
