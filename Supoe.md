@@ -53,7 +53,6 @@ In order to track and measure if the organization is making progress, redefining
 Below are some examples of measures and metrics that could be used to facilitate and track approaches to evaluate Agile success in light of organizational values.
 
 ---
-title:
 | Business Value  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
