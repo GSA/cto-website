@@ -58,7 +58,11 @@ Below are some examples of measures and metrics that could be used to facilitate
 |  Customers / stakeholders engagement| Projects implemented have approaches to ENGAGE customers    | Focus groups, User persona development sessions, Wireframing and sprint demo, feedback, etc.    |
 
 
-
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 
