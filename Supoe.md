@@ -53,17 +53,6 @@ In order to track and measure if the organization is making progress, redefining
 Below are some examples of measures and metrics that could be used to facilitate and track approaches to evaluate Agile success in light of organizational values.
 
 
-| Business Value  | Example Metrics  |  Measurement Examples |   
-|---|---|---|
-|Customers / stakeholders engagement   | Projects implemented have approaches to ENGAGE customers  |  Focus groups, User persona development sessions, Wireframing and sprint demo, feedback, etc. |   
-
-
-| Business Value                                                                           | Example Metrics                                                                                                        | Measurement Examples                                                                           |   |   |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---|---|
-| Customers /  stakeholders engagement                                                     | Projects implemented have  approaches to ENGAGE customers                                                              | Focus groups, User persona  development sessions,  Wireframing and sprint demo, feedback, etc. |   |   |
-| User representation  throughout the delivery process                                     | Projects have approaches  implemented to ASSESS customer satisfaction % of projects that have committed Product Owners | Delivery meets agreed-upon  high priority items / success criteria                             |   |   |
-| Continuous prioritization  and communication  of user needs and responsiveness to change | Customer satisfaction against  product / service delivered  increased by %                                             | Number of feedback loops,  ongoing communication,                                              |   |   |
-
 | Business Value                                                                           | Example Metrics                                                                                                        | Measurement Examples                                                                           |   
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Customers /  stakeholders engagement                                                     | Projects implemented have  approaches to ENGAGE customers                                                              | Focus groups, User persona  development sessions,  Wireframing and sprint demo, feedback, etc. |   
