@@ -53,10 +53,10 @@ In order to track and measure if the organization is making progress, redefining
 Below are some examples of measures and metrics that could be used to facilitate and track approaches to evaluate Agile success in light of organizational values.
 
 ---
-| Business Value | Example Metrics | Right-aligned |
+| Business Value | Example Metrics |Measurement Examples |
 | :---         |     :---:      |          ---: |
-|  Customers / stakeholders engagement| Projects implemented have approaches to ENGAGE customers    | git status    |
-|      | git diff       | git diff      |
+|  Customers / stakeholders engagement| Projects implemented have approaches to ENGAGE customers    | Focus groups, User persona development sessions, Wireframing and sprint demo, feedback, etc.    |
+
 
 Example Metrics
 Measurement Examples
