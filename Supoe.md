@@ -72,3 +72,5 @@ One of the primary benefits of adopting Agile frameworks is enhanced process imp
 | Resources allocated to  high priority and business value items only | Encourage development of  strategic and high-priority work  (e.g. build based on need, ensure  just-in-time development to effectively respond to user needs) | Projects approval time report  for kick-off vs. actual work begin date   % or number of used items  captured via customer survey,  Web analytics, # of Stories –  Planned vs. Stories – Actual                         |   
                                                                                                                                                                    
 Additionally, the organization can utilize these measurement examples to create a clear picture of how these new success measures are performing in the current state in order to establish a baseline that will enable it to draw an accurate before-and-after comparison.
+
+________________________________________
