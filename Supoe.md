@@ -78,7 +78,7 @@ While traditional project management intends to track the exact delivery of upfr
 
 _________________
 
-Additional Reference
+>Additional Reference
 * [How to Measure Scrum Success](https://www.scrumalliance.org/agile-resources/how-to-measure-scrum-success)
 * [An Operating Model for a Company-wide Agile Development](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/an-operating-model-for-company-wide-agile-development)
 * [Agile & DevOps Management: Agile Metrics – Measuring What Actually Matters](https://blog.versionone.com/agile-metrics-measuring-what-actually-matters/)
