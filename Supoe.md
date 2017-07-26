@@ -55,9 +55,10 @@ Below are some examples of measures and metrics that could be used to facilitate
 ---
 | Business Value  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-Business Value
+| Ctent Cell  | Content Cell  |
+| Customers / stakeholders engagement 
+  | Content Cell  |
+
 Example Metrics
 Measurement Examples
 Customers / stakeholders engagement 
