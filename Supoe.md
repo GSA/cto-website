@@ -55,7 +55,7 @@ Below are some examples of measures and metrics that could be used to facilitate
 ---
 | Business Value | Example Metrics | Right-aligned |
 | :---         |     :---:      |          ---: |
-|  Customers / stakeholders engagement| git status     | git status    |
+|  Customers / stakeholders engagement| Projects implemented have approaches to ENGAGE customers    | git status    |
 |      | git diff       | git diff      |
 
 Example Metrics
