@@ -76,6 +76,4 @@ Additionally, the organization can utilize these measurement examples to create 
 ### Summary
 While traditional project management intends to track the exact delivery of upfront specifications as efficiency and direct project success, Agile frameworks respond to non-traditional success factors such as speed and delivering a product that maximizes business value. The spending and return in Agile however, can not be achieved by minimizing change to requirements and measuring success by following and delivering set specifications to a T. In an Agile organization, success is better realized through fast delivery of solutions that engage the business to incorporate evolving requirements that meet the business needs as quickly as possible.  Applying the right balance of investment and return expectation through delivering the right / quality result within the allowable risk factors is what will ultimately lead to optimal returns and project / product success.
 
-____
-
-_*emphasis*
+__
