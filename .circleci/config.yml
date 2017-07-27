@@ -1,0 +1,11 @@
+machine:
+  environment:
+    NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+
+dependencies:
+  post:
+    - bundle exec rake build
+
+test:
+  post:
+    - bundle exec rake test:ci
