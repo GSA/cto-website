@@ -4,7 +4,7 @@ jobs:
   build:
     working_directory: ~/cto-website
     docker:
-      - image: circleci/ruby:2.4
+      - image: circleci/ruby:2.4-node-browsers
     steps:
       - checkout
 
