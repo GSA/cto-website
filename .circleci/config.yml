@@ -13,11 +13,13 @@ jobs:
         key: cto-website-{{ checksum "Gemfile.lock" }}
 
       # Install dependencies
-      - run: bundle install
+      - run: bundle install --path vendor/bundle
 
       # Save bundle cache
       - type: cache-save
         key: cto-website-{{ checksum "Gemfile.lock" }}
+        paths:
+          - vendor/bundle
 
       # test
       - run: bundle exec rake test:ci
