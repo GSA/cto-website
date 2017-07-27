@@ -2,6 +2,7 @@ version: 2
 
 jobs:
   build:
+    working_directory: ~/cto-website
     docker:
       image: circleci/ruby:2.4
     steps:
