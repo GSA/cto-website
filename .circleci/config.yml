@@ -1,11 +1,22 @@
-machine:
-  environment:
-    NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+version: 2
 
-dependencies:
-  post:
-    - bundle exec rake build
+jobs:
+  build:
+    docker:
+      image: circleci/ruby:2.4
+    steps:
+      - checkout
 
-test:
-  post:
-    - bundle exec rake test:ci
+      # Restore bundle cache
+      - type: cache-restore
+        key: cto-website-{{ checksum "Gemfile.lock" }}
+
+      # Install dependencies
+      - run: bundle install
+
+      # Save bundle cache
+      - type: cache-save
+        key: cto-website-{{ checksum "Gemfile.lock" }}
+
+      # test
+      - run: bundle exec rake test:ci
