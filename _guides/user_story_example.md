@@ -5,6 +5,7 @@ category: Agile, Team, Design, Development
 
 When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user_stories/), it is important to have descriptive summaries and detailed acceptance criteria to help the Team know when a user story is considered complete or [“done.”](https://tech.gsa.gov/guides/requirements_complete/) See the examples below:
 
+
 <table>
   <tr>
     <th>EPIC</th>
@@ -48,7 +49,7 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td>- remove expired bids</td>
   </tr>
   <tr>
-    <td rowspan="2">As a Marketing Lead, I want to have a content management system so that I can manage and provide quality content and experience to my readers.</td>
+    <td rowspan="16">As a Marketing Lead, I want to have a content management system so that I can manage and provide quality content and experience to my readers.<br><br>Source: How to Use User Stories to Build Your Website</td>
     <td rowspan="7">As a Content Owner, I want to be able to create product content so that I can provide information and market to customers.</td>
     <td>Ensure the Content Owner is able to:</td>
   </tr>
@@ -56,7 +57,6 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td></td>
   </tr>
   <tr>
-    <td rowspan="14">Source: How to Use User Stories to Build Your Website</td>
     <td>- log in to the content management system</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td>- can create / view / edit all of the applicable sections and materials required to submit the EBC</td>
   </tr>
   <tr>
-    <td rowspan="2">As a HR Manager, I want a virtual job openings board so that I can view job status and manage company personnel needs.</td>
+    <td rowspan="6">As a HR Manager, I want a virtual job openings board so that I can view job status and manage company personnel needs.<br><br>Source: How Does Agile Marketing Work?</td>
     <td rowspan="6">As a HR Manager, I need to view a candidate’s status so that I can manage their application process throughout the recruiting phases.</td>
     <td>Ensure the HR Manager is able to:</td>
   </tr>
@@ -138,11 +138,9 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td></td>
   </tr>
   <tr>
-    <td>Source: How Does Agile Marketing Work?</td>
     <td>-  log in to the virtual job openings board system</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
     <td>- view / edit / add the status for job candidates</td>
   </tr>
   <tr>
@@ -152,7 +150,7 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td>- send email communication to staff regarding candidate</td>
   </tr>
   <tr>
-    <td rowspan="2">As a Marketing Data Analyst, I want to create forecast and trend reports so that I can support the sales efforts of Region 9 Marketing Representatives.</td>
+    <td rowspan="6">As a Marketing Data Analyst, I want to create forecast and trend reports so that I can support the sales efforts of Region 9 Marketing Representatives.<br><br>Source: How Does Agile Marketing Work?</td>
     <td rowspan="6">As a Marketing Data Analyst, I need to run the Salesforce &amp; Google analytics reports the so that I can build the monthly media campaign plans.</td>
     <td>Ensure the Marketing Data Analyst is able to:</td>
   </tr>
@@ -160,11 +158,9 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
     <td></td>
   </tr>
   <tr>
-    <td>Source: How Does Agile Marketing Work?</td>
     <td>- access the Salesforce &amp; Google Analytics reports</td>
   </tr>
   <tr>
-    <td rowspan="3"></td>
     <td>- create the monthly media campaign plan for a specified region (e.g. Region 9)</td>
   </tr>
   <tr>
