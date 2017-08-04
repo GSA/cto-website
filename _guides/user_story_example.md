@@ -1,5 +1,5 @@
 ---
-title:
+title: User Story Examples
 category: Agile, Team, Design, Development
 ---
 
