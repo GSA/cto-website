@@ -1,0 +1,25 @@
+version: 2
+
+jobs:
+  build:
+    working_directory: ~/cto-website
+    docker:
+      - image: circleci/ruby:2.4-node-browsers
+    steps:
+      - checkout
+
+      # Restore bundle cache
+      - type: cache-restore
+        key: cto-website-{{ checksum "Gemfile.lock" }}
+
+      # Install dependencies
+      - run: bundle install --path vendor/bundle
+
+      # Save bundle cache
+      - type: cache-save
+        key: cto-website-{{ checksum "Gemfile.lock" }}
+        paths:
+          - vendor/bundle
+
+      # test
+      - run: bundle exec rake test:ci

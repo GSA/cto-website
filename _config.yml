@@ -21,6 +21,8 @@ exclude:
   - 'node_modules'
   - 'gulpfile.js'
   - '_test'
+  - '.circleci'
+  - 'vendor'
 
 collections:
   team:
