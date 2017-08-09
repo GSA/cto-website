@@ -1,5 +1,5 @@
 ---
-title:
+title: User Story Examples
 category: Agile, Team, Design, Development
 ---
 
@@ -15,7 +15,11 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   <td rowspan="9">As an <b>Acquisition Gateway User, I need</b> to access the Acquisition ordering platform behind a secure login <b>so that</b> I can purchase products.</td>
   <td rowspan="4">As an <b>Acquisition Gateway User, I need</b> to select an Auction product in the Acquisition ordering platform <b>so that</b> I can bid on it.</td>
-    <td rowspan="4">Ensure the Acquisition Gateway User is able to: <br><br>* log in to Acquisition Gateway <br>* navigate to the Auction page <br>* able to select a product(s) to bid on</td>
+    <td rowspan="4">Ensure the Acquisition Gateway User is able to: <br><br><ul>
+  <li>log in to Acquisition Gateway </li>
+  <li>navigate to the Auction page</li>
+  <li>able to select a product(s) to bid on</li>
+</ul>
   </tr>
   <tr>
   </tr>
@@ -25,7 +29,13 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   </tr>
   <tr>
   <td rowspan="5">As an <b>Acquisition Gateway User, I need</b> to review my previous bids in the Acquisition ordering platform <b>so that</b> I can remove expired bids.</td>
-    <td rowspan="5">Ensure the Acquisition Gateway User is able to:<br><br>* log in to Acquisition Gateway<br>* navigate to a page to review items previously bid upon<br>* select one, or multiple, expired bids<br>* remove expired bids</td>
+    <td rowspan="5">Ensure the Acquisition Gateway User is able to:<br><br>
+    <ul>
+  <li>log in to Acquisition Gateway</li>
+  <li>navigate to a page to review items previously bid upon</li>
+  <li>select one, or multiple, expired bids</li>
+  <li>remove expired bids</li>
+</ul></td>
   </tr>
   <tr>
   </tr>
@@ -38,7 +48,15 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   <td rowspan="14">As a <b>Marketing Lead, I want</b> to have a content management system <b>so that</b> I can manage and provide quality content and experience to my readers.<br><br><br>Source: <a href="http://getlevelten.com/blog/kayla-wren/how-use-user-stories-build-your-website">How to Use User Stories to Build Your Website</a></td>
   <td rowspan="6">As a <b>Content Owner, I want</b> to be able to create product content <b>so that</b> I can provide information and market to customers.</td>
-    <td rowspan="6">Ensure the Content Owner is able to: <br><br>* log in to the content management system<br>* create a page of content<br>* edit / update an existing page of content <br>* save changes<br>* assign content page to Editor for review</td>
+    <td rowspan="6">Ensure the Content Owner is able to: <br><br>
+    <ul>
+  <li>log in to the content management system</li>
+  <li>create a page of content</li>
+  <li>edit / update an existing page of content</li>
+  <li>save changes</li>
+  <li>assign content page to Editor for review</li>
+</ul>
+</td>
   </tr>
   <tr>
   </tr>
@@ -52,7 +70,17 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   </tr>
   <tr>
   <td rowspan="8">As an <b>Editor, I want</b> to review content before it is published <b>so that</b> I can assure it is optimized with correct grammar and tone.</td>
-    <td rowspan="8">Ensure the Editor is able to:<br><br>* log in to the content management system<br>* view existing content page<br>* edit / update page of content<br>* add markup comments- save changes<br>* re-assign to Content Owner to make updates<br>* schedule content publish</td>
+    <td rowspan="8">Ensure the Editor is able to:<br><br>
+    <ul>
+  <li>log in to the content management system</li>
+  <li>view existing content page</li>
+  <li>edit / update page of content</li>
+  <li>add markup comments- save changes</li>
+  <li>save changes</li>
+  <li>re-assign to Content Owner to make updates</li>
+  <li>schedule content publish</li>
+</ul>
+</td>
   </tr>
   <tr>
   </tr>
@@ -71,7 +99,12 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   <td rowspan="7">As an <b>EBC Requester, I want</b> to create an executive business case <b>so that</b> I can request funding for a project.</td>
   <td rowspan="3">As an <b>EBC Requester, I want</b> to know what catalog of services GSA IT offers <b>so that</b> I can determine if an existing platform can support my proposed project.</td>
-    <td rowspan="3">Ensure the EBC Requester is able to:<br><br>* receive / access a catalog of GSA IT services<br>* able to easily compare platform technologies and identify associated costs</td>
+    <td rowspan="3">Ensure the EBC Requester is able to:<br><br>
+    <ul>
+  <li> receive / access a catalog of GSA IT services</li>
+  <li>able to easily compare platform technologies and identify associated costs</li>
+</ul>
+</td>
   </tr>
   <tr>
   </tr>
@@ -79,7 +112,13 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   </tr>
   <tr>
   <td rowspan="4">As an <b>EBC Requester, I want</b> to have a checklist of outputs <b>so that</b> I can submit a complete EBC request.</td>
-    <td rowspan="4">Ensure the EBC Requester is able to:<br><br>* receive / access an EBC Checklist<br>* has access to submit the EBC in Salesforce<br>* can create / view / edit all of the applicable sections and materials required to submit the EBC</td>
+    <td rowspan="4">Ensure the EBC Requester is able to:<br><br>
+    <ul>
+  <li>receive / access an EBC Checklist</li>
+  <li>has access to submit the EBC in Salesforce</li>
+  <li>can create / view / edit all of the applicable sections and materials required to submit the EBC</li>
+</ul>
+</td>
   </tr>
   <tr>
   </tr>
@@ -90,7 +129,14 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   <td rowspan="5">As a <b>HR Manager, I want</b> a virtual job openings board <b>so that</b> I can view job status and manage company personnel needs.<br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?</td>
   <td rowspan="5">As a <b>HR Manager, I need</b> to view a candidate’s status <b>so that</b> I can manage their application process throughout the recruiting phases.</td>
-    <td rowspan="5">Ensure the HR Manager is able to:<br><br>* log in to the virtual job openings board system<br>* view / edit / add the status for job candidates<br>* update for each phase (e.g. Phone Screening Completed, In-person Interview Scheduled, Background Check in-progress, etc.)<br>* send email communication to staff regarding candidate</td>
+    <td rowspan="5">Ensure the HR Manager is able to:<br><br>
+    <ul>
+  <li>log in to the virtual job openings board system</li>
+  <li>view / edit / add the status for job candidates</li>
+  <li>update for each phase (e.g. Phone Screening Completed, In-person Interview Scheduled, Background Check in-progress, etc.)</li>
+  <li>send email communication to staff regarding candidate</li>
+</ul>
+   </td>
   </tr>
   <tr>
   </tr>
@@ -103,7 +149,13 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   <td rowspan="5">As a <b>Marketing Data Analyst, I want</b> to create forecast and trend reports <b>so that</b> I can support the sales efforts of Region 9 Marketing Representatives.<br><br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?</td>
   <td rowspan="5">As a <b>Marketing Data Analyst, I need</b> to run the Salesforce &amp; Google analytics reports the <b>so that</b> I can build the monthly media campaign plans.</td>
-    <td rowspan="5">Ensure the Marketing Data Analyst is able to:<br><br>* access the Salesforce &amp; Google Analytics reports<br>* create the monthly media campaign plan for a specified region (e.g. Region 9)<br>* access a Contacts list<br>* email the prepared monthly media campaign to one or more selected contact(s)</td>
+    <td rowspan="5">Ensure the Marketing Data Analyst is able to:<br><br>
+    <ul>
+  <li>access the Salesforce &amp; Google Analytics reports</li>
+  <li>create the monthly media campaign plan for a specified region (e.g. Region 9)</li>
+  <li>access a Contacts list</li>
+  <li>email the prepared monthly media campaign to one or more selected contact(s)</li>
+</ul></td>
   </tr>
   <tr>
   </tr>
