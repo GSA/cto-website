@@ -1,3 +1,31 @@
+- title: DevSecOps – A Case Study (D2D migration to Cloud) with Kishore Kakani
+  date: August 17, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 3334
+  description: The objective of this tech talk is to explain the use of DevSecOps framework to migrate application workloads to cloud. The CTO team is collaborating with various teams (incl. IDI, security, and application development leads) to define and build DevSecOps framework to help migrate application workloads to cloud. The goal is to ‘develop/deploy/operate’ through automation. As part of this journey, the CTO team worked closely with the D2D team to migrate D2D applications to cloud by building some of these automation pieces and work towards that final goal of developing automated CI/CD pipelines. In this presentation, we will go over the D2D migration steps in detail and understand how DevSecOps automation process can help build repeatable infrastructure/application deployments with minimal manual intervention, and shorter provisioning times.
+  presenter: Kishore Kakani
+  register: https://docs.google.com/forms/d/e/1FAIpQLSfy2-HFRJ54wPi_FGCvIR6PLWKxRpOBntHHW5RBIqyXXxizDA/viewform
+  slides:
+  recording:
+- title: Creating InSite pages with Joy Gatewood
+  date: August 10, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F room 4143
+  description: Have you ever wondered how to create InSite pages? And perhaps why? And how you could maximize your InSite pages to improve acceptance of your program? Maybe you've wondered how you could create self help pages that for your customers - that also cuts down on phone calls, emails and meetings? <p>We'll quickly walk through how to request an InSite page. Then provide a quick overview of GSA's style guides that include federal guidelines and laws that you must keep in mind when creating online content. </p>
+    <p>Finally, we'll show how helping customers complete their tasks on your InSite pages can improve customer satisfaction, and improve productivity and efficiency.</p>
+    <p>Slides will be shared that will go into more depth and include&#58;
+      <ul>
+        <li>analyzing InSite page visits with Google Analytics</li>
+        <li>analyzing searches and using the results to understand your customer's keywords</li>
+        <li>improving your InSite pages' Search Engine Optimization (SEO)</li>
+        <li>using a shortcut - like insite.gsa.gov/myprogram - as an easy way to communicate with your customers and improve your branding</li>
+        <li>using customer feedback - like "Rate This Page" to continuously improve your Insite pages by using the voices of your customer</li>
+      </ul>
+    <p>If you're mystified by InSite and don't know where to start this talk is for you.</p>
+  presenter: Joy Gatewood
+  register: https://docs.google.com/a/gsa.gov/forms/d/1vRN7M4wMvyrw2UVGNXyar5hgmFHAuW-OkWoiXyKheTc/edit
+  slides: 
+  recording:
 - title: Data-to-Decisions (D2D) & GSA with Kris Rowley
   date: July 26, 2017
   time: 1p-1:30p
