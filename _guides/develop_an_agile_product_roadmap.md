@@ -8,12 +8,19 @@ A product roadmap is a high-level plan that serves as a tool to map an idea, dev
 ### 1. Complete the Groundwork
 **Define and Validate the Product Vision:** The first and most important step prior to developing an effective roadmap is articulating the objective and communicating how the product will support the organization’s overarching goals. A clearly defined product vision enables the team delivering the project to understand the product direction and contribute towards its realization and success. 
     
-    
-    
+    An effective product vision:
+* Identifies clear and focused product goals
+* Relates the product value to organization strategy
+* Defines the users of the product
+* Is compelling 
+    
     
 **Acquire Buy-in:** The roadmap will define the strategy and high-level plan to develop the product. It should progress and be socialized in such a way that it represents and addresses the needs or concerns of stakeholders, sponsors or those who may be impacted by product decisions. Treating stakeholders like customers, securing their representation to address their concerns throughout the development process of the roadmap, facilitates buy-in and acquires the necessary support for overarching vision of the product and development efforts. 
 
-
+    Tips for acquiring stakeholder support:
+* Identify specific concerns for each stakeholder 
+* Create a prioritization scheme (e.g. customer satisfaction vs. complexity) that aligns stakeholder customer goals with product objectives.
+* Make the process transparent - clearly communicate decisions, changes and timeline
 
 
 ### 2. Develop an Objective-Based Roadmap
@@ -46,7 +53,8 @@ ______________
 
 Additional Reference
 
-* 10 Tips for Creating an Agile Product Roadmap
-* Item
-- Item
-- Item
+* [10 Tips for Creating an Agile Product Roadmap](http://www.romanpichler.com/blog/10-tips-creating-agile-product-roadmap/)
+* [Goals vs. Features: How to Choose the Right Product Roadmap Format](https://dzone.com/articles/goals-vs-features-how-choose)
+* [Agile roadmaps: build, share, use, evolve](https://www.atlassian.com/agile/roadmaps)
+* [How to Communicate Your Roadmap to Stakeholders ](https://www.productplan.com/communicate-roadmap-stakeholders/)
+* [Product Roadmap Failure: Stop Setting Them Up To Fail](https://age-of-product.com/product-roadmap-failure/)
