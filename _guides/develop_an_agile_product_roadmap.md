@@ -2,7 +2,6 @@
 title: 3 Steps to Develop an Agile Product Roadmap
 category: Agile
 ---
-## 3 Steps to Develop an Agile Product Roadmap
 A product roadmap is a high-level plan that serves as a tool to map an idea, develop the strategy for a product, align customers / stakeholders and the funds required to develop the product. Creating an effective roadmap becomes a challenge when changes occur frequently and product ideas evolve continuously.  Below are quick steps to develop a product roadmap that is enables timely response to change and facilitates learning.
 
 ### 1. Complete the Groundwork
