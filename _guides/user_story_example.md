@@ -127,7 +127,7 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   </tr>
   <tr>
-  <td rowspan="5">As a <b>HR Manager, I want</b> a virtual job openings board <b>so that</b> I can view job status and manage company personnel needs.<br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?</td>
+  <td rowspan="5">As a <b>HR Manager, I want</b> a virtual job openings board <b>so that</b> I can view job status and manage company personnel needs.<br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?
   <td rowspan="5">As a <b>HR Manager, I need</b> to view a candidate’s status <b>so that</b> I can manage their application process throughout the recruiting phases.</td>
     <td rowspan="5">Ensure the HR Manager is able to:<br><br>
     <ul>
@@ -147,7 +147,7 @@ When [Writing Effective User Stories](https://tech.gsa.gov/guides/effective_user
   <tr>
   </tr>
   <tr>
-  <td rowspan="5">As a <b>Marketing Data Analyst, I want</b> to create forecast and trend reports <b>so that</b> I can support the sales efforts of Region 9 Marketing Representatives.<br><br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?</td>
+  <td rowspan="5">As a <b>Marketing Data Analyst, I want</b> to create forecast and trend reports <b>so that</b> I can support the sales efforts of Region 9 Marketing Representatives.<br><br><br><br>Source: <a href="https://resources.workfront.com/project-management-blog/how-does-agile-marketing-work">How Does Agile Marketing Work?
   <td rowspan="5">As a <b>Marketing Data Analyst, I need</b> to run the Salesforce &amp; Google analytics reports the <b>so that</b> I can build the monthly media campaign plans.</td>
     <td rowspan="5">Ensure the Marketing Data Analyst is able to:<br><br>
     <ul>
