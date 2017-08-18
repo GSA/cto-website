@@ -28,13 +28,13 @@ Tips for acquiring stakeholder support:
 
 #### Sample Traditional Product Roadmap
 
-  <img src="https://github.com/KehindeOgundolie/cto-website/blob/dev/assets/img/guides/Sample%20Traditional%20Product%20Roadmap.png">
+  <img src="{{ site.baseurl }}/assets/img/guides/Sample%20Traditional%20Product%20Roadmap.png" alt="traditional product roadmap">
  
 
 
 #### Sample Agile Product Roadmap 
 
-<img src="https://github.com/KehindeOgundolie/cto-website/blob/dev/assets/img/guides/Sample%20Agile%20Product%20Roadmap.png">
+<img src="{{ site.baseurl }}/assets/img/guides/Sample%20Agile%20Product%20Roadmap.png" alt="agile product roadmap">
 
 
 ### 3. Communicate, Review and Adjust Regularly
