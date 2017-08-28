@@ -19,7 +19,6 @@ Return to Agile Meetings (anchor link)
 A common misconception about Agile projects is that they lack planning and documentation when conversely, planning in Agile projects occurs continuously throughout each sprint. Additionally, when kicking off a new Agile project, it too requires preparation and supporting documentation for sign-off. Any information that will ensure all team members, subject matter experts (SMEs), key stakeholders, and sponsors are on the same page in terms of the goals to be achieved and the criteria by which success will be measured - should be incorporated. Moreover, to ensure a successful start to the Agile project, a well-prepared kick-off meeting is a must.
 
 ### Agile Project Kick-off Agenda
-
 The Agile Project Kick-off agenda should convey the high-level project overview and overarching strategy, project vision and scope, team roles and responsibilities, as well as the Agile approach and supporting ceremonies to be used. At the end of the kick-off meeting, the team should have an action plan for next steps.
 
 _If **any** of the team members, SMEs, key stakeholders, and sponsors are unfamiliar with Agile or the approach, time should be allotted for a light introduction and plans made to provide formalized (group) training of team members at a later date._
@@ -36,6 +35,25 @@ The following information should be covered during the Agile Project Kick-off:
 | **Next Steps** | {::nomarkdown}<ul><li> Action Plan </li></ul>{:/} | Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
 ### Sprint 0 Session
-
 Further, as either an extension of the Agile Project Kick-off, or as a scheduled separate meeting to kick off the team’s effort, the Sprint 0 session should focus on the needs of the Team. Other attendees can be relieved or the Scrum Master can schedule the separate session with the Product Owner and team members. The following information should be covered during the Sprint 0 Session:
 
+| **Agenda Item** | **Content** | **Goal** |
+|---------------|---------------|---------------|
+| **Scrum Ceremonies** | Identify Schedule  {::nomarkdown}<ul><li> Daily Standup </li> <li> Sprint Planning </li> <li> Sprint Grooming </li> <li> Sprint Review (Demo) </li> <li> Sprint Retrospective </li></ul>{:/} | Re-cap and discuss the schedule for the team’s ceremonies.
+| **Team Norms** | {::nomarkdown}<ul><li> Working Board (JIRA) </li> <li> Folders / Confluence Site </li> <li> Definition of Ready </li> <li> Definition of Done </li></ul>{:/} | Discuss how the working board is organized and how supporting resources will be used. Establish the team norms for the flow of information / story cards. *(e.g. working board status columns, what defines ready-to-work and ready-to-test story cards, etc.)*
+| **Story Cards** | {::nomarkdown}<ul><li> User Story Writing </li> <li> Estimation & Story Pointing </li></ul>{:/} | Discuss the needs for writing story cards and what is required for “ready” status. Walk the team through process of estimating and pointing story cards. *(e.g. Description, Acceptance Criteria, Story Points, etc.)*
+
+### Good Reads
+These are good references for conduction Agile Project Kick-offs & Sprint 0 Sessions:
+* 8 Agenda Items for a Successful Project Kickoff Meeting
+* How to Get Your Agile Development Projects Off to the Best Start Possible
+* Kickoff meetings in waterfall and agile methodologies
+* The Agile Project Kick-off Kit
+* Scrum Kickoff Planner
+
+##### Agile Misconceptions
+* 7 Common Misconceptions About Agile
+* ReQtest: 10 Common Misconceptions About Agile Project Management
+* QAT: 10 Common Misconceptions about Agile Software Development
+* The top 10 myths about agile development
+* Top 5 Misconceptions with regard to Agile Methodology
