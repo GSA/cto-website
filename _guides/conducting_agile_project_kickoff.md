@@ -28,12 +28,12 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | {::nomarkdown}<ul><li> Goals / Introduction to Effort </li> <li> Project Vision / Scope </li> <li> Deliverables </li> <li> Success Criteria </li> <li> Assumptions </li> <li> Expectations </li> <li> Risks </li> <li> Design / Architectural Review </li> <li> Test Environment </li> <li> Technical / Business Dependencies </li> <li> Sponsor </li> <li> Key Stakeholders </li> <li> Escalation Points </li></ul>{:/} | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
-| **Team Roles** | {::nomarkdown}<ul><li> Product Owner </li> <li> Scrum Master </li> <li> Team Members </li></ul>{:/} | Introduce the team, their roles and responsibilities, and provide the chain of communication.   *(i.e. requirements and changes flow through the Product Owner)*
-| _**Introduction of Approach**_ | *{::nomarkdown}<ul><li> Agile Values & Principles </li> <li> Scrum Values, Roles, & Ceremonies </li> <li> DevSecOps (Technical Efforts) </li></ul>{:/}* | *Light introduction*
-| **Scrum Ceremonies** | {::nomarkdown}<ul><li> Daily Standup </li> <li> Sprint Planning </li> <li> Sprint Grooming </li> <li> Sprint Review (Demo) </li> <li> Sprint Retrospective </li></ul>{:/} | Introduce the
-| **Team Norms** | (list) Working Board (JIRA) | Ensure all
-| **Next Steps** | (list) Action Plan | Determine sprint
+| **Project Overview** | {::nomarkdown}<ul><li> Goals / Introduction to Effort </li> <li> Project Vision / Scope </li> <li> Deliverables </li> <li> Success Criteria </li> <li> Assumptions </li> <li> Expectations </li> <li> Risks </li> <li> Design / Architectural Review </li> <li> Test Environment </li> <li> Technical / Business Dependencies </li> <li> Sponsor </li> <li> Key Stakeholders </li> <li> Escalation Points </li></ul>{:/} | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation. *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Team Roles** | {::nomarkdown}<ul><li> Product Owner </li> <li> Scrum Master </li> <li> Team Members </li></ul>{:/} | Introduce the team, their roles and responsibilities, and provide the chain of communication. *(i.e. requirements and changes flow through the Product Owner)*
+| *Introduction of Approach* | *{::nomarkdown}<ul><li> Agile Values & Principles </li> <li> Scrum Values, Roles, & Ceremonies </li> <li> DevSecOps (Technical Efforts) </li></ul>{:/}* | *Light introduction to Agile values and principles and the approach the Team will use. (i.e. Scrum, Kanban, DevSecOps, etc.)*
+| **Scrum Ceremonies** | {::nomarkdown}<ul><li> Daily Standup </li> <li> Sprint Planning </li> <li> Sprint Grooming </li> <li> Sprint Review (Demo) </li> <li> Sprint Retrospective </li></ul>{:/} | Introduce the supporting ceremonies and how they will be used to reinforce communication throughout the effort. *(i.e. reiterate to the audience the need for prioritization and attendance)*
+| **Team Norms** | {::nomarkdown}<ul><li> Working Board (JIRA) </li> <li> Folders / Confluence Site </li></ul>{:/} | Ensure all parties have access to the working board and supporting resources of information.
+| **Next Steps** | {::nomarkdown}<ul><li> Action Plan </li></ul>{:/} | Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
 ### Sprint 0 Session
 
