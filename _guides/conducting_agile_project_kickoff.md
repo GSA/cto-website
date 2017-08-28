@@ -45,15 +45,15 @@ Further, as either an extension of the Agile Project Kick-off, or as a scheduled
 
 ### Good Reads
 These are good references for conduction Agile Project Kick-offs & Sprint 0 Sessions:
-* [8 Agenda Items for a Successful Project Kickoff Meeting] (http://projectnewstoday.com/agenda-project-kickoff-meeting/)
-* [How to Get Your Agile Development Projects Off to the Best Start Possible] (https://www.koombea.com/blog/agile-development/)
-* [Kickoff meetings in waterfall and agile methodologies] (https://www.linkedin.com/pulse/kickoff-meetings-waterfall-agile-methodologies-mohammed-ajaz-pmp)
-* [The Agile Project Kick-off Kit] (http://www.boost.co.nz/blog/2017/03/project-kick-off-kit)
-* [Scrum Kickoff Planner] (http://weisbart.com/wp-content/uploads/woocommerce_uploads/2017/03/ScrumKickoff-1_0.pdf)
+* [8 Agenda Items for a Successful Project Kickoff Meeting](http://projectnewstoday.com/agenda-project-kickoff-meeting/)
+* [How to Get Your Agile Development Projects Off to the Best Start Possible](https://www.koombea.com/blog/agile-development/)
+* [Kickoff meetings in waterfall and agile methodologies](https://www.linkedin.com/pulse/kickoff-meetings-waterfall-agile-methodologies-mohammed-ajaz-pmp)
+* [The Agile Project Kick-off Kit](http://www.boost.co.nz/blog/2017/03/project-kick-off-kit)
+* [Scrum Kickoff Planner](http://weisbart.com/wp-content/uploads/woocommerce_uploads/2017/03/ScrumKickoff-1_0.pdf)
 
 #### Agile Misconceptions
-* [7 Common Misconceptions About Agile] (https://dzone.com/articles/what-is-agile-and-some-common-misconception-about)
-* [ReQtest: 10 Common Misconceptions About Agile Project Management] (http://reqtest.com/agile-blog/10-common-misconceptions-about-agile-project-management/)
-* [QAT: 10 Common Misconceptions about Agile Software Development] (http://www.qat.com/10-misconceptions-agile-software-development/)
-* [The top 10 myths about agile development] (http://www.computerweekly.com/opinion/The-top-10-myths-about-agile-development)
-* [Top 5 Misconceptions with regard to Agile Methodology] (https://www.simplilearn.com/agile-methodology-5-misconceptions-article)
+* [7 Common Misconceptions About Agile](https://dzone.com/articles/what-is-agile-and-some-common-misconception-about)
+* [ReQtest: 10 Common Misconceptions About Agile Project Management](http://reqtest.com/agile-blog/10-common-misconceptions-about-agile-project-management/)
+* [QAT: 10 Common Misconceptions about Agile Software Development](http://www.qat.com/10-misconceptions-agile-software-development/)
+* [The top 10 myths about agile development](http://www.computerweekly.com/opinion/The-top-10-myths-about-agile-development)
+* [Top 5 Misconceptions with regard to Agile Methodology](https://www.simplilearn.com/agile-methodology-5-misconceptions-article)
