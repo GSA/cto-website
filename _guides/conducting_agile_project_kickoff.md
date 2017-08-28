@@ -28,12 +28,14 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| *Project Overview* | (list) Goals / Introduction to Effort | Discuss
-| *Team Roles* | (list) Product Owner | Introduce
-| **Introduction of Approach** | (list) Agile Values & Principles | Light introduction
-| *Scrum Ceremonies* | (list) Daily Standup | Introduce the
-| *Team Norms* | (list) Working Board (JIRA) | Ensure all
-| *Next Steps* | (list) Action Plan | Determine sprint
+| **Project Overview** | (list) Goals / Introduction to Effort | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.
+
+*(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Team Roles** | (list) Product Owner | Introduce
+| *Introduction of Approach* | *(list) Agile Values & Principles* | *Light introduction*
+| **Scrum Ceremonies** | (list) Daily Standup | Introduce the
+| **Team Norms** | (list) Working Board (JIRA) | Ensure all
+| **Next Steps** | (list) Action Plan | Determine sprint
 
 ### Sprint 0 Session
 
