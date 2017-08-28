@@ -14,7 +14,7 @@ audiences:
   }
 </style>
 
-#### [Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits)
+[Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits)
 
 A common misconception about Agile projects is that they lack planning and documentation when conversely, planning in Agile projects occurs continuously throughout each sprint. Additionally, when kicking off a new Agile project, it too requires preparation and supporting documentation for sign-off. Any information that will ensure all team members, subject matter experts (SMEs), key stakeholders, and sponsors are on the same page in terms of the goals to be achieved and the criteria by which success will be measured - should be incorporated. Moreover, to ensure a successful start to the Agile project, a well-prepared kick-off meeting is a must.
 
