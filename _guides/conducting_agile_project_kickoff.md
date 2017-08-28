@@ -28,10 +28,10 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | {::nomarkdown}<ul><li> Goals / Introduction to Effort </li> <li> Project Vision / Scope </li> <li> Deliverables </li> <li> Success Criteria </li> <li> Assumptions </li> <li> Expectations </li> <li> Risks </li> <li> Design / Architectural Review </li> <li> Test Environment </li> <li> Technical / Business Dependencies </li> <li> Sponsor </li></ul>{:/} | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
-| **Team Roles** | (list) Product Owner | Introduce the team, their roles and responsibilities, and provide the chain of communication.   *(i.e. requirements and changes flow through the Product Owner)*
-| _**Introduction of Approach**_ | *(list) Agile Values & Principles* | *Light introduction*
-| **Scrum Ceremonies** | (list) Daily Standup | Introduce the
+| **Project Overview** | {::nomarkdown}<ul><li> Goals / Introduction to Effort </li> <li> Project Vision / Scope </li> <li> Deliverables </li> <li> Success Criteria </li> <li> Assumptions </li> <li> Expectations </li> <li> Risks </li> <li> Design / Architectural Review </li> <li> Test Environment </li> <li> Technical / Business Dependencies </li> <li> Sponsor </li> <li> Key Stakeholders </li> <li> Escalation Points </li></ul>{:/} | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Team Roles** | {::nomarkdown}<ul><li> Product Owner </li> <li> Scrum Master </li> <li> Team Members </li></ul>{:/} | Introduce the team, their roles and responsibilities, and provide the chain of communication.   *(i.e. requirements and changes flow through the Product Owner)*
+| _**Introduction of Approach**_ | *{::nomarkdown}<ul><li> Agile Values & Principles </li> <li> Scrum Values, Roles, & Ceremonies </li> <li> DevSecOps (Technical Efforts) </li></ul>{:/}* | *Light introduction*
+| **Scrum Ceremonies** | {::nomarkdown}<ul><li> Daily Standup </li> <li> Sprint Planning </li> <li> Sprint Grooming </li> <li> Sprint Review (Demo) </li> <li> Sprint Retrospective </li></ul>{:/} | Introduce the
 | **Team Norms** | (list) Working Board (JIRA) | Ensure all
 | **Next Steps** | (list) Action Plan | Determine sprint
 
