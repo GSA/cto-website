@@ -28,9 +28,7 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | (list) Goals / Introduction to Effort | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.
-
-*(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Project Overview** | (list) Goals / Introduction to Effort | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.  *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
 | **Team Roles** | (list) Product Owner | Introduce
 | *Introduction of Approach* | *(list) Agile Values & Principles* | *Light introduction*
 | **Scrum Ceremonies** | (list) Daily Standup | Introduce the
@@ -41,6 +39,3 @@ The following information should be covered during the Agile Project Kick-off:
 
 Further, as either an extension of the Agile Project Kick-off, or as a scheduled separate meeting to kick off the team’s effort, the Sprint 0 session should focus on the needs of the Team. Other attendees can be relieved or the Scrum Master can schedule the separate session with the Product Owner and team members. The following information should be covered during the Sprint 0 Session:
 
-| **Agenda Item** | **Content** | **Goal** |
-|---------------|---------------|---------------|
-| *Project Overview* | (list) Goals / Introduction to Effort | Discuss
