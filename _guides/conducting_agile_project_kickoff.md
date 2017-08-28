@@ -28,8 +28,7 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | - Goals / Introduction to Effort
-- Project Vision / Scope
+| **Project Overview** | - Goals / Introduction to Effort - Project Vision / Scope
 - Deliverables
 - Success Criteria
 - Assumptions
