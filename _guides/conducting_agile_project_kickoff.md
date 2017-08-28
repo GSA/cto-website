@@ -22,15 +22,27 @@ A common misconception about Agile projects is that they lack planning and docum
 
 The Agile Project Kick-off agenda should convey the high-level project overview and overarching strategy, project vision and scope, team roles and responsibilities, as well as the Agile approach and supporting ceremonies to be used. At the end of the kick-off meeting, the team should have an action plan for next steps.
 
-**If *any* of the team members, SMEs, key stakeholders, and sponsors are unfamiliar with Agile or the approach, time should be allotted for a light introduction and plans made to provide formalized (group) training of team members at a later date.**
+_If **any** of the team members, SMEs, key stakeholders, and sponsors are unfamiliar with Agile or the approach, time should be allotted for a light introduction and plans made to provide formalized (group) training of team members at a later date._
 
 The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | (list) Goals / Introduction to Effort | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.  *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
-| **Team Roles** | (list) Product Owner | Introduce
-| *Introduction of Approach* | *(list) Agile Values & Principles* | *Light introduction*
+| **Project Overview** | - Goals / Introduction to Effort
+- Project Vision / Scope
+- Deliverables
+- Success Criteria
+- Assumptions
+- Expectations
+- Risks
+- Design / Architectural Review
+- Test Environment
+- Technical / Business
+- Dependencies
+- Sponsor
+ | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Team Roles** | (list) Product Owner | Introduce the team, their roles and responsibilities, and provide the chain of communication.   *(i.e. requirements and changes flow through the Product Owner)*
+| _**Introduction of Approach**_ | *(list) Agile Values & Principles* | *Light introduction*
 | **Scrum Ceremonies** | (list) Daily Standup | Introduce the
 | **Team Norms** | (list) Working Board (JIRA) | Ensure all
 | **Next Steps** | (list) Action Plan | Determine sprint
