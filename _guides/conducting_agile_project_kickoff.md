@@ -28,18 +28,7 @@ The following information should be covered during the Agile Project Kick-off:
 
 | **Agenda Item** | **Content** | **Goal** |
 |---------------|---------------|---------------|
-| **Project Overview** | * Goals / Introduction to Effort * Project Vision / Scope
-- Deliverables
-- Success Criteria
-- Assumptions
-- Expectations
-- Risks
-- Design / Architectural Review
-- Test Environment
-- Technical / Business
-- Dependencies
-- Sponsor
- | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
+| **Project Overview** | {::nomarkdown}<ul><li> Goals / Introduction to Effort </li> <li> Project Vision / Scope </li> <li> Deliverables </li> <li> Success Criteria </li> <li> Assumptions </li> <li> Expectations </li> <li> Risks </li> <li> Design / Architectural Review </li> <li> Test Environment </li> <li> Technical / Business Dependencies </li> <li> Sponsor </li></ul>{:/} | Discuss a high-level project summary and requirements of the effort. Include any supporting documentation.   *(e.g. Agile project charter, mindmap, architectural / design, etc.)*
 | **Team Roles** | (list) Product Owner | Introduce the team, their roles and responsibilities, and provide the chain of communication.   *(i.e. requirements and changes flow through the Product Owner)*
 | _**Introduction of Approach**_ | *(list) Agile Values & Principles* | *Light introduction*
 | **Scrum Ceremonies** | (list) Daily Standup | Introduce the
