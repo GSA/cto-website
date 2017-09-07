@@ -1,0 +1,15 @@
+# CTO Projects List
+
+- name: TechTalks
+  contact_name: Office of the CTO
+  contact_email: cto@gsa.gov
+  link: techtalks/
+  picture: project_tech.gsa.gov.jpg
+  description: A new GSA website that will provide guidance to GSA IT as it drives towards adopting modern IT practices. This guidance includes agile practices, modern IT development, open data, APIs, and information for GSA employees and potential new hires.
+
+- name: Data Science Practitioner Training
+  contact_name: Sara Cope
+  contact_email: sara.cope@gsa.gov
+  link: data-science/
+  picture: project_open.gsa.gov.png
+  description: open.gsa.gov is the current developer portal for all GSA data, APIs, and code open to the public. The focus of this project is the redesign of the site, offering a new, user-focused experience emphasizing engagement with the public.
