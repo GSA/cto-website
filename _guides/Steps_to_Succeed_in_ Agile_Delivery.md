@@ -20,7 +20,7 @@ In federal environment, where there are multiple customers being served and wher
 
 If you are part of a change initiative and looking to develop your own approach for giving structure to starting such a difficult process of organizational change, below are some of the most effective approaches to get started.
 
-###Step 1. Demand a Vision for Your Team
+### Step 1. Demand a Vision for Your Team
 
 All change leaders and contributors need a relevant purpose for why they should commit the time and effort to make significant changes in the way they work. This vision provides a clear picture for individual contributors to visualize the opportunities created after the change and how their efforts now, will pay-off in the long run. On the contrary, the lack of such purpose, adversely affects the motivation for individual contributors, thus resulting in a high likelihood of abandonment during the transition. To this end, investing in time and resources to define and communicate the vision and strategy behind a change initiative is the most essential factor to secure buy-in and commitment to kick-off and support the initiative to success. 
 
