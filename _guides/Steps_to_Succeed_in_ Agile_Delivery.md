@@ -25,7 +25,8 @@ If you are part of a change initiative and looking to develop your own approach 
 All change leaders and contributors need a relevant purpose for why they should commit the time and effort to make significant changes in the way they work. This vision provides a clear picture for individual contributors to visualize the opportunities created after the change and how their efforts now, will pay-off in the long run. On the contrary, the lack of such purpose, adversely affects the motivation for individual contributors, thus resulting in a high likelihood of abandonment during the transition. To this end, investing in time and resources to define and communicate the vision and strategy behind a change initiative is the most essential factor to secure buy-in and commitment to kick-off and support the initiative to success. 
 
 |---------------|
-| <b>Checklist for Developing an Effective Vision Statement</b> A change vision differs from overall organizational vision, it provides a clear picture of what the future will look like after the change and contains the following attributes: {::nomarkdown}<ul><li>It’s written in simple language and easy to understand</li> <li>Uses pertinent facts to produce an appealing change vision </li> <li> Creates a sense of urgency</li> <li>Has a shared purpose - contributors understand how they will be able to take advantage of the opportunities that are created by the change</li></ul> {:/} |
+| <b>Checklist for Developing an Effective Vision Statement</b> 
+A change vision differs from overall organizational vision, it provides a clear picture of what the future will look like after the change and contains the following attributes: {::nomarkdown}<ul><li>It’s written in simple language and easy to understand</li> <li>Uses pertinent facts to produce an appealing change vision </li> <li> Creates a sense of urgency</li> <li>Has a shared purpose - contributors understand how they will be able to take advantage of the opportunities that are created by the change</li></ul> {:/} |
 
 ### Step 2. Start Small 
 
@@ -40,14 +41,15 @@ Lightweight practices to start introducing Agile approaches to your teams: {::no
 ### Step 3. Learn, Improve and Repeat
 
 Reiterating and applying the [Agile principles](http://agilemanifesto.org/principles.html), specifically setting up intervals to reflect on process, adjust, adopt and improve behavior accordingly, is the key to continuous improvement (or  [Kaizen](https://en.wikipedia.org/wiki/Kaizen)). Additionally,  regularly revisiting the Agile values and principles with your team, can shed new light in how each aspect of your new process and interactions are giving priority to your new values and how you can continue improving the way you work. Retrospective activities try to address three main questions / points through discussion:
-<li><i>What went well during the sprint cycle?</i></li>
-<li><i>What went wrong during the sprint cycle?</i></li>
-<li><i>What could we do differently to improve?</i></li>
+          <li><i>What went well during the sprint cycle?</i></li>
+          <li><i>What went wrong during the sprint cycle?</i></li>
+          <li><i>What could we do differently to improve?</i></li>
 
 Example topics include examining milestones, dependencies, motivations, misunderstandings, etc. around the team’s processes and looking ahead to mitigate possible risks or concerns. This improvement process also facilitates trust and collaboration across and between business and development teams. 
 
 Another way to achieve continuous improvement is to facilitate a learning organization through training and team / personal development. Although becoming Agile cannot be trained nor mandated, individual contributors can enable a supporting environment by evolving their behaviors and practices to support cultural change and the way the organization operates. 
 
 |---------------|
-| <b> Most effective Ways to Achieve Continuous Improvement:</b> Retrospect: {::nomarkdown}<ul><li> Gather information/data based on facts </li> <li>Generate relevant insights - conversations over accusations</li> <li> Facilitate open, honest and constructive communication </li> <li>Prioritize and decide on actionable commitments, assigned to a team member with a timeline</li><li> Revisit issues and check-in on status in the future</li> Personal/Team Development: browse these [Agile resource and guides](https://tech.gsa.gov/guides), inquire about [Agile coaching and training](https://tech.gsa.gov/work-with-us) on technical Agile practices and approaches </ul> {:/} |
+| <b> Most effective Ways to Achieve Continuous Improvement:</b>
+Retrospect: {::nomarkdown}<ul><li> Gather information/data based on facts </li> <li>Generate relevant insights - conversations over accusations</li> <li> Facilitate open, honest and constructive communication </li> <li>Prioritize and decide on actionable commitments, assigned to a team member with a timeline</li><li> Revisit issues and check-in on status in the future</li> Personal/Team Development: browse these [Agile resource and guides](https://tech.gsa.gov/guides), inquire about [Agile coaching and training](https://tech.gsa.gov/work-with-us) on technical Agile practices and approaches </ul> {:/} |
 
