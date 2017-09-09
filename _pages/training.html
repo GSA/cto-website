@@ -14,13 +14,13 @@ layout: base
       {% assign loopstatus = forloop.index | modulo: 3 %}
       {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
       <div class="project usa-width-one-third">
-        <div class="project-picture">
+        <!-- <div class="project-picture">
           {% if training.picture %}
             <img src="{{ site.baseurl }}/assets/img/projects/{{ project.picture }}" alt="Picture of {{ training.name }}">
           {% else %}
             <img src="{{ site.baseurl }}/assets/img/projects/project_default.svg" alt="" class="project-picture-none">
           {% endif %}
-        </div>
+        </div> -->
         <div class="project-name">
           {% if training.link %}
             <h2><a href="{{ site.baseurl }}/{{ training.link }}">{{ training.name }}</a></h2>
