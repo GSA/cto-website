@@ -5,8 +5,13 @@
 
 .classes {
     display: flex;
-    flex-flow: row;
-    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
+    @media screen and (min-width: 900px) {
+        flex-flow: row;
+        justify-content: center;
+        align-items: stretch;
+    }
 }
 
 .class.design{
@@ -15,13 +20,14 @@
     transition: border .3s ease-in-out;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+    max-width: 400px;
     margin-bottom: 13px;
     font: 24px averta-regular,sans-serif;
     text-align: center;
     @media screen and (min-width: 900px) {
-        width: 25%;
         margin-bottom: 30px;
+        justify-content: space-around;
         margin-right: 5%;
         padding-top: 30px;
     }
