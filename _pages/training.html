@@ -7,47 +7,24 @@ layout: base
 <div class="usa-grid">
     <h1>Training</h1>
 </div>
+<h2 class="training-subtitle">Build career skills in data science, computer science, and more.</h2>
 
-
-<div class="projects">
+<div class="classes">
     {% for training in site.data.training %}
       {% assign loopstatus = forloop.index | modulo: 3 %}
-      {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
-      <div class="project usa-width-one-third">
-        <!-- <div class="project-picture">
-          {% if training.picture %}
-            <img src="{{ site.baseurl }}/assets/img/projects/{{ project.picture }}" alt="Picture of {{ training.name }}">
-          {% else %}
-            <img src="{{ site.baseurl }}/assets/img/projects/project_default.svg" alt="" class="project-picture-none">
-          {% endif %}
-        </div> -->
-        <div class="project-name">
           {% if training.link %}
-            <h2><a href="{{ site.baseurl }}/{{ training.link }}">{{ training.name }}</a></h2>
-          {% else %}
-            <h2>{{ training.name }}</h2>
-          {% endif %}
-        </div>
+          <a href="{{ site.baseurl }}/{{ training.link }}" class="class design"><span class="training-title">{{ training.name }}</span>
         {% if training.description %}
-          <div class="project-description">
+          <span class="training-description">
             {{ training.description }}
-          </div>
+          </span>
         {% endif %}
-        <div class="project-data">
-          {% if training.stage %}
-            <div class="project-data-element project-stage">
-              Stage: <a href="{{ site.baseurl }}/projects/stages/#{{ project.stage }}">{{ training.stage | capitalize }}</a>
-            </div>
-          {% endif %}
           {% if training.link %}
-            <div class="project-data-element project-link">
-              <a href="{{ site.baseurl }}/{{ training.link }}">View {{ training.name }}</a>
-            </div>
+              <span class="btn-flat">Learn More <span class="rarr">→</span></span>
           {% endif %}
-        </div>
-      </div>
+        </a></h2>
+        {% endif %}
       {% if loopstatus == 0 %}
-        </div>
       {% elsif forloop.last %}
         </div>
       {% endif %}

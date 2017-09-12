@@ -1,0 +1,73 @@
+.training-subtitle {
+    text-align: center;
+    margin-bottom: 5vw;
+}
+
+.classes {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.class.design{
+    text-decoration: none;
+    border: 4px solid rgb(253, 184, 30);
+    transition: border .3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 13px;
+    font: 24px averta-regular,sans-serif;
+    text-align: center;
+    @media screen and (min-width: 900px) {
+        width: 25%;
+        margin-bottom: 30px;
+        margin-right: 5%;
+        padding-top: 30px;
+    }
+}
+
+.class     {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 3px;
+    border: 4px solid #9eb8d3;
+    transition: border .3s ease-in-out;
+}
+
+.training-title {
+    margin-bottom: 30px;
+    padding: 0 5vw;
+    color: #205493;
+}
+
+.training-description {
+    display: block;
+    text-align: justify;
+    text-justify: auto;
+    padding: 0 20px;
+    margin-bottom: auto;
+    font: 18px/1.25em averta-regular,sans-serif;
+    color: #5c554b;
+}
+.rarr {
+    font-size: 13px;
+}
+
+.btn-enroll {
+    margin: auto;
+    display: block;
+}
+
+.btn-flat {
+    background: rgb(253, 184, 30);
+    transition: border .3s ease-in-out;
+    font-size: 20px;
+    margin-top: 2.5vw;
+    line-height: 44px;
+    font-weight: 700;
+    color: #fff;
+}
