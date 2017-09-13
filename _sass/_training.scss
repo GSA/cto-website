@@ -1,3 +1,4 @@
+
 .training-subtitle {
     text-align: center;
     margin-bottom: 5vw;
@@ -16,7 +17,7 @@
 
 .class.design{
     text-decoration: none;
-    border: 4px solid rgb(253, 184, 30);
+    border: 4px solid $color-gold;
     transition: border .3s ease-in-out;
     display: flex;
     flex-direction: column;
@@ -40,14 +41,13 @@
     margin-bottom: 20px;
     text-align: center;
     border-radius: 3px;
-    border: 4px solid #9eb8d3;
     transition: border .3s ease-in-out;
 }
 
 .training-title {
     margin-bottom: 30px;
     padding: 0 5vw;
-    color: #205493;
+    color: $color-primary-darker;
 }
 
 .training-description {
@@ -57,7 +57,7 @@
     padding: 0 20px;
     margin-bottom: auto;
     font: 18px/1.25em averta-regular,sans-serif;
-    color: #5c554b;
+    color: $color-gray;
 }
 .rarr {
     font-size: 13px;
@@ -69,11 +69,11 @@
 }
 
 .btn-flat {
-    background: rgb(253, 184, 30);
+    background: $color-gold;
     transition: border .3s ease-in-out;
     font-size: 20px;
     margin-top: 2.5vw;
     line-height: 44px;
     font-weight: 700;
-    color: #fff;
+    color: $color-white;
 }
