@@ -1,5 +1,5 @@
 ---
-title: Conducting Sprint Review (Demo) Sessions
+title: Conducting an Agile Project Kick-off & Sprint 0 Session
 category: Agile
 audiences:
   - Developers
