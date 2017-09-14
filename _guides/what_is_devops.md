@@ -1,6 +1,6 @@
 ---
 title: What is DevOps?
-category: DevOps
+category: DevSecOps
 audiences:
   - Developers
   - Designers
