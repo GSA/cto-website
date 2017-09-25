@@ -20,7 +20,7 @@ The Sprint Review (Demo) is **not** a status meeting - it is an opportunity to e
 ### Preparing a Sprint Review (Demo) Presentation
 The best way for the Product Owner to summarize which items are accepted and considered "done," demonstrate features completed, and review the team’s commitments, is to use a presentation-style format. Sprint Review presentations can be stored in an accessible team folder and provide a convenient, informative summation for stakeholders who are unable to attend the review. The Product Owner, or team member presenting, should always prepare and practice before the meeting. While the Scrum Master should ensure the Sprint Reviews for the upcoming few sprints are scheduled ahead of time to enable stakeholders to plan their attendance.
 
-[Download this Sample Sprint Review Presentation.](https://tech.gsa.gov/assets/downloads/SampleSprintReviewPresentation.pptx)
+[Download this Sample Sprint Review Presentation](https://tech.gsa.gov/assets/downloads/SampleSprintReviewPresentation.pptx)
 
 ### Good Reads
 These are good references for conducting a Sprint Review (Demo) Session:
