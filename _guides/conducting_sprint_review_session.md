@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-[Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits)
+[Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-review-demo)
 
 A **Sprint Review (Demo)** provides the platform for the Scrum Team to showcase what they accomplished during the sprint while creating the opportunity for key stakeholders to [inspect the increment and adapt the Product Backlog](https://www.scrum.org/resources/what-is-a-sprint-review), if necessary.
 
