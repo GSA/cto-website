@@ -4,8 +4,8 @@
   location: Virtual and 1800F Room 2213
   description: Salesforce Lightning for Gmail is a brand new way to experience Salesforce right from within Gmail for CRM customers. Lightning for Gmail provides ability to integrate Salesforce with Google G Suite email and calendar applications. Salesforce team will provide demo to highlight how users can perform various actions in Salesforce from within Gmail which helps to increase productivity, efficiency and eliminates duplicate efforts.
   presenter: Prerana Bhatt
-  register: https://docs.google.com/forms/d/e/1FAIpQLSd4Xn_XL0MdiUYQgUur1hItGGfcqjzV0Q_mKlTbUnFD1kcaXQ/viewform
-  slides: 
+  register:
+  slides: /assets/downloads/techtalks/tech-talk-lightning-gmail.pdf
   recording:
 - title: Google App Scripts to the Rescue! With Mark Vogelgesang
   date: September 7, 2017
