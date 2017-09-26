@@ -29,7 +29,7 @@ Moreover, [Interview Questions for Agile Vendors](https://tech.gsa.gov/guides/Ag
 
 **[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
 
-## Background
+<h2>Background</h2>
 
 <p>[Provide background for the Task Order, outline why the contractor team would want to work on this and who the major user groups would be]</p>
 
