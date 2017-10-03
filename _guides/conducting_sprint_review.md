@@ -1,5 +1,5 @@
 ---
-title: Conducting a Sprint Review (Demo) Session
+title: Conducting a Sprint Review (Demo)
 category: Agile
 audiences:
   - Developers
@@ -23,7 +23,7 @@ The best way for the Product Owner to summarize which items are accepted and con
 [Download this Sample Sprint Review Presentation](https://tech.gsa.gov/assets/downloads/SampleSprintReviewPresentation.pptx)
 
 ### Good Reads
-These are good references for conducting a Sprint Review (Demo) Session:
+These are good references for conducting a Sprint Review (Demo):
 * [6 Common Misconceptions and Anti-Patterns of the Sprint Review Meeting](https://www.solutionsiq.com/learning/blog-post/6-common-misconceptions-and-anti-patterns-of-the-sprint-review-meeting/)
 * [It’s a Sprint Review Not a Sprint Demo!](http://www.innolution.com/blog/its-a-sprint-review-not-a-sprint-demo)
 * [Sprint Review](https://www.scruminc.com/sprint-review/)
