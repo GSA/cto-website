@@ -75,7 +75,7 @@ audiences:
 
 ------
 **More Resources on Agile Meetings**
-* [How to Use the Daily Stand-up Meeting Effectively](https://www.scrumalliance.org/community/articles/2012/june/how-to-use-the-daily-stand-up-meeting-effectively#sthash.gn5O13bq.dpuf) 
+* [How to Use the Daily Stand-up Meeting Effectively](https://www.scrumalliance.org/community/articles/2012/june/how-to-use-the-daily-stand-up-meeting-effectively) 
 * [6 Common Misconceptions and Anti-Patterns of the Sprint Review Meeting](http://www.solutionsiq.com/6-common-misconceptions-and-anti-patterns-of-the-sprint-review-meeting/)
 * [Backlog Grooming](https://www.agilealliance.org/glossary/backlog-grooming/)
 * [Agile Release Planning Best Practices](http://enterprise-knowledge.com/agile-release-planning-best-practices/)
