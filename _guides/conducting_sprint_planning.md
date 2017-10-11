@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-[Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-review-demo)
+[Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-planning)
 
 During **Sprint Planning**, the Product Owner and Scrum Team discuss the **sprint goal** and agree to the amount of work to achieve it. The Product Owner describes what needs to be achieved during the sprint while the Scrum Team assesses and provides feedback on the prioritized user stories in question from the Product Backlog. 
 
