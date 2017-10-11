@@ -25,7 +25,7 @@ Once the Product Owner and Scrum Team select the user stories for the Sprint Bac
 ### “Scope Creep” vs Adding Work
 In the Scrum process, “scope creep” occurs when the Product Owner, or any other Scrum Team member, brings additional work (e.g. “gold-plating” or sneaking in Technical Debt) into the sprint without discussing it with the Team. The **_entire_** Team should always negotiate taking a user story out of the Product Backlog and bringing it into the current Sprint Backlog. However, if the Team has finished all of the work they committed to in the current sprint, and there is no way a developer can assist another or tester, they can raise the issue at the next daily stand-up and request to bring in new work. 
 
-_**If this continually happens, the Team may need to review their [estimation and story pointing process]._
+_**If this continually happens, the Team may need to review their [estimation and story pointing process]({{ site.baseurl }}/guides/estimation_and_storypointing)._
 
 Sprint Planning ensures the Product Owner and Scrum Team collaborate and negotiate the work for the sprint - not just aim for optimal “resource utilization” - as it creates a platform to communicate dependencies, identify the Team’s capacity, and further ensures daily productivity.
 
