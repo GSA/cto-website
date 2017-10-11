@@ -11,7 +11,7 @@ audiences:
 
 During **Sprint Planning**, the Product Owner and Scrum Team discuss the **sprint goal** and agree to the amount of work to achieve it. The Product Owner describes what needs to be achieved during the sprint while the Scrum Team assesses and provides feedback on the prioritized user stories in question from the Product Backlog. 
 
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Sprint_Planning.jpg"
+<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Sprint_Planning.png"
   alt="Sprint Planning"
   class="guide-image guide-image-half">  
 
