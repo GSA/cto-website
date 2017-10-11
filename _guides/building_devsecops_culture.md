@@ -1,6 +1,6 @@
 ---
 title: Building a DevSecOps Culture - from a Technical Perspective
-category: DevOps
+category: DevSecOps
 audiences:
   - Developers
   - Designers

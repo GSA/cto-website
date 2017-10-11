@@ -15,20 +15,18 @@ audiences:
 </style>
 
 
-<p>This content provides contract language guidance and is intended to serve as a template for the government representative during the development of a Task Order under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the high-level objectives and task-level delivery requirements of the intended product / service in line with an Agile delivery process. Additionally, this Task Order structure enables the government to allow contractors to work in a flexible way while maintaining high expectations for code quality and successful agile project management.</p>
+This content provides contract language guidance and is intended to serve as a template for the government representative during the development of a Task Order under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the high-level objectives and task-level delivery requirements of the intended product / service in line with an Agile delivery process. Additionally, this Task Order structure enables the government to allow contractors to work in a flexible way while maintaining high expectations for code quality and successful agile project management.
 
-<p> Tech.gsa.gov/guides/ also provides additional content and guidelines that delve further into and provide concrete tools/techniques on requirement breakdown and relevant sizing approaches to encourage delivery on an Agile project. Some example content include: </p>
+[GSA Tech Guides](https://tech.gsa.gov/guides/) also provides additional content and guidelines that delve further into and provide concrete tools/techniques on requirement breakdown and relevant sizing approaches to encourage delivery on an Agile project. Some example content include:
 
-<p><i><li>[Conducting an Agile Project](https://tech.gsa.gov/guides/conducting_an_agile_project/)</li></i></p>
-<p><i><li>[Managing Requirements in an Agile Environment](https://tech.gsa.gov/guides/managing_requirements/)</li></i></p>
-<p><i><li>[Defining When a Requirement is Complete](https://tech.gsa.gov/guides/requirements_complete/)</li></i></p>
-<p><i><li>[Estimation and Relative Sizing](https://tech.gsa.gov/guides/estimation_and_storypointing/)</li></i></p>
+* [Conducting an Agile Project](https://tech.gsa.gov/guides/conducting_an_agile_project/)
+* [Managing Requirements in an Agile Environment](https://tech.gsa.gov/guides/managing_requirements/)
+* [Defining When a Requirement is Complete](https://tech.gsa.gov/guides/requirements_complete/)
+* [Estimation and Relative Sizing](https://tech.gsa.gov/guides/estimation_and_storypointing/)
 
 Moreover, [Interview Questions for Agile Vendors](https://tech.gsa.gov/guides/Agile_Contracts_Interview_Questions_for_Agile_Vendors/) and Specific [Agile Roles](https://tech.gsa.gov/guides/AgileContracts_Interview_Questions_for_Agile_Roles/) contents provde further guidance for GSA staff on what to inquire and expect from contractors during the vetting process.
 
-
-
-<h1> AGILE BPA TASK ORDER TEMPLATE </h1>
+# AGILE BPA TASK ORDER TEMPLATE
 
 **[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)**
 
@@ -60,7 +58,7 @@ _Sample High-level User Scope in User Story Format_
   <p><i>“As an HR representative, I will be able to view applicants information and data online”</i></p>
   <p><i>“As the hiring manager, I want the system to perform preliminary data validation checks on “required” questions, so that sufficient information is submitted for my review.”</i></p>
   <p><i>“As a system security specialist, I want the system to “mask” user's login credentials, so that the user's security information is protected from possible system breaches.”</i></p>
-  
+
 <p><i>The scope also includes the technical and related project management activities such as but not limited to:</i></p>
 <p><i><li>Tasks that the contractor must successfully perform,</li></i></p>
 <p><i><li>Operational requirements that must be met while the contractor performs,</li></i></p>
@@ -91,20 +89,20 @@ _Sample Tasks Statement_
 <h2>Operational Requirements</h2>
 
 <p>[Add specific Personnel Skills and Knowledge]</p>
- 
+
  _Sample Sample Language on Skills and Knowledge_
- 
+
  <p><i>“The contractor shall provide qualified personnel with relevant experience and domain knowledge in line with this task's performance work statement, in terms of necessary skills at the requisite level of knowledge and experience. Broadly, a team assigned to build the [product name] is expected to have experience with:"</i></p>
 <p><i><li>[List relevant domain here] e.g. building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.”</li></i></p>
 
  <p><i>“Both COR + Tech Lead need to coordinate with vendor on setting up development and test environment and access to accounts prior to kick off."</i></p>
- 
+
  <h2>Deliverables</h2>
- 
+
  <p>[Add specific details here]</p>
- 
+
  **Also [DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Contractor deliverables, delivery method examples and timeframes**
- 
+
  <h2>Transitions</h2>
 
 <h3>Transition Plan</h3>
@@ -120,9 +118,9 @@ _Sample Tasks Statement_
 <h2>Terms and Conditions</h2>
 
 <h3>Type of Contract</h3>
- 
+
   **Also [DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language for types of contract language**
- 
+
  <h3>Period of Performance (POP)</h3>
 
 <p>[Add specific details applicable here]</p>
@@ -153,19 +151,12 @@ _Sample Language for POP_
 
 <p>[Add specific details applicable here]</p>
 
-**[DOWNLOAD the Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including <b>pricing templates</b>
-
+**[DOWNLOAD the Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including *pricing templates*
 
 **References**
+
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
 * [Software Development: Effective Practices and Federal Challenges in Applying Agile Methods, Agile Contracts Primer](http://www.gao.gov/products/GAO-12-681) Tom Arbrogast, Craig Larman, and Bas Voddee,
 * [Finding a Partner to Trust](http://www.agilecontracts.org) The Agile RFP, by Peter Stevens cited
 * [Agile Services for the Enterprise, Statement of Work Template](http://www.methodsandtools.com) - GSA Alliant Shared Interest Group (SIG)
 * [Performance Work Statement (PWS)](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md) Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
-
- 
- 
- 
- 
- 
- 

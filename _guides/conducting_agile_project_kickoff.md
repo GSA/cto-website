@@ -1,5 +1,5 @@
 ---
-title: Conducting Sprint Review (Demo) Sessions
+title: Conducting an Agile Project Kick-off & Sprint 0 Session
 category: Agile
 audiences:
   - Developers
@@ -44,7 +44,7 @@ Further, as either an extension of the Agile Project Kick-off, or as a scheduled
 | **Story Cards** | {::nomarkdown}<ul><li> User Story Writing </li> <li> Estimation & Story Pointing </li></ul>{:/} | Discuss the needs for writing story cards and what is required for “ready” status. Walk the team through process of estimating and pointing story cards. *(e.g. Description, Acceptance Criteria, Story Points, etc.)*
 
 ### Good Reads
-These are good references for conduction Agile Project Kick-offs & Sprint 0 Sessions:
+These are good references for conducting an Agile Project Kick-off & Sprint 0 Session:
 * [8 Agenda Items for a Successful Project Kickoff Meeting](http://projectnewstoday.com/agenda-project-kickoff-meeting/)
 * [How to Get Your Agile Development Projects Off to the Best Start Possible](https://www.koombea.com/blog/agile-development/)
 * [Kickoff meetings in waterfall and agile methodologies](https://www.linkedin.com/pulse/kickoff-meetings-waterfall-agile-methodologies-mohammed-ajaz-pmp)

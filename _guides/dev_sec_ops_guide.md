@@ -1,6 +1,6 @@
 ---
 title: DevSecOps Guide
-category: DevOps
+category: DevSecOps
 ---
 
 ### Standard DevSecOps Platform Framework

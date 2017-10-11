@@ -34,7 +34,7 @@ Tips for acquiring stakeholder support:
 
 #### Sample Agile Product Roadmap 
 
-<img src="{{ site.baseurl }}/assets/img/guides/Sample%20Agile%20Product%20Roadmap.png" alt="agile product roadmap">
+<img src="{{ site.baseurl }}/assets/img/guides/Sample%20Agile%20Product%20Roadmap.png" alt="agile product roadmap" class="guide-image guide-image-three-quarter">
 
 
 ### 3. Communicate, Review and Adjust Regularly
@@ -44,7 +44,7 @@ Tips for acquiring stakeholder support:
 **Respond to Change:** The product strategy roadmap is developed to guide and keep customers, agile teams and business stakeholders aligned with developments. In order for the roadmap to continue effectively serving its purpose, it needs to developed in such a way that it is evenly focused on short-term tactics as well as strategic, long-term goals, and be supported by a framework that allows to track and address customer feedback. One approach is to setup frequent review and prioritization periods to update the product roadmap to reflect the most up-to-date state for the product. The frequency of review can be set monthly, quarterly or tagged to the performance of a specific release, depending on the maturity of the product and the pace of change in the industry or market. Additionally, the product lead can utilize various [visibility and collaboration tools](http://tech.gsa.gov/guides/visibility_and_status/) to communicate these changes and ensure the team continues to build relevant features that respond to new product milestones and move the organization closer to towards the overarching vision.
 
 
-[Download this Agile Product Roadmap Template](http://docs.google.com/document/d/1FdopnaKXkQJMcQGO1VKM84iZ8_t0rq1oBWzM4JDMUb0/edit) and apply the three tips to build a goal-oriented, articulate and responsive strategy for delivering your next product / service. 
+[Download this Agile Product Roadmap Template]({{site.baseurl}}/assets/downloads/TemplateAgileProductRoadmap.docx) and apply the three tips to build a goal-oriented, articulate and responsive strategy for delivering your next product / service. 
 
 
 ______________
