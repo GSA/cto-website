@@ -21,7 +21,7 @@
   description: Opportunities for data scientists—one of today’s hottest skills—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Data scientists are needed in GSA to find insights into this data and to solve meaningful business problems within the agency. In this talk, we’ll explore what it means to be a data scientist as well as data science process workflow, tools, technology, and upcoming GSA training in Data Science.
   presenter: Amirah Aziz
   register: 
-  slides: 
+  slides: /assets/downloads/techtalks/tech-talk-data-sciences.pdf
   recording:
 - title: Salesforce Lightning for Gmail with Prerana Bhatt
   date: September 21, 2017
@@ -48,7 +48,7 @@
   description: The objective of this tech talk is to explain the use of DevSecOps framework to migrate application workloads to cloud. The CTO team is collaborating with various teams (incl. IDI, security, and application development leads) to define and build DevSecOps framework to help migrate application workloads to cloud. The goal is to ‘develop/deploy/operate’ through automation. As part of this journey, the CTO team worked closely with the D2D team to migrate D2D applications to cloud by building some of these automation pieces and work towards that final goal of developing automated CI/CD pipelines. In this presentation, we will go over the D2D migration steps in detail and understand how DevSecOps automation process can help build repeatable infrastructure/application deployments with minimal manual intervention, and shorter provisioning times.
   presenter: Kishore Kakani
   register: 
-  slides:
+  slides: /assets/downloads/techtalks/tech-talk-devsecops--for-d2d Platform.pdf
   recording:
 - title: Creating InSite pages with Joy Gatewood
   date: August 10, 2017
