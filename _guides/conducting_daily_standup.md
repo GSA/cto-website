@@ -13,7 +13,7 @@ The **Daily Scrum / Stand-up** allows the Scrum Team to highlight what they are 
 
 <img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Daily_Standup.png"
   alt="Daily Scrum / Stand-up"
-  class="guide-image guide-image-three-quarter">  
+  class="guide-image">  
 
 While the Scrum Master may facilitate the Daily Scrum / Stand-up, it is the Scrum Team who conducts the session, “inspecting and adapting” as they work to achieve the sprint goal. The Product Owner and management may attend, but only as “silent observers” - available to provide clarification on user stories or to assume responsibility for impediments that need escalation.
 
