@@ -15,7 +15,7 @@
   presenter: Chris Campbell
   register: 
   slides: /assets/downloads/techtalks/GEARTechTalk.pptx.pdf
-- recording:
+  recording:
 - title: Data Sciences October 5th Tech Talk with Amirah Aziz
   date: October 5, 2017
   time: 1p-1:30p
