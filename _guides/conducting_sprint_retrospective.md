@@ -35,16 +35,15 @@ Remember, the retrospective is an opportunity to continuously improve and evolve
 
 ### Good Reads
 These are good references for conducting a Sprint Retrospective:
-* 5 Steps To Better Agile Retrospectives
-* A Simple Way to Run a Sprint Retrospective
-* Atlassian Playbook: Retrospectives
-* Do’s and Don’ts: How to Conduct Effective Retrospectives
-* Effective Sprint Retrospectives
-* Key Elements of the Sprint Retrospective
-* Scrum Inc: Sprint Retrospective
-* Sprint Retrospective
-* Sprint Retrospective Meetings
-* The Product Owner in a Sprint Retrospective
-* The “Starfish Method” for Useful Retrospectives | Supreme Agile
-* Valuable Agile Retrospectives: How to Do Them?
-* Why Agile Teams Need to Know How to Inspect and Adapt
+* [5 Steps To Better Agile Retrospectives](https://blog.trello.com/the-5-steps-to-better-team-retrospectives)
+* [A Simple Way to Run a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
+* [Atlassian Playbook: Retrospectives](https://www.atlassian.com/team-playbook/plays/retrospective)
+* [Do’s and Don’ts: How to Conduct Effective Retrospectives](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/)
+* [Effective Sprint Retrospectives](https://msdn.microsoft.com/en-us/library/jj620912(v=vs.120).aspx)
+* [Key Elements of the Sprint Retrospective](https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective)
+* [Scrum Inc: Sprint Retrospective](https://www.scruminc.com/sprint-retrospective/)
+* [Sprint Retrospective](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-retrospective)
+* [Sprint Retrospective Meetings](https://www.scrumalliance.org/community/articles/2015/may/sprint-retrospective-meeting)
+* [The Product Owner in a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/the-product-owner-in-a-sprint-retropsective)
+* [Valuable Agile Retrospectives: How to Do Them?](https://blog.versionone.com/valuable-agile-retrospectives-how-to-do-them/)
+* [Why Agile Teams Need to Know How to Inspect and Adapt](https://www.agileconnection.com/article/why-agile-teams-need-know-how-inspect-and-adapt)
