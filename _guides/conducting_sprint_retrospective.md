@@ -12,7 +12,7 @@ audiences:
 During a **Sprint Retrospective**, the Scrum Master facilitates an hour-long session as the Scrum Team reviews their previous sprint’s activities and processes (e.g. milestones, dependencies, etc.) in an effort to continuously improve and address potential risks or concerns for the upcoming iteration.
 
 <img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Sprint_Retrospective.png"
-  alt="Sprint Planning"
+  alt="Sprint Retrospective"
   class="guide-image guide-image-half">  
 
 The Sprint Retrospective is not intended to be a gripe session, but an opportunity for the Scrum Team to “**inspect and adapt**” their work with open, honest, and constructive feedback. This is why *all* other invitees - including the Product Owner and / or management - should **only** attend the retrospective at the discretion of the Scrum Team.
