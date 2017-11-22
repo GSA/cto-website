@@ -11,7 +11,7 @@ audiences:
 
 During **Backlog Refinement (Grooming)**  the Scrum Master facilitates as the Product Owner and Scrum Team review the user stories at the top of the [Product Backlog] in order to prepare for the upcoming sprint. 
 
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Daily_Standup.png"
+<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Backlog_Refinement.png"
   alt="Daily Scrum / Stand-up"
   class="guide-image">  
 
