@@ -13,7 +13,7 @@ During **Backlog Refinement (Grooming)**  the Scrum Master facilitates as the Pr
 
 <img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Backlog_Refinement.png"
   alt="Daily Scrum / Stand-up"
-  class="guide-image guide-image-three-quarter">  
+  class="guide-image guide-image-half">  
 
 Backlog Refinement (Grooming) provides the first input to Sprint Planning. To start, it assures the Product Owner properly conveys the project / product objectives to the Scrum Team that will inform the sprint goal. Further, it ensures the Product Backlog remains populated with user stories that are relevant and detailed. Finally, it defines the “feature set” for the next Sprint Backlog; user stories that are appropriately refined, estimated, prioritized, and meet the Definition of Ready (DoR).
 
