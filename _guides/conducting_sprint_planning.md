@@ -9,11 +9,7 @@ audiences:
 
 [Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-planning)
 
-During **Sprint Planning**, the Product Owner and Scrum Team discuss the [sprint goal]({{ site.baseurl }}/guides/glossary/#sprint-goal) and agree to the amount of work to achieve it. The Product Owner describes what needs to be achieved during the sprint while the Scrum Team assesses and provides feedback on the prioritized user stories in question from the Product Backlog. 
-
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Sprint_Planning.png"
-  alt="Sprint Planning"
-  class="guide-image guide-image-half">  
+During **Sprint Planning**, the Product Owner and Scrum Team discuss the [sprint goal]({{ site.baseurl }}/guides/glossary/#sprint-goal) and agree to the amount of work to achieve it. The Product Owner describes what needs to be achieved during the sprint while the Scrum Team assesses and provides feedback on the prioritized user stories in question from the Product Backlog.
 
 The agreed-upon user stories are estimated based on the level of effort (from development to testing), then prioritized and tasked by the Scrum Team for the Sprint Backlog. If needed, the Product Owner provides additional clarification regarding the stories and their respective acceptance criteria. The Team then assumes responsibility for the work based on their experience levels and expertise.
 
