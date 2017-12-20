@@ -11,10 +11,6 @@ audiences:
 
 A **Sprint Review (Demo)** provides the platform for the Scrum Team to showcase what they accomplished during the sprint while creating the opportunity for key stakeholders to [inspect the increment and adapt the Product Backlog](https://www.scrum.org/resources/what-is-a-sprint-review), if necessary.
 
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Sprint_Review.jpg"
-  alt="Sprint Review (Demo)"
-  class="guide-image guide-image-half">  
-
 The Sprint Review (Demo) is **not** a status meeting - it is an opportunity to elicit feedback and foster [collaboration](https://www.scrum.org/resources/what-is-a-sprint-review) between the Product Owner, Scrum Team, and stakeholders and identify the next incremental effort that can be done to optimize business value. It is recommended the meeting be timeboxed to **_one hour per week of Sprint length_** (i.e. two week sprint is a maximum 2-hour Sprint Review) and to focus on acceptance criteria that meets the team’s [Definition of Done (DoD)]({{ site.baseurl }}/guides/glossary/#definition-of-done). If a demonstration of functionality is required, it should center around a realistic user experience that displays the product / prototype and how the user will interact with its features, not the system source code or logic.
 
 ### Preparing a Sprint Review (Demo) Presentation
