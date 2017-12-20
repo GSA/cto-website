@@ -9,11 +9,7 @@ audiences:
 
 [Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#backlog-refine-groom)
 
-During **Backlog Refinement (Grooming)** the Scrum Master facilitates as the Product Owner and Scrum Team review the user stories at the top of the [Product Backlog]({{ site.baseurl }}/guides/glossary/#backlog) in order to prepare for the upcoming sprint. 
-
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Backlog_Refinement.png"
-  alt="Backlog Refinement (Grooming)"
-  class="guide-image guide-image-half">  
+During **Backlog Refinement (Grooming)** the Scrum Master facilitates as the Product Owner and Scrum Team review the user stories at the top of the [Product Backlog]({{ site.baseurl }}/guides/glossary/#backlog) in order to prepare for the upcoming sprint.
 
 Backlog Refinement (Grooming) provides the first input to [Sprint Planning]({{ site.baseurl }}/guides/conducting_sprint_planning/). To start, it assures the Product Owner properly conveys the project / product objectives to the Scrum Team that will inform the sprint goal. Further, it ensures the Product Backlog remains populated with user stories that are relevant and detailed. Finally, it defines the “feature set” for the next [Sprint Backlog]({{ site.baseurl }}/guides/glossary/#sprint-backlog); user stories that are appropriately refined, estimated, prioritized, and meet the [Definition of Ready (DoR)]({{ site.baseurl }}/guides/glossary/#definition-of-ready).
 
