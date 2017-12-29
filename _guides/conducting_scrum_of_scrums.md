@@ -30,7 +30,7 @@ While it may be suggested to have the session on a daily basis, the frequency of
 The Scrum of Scrums is also an approach to scale Scrum up to larger groups (typically over a 12+ people), where the groups will be divided into Agile Teams of 5 - 10 members. While the various individual Teams are able to focus on their work, the Meta-Scrum also ensures cross-coordination and communication.
 
 ### Cross-Team Standups
-Cross-Teams Stand-ups are also used in scaled Agile approaches. While often confused with Scrum of Scrums (Meta-Scrums), Cross-Team Stand-ups differ in that instead of one representative attending the cross-functional stand-up from each Team, _**all**_ team members from each Team participate.
+Cross-Teams Stand-ups are also used in scaled Agile approaches. While often confused with Scrum of Scrums (Meta-Scrums), Cross-Team Stand-ups differ in that _instead of one representative_ attending the cross-functional stand-up from each Team, _**all**_ team members from each Team participate.
 
 ### Good Reads
 These are good references for conducting a Scrum of Scrums:
