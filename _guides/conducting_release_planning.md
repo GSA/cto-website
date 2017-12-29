@@ -18,18 +18,18 @@ When preparing for Release Planning, consider the logistics of the entire Delive
 
 Further, create an agenda in advance to help ensure team members are prepared for the conversation and it can remain on the intended release(s). Leadership and (key) Stakeholders should plan to be present and engaged, focusing on minimizing dependencies that might impact the Team’s progress. For smaller teams, the complete cross-functional Delivery Team should attend for both input and accountability purposes. However, for larger teams, a subset of team members may be elected to represent the Team for release planning.
 
-As the Delivery Team plans the release(s), they should use the established “[Definition of Ready (DoR)]” and baseline for sizing estimates of Backlog items (this is typically defined by the Agile Team prior to the start of development). This is the gauge by which user stories can be planned for assignment to various sprints and to limit sizes of the various release deadlines, which usually range between (2 - 12) months.
+As the Delivery Team plans the release(s), they should use the established “[Definition of Ready (DoR)]({{ site.baseurl }}/guides/glossary/#definition-of-ready)” and baseline for sizing estimates of Backlog items (this is typically defined by the Agile Team prior to the start of development). This is the gauge by which user stories can be planned for assignment to various sprints and to limit sizes of the various release deadlines, which usually range between (2 - 12) months.
 
 ### Good Reads
 These are good references for conducting a Release Planning:
-* Agile Development Release Planning
-* CA Technologies: Release Planning
-* Managing Distributed Teams
-* Quickscrum: Release Planning
-* Release Planning in Scrum
-* Scrum and Release Planning
-* Scrum Release Planning
-* The Product Roadmap and the Release Plan
-* The Value of Release Planning
-* Tips for Release Planning with Distributed Scrum
-* XP: Release Planning
+* [Agile Development Release Planning](https://www.versionone.com/agile-101/agile-management-practices/agile-development-release-planning/)
+* [CA Technologies: Release Planning](https://help.rallydev.com/release-planning)
+* [Managing Distributed Teams](https://www.scrumalliance.org/community/articles/2013/july/managing-distributed-teams)
+* [Quickscrum: Release Planning](https://www.quickscrum.com/Help/185/sg-Release-Planning)
+* [Release Planning in Scrum](https://www.scrumalliance.org/why-scrum/agile-atlas/agile-atlas-common-practices/planning/october-2013/release-planning-in-scrum)
+* [Scrum and Release Planning](http://www.leanagiletraining.com/release-planning/scrum-and-release-planning/)
+* [Scrum Release Planning](http://www.scrum-institute.org/Release_Planning.php)
+* [The Product Roadmap and the Release Plan](http://www.romanpichler.com/blog/product-roadmap-vs-release-plan/)
+* [The Value of Release Planning](https://www.scrumalliance.org/community/articles/2012/august/the-value-of-release-planning)
+* [Tips for Release Planning with Distributed Scrum](https://www.infoq.com/news/2010/10/distributed-scrum-planning)
+* [XP: Release Planning](http://www.extremeprogramming.org/rules/planninggame.html)
