@@ -18,10 +18,7 @@ If a project has been reviewed and [deemed fit for Agile development](), these a
 
 |**Steps** | **Helpful Links**
 |---------------|---------------|
-| Review the Agile methodology and various frameworks| Agile Process & Intake Guide
-18F Agile Principles & Practices
-Using the U.S. Digital Service Playbook
-Popular Approaches to Agile Adoption|
+| Review the Agile methodology and various frameworks| * Agile Process & Intake Guide * 18F Agile Principles & Practices * Using the U.S. Digital Service Playbook * Popular Approaches to Agile Adoption|
 | Conduct Agile IT Investment &
 Technical Sprint Framework Reviews with Product Owner, Key Stakeholders, and Subject Matter Experts (SMEs)
  | Agile IT Investment Form
