@@ -13,7 +13,7 @@ A **Scrum of Scrums**, or Meta-Scrum, may be used in environments that have mult
 
 The Scrum of Scrums is a time-boxed session in which a representative from each Team shares high-level updates on their respective team’s work and articulates their progress and impediments. Ideally, it should follow the various teams’ Daily Stand-ups, so that the latest information is communicated.
 
-While Daily Scrum meetings are used for [quick updates]({{ site.baseurl }}/guides/conducting_daily_standup/), _**not**_ for problem-solving, the Scrum of Scrums is not bound by the same rule. If a problem is identified in the Scrum of Scrums and all parties needed to make a decision are in attendance, the issue can be addressed at that time (just be sure scheduling permits).
+While Daily Scrum meetings are used for [quick updates]({{ site.baseurl }}/guides/conducting_daily_standup/), _**not**_ problem-solving, the Scrum of Scrums is not bound by the same rule. If a problem is identified in the Scrum of Scrums and all parties needed to make a decision are in attendance, the issue can be addressed at that time (just be sure scheduling permits).
 
 ### Conducting a Meta-Scrum
 Team Representatives attending the Scrum of Scrums may be technical contributors, and / or the Team’s Scrum Master or Product Owner. Teams should also alternate their representatives over the course of the project. Often times the Scrum Master will attend **with** an alternating team member to ensure they are not only able to represent the Team, but are also better able to resolve issues that come up during the session.
