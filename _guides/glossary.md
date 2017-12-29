@@ -173,9 +173,11 @@ Scrum should not be used interchangeably with the term Agile. Agile is not a fra
 
 <a name="timebox"></a>**Timebox:** A timebox is a time period of fixed length allocated to achieve some objective. In agile development, iterations and sprints are examples of timeboxes that limit work in process and stage incremental progress. Timeboxes are often used to avoid over-investing in tasks such as estimating development tasks.
 
-**Unit tests:** Unit tests are automated tests in code that test low-level, single pieces of code to ensure that they are usable and working as expected. Unit tests are considered a prerequisite for practicing *Continuous Integration* and *Continuous Delivery*.
+**Unit Tests:** Unit tests are automated tests in code that test low-level, single pieces of code to ensure that they are usable and working as expected. Unit tests are considered a prerequisite for practicing *Continuous Integration* and *Continuous Delivery*.
 
 <a name="unit-testing"></a>**Unit Testing:** “A unit is the smallest testable part of a software system. In procedural programming, a unit may be an individual function or procedure.” (Wikipedia) Comprehensive unit test coverage is an important part of software integrity and should be automated to support the incremental delivery requirements of agile software development teams. In most cases, unit testing is the responsibility of the developer.
+
+<a name="use-cases"></a>**Use Cases:** "A use case is a list of actions or event steps typically defining the interactions between a role (known in the Unified Modeling Language as an actor) and a system to achieve a goal. The actor can be a human or other external system." (Wikipedia)
 
 <a name="uat"></a>**User Acceptance Testing (UAT):** Describes the tests that must be successfully executed in order to validate that a specific piece of functionality meets the needs of the user as outlined in the customer requirements. As many agile methods advocate the use of narrowly defined requirements that speak from a specific user’s perspective (i.e. user stories), it is recommended that user acceptance criteria follow similar form and define validation steps from the same user perspective. User acceptance tests are an essential component of user requirements. Without well defined acceptance criteria, it becomes difficult to clearly define the scope of any given requirement.
 
