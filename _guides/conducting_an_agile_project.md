@@ -13,7 +13,7 @@ audiences:
   }
 </style>
 
-If a project has been reviewed and [deemed fit for Agile development](), these are the steps to consider when starting an Agile project at GSA:
+If a project has been reviewed and [deemed fit for Agile development]<a href="{{ site.baseurl }}/guides/How_to_Determine_Projects_Fit_for_Agile/>Link</a>, these are the steps to consider when starting an Agile project at GSA:
 
 |**Steps** | **Helpful Links**
 |---------------|---------------|
