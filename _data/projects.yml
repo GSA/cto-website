@@ -70,7 +70,7 @@
   description: Microsite dedicated to sharing the recently published General Services Administration’s (GSA) policy on open source software development and to communicate responsibilities to the organization for compliance with Office of Management and Budget’s (OMB) open source policy.
   links:
     - title: GSA OSS Policy
-      url: https://gsa.github.io/GSAOpenSourcePolicy/policy/
+      url: https://open.gsa.gov/code/
 
 - name: GSA Open Gov Plan
   contact_name: Sara cope
