@@ -16,7 +16,7 @@ audiences:
 
 ### Scrum Meetings AKA Ceremonies
 
-<a name="sprint-planning"></a>**1. Sprint Planning**
+<a name="sprint-planning"></a>**1. [Sprint Planning]({{ site.baseurl }}/guides/conducting_sprint_planning)**
 
 |**The Meeting** | **Tips and Benefits**
 |---------------|---------------|
