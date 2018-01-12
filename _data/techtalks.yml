@@ -13,8 +13,8 @@
   location: Virtual and 1800F Room 4113
   description: Are you looking to increase cross-functional communication and transparency, while better engaging end users and showing  progress more rapidly for your projects or pilots? Depending on the nature of the effort, an Agile approach can help you achieve your goals! Join us as Alicia Cyrus presents the CTO Office recommendations and resources for conducting an Agile project
   presenter: Alicia Cyrus
-  register: https://docs.google.com/forms/d/1GWcbwU8DcDUeAql0LTIlOTrEIAKWCjq6mLlgmQw5oCM/
-  slides: 
+  register: 
+  slides: /assets/downloads/techtalks/tech-talk-conducting-an-agile-project.pdf
   recording:
 - title: Privacy Tech Talk with Richard Speidel  
   date: December 7, 2017
