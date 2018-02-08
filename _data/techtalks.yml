@@ -1,3 +1,12 @@
+ title: Robotics Process Automation (RPA) Tech Talk with Jasmeen Bowman
+  date: February 22, 2018
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 3334
+  description: Robotics Process Automation (RPA) is automation of a manual process that is largely rules based, structured, and repetitive using software robots. Two pilots are currently being conducted at GSA, which if successful, will be leveraged to prove out, build, and stand-up an RPA enterprise solution at GSA using an iterative approach. Join us on the 22nd to learn more about RPA at GSA.
+  presenter: Jasmeen Bowman
+  register: https://docs.google.com/forms/d/1LBPeo2pLFCVAl7pKMUhjHJ3geH8QymKIBBU6VHUVzXc/
+  slides: 
+  recording:
 - title: Manufacturing your infrastructure with Terraform Tech Talk with Aidan Feldman
   date: February 8, 2018
   time: 11a-11:30a
