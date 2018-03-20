@@ -1,11 +1,27 @@
+- title: Parametric and Logical Types for Programming and Architecture Tech Talk 
+  date: April 16, 2018
+  time: 1-1:30p
+  location: Virtual and 1800F Room 2002                          
+  description: >
+   <p>Below is this Tech Talk’s Objective.  All are welcome, but it is a more Technical topic than most Tech Talks 
+   <p>Milner's slogan "Well typed programs can't go wrong" characterizes type-safe computation
+   <p>Strongly typed languages with static type checking allow both parametric polymorphism and lifting their logic to the type system. This constructive logic is sound and complete. UML templates allow us to represent such type-safe computation in a technical architecture.
+   <p>Rick will introduce parametric and logical types for programming and architecture with examples from both Java Generics and UML templates. Participants are encouraged to read Rick's paper "Parametric and Logical Types for Model-Driven Engineering" before the talk.
+   <p>We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
+   <p>Paper: <a href="/assets/downloads/techtalks/params.pdf">Parametric and Logical Types for Model-Driven Engineering</a>
+  presenter: Rick Murphy
+  register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
+  recording:
 - title: Digital Signature Solutions Tech Talk 
   date: March 22, 2018
   time: 1-1:30p
   location: Virtual and 1800F Room 3022
-  description: >
-    <p>Digital Signatures Solutions (DSS) is THE enterprise wide secure signing solution in GSA today!  This tool that is used to incorporate digital signatures on all paperless transactions is known as e-SignLive.. We offer vanilla out of the box solutions to those who need it, as well as customized and integrated and API driven solutions for those who require more specific customization depending on their use case. As of today, we have 3000+ users</p>
-    <p>We offer informal, need based individual training to user groups. These meetings are held using Adobe meeting space and can have a number of attendees ranging from 2 to close to 200. Come to the Digital Signature Solutions Tech Talk to learn more about how this product can help you and your organization.</p>
-  presenter: Neel Phadke
+  description: > 
+     <p>Digital Signatures Solutions (DSS) is THE enterprise wide secure signing solution in GSA today! 
+     <p>This tool that is used to incorporate digital signatures on all paperless transactions is known as e-SignLive..
+     <p>We offer vanilla out of the box solutions to those who need it, as well as customized and integrated and API driven solutions for those who require more specific customization depending on their use case. 
+     <p>As of today, we have 3000+ users</p>
+     <p>We offer informal, need based individual training to user groups. These meetings are held using Adobe meeting space and can have a number of attendees ranging from 2 to close to 200. Come to the Digital Signature Solutions Tech Talk to learn more about how this product can help you and your organization.</p>
   register: https://docs.google.com/forms/d/1521jxV73tZxfvbIMpOPGrLSbtufwPaOahuKYcL2T798/
   recording:
 - title: GSA IT Strategy with Balanced Scorecard
