@@ -8,7 +8,7 @@
    <p>Strongly typed languages with static type checking allow both parametric polymorphism and lifting their logic to the type system. This constructive logic is sound and complete. UML templates allow us to represent such type-safe computation in a technical architecture.
    <p>Rick will introduce parametric and logical types for programming and architecture with examples from both Java Generics and UML templates. Participants are encouraged to read Rick's paper "Parametric and Logical Types for Model-Driven Engineering" before the talk.
    <p>We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
-   <p>Paper: [Parametric and Logical Types for Model-Driven Engineering]({{site.baseurl}}/assets/downloads/techtalks/params.pdf)
+   <p>Paper: <a href="/assets/downloads/techtalks/params.pdf">Parametric and Logical Types for Model-Driven Engineering</a>
   presenter: Rick Murphy
   register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
   recording:
