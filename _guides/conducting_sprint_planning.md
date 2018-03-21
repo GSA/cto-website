@@ -35,6 +35,5 @@ These are good references for conducting a Sprint Planning:
 * [Should We Or Shouldn’t We – Accept Requirement Changes Within A Sprint?](https://www.izenbridge.com/blog/accept-requirement-changes-within-a-sprint/)
 * [Sprint Planning Meeting](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-planning-meeting)
 * [Sprint Planning: Remember it’s a Sprint, not a Marathon](http://www.full-stackagile.com/2016/02/05/sprint-planning-remember-its-a-sprint-not-a-marathon/)
-* [The Thin Line Between Changing and Adapting and Scope Creep](https://www.scrumalliance.org/community/articles/2015/october/the-thin-line-between-changing-and-adapting-and)
 * [Three Options When the Boss Changes Priorities Mid-Sprint](http://itsadeliverything.com/three-options-when-the-boss-changes-priorities-mid-sprint)
 * [Understanding the Agile Release and Sprint Planning Process](https://www.slideshare.net/johnaderrico/app-16195057)

@@ -51,7 +51,6 @@ Estimation and story pointing identifies the level of effort to complete a requi
 
 ### Good Reads
 These are good references for estimation:
-* [Scrum Effort Estimation and Story Points](http://scrummethodology.com/scrum-effort-estimation-and-story-points/)
 * [Secrets of Agile Estimation](https://www.atlassian.com/agile/estimation)
 * [Estimation Exercise (TastyCupcakes)](http://tastycupcakes.org/tag/estimation/)
 
