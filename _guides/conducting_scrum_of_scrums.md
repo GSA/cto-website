@@ -34,7 +34,7 @@ Cross-Teams Stand-ups are also used in scaled Agile approaches. While often conf
 
 ### Good Reads
 These are good references for conducting a Scrum of Scrums:
-* [5 Must-Have Agenda Items in a Scrum of Scrum Meeting](https://www.scrumalliance.org/community/articles/2016/march/5-must-have-agenda-items-in-a-scrum-of-scrum-meeti)
+* [5 Must-Have Agenda Items in a Scrum of Scrum Meeting](http://aits.org/agile/2016/03/5-must-have-agenda-items-in-a-scrum-of-scrum-meeting/)
 * [Advice on Conducting the Scrum of Scrums Meeting](https://www.mountaingoatsoftware.com/articles/advice-on-conducting-the-scrum-of-scrums-meeting)
 * [AgileAlliance: Scrum of Scrums](https://www.agilealliance.org/glossary/scrum-of-scrums/)
 * [Daily Standup and Scrum of Scrums - what should be the order of meetings?](https://www.scrum.org/forum/scrum-forum/5723/daily-standup-and-scrum-scrums-what-should-be-order-meetings)

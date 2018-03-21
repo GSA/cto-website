@@ -29,7 +29,7 @@ As with Agile frameworks, DevSecOps incorporates lean, synergistic practices, li
 ### Supporting a DevSecOps Culture
 Regardless of their differing focal points in the cycle of delivery, both Agile and DevSecOps share similar goals of eliminating silos, promoting collaboration and teamwork, and providing better, faster delivery. Though DevSecOps is driven by the “engineering” functions of Development, Security, and Operations, Business support can enhance the DevSecOps process.
 
-Business support begins with understanding how work flows throughout the organizational level. As [Jamie Miller](http://valueflowit.com.au/it-operations-only-does-4-things/#more-662) states, there are **four types of work** - *“business projects, internal projects, operational changes, and unplanned work.”* As an organization builds their understanding of their work, they can better manage coordination and uncover the restraints that impact their efforts. 
+Business support begins with understanding how work flows throughout the organizational level. As [Jamie Miller](https://www.valueflow.com.au/itdoes4things/) states, there are **four types of work** - *“business projects, internal projects, operational changes, and unplanned work.”* As an organization builds their understanding of their work, they can better manage coordination and uncover the restraints that impact their efforts. 
 
 At the Team level, that coordination ensures Operations and Security team members are engaged with Development from the *very beginning* of an effort; an engagement championed by the Business role leading the project / product. The organizational knowledge of potential restraints or impacts to an effort strengthens the team’s ability to:
 * Improve delivery of projects
@@ -49,7 +49,7 @@ These are good references for understanding Agile & DevSecOps:
 * [How are DevOps and Agile different?](https://www.quora.com/How-are-DevOps-and-Agile-different)
 * [How are Lean, Agile, and Devops related to each other?](http://www.agileweboperations.com/lean-agile-devops-related)
 * [Importance of Agile in 2016](http://e5workflow.com/blog/importance-of-agile-in-2016/)
-* [IT Operations Only Does 4 Things.](http://valueflowit.com.au/it-operations-only-does-4-things/)
+* [IT Operations Only Does 4 Things.](https://www.valueflow.com.au/itdoes4things/)
 * [ShiwaForce: What is DevOps?](https://www.shiwaforce.com/mi-az-devops/)
 * [The Agile Admin: What is DevOps?](https://theagileadmin.com/what-is-devops/)
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3/ref=dp_kinw_strp_1)

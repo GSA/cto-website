@@ -24,5 +24,5 @@ These are good references for conducting a Sprint Review (Demo):
 * [It’s a Sprint Review Not a Sprint Demo!](http://www.innolution.com/blog/its-a-sprint-review-not-a-sprint-demo)
 * [Sprint Review](https://www.scruminc.com/sprint-review/)
 * [Sprint Review Meeting](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting)
-* [Stop Calling Your Sprint Review a Demo—Words Matter!](https://www.scrumalliance.org/community/spotlight/ken-rubin/january-2015/stop-calling-your-sprint-review-a-demo%E2%80%94words-matte)
+* [Stop Calling Your Sprint Review a Demo—Words Matter!](http://aits.org/agile/2015/02/stop-calling-your-sprint-review-a-demo-words-matter/)
 * [What is a Sprint Review?](https://www.scrum.org/resources/what-is-a-sprint-review)

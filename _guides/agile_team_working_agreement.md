@@ -51,4 +51,4 @@ These are good references for understanding Agile Team Working Agreements:
 * [How to Create Agile Team Working Agreements](https://www.scrumalliance.org/community/articles/2015/march/how-to-create-agile-team-working-agreements)
 * [Team ground rules and working agreements](https://nomad8.com/team-ground-rules/)
 * [What is a team ground rule or team working agreement](https://agilefaq.wordpress.com/2007/11/21/what-is-a-team-ground-rule-or-team-working-agreement/)
-* [Work Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-scrum-team)
+* [Work Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team)

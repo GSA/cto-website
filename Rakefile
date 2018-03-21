@@ -59,7 +59,8 @@ namespace :test do
       puts "Running HTML Proofer on all links..."
       options = {
         check_html: true,
-        empty_alt_ignore: true
+        empty_alt_ignore: true,
+        url_ignore: [/docs.google.com/, /ea.gsa.gov/]
       }
       HTMLProofer.check_directory("./_test", options).run
     end
