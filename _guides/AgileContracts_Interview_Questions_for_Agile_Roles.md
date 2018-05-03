@@ -22,7 +22,7 @@ This content provides scenarios and questions that are intended to guide the the
 <div class="usa-accordion">
   <ul class="usa-unstyled-list">
     <li>
-      <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+      <button class="usa-accordion-button" aria-expanded="false" aria-controls="question-1">
         Scrum Master Interview Questions
       </button>
       <div id="question-1" class="usa-accordion-content">
@@ -47,7 +47,7 @@ The Scrum Master (SM) is responsible for facilitating and maintaining the Scrum 
       </div>
     </li>
     <li>
-      <button class="usa-button-unstyled" aria-controls="question-2">
+      <button class="usa-accordion-button" aria-controls="question-2">
         Product Owner Interview Questions
       </button>
       <div id="question-2" class="usa-accordion-content">
@@ -72,7 +72,7 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
       </div>
     </li>
     <li>
-      <button class="usa-button-unstyled" aria-controls="question-3">
+      <button class="usa-accordion-button" aria-controls="question-3">
         Developer Interview Questions
       </button>
       <div id="question-3" class="usa-accordion-content">
@@ -94,7 +94,7 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
       </div>
     </li>
     <li>
-      <button class="usa-button-unstyled" aria-controls="question-4">
+      <button class="usa-accordion-button" aria-controls="question-4">
        Tester Interview Questions
       </button>
       <div id="question-4" class="usa-accordion-content">
