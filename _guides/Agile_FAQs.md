@@ -12,7 +12,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-expanded="false" aria-controls="question-1">
+          <button class="usa-accordion-button" aria-expanded="false" aria-controls="question-1">
             What is Agile?
           </button>
           <div id="question-1" class="usa-accordion-content">
@@ -27,7 +27,7 @@ audiences:
         </div>
         </li>
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-2">
+          <button class="usa-accordion-button" aria-controls="question-2">
             What is the Agile Manifesto?
           </button>
           <div id="question-2" class="usa-accordion-content">
@@ -52,7 +52,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-3">
+          <button class="usa-accordion-button" aria-controls="question-3">
            What are the Principles of Agile?
           </button>
           <div id="question-3" class="usa-accordion-content">
@@ -81,7 +81,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-4">
+          <button class="usa-accordion-button" aria-controls="question-4">
           What are the most common Agile methodologies?
           </button>
         <div id="question-4" class="usa-accordion-content">
@@ -122,7 +122,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-5">
+          <button class="usa-accordion-button" aria-controls="question-5">
            What is the difference between Agile and Traditional Project Management?
           </button>
         <div id="question-5" class="usa-accordion-content">        
@@ -160,7 +160,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-6">
+          <button class="usa-accordion-button" aria-controls="question-6">
            How do organizations benefit from being Agile?
           </button>
         <div id="question-6" class="usa-accordion-content">        
@@ -182,7 +182,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-7">
+          <button class="usa-accordion-button" aria-controls="question-7">
            What are the common challenges to adopting Agile?
           </button>
         <div id="question-7" class="usa-accordion-content">        
@@ -206,7 +206,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-8">
+          <button class="usa-accordion-button" aria-controls="question-8">
            Do Agile approaches only work in the Software Development Industry?
           </button>
         <div id="question-8" class="usa-accordion-content">        
@@ -225,7 +225,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-9">
+          <button class="usa-accordion-button" aria-controls="question-9">
            Is Agile suitable for all projects?
           </button>
         <div id="question-9" class="usa-accordion-content">        
@@ -252,7 +252,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-10">
+          <button class="usa-accordion-button" aria-controls="question-10">
            Who is practicing Agile?
           </button>
         <div id="question-10" class="usa-accordion-content">        
@@ -285,7 +285,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-11">
+          <button class="usa-accordion-button" aria-controls="question-11">
            What are the trends in Agile?
           </button>
         <div id="question-11" class="usa-accordion-content">      
@@ -312,7 +312,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-12">
+          <button class="usa-accordion-button" aria-controls="question-12">
            Are there specific tools for Agile?
           </button>
         <div id="question-12" class="usa-accordion-content">      
@@ -337,7 +337,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-13">
+          <button class="usa-accordion-button" aria-controls="question-13">
            What are the most popular trainings / certifications on Agile?
           </button>
         <div id="question-13" class="usa-accordion-content">  
@@ -362,7 +362,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-14">
+          <button class="usa-accordion-button" aria-controls="question-14">
            Where can I find industry Agile conferences / events?
           </button>
         <div id="question-14" class="usa-accordion-content">      
@@ -387,7 +387,7 @@ audiences:
     <div class="usa-accordion">
       <ul class="usa-unstyled-list">
         <li>
-          <button class="usa-button-unstyled" aria-controls="question-15">
+          <button class="usa-accordion-button" aria-controls="question-15">
            Where can I find credible resources on Agile?
           </button>
         <div id="question-15" class="usa-accordion-content">      
