@@ -89,3 +89,12 @@
   links:
     - title: CTO Case Study
       url: /assets/downloads/CTO.Office.Case.Study.Implementing.Agile.pdf
+
+- name: DevSecOps Working Group and GRACE
+  contact_name:
+  contact_email:
+  stage: alpha
+  link:
+  repository_link:
+  picture:
+  description: The DevSecOps Working Group is an initiative to encourage learning and application of DevSecOps principles across GSA. GSA Readily Accessible Computing Environment (GRACE) is an IaaS platform that provides application teams with a place to apply these DevSecOps practices.
