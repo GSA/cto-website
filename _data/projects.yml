@@ -3,7 +3,7 @@
 - name: tech.gsa.gov
   contact_name: Office of the CTO
   contact_email: cto@gsa.gov
-  stage: beta
+  stage: live
   link:
   repository_link: https://github.com/GSA/cto-website
   picture: project_tech.gsa.gov.jpg
@@ -12,7 +12,7 @@
 - name: open.gsa.gov
   contact_name: Sara Cope
   contact_email: sara.cope@gsa.gov
-  stage: beta
+  stage: live
   link: http://open.gsa.gov/
   repository_link: https://github.com/GSA/open-gsa-redesign
   picture: project_open.gsa.gov.png
