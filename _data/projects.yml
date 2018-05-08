@@ -36,18 +36,6 @@
   picture: project_challengetoolkit.png
   description: Development of the Federal Challenges & Prizes Toolkit to fulfill the President's commitment to improve public services through support of open innovation by harnessing the ingenuity of the american public (as outlined in the 2nd Open Government National Action Plan).
 
-- name: PBS Comfort App
-  contact_name: Jeff Fredrickson
-  contact_email: jeffrey.fredrickson@gsa.gov
-  stage: alpha
-  link:
-  repository_link: https://github.com/GSA/pbs-sensor
-  picture: project_pbs_comfort.png
-  description: An application that utilizes environmental sensor data at GSA to integrate with hoteling and reserving workspaces in GSA buildings. It allows users to choose where to sit based on temperature, light, sound, etc.
-  links:
-    - title: PBS Case Study
-      url: /assets/downloads/PBS_Case_Study.pdf
-
 - name: National Staffing Application
   contact_name: Joseph Castle
   contact_email: joseph.castle@gsa.gov
