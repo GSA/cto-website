@@ -59,3 +59,4 @@ These are good references for story pointing and the Fibonacci series:
 * [Story Points Are Still About Effort](https://www.mountaingoatsoftware.com/blog/story-points-are-still-about-effort)
 * [The Main Benefit of Story Points](https://www.mountaingoatsoftware.com/blog/the-main-benefit-of-story-points)
 * [What is a Story Point?](https://agilefaq.wordpress.com/2007/11/13/what-is-a-story-point/)
+* [Image Source](https://agilewarrior.wordpress.com/tag/estimation/)
