@@ -24,7 +24,8 @@
    <p>We want to share with you the steps we must complete, the reviews that are required, and the approvals that must be acquired. 
    <p>We also want to hear from you, so join us on April 26th and bring your questions
   presenter: Cindy Smith and Gokul Ramamoorthy
-  register: https://docs.google.com/forms/d/1jugJMhAXin9wV5Ug6UZo8N-uh5cbMTvP11iP7BTX9j0/
+  register: 
+  slides: /assets/downloads/techtalks/ITStandardsTechTalk.pdf
   recording:
 - title: Parametric and Logical Types for Programming and Architecture Tech Talk 
   date: April 16, 2018
