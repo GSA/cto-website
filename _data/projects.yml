@@ -98,3 +98,12 @@
   repository_link:
   picture:
   description: The DevSecOps Working Group is an initiative to encourage learning and application of DevSecOps principles across GSA. GSA Readily Accessible Computing Environment (GRACE) is an IaaS platform that provides application teams with a place to apply these DevSecOps practices.
+
+- name: Opioids.gov
+  contact_name:
+  contact_email:
+  stage: live
+  link: https://www.opioids.gov/
+  repository_link: https://github.com/GSA/opioids.gov
+  picture: project_opioids.png
+  description:
