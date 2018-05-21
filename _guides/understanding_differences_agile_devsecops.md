@@ -1,6 +1,6 @@
 ---
 title: Understanding the Differences Between Agile & DevSecOps - from a Business Perspective
-category: DevOps
+category: DevSecOps
 audiences:
   - Developers
   - Designers

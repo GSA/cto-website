@@ -1,11 +1,74 @@
+- title: Privacy Tech Talk with Richard Speidel  
+  date: December 7, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 2213
+  description: Heard about the Equifax breach? Were you affected by it or any other recent cyber security or privacy incident? Ever wonder what GSA IT is doing in the area of information privacy? Come to the Privacy Tech Talk and listen to Richard Speidel and the privacy team talk about the importance of Privacy here at GSA IT and get answers to any questions you may have.
+  presenter: Richard Speidel
+  register: https://docs.google.com/forms/d/1POLpkRUoOd0H5mspCY4wevE5uXeusbnTb8PnKNkyqvw/
+  slides: 
+  recording:
+- title: Github Tech Talk with Sara Cope
+  date: November 16, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 3211
+  description: "A Tour of GitHub for Non-Developers: GitHub is a collaboration platform where users can work on open source projects together. In this session, we’ll take a look at the many GitHub features and get you up to speed with version control terminology. We’ll also take a look at a few workflows in GitHub for contributing to open source projects without coding. This is a beginner friendly session for someone who has little to no experience with GitHub."
+  presenter: Sara Cope
+  register:
+  slides: /assets/downloads/techtalks/GitHub-TechTalk-Sara-Nov2017.pdf
+  recording:
+- title: TBM Tech Talk with Megan Sikora
+  date: November 2, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 3334
+  description: Ever find yourself always trying to answer the question of why IT costs what it does or a cost per user?  Do your customers want more information as to what drives the cost of the services GSA IT delivers, but you find yourself answering questions with more question? What if there was a standard taxonomy and model that once loaded with the copious amounts of data that we possess that could answer those questions? In fact, what if those questions could be answered and we could drive both ourselves and our users to more efficient and effective uses of our IT? This answer does exist within our Cost Transparency Initiative, utilizing Technology Business Management.  Please join us for this TechTalks to learn more about cost transparency and how we can shape business demand and deliver value for money.
+  presenter: Megan Sikora
+  register: 
+  slides: /assets/downloads/techtalks/GSAITCostTransparencyTechTalkNov2017.pdf
+  recording:
+- title: GEAR Tech Talk with Chris Campbell
+  date: October 26, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 3334
+  description: Maybe you've heard someone talking about GEAR, and want to know what it's all about. Or maybe you've used GEAR to check if a certain technology is approved at GSA. Did you know you can export all of these reports? Do you know how to see which applications belong to a single 2-letter office? Do you know how to get incorrect information updated? The EA team will provide a demo that will walk through the basic lists managed within GEAR, as well as some less-well-known ways to search for your favorite information. Come and see how much information is already available at your fingertips! 
+  presenter: Chris Campbell
+  register: 
+  slides: /assets/downloads/techtalks/GEARTechTalk.pptx.pdf
+  recording:
+- title: Data Sciences October 5th Tech Talk with Amirah Aziz
+  date: October 5, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 5213
+  description: Opportunities for data scientists—one of today’s hottest skills—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Data scientists are needed in GSA to find insights into this data and to solve meaningful business problems within the agency. In this talk, we’ll explore what it means to be a data scientist as well as data science process workflow, tools, technology, and upcoming GSA training in Data Science.
+  presenter: Amirah Aziz
+  register: 
+  slides: /assets/downloads/techtalks/tech-talk-data-sciences.pdf
+  recording:
+- title: Salesforce Lightning for Gmail with Prerana Bhatt
+  date: September 21, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 2213
+  description: Salesforce Lightning for Gmail is a brand new way to experience Salesforce right from within Gmail for CRM customers. Lightning for Gmail provides ability to integrate Salesforce with Google G Suite email and calendar applications. Salesforce team will provide demo to highlight how users can perform various actions in Salesforce from within Gmail which helps to increase productivity, efficiency and eliminates duplicate efforts.
+  presenter: Prerana Bhatt
+  register:
+  slides: /assets/downloads/techtalks/tech-talk-lightning-gmail.pdf
+  recording:
+- title: Google App Scripts to the Rescue! With Mark Vogelgesang
+  date: September 7, 2017
+  time: 1p-1:30p
+  location: Virtual and 1800F Room 2213
+  description: Recently, Google App Scripts were made available for development by everyone at GSA. App Scripts yield tremendous power and can help automate many tasks that previously required manual intervention. For instance, do you want to automatically send calendar invites based on form responses? Or perhaps you want to scan a particular team folder to ensure that sharing settings are as expected. With a little bit of javascript knowledge, you can quickly start producing scripts for use by yourself and your team. In the talk, we will cover some app script basics, talk about the approval process for their use at GSA, and a quick example app.
+  presenter: Mark Vogelgesang
+  register: 
+  slides: /assets/downloads/techtalks/tech-talk-google-app-scripts.pdf
+  recording:
 - title: DevSecOps – A Case Study (D2D migration to Cloud) with Kishore Kakani
   date: August 17, 2017
   time: 1p-1:30p
   location: Virtual and 1800F Room 3334
   description: The objective of this tech talk is to explain the use of DevSecOps framework to migrate application workloads to cloud. The CTO team is collaborating with various teams (incl. IDI, security, and application development leads) to define and build DevSecOps framework to help migrate application workloads to cloud. The goal is to ‘develop/deploy/operate’ through automation. As part of this journey, the CTO team worked closely with the D2D team to migrate D2D applications to cloud by building some of these automation pieces and work towards that final goal of developing automated CI/CD pipelines. In this presentation, we will go over the D2D migration steps in detail and understand how DevSecOps automation process can help build repeatable infrastructure/application deployments with minimal manual intervention, and shorter provisioning times.
   presenter: Kishore Kakani
-  register: https://docs.google.com/forms/d/e/1FAIpQLSfy2-HFRJ54wPi_FGCvIR6PLWKxRpOBntHHW5RBIqyXXxizDA/viewform
-  slides:
+  register: 
+  slides: /assets/downloads/techtalks/tech-talk-devsecops--for-d2d Platform.pdf
   recording:
 - title: Creating InSite pages with Joy Gatewood
   date: August 10, 2017
@@ -32,8 +95,8 @@
   location: Virtual and 1800F
   description: D2D is a GSA-wide initiative and cultural shift to bring GSA datasets together, ensure consistency of reporting, and empower employees at all levels with the outcome of building a data-driven organization. It is a capability used to aggregate data, store data securely using  modern cloud technology, and develop flexible reports for your customers.  During this tech talk, Kris Rowley, GSA Chief Data Officer, will present D2D's portal capabilities, offer discussion around what D2D can do to help better support our daily jobs, and answer any data related questions specific to the business. The D2D team hopes to continue contributing to the to the improvement of GSA's overall customer experience by helping reach insights quickly, collaborate meaningfully, and build a community around data.
   presenter: Kris Rowley, GSA Chief Data Officer
-  register: https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfzfKlfqce7BKIAPiKvOAYrK8opZGvhfejPQTRVOyrH1JZBGA/viewform
-  slides: 
+  register:
+  slides:
   recording:
 - title: Application Programming Interfaces (APIs) and GSA
   date: July 20, 2017
@@ -43,7 +106,7 @@
     <p>Do you ever wonder how applications are synced across multiple devices? How you are able to receive instant updates to your mobile apps? This is possible because of Application Programming Interfaces, or APIs. APIs are software programs that enable computer programs and systems to talk directly to each other.</p>
     <p>If you would like to understand how APIs work, then this Tech Talk is for you! Ryan Day and Joe Castle of IC and the GSA Digital Service team are going to explain APIs with particular focus on data transfer over web protocols and RESTful design with considering endpoints, nouns, and verbs. They will also demonstrate popular commercial and GSA examples while discussing the value they provide to the Agency and end consumers. Furthermore, information will be provided about GSA's API strategy, API inventory, and API standards for those wanting to create APIs.</p>
   presenter: Ryan Day and Joe Castle
-  register: 
+  register:
   slides: /assets/downloads/techtalks/apis-tech-talk.pdf
   recording:
 - title: Application Performance Monitoring within GSA's PBS IT

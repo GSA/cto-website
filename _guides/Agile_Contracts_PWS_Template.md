@@ -14,19 +14,18 @@ audiences:
   }
 </style>
 
+This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in-line with an Agile delivery process.
 
-<p>This content provides contract language guidelines and is intended to serve as a template for the government representative during the development of a Performance Work Statement (PWS) under an Agile BPA. The sample language provided here can be used to clearly outline and communicate the background, objectives, and delivery requirements of the intended product / service in-line with an Agile delivery process.</p>
+[GSA Tech Guides](https://tech.gsa.gov/guides/) also provides additional content and guidelines that delve further into and provide concrete tools/techniques on requirement breakdown and relevant sizing approaches to encourage delivery on an Agile project. Some example content include:
 
-<p> Tech.gsa.gov/guides/ also provides additional content and guidelines that delve further into and provide concrete tools/techniques on requirement breakdown and relevant sizing approaches to encourage delivery on an Agile project. Some example content include: </p>
-
-<p><i><li>[Conducting an Agile Project](https://tech.gsa.gov/guides/conducting_an_agile_project/)</li></i></p>
-<p><i><li>[Managing Requirements in an Agile Environment](https://tech.gsa.gov/guides/managing_requirements/)</li></i></p>
-<p><i><li>[Defining When a Requirement is Complete](https://tech.gsa.gov/guides/requirements_complete/)</li></i></p>
-<p><i><li>[Estimation and Relative Sizing](https://tech.gsa.gov/guides/estimation_and_storypointing/)</li></i></p>
+* [Conducting an Agile Project](https://tech.gsa.gov/guides/conducting_an_agile_project/)
+* [Managing Requirements in an Agile Environment](https://tech.gsa.gov/guides/managing_requirements/)
+* [Defining When a Requirement is Complete](https://tech.gsa.gov/guides/requirements_complete/)
+* [Estimation and Relative Sizing](https://tech.gsa.gov/guides/estimation_and_storypointing/)
 
 Moreover, [Interview Questions for Agile Vendors](https://tech.gsa.gov/guides/Agile_Contracts_Interview_Questions_for_Agile_Vendors/) and Specific [Agile Roles](https://tech.gsa.gov/guides/AgileContracts_Interview_Questions_for_Agile_Roles/) contents provde further guidance for GSA staff on what to inquire and expect from contractors during the vetting process.
 
-<h1> PERFORMANCE WORK STATEMENT (PWS) TEMPLATE </h1>
+# PERFORMANCE WORK STATEMENT (PWS) TEMPLATE
 
 **[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
 
@@ -222,10 +221,10 @@ _Sample Language for POP_
 
 <p>[Add specific details applicable here]</p>
 
-**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)** for additional resources including <b>pricing templates</b>
-
+**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)** for additional resources including *pricing templates*
 
 **References**
+
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
 * [Software Development: Effective Practices and Federal Challenges in Applying Agile Methods, Agile Contracts Primer](http://www.gao.gov/products/GAO-12-681) Tom Arbrogast, Craig Larman, and Bas Voddee,
 * [Finding a Partner to Trust](http://www.agilecontracts.org) The Agile RFP, by Peter Stevens cited
