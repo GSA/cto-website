@@ -8,7 +8,8 @@
     <p>Peter with the cloud.gov team will walk you through deploying a database-backed web application, and illustrate how cloud.gov is different from other cloud offerings.</p>
     <p>In particular, the Cloud Foundry-based PaaS offloads much of the work that IaaSes require for security and compliance -- saving you money and vastly speeding up time to delivery.</p>
   presenter: Peter Burkholder
-  register: https://docs.google.com/forms/d/11LaY0CNxBgpuGUVgqPYyA8ZXm9lZnAOMojb9kdN05YE/
+  register: 
+  slides: /assets/downloads/techtalks/cloud_gov.pdf
   recording:
 - title: Cloud Strategy Tech Talk 
   date: May 10, 2018
