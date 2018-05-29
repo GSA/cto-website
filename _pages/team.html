@@ -9,7 +9,9 @@ layout: base
 </div>
 
 <div class="team">
-  {% team %}
+  {% assign members = site.team | sort: 'lastname' %}
+  {% assign members = members | sort: 'ordering' %}
+  {% for member in members %}
     {% assign loopstatus = forloop.index | modulo: 4 %}
     {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
       <div class="member usa-width-one-fourth">
@@ -39,5 +41,5 @@ layout: base
     {% elsif forloop.last %}
       </div>
     {% endif %}
-  {% endteam %}
+  {% endfor %}
 </div>
