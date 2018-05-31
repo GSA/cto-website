@@ -1,3 +1,16 @@
+- title: Section 508 Testing for Developers Tech Talk
+  date: June 14, 2018
+  time: 1-1:30p
+  location: Virtual and 1800F
+  description: >
+    <p>Andrew Starling (IAE) and Dan Perkins (GSA IT Section 508 team) have worked together in conducting Section 508 testing during the design and development of beta.sam.gov.</p>
+    <p>This Tech Talk will provide an overview of their Section 508 testing processes and how they complement each other.</p>
+    <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.
+    </p>
+  presenter: Andrew Starling, Dan Perkins, and Mark Buchko
+  register: https://docs.google.com/forms/d/1JAiL9F_6VnsF1pxbYz-6F1Hl0Sv6iFZOaJJop6Ur6TM/edit
+  slides: 
+  recording:
 - title: Cloud.gov Quick Start and Whirlwind Tour Tech Talk 
   date: May 24, 2018
   time: 1-1:30p
