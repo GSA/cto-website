@@ -30,7 +30,6 @@ These are good references for conducting a Daily Scrum / Stand-up:
 * [Effective Scrum](https://www.slideshare.net/SndorZoltaSzkelySipo/effective-scrum)
 * [How to Use the Daily Stand-up Meeting Effectively](https://www.scrumalliance.org/community/articles/2012/june/how-to-use-the-daily-stand-up-meeting-effectively)
 * [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html)
-* [Stand-up meeting : (Not?) to do lists](https://blog.netapsys.fr/stand-up-meeting-not-to-do-lists/)
 * [Top Five Reasons Product Owners Should Attend Daily Scrums](https://www.scrumalliance.org/community/articles/2013/december/top-five-reasons-product-owners-should-attend-dail)
 * [Top 10 Best Practices for Productive Stand Ups](https://www.solstice.com/blog/top-10-best-practices-for-productive-stand-ups)
 * [What is a Daily Scrum?](https://www.scrum.org/resources/what-is-a-daily-scrum)
