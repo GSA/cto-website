@@ -34,6 +34,6 @@ These are good references for understanding the visibility and status in an Agil
 * [Controlling agile development in a project portfolio framework](http://www.networkworld.com/article/2183797/tech-primers/controlling-agile-development-in-a-project-portfolio-framework.html)
 * [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
 * [Integrating Agile into a Waterfall World](https://www.infoq.com/articles/agile-in-waterfall-world)
-* [Transitioning Toward a New Organizational Paradigm](http://www.robbinsgioia.com/downloads/perspectives/program-management-agile.pdf)
+* [Transitioning Toward a New Organizational Paradigm](http://www.performanceinstitute.org/wp-content/Agile_White_Paper_Final2.pdf)
 * [(In Agile) Where do all the managers go?](http://www.disciplinedagiledelivery.com/where-managers-go/)
 * [Why is visibility so important in scrum / any agile team?](https://charlenedickson.wordpress.com/why-is-visibility-so-important-in-scrum-any-agile-team/)
