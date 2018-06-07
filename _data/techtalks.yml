@@ -5,13 +5,13 @@
   description: >
     <p>Andrew Starling (IAE) and Dan Perkins (GSA IT Section 508 team) have worked together in conducting Section 508 testing during the design and development of beta.sam.gov.</p>
     <p>This Tech Talk will provide an overview of their Section 508 testing processes and how they complement each other.</p>
-    <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.
-    </p>
+    <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.</p>
+    <p>This is the second tech talk related to the topic of IT Standards.</p>
   presenter: Andrew Starling, Dan Perkins, and Mark Buchko
   register: https://docs.google.com/forms/d/1JAiL9F_6VnsF1pxbYz-6F1Hl0Sv6iFZOaJJop6Ur6TM/edit
-  slides: 
+  slides:
   recording:
-- title: Cloud.gov Quick Start and Whirlwind Tour Tech Talk 
+- title: Cloud.gov Quick Start and Whirlwind Tour Tech Talk
   date: May 24, 2018
   time: 1-1:30p
   location: Virtual and 1800F
@@ -21,10 +21,10 @@
     <p>Peter with the cloud.gov team will walk you through deploying a database-backed web application, and illustrate how cloud.gov is different from other cloud offerings.</p>
     <p>In particular, the Cloud Foundry-based PaaS offloads much of the work that IaaSes require for security and compliance -- saving you money and vastly speeding up time to delivery.</p>
   presenter: Peter Burkholder
-  register: 
+  register:
   slides: /assets/downloads/techtalks/cloud_gov.pdf
   recording:
-- title: Cloud Strategy Tech Talk 
+- title: Cloud Strategy Tech Talk
   date: May 10, 2018
   time: 1-1:30p
   location: Virtual and 1800F
@@ -34,31 +34,31 @@
     <p>Navin will explain where we are and where we are heading in this technology frontier.</p>
     <p>Come join us for the unveiling of the GSA-IT Cloud Strategy!</p>
   presenter: Navin Vembar
-  register: 
+  register:
   slides: /assets/downloads/techtalks/Cloud_at_ GSA_Tech_Talk.pdf
   recording:
-- title: IT Standards Team Tech Talk 
+- title: IT Standards Team Tech Talk
   date: April 26, 2018
   time: 1-1:30p
-  location: Virtual and 1800F Room 4232 
+  location: Virtual and 1800F Room 4232
   description: >
-   <p>Have you ever needed a new software loaded onto your work laptop?  
+   <p>Have you ever needed a new software loaded onto your work laptop?
    <p>Where do you start, who do you contact, what information do you even need to begin?
-   <p>Never fear the GSA IT Standards team is here!! 
+   <p>Never fear the GSA IT Standards team is here!!
    <p>We will take you through the steps of acquiring the software you need.  We will start in GEAR searching through GSA approved software that can be used, to searching GEAR for an alternative that may meet your need.
    <p>We will discuss our 'New Software' request form, talk about why we ask the questions we do, and how your responses can assist us in moving your ticket through the approval process.
-   <p>We want to share with you the steps we must complete, the reviews that are required, and the approvals that must be acquired. 
+   <p>We want to share with you the steps we must complete, the reviews that are required, and the approvals that must be acquired.
    <p>We also want to hear from you, so join us on April 26th and bring your questions
   presenter: Cindy Smith and Gokul Ramamoorthy
-  register: 
+  register:
   slides: /assets/downloads/techtalks/ITStandardsTechTalk.pdf
   recording:
-- title: Parametric and Logical Types for Programming and Architecture Tech Talk 
+- title: Parametric and Logical Types for Programming and Architecture Tech Talk
   date: April 16, 2018
   time: 1-1:30p
-  location: Virtual and 1800F Room 2002                          
+  location: Virtual and 1800F Room 2002
   description: >
-   <p>Below is this Tech Talk’s Objective.  All are welcome, but it is a more Technical topic than most Tech Talks 
+   <p>Below is this Tech Talk’s Objective.  All are welcome, but it is a more Technical topic than most Tech Talks
    <p>Milner's slogan "Well typed programs can't go wrong" characterizes type-safe computation
    <p>Strongly typed languages with static type checking allow both parametric polymorphism and lifting their logic to the type system. This constructive logic is sound and complete. UML templates allow us to represent such type-safe computation in a technical architecture.
    <p>Rick will introduce parametric and logical types for programming and architecture with examples from both Java Generics and UML templates. Participants are encouraged to read Rick's paper "Parametric and Logical Types for Model-Driven Engineering" before the talk.
@@ -67,18 +67,18 @@
   presenter: Rick Murphy
   register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
   recording:
-- title: Digital Signature Solutions Tech Talk 
+- title: Digital Signature Solutions Tech Talk
   date: March 22, 2018
   time: 1-1:30p
   location: Virtual and 1800F Room 3022
-  description: > 
-     <p>Digital Signatures Solutions (DSS) is THE enterprise wide secure signing solution in GSA today! 
+  description: >
+     <p>Digital Signatures Solutions (DSS) is THE enterprise wide secure signing solution in GSA today!
      <p>This tool that is used to incorporate digital signatures on all paperless transactions is known as e-SignLive..
-     <p>We offer vanilla out of the box solutions to those who need it, as well as customized and integrated and API driven solutions for those who require more specific customization depending on their use case. 
+     <p>We offer vanilla out of the box solutions to those who need it, as well as customized and integrated and API driven solutions for those who require more specific customization depending on their use case.
      <p>As of today, we have 3000+ users</p>
      <p>We offer informal, need based individual training to user groups. These meetings are held using Adobe meeting space and can have a number of attendees ranging from 2 to close to 200. Come to the Digital Signature Solutions Tech Talk to learn more about how this product can help you and your organization.</p>
-  register: 
-  slides: /assets/downloads/techtalks/DigitalSignatureSolutionTechTalk.pdf 
+  register:
+  slides: /assets/downloads/techtalks/DigitalSignatureSolutionTechTalk.pdf
   recording:
 - title: GSA IT Strategy with Balanced Scorecard
   date: March 8, 2018
@@ -89,16 +89,16 @@
     <p>For our latest GSA IT Strategic Plan (FY 2018-2020,) GSA IT used a new strategic planning approach based on the industry best practice, Balanced Scorecard.  The Balanced Scorecard  is a system that connects an organization's strategy with performance management and simplifies how we communicate what we are trying to accomplish.  A key principle of the Balanced Scorecard is how we view our IT strategy through four perspectives - customers, stewardship ($), internal processes, and organization growth (our people, tools, and technology).</p>
     <p>This TechTalk will discuss the new strategic planning process we took to develop the GSA IT Strategic Plan and involve over 75+ employees in the strategy sessions.</p>
   presenter: Peter Lenentine and Roland Chan
-  register: 
-  slides: /assets/downloads/techtalks/TechTalk_StrategicPlanningwiththeBalancedScorecard.pdf 
+  register:
+  slides: /assets/downloads/techtalks/TechTalk_StrategicPlanningwiththeBalancedScorecard.pdf
   recording:
 - title: Everything You Always Wanted to Know about SLACK But Were Afraid to Ask
   date: March 1, 2018
   time: 1-1:30p
   location: Virtual and 1800F Room 5115
-  description: Slack is a chat client that provides a centralized way to communicate in channels that you want--about projects that matter to you--without overloading your inbox. The name is actually an acronym for "Searchable Log of All Conversation and Knowledge". It will not replace our current tools such as gmail, hangouts, google docs, Chatter etc… In fact, within Slack you can share links to content from those tools in a seamless way, to work directly with team members on specific projects. For example, if you work with a core group of people on a project, you can work within a specific channel (that you can request be created) to converse, share documents, and have a searchable log of all of your activity. 
+  description: Slack is a chat client that provides a centralized way to communicate in channels that you want--about projects that matter to you--without overloading your inbox. The name is actually an acronym for "Searchable Log of All Conversation and Knowledge". It will not replace our current tools such as gmail, hangouts, google docs, Chatter etc… In fact, within Slack you can share links to content from those tools in a seamless way, to work directly with team members on specific projects. For example, if you work with a core group of people on a project, you can work within a specific channel (that you can request be created) to converse, share documents, and have a searchable log of all of your activity.
   presenter: Monica Fitzgerald
-  register: 
+  register:
   slides: /assets/downloads/techtalks/TechTalkonSlackMarch2018.pdf
   recording:
 - title: Manufacturing your infrastructure with Terraform Tech Talk with Aidan Feldman
@@ -108,7 +108,7 @@
   description: >
     "Ok, to set up this system, go to the EC2 page in the Console, then click ‘New Instance’. Oh, sorry, that button moved - go to the Instances page first. Go ahead and create- wait, you made the subnets already, right? What about the Security Groups?" Sound familiar? Manual setup and configuration of infrastructure can be time-consuming, tedious, confusing, and error-prone. Computers are really good at following instructions - why don’t we let the computers follow the instructions for us? Better yet, what if there were a tool where we tell it what we want the infrastructure to look like, and it magically figures out how to build it? This talk will make you wonder how you ever lived without infrastructure as code, and show how Terraform can be used to turn your devops up to 11.
   presenter: Aidan Feldman
-  register: 
+  register:
   slides: /assets/downloads/techtalks/TechTalk_Manufacturing_your_infrastructure_with_Terraform.pdf
   recording:
 - title: Taxonomy Tech Talk with Angela Pitts
@@ -117,8 +117,8 @@
   location: Virtual and 1800F Room 4143
   description: In the world of Knowledge Management, Taxonomy is a discipline focused on the building of classically structured hierarchies of terms that are used to represent defined concepts. Typically, the hierarchy which is leveraged within a system is also called a taxonomy. The system employs the taxonomy to classify documents, digital assets and other information. In addition to categorizing content to improve findability (navigation and search), a taxonomy also allows content to be discovered. In these fast-paced times, taxonomies are expanding beyond the classic hierarchy to include semantic networks (often referred to as ontologies), thesauri and established lexicons (controlled vocabularies). Leveraging new tools,  taxonomy development and maintenance can ideally fit into any Continuous Improvement plan. The use of new strategies and tools also promotes interoperability and improves the flow of information through enterprise systems. As a result, organizational barriers continue to be broken down so information can be more effectively used and reused.
   presenter: Angela Pitts
-  register: 
-  slides: /assets/downloads/techtalks/tech-talk-taxonomy.pdf 
+  register:
+  slides: /assets/downloads/techtalks/tech-talk-taxonomy.pdf
   recording:
 - title: Conducting an Agile Project Tech Talk with Alicia Cyrus
   date: January 11, 2018
@@ -126,17 +126,17 @@
   location: Virtual and 1800F Room 4113
   description: Are you looking to increase cross-functional communication and transparency, while better engaging end users and showing  progress more rapidly for your projects or pilots? Depending on the nature of the effort, an Agile approach can help you achieve your goals! Join us as Alicia Cyrus presents the CTO Office recommendations and resources for conducting an Agile project
   presenter: Alicia Cyrus
-  register: 
+  register:
   slides: /assets/downloads/techtalks/tech-talk-conducting-an-agile-project.pdf
   recording:
-- title: Privacy Tech Talk with Richard Speidel  
+- title: Privacy Tech Talk with Richard Speidel
   date: December 7, 2017
   time: 1p-1:30p
   location: Virtual and 1800F Room 2213
   description: Heard about the Equifax breach? Were you affected by it or any other recent cyber security or privacy incident? Ever wonder what GSA IT is doing in the area of information privacy? Come to the Privacy Tech Talk and listen to Richard Speidel and the privacy team talk about the importance of Privacy here at GSA IT and get answers to any questions you may have.
   presenter: Richard Speidel
-  register: 
-  slides: 
+  register:
+  slides:
   recording:
 - title: Github Tech Talk with Sara Cope
   date: November 16, 2017
@@ -153,16 +153,16 @@
   location: Virtual and 1800F Room 3334
   description: Ever find yourself always trying to answer the question of why IT costs what it does or a cost per user?  Do your customers want more information as to what drives the cost of the services GSA IT delivers, but you find yourself answering questions with more question? What if there was a standard taxonomy and model that once loaded with the copious amounts of data that we possess that could answer those questions? In fact, what if those questions could be answered and we could drive both ourselves and our users to more efficient and effective uses of our IT? This answer does exist within our Cost Transparency Initiative, utilizing Technology Business Management.  Please join us for this TechTalks to learn more about cost transparency and how we can shape business demand and deliver value for money.
   presenter: Megan Sikora
-  register: 
+  register:
   slides: /assets/downloads/techtalks/GSAITCostTransparencyTechTalkNov2017.pdf
   recording:
 - title: GEAR Tech Talk with Chris Campbell
   date: October 26, 2017
   time: 1p-1:30p
   location: Virtual and 1800F Room 3334
-  description: Maybe you've heard someone talking about GEAR, and want to know what it's all about. Or maybe you've used GEAR to check if a certain technology is approved at GSA. Did you know you can export all of these reports? Do you know how to see which applications belong to a single 2-letter office? Do you know how to get incorrect information updated? The EA team will provide a demo that will walk through the basic lists managed within GEAR, as well as some less-well-known ways to search for your favorite information. Come and see how much information is already available at your fingertips! 
+  description: Maybe you've heard someone talking about GEAR, and want to know what it's all about. Or maybe you've used GEAR to check if a certain technology is approved at GSA. Did you know you can export all of these reports? Do you know how to see which applications belong to a single 2-letter office? Do you know how to get incorrect information updated? The EA team will provide a demo that will walk through the basic lists managed within GEAR, as well as some less-well-known ways to search for your favorite information. Come and see how much information is already available at your fingertips!
   presenter: Chris Campbell
-  register: 
+  register:
   slides: /assets/downloads/techtalks/GEARTechTalk.pptx.pdf
   recording:
 - title: Data Sciences October 5th Tech Talk with Amirah Aziz
@@ -171,7 +171,7 @@
   location: Virtual and 1800F Room 5213
   description: Opportunities for data scientists—one of today’s hottest skills—are rapidly growing in response to the exponential amounts of data being captured and analyzed. Data scientists are needed in GSA to find insights into this data and to solve meaningful business problems within the agency. In this talk, we’ll explore what it means to be a data scientist as well as data science process workflow, tools, technology, and upcoming GSA training in Data Science.
   presenter: Amirah Aziz
-  register: 
+  register:
   slides: /assets/downloads/techtalks/tech-talk-data-sciences.pdf
   recording:
 - title: Salesforce Lightning for Gmail with Prerana Bhatt
@@ -189,7 +189,7 @@
   location: Virtual and 1800F Room 2213
   description: Recently, Google App Scripts were made available for development by everyone at GSA. App Scripts yield tremendous power and can help automate many tasks that previously required manual intervention. For instance, do you want to automatically send calendar invites based on form responses? Or perhaps you want to scan a particular team folder to ensure that sharing settings are as expected. With a little bit of javascript knowledge, you can quickly start producing scripts for use by yourself and your team. In the talk, we will cover some app script basics, talk about the approval process for their use at GSA, and a quick example app.
   presenter: Mark Vogelgesang
-  register: 
+  register:
   slides: /assets/downloads/techtalks/tech-talk-google-app-scripts.pdf
   recording:
 - title: DevSecOps – A Case Study (D2D migration to Cloud) with Kishore Kakani
@@ -198,7 +198,7 @@
   location: Virtual and 1800F Room 3334
   description: The objective of this tech talk is to explain the use of DevSecOps framework to migrate application workloads to cloud. The CTO team is collaborating with various teams (incl. IDI, security, and application development leads) to define and build DevSecOps framework to help migrate application workloads to cloud. The goal is to ‘develop/deploy/operate’ through automation. As part of this journey, the CTO team worked closely with the D2D team to migrate D2D applications to cloud by building some of these automation pieces and work towards that final goal of developing automated CI/CD pipelines. In this presentation, we will go over the D2D migration steps in detail and understand how DevSecOps automation process can help build repeatable infrastructure/application deployments with minimal manual intervention, and shorter provisioning times.
   presenter: Kishore Kakani
-  register: 
+  register:
   slides: /assets/downloads/techtalks/tech-talk-devsecops--for-d2d Platform.pdf
   recording:
 - title: Creating InSite pages with Joy Gatewood
@@ -217,8 +217,8 @@
       </ul>
     <p>If you're mystified by InSite and don't know where to start this talk is for you.</p>
   presenter: Joy Gatewood
-  register: 
-  slides: 
+  register:
+  slides:
   recording:
 - title: Data-to-Decisions (D2D) & GSA with Kris Rowley
   date: July 26, 2017
