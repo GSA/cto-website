@@ -10,6 +10,7 @@
   register: https://docs.google.com/forms/d/1Lr36DeUDOtegDOR9SOWTBvHXXOAzxLZ9XcLr4I5nIFY/
   slides:
   recording:
+
 - title: Section 508 Testing for Developers Tech Talk
   date: June 14, 2018
   time: 1-1:30p
@@ -23,6 +24,7 @@
   register: https://docs.google.com/forms/d/1JAiL9F_6VnsF1pxbYz-6F1Hl0Sv6iFZOaJJop6Ur6TM/edit
   slides:
   recording:
+
 - title: Cloud.gov Quick Start and Whirlwind Tour Tech Talk
   date: May 24, 2018
   time: 1-1:30p
@@ -36,6 +38,7 @@
   register:
   slides: /assets/downloads/techtalks/cloud_gov.pdf
   recording:
+
 - title: Cloud Strategy Tech Talk
   date: May 10, 2018
   time: 1-1:30p
@@ -49,6 +52,7 @@
   register:
   slides: /assets/downloads/techtalks/Cloud_at_ GSA_Tech_Talk.pdf
   recording:
+
 - title: IT Standards Team Tech Talk
   date: April 26, 2018
   time: 1-1:30p
@@ -65,6 +69,7 @@
   register:
   slides: /assets/downloads/techtalks/ITStandardsTechTalk.pdf
   recording:
+
 - title: Parametric and Logical Types for Programming and Architecture Tech Talk
   date: April 16, 2018
   time: 1-1:30p
@@ -79,6 +84,7 @@
   presenter: Rick Murphy
   register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
   recording:
+
 - title: Digital Signature Solutions Tech Talk
   date: March 22, 2018
   time: 1-1:30p
@@ -92,6 +98,7 @@
   register:
   slides: /assets/downloads/techtalks/DigitalSignatureSolutionTechTalk.pdf
   recording:
+
 - title: GSA IT Strategy with Balanced Scorecard
   date: March 8, 2018
   time: 1-1:30p
@@ -104,6 +111,7 @@
   register:
   slides: /assets/downloads/techtalks/TechTalk_StrategicPlanningwiththeBalancedScorecard.pdf
   recording:
+
 - title: Everything You Always Wanted to Know about SLACK But Were Afraid to Ask
   date: March 1, 2018
   time: 1-1:30p
@@ -113,6 +121,7 @@
   register:
   slides: /assets/downloads/techtalks/TechTalkonSlackMarch2018.pdf
   recording:
+
 - title: Manufacturing your infrastructure with Terraform Tech Talk with Aidan Feldman
   date: February 8, 2018
   time: 11a-11:30a
@@ -123,6 +132,7 @@
   register:
   slides: /assets/downloads/techtalks/TechTalk_Manufacturing_your_infrastructure_with_Terraform.pdf
   recording:
+
 - title: Taxonomy Tech Talk with Angela Pitts
   date: January 25, 2018
   time: 1p-1:30p
@@ -132,6 +142,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-taxonomy.pdf
   recording:
+
 - title: Conducting an Agile Project Tech Talk with Alicia Cyrus
   date: January 11, 2018
   time: 1p-1:30p
@@ -141,6 +152,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-conducting-an-agile-project.pdf
   recording:
+
 - title: Privacy Tech Talk with Richard Speidel
   date: December 7, 2017
   time: 1p-1:30p
@@ -150,6 +162,7 @@
   register:
   slides:
   recording:
+
 - title: Github Tech Talk with Sara Cope
   date: November 16, 2017
   time: 1p-1:30p
@@ -159,6 +172,7 @@
   register:
   slides: /assets/downloads/techtalks/GitHub-TechTalk-Sara-Nov2017.pdf
   recording:
+
 - title: TBM Tech Talk with Megan Sikora
   date: November 2, 2017
   time: 1p-1:30p
@@ -168,6 +182,7 @@
   register:
   slides: /assets/downloads/techtalks/GSAITCostTransparencyTechTalkNov2017.pdf
   recording:
+
 - title: GEAR Tech Talk with Chris Campbell
   date: October 26, 2017
   time: 1p-1:30p
@@ -177,6 +192,7 @@
   register:
   slides: /assets/downloads/techtalks/GEARTechTalk.pptx.pdf
   recording:
+
 - title: Data Sciences October 5th Tech Talk with Amirah Aziz
   date: October 5, 2017
   time: 1p-1:30p
@@ -186,6 +202,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-data-sciences.pdf
   recording:
+
 - title: Salesforce Lightning for Gmail with Prerana Bhatt
   date: September 21, 2017
   time: 1p-1:30p
@@ -195,6 +212,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-lightning-gmail.pdf
   recording:
+
 - title: Google App Scripts to the Rescue! With Mark Vogelgesang
   date: September 7, 2017
   time: 1p-1:30p
@@ -204,6 +222,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-google-app-scripts.pdf
   recording:
+
 - title: DevSecOps – A Case Study (D2D migration to Cloud) with Kishore Kakani
   date: August 17, 2017
   time: 1p-1:30p
@@ -213,6 +232,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-devsecops--for-d2d Platform.pdf
   recording:
+
 - title: Creating InSite pages with Joy Gatewood
   date: August 10, 2017
   time: 1p-1:30p
@@ -232,6 +252,7 @@
   register:
   slides:
   recording:
+
 - title: Data-to-Decisions (D2D) & GSA with Kris Rowley
   date: July 26, 2017
   time: 1p-1:30p
@@ -241,6 +262,7 @@
   register:
   slides:
   recording:
+
 - title: Application Programming Interfaces (APIs) and GSA
   date: July 20, 2017
   time: 1p-1:30p
@@ -252,6 +274,7 @@
   register:
   slides: /assets/downloads/techtalks/apis-tech-talk.pdf
   recording:
+
 - title: Application Performance Monitoring within GSA's PBS IT
   date: June 20, 2017
   time: 1p-1:30p
@@ -264,6 +287,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-arx.pdf
   recording:
+
 - title: 'The Agile Product Owner: Beyond the Books & Classrooms'
   date: June 6, 2017
   time: 1p-1:30p
@@ -275,6 +299,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-agile-project-owner.pdf
   recording:
+
 - title: Internet of Things & GSA/PBS
   date: May 17, 2017
   time: 1p-1:30p
@@ -286,6 +311,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-iot.pdf
   recording:
+
 - title: Version Control and GitHub
   date: May 9, 2017
   time: 1p-1:30p
@@ -296,6 +322,7 @@
   presenter: Sara Cope, CTO Office
   slides: https://saracope.github.io/github-techtalk
   recording:
+
 - title: DevOps
   date: April 25, 2017
   time: 1p-1:30p
@@ -307,6 +334,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-devops.pdf
   recording:
+
 - title: Solutions Strategy
   date: April 11, 2017
   time: 1p-1:30p
@@ -319,6 +347,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-solutions-strategy.pdf
   recording:
+
 - title: Agile Behaviors
   date: March 30, 2017
   time: 1p-1:30p
@@ -331,6 +360,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-agile-behavior.pdf
   recording:
+
 - title: GSA Digital Services
   date: March 14, 2017
   time: 1p-1:30p
@@ -340,6 +370,7 @@
   register:
   slides: /assets/downloads/techtalks/tech-talk-digital-services.pdf
   recording:
+
 - title: Open Source at GSA
   date: February 28, 2017
   time: 1p-1:30p
@@ -349,6 +380,7 @@
   register:
   slides: /assets/downloads/techtalks/OpenSourceGSA.pdf
   recording:
+
 - title: A Look into the CTO's Office
   date: February 21, 2017
   time: 1p-1:30p
