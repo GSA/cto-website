@@ -1,8 +1,22 @@
+- title: Controlled Unclassified Information (CUI) Tech Talk 
+  date: July 17, 2018
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3334
+  description: >
+    <p>The Controlled Unclassified Information (CUI) Program is coming to GSA! 
+    This new program, to be implemented across all Executive Branch agencies, will standardize the way agencies mark, handle, and share information that is unclassified but requires protection. 
+    Types of information that will be affected include PII, SBU, legal info, contracts, bids, etc. Tune in June 17th to learn more about the program and implementation plans for GSA.</p>
+  presenter: Karen Overall  
+  register: https://docs.google.com/forms/d/1qnr8Egv5bnqov8rdqDLZAbdwsgGe3JMzvAfMgVNU1Eo/
+  slides:
+  recording:
+
 - title: Grace IaaS Cloud Tech Talk
   date: June 26, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 3334
-  description: <p> GRACE is the new GSA enterprise cloud platform offering. The platform offers near full automation of IaaS capability to quickly on-board new tenants and empower them with self-provisioning capability.</p>
+  description: >
+    <p> GRACE is the new GSA enterprise cloud platform offering. The platform offers near full automation of IaaS capability to quickly on-board new tenants and empower them with self-provisioning capability.</p>
     <p>So, what is it, how does it work, and how can you get started with it? Kishore from the CTO team will provide information on the core principles, architecture details, automation workflow, and core components of the GRACE platform.</p>
     <p>We will talk about “why GRACE?” and compare it with other GSA’s IaaS offerings. We will also briefly touch on “incremental ATO process”, which is being developed in collaboration with the security team to build GRACE platform.</p>
     <p>This is another interesting Tech Talk related to the topic of the Cloud!</p>
