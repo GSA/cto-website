@@ -21,8 +21,8 @@
     <p>We will talk about “why GRACE?” and compare it with other GSA’s IaaS offerings. We will also briefly touch on “incremental ATO process”, which is being developed in collaboration with the security team to build GRACE platform.</p>
     <p>This is another interesting Tech Talk related to the topic of the Cloud!</p>
   presenter: Kishore Kakani
-  register: https://docs.google.com/forms/d/1Lr36DeUDOtegDOR9SOWTBvHXXOAzxLZ9XcLr4I5nIFY/
-  slides:
+  register:
+  slides: /assets/downloads/techtalks/GRACE_Cloud_Platform_offering.pdf
   recording:
 
 - title: Section 508 Testing for Developers Tech Talk
