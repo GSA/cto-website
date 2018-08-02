@@ -12,9 +12,29 @@
 }
 
 .cloud-strategy-section {
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 }
 
 .cloud-strategy-spacing {
-    margin-bottom: 100px;    
+    margin-bottom: 100px;
+}
+
+.cloud-strategy-image {
+    font-size: 120px;
+}
+
+.flip-left {
+    float: left;
+    margin-right: 36.938px;
+}
+
+.flip-right {
+    float: right;
+    padding-left: 36.938px;
+}
+
+.section-2::after {
+    content: "";
+    clear: both;
+    display: table;
 }
