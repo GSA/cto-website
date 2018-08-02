@@ -32,7 +32,7 @@
     This new program, to be implemented across all Executive Branch agencies, will standardize the way agencies mark, handle, and share information that is unclassified but requires protection.
     Types of information that will be affected include PII, SBU, legal info, contracts, bids, etc. Tune in July 17th to learn more about the program and implementation plans for GSA.</p>
   presenter: Karen Overall
-  register: https://docs.google.com/forms/d/1qnr8Egv5bnqov8rdqDLZAbdwsgGe3JMzvAfMgVNU1Eo/
+  register:
   slides:
   recording:
 
@@ -60,7 +60,7 @@
     <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.</p>
     <p>This is the second tech talk related to the topic of IT Standards.</p>
   presenter: Andrew Starling, Dan Perkins, and Mark Buchko
-  register: https://docs.google.com/forms/d/1JAiL9F_6VnsF1pxbYz-6F1Hl0Sv6iFZOaJJop6Ur6TM/edit
+  register: 
   slides:
   recording:
 
@@ -121,7 +121,8 @@
    <p>We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
    <p>Paper: <a href="/assets/downloads/techtalks/params.pdf">Parametric and Logical Types for Model-Driven Engineering</a>
   presenter: Rick Murphy
-  register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
+  register: 
+  slides:
   recording:
 
 - title: Digital Signature Solutions Tech Talk
