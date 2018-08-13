@@ -39,8 +39,10 @@
     display: table;
 }
 
-.sidebar-sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 100px;
-}
+@media (min-width: $large-screen) { 
+    .sidebar-sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 100px;
+    } 
+} 
