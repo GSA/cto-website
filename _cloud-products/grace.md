@@ -1,0 +1,11 @@
+---
+name: GRACE
+slug: grace
+contact_name: Office of the CTO
+contact_email: cto@gsa.gov
+stage: live
+link:
+picture: project_tech.gsa.gov.jpg
+short-description: This is a short description.
+long-description: Here is a much longer description which can detail out more of the products components and dependencies.
+---
