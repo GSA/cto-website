@@ -32,7 +32,7 @@ collections:
     permalink: /guides/:title/
     output: true
   cloud-strategy-products:
-    permalink: /cloud-strategy-products/:slug
+    permalink: /cloud-strategy-products/:slug/
     output: true
 
 defaults:
