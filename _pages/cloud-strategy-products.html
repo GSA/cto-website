@@ -7,7 +7,7 @@ permalink: /cloud-strategy-products/
 
 
 <div class="cloud-products">
-    {% for product in site.cloud-products %}
+    {% for product in site.cloud-strategy-products %}
       {% assign loopstatus = forloop.index | modulo: 3 %}
       {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
       <div class="product usa-width-one-third">
@@ -20,7 +20,7 @@ permalink: /cloud-strategy-products/
         </div>
         <div class="product-name">
           {% if product.slug %}
-            <h2><a href="{{ site.baseurl }}/cloud-products/{{ product.slug }}">{{ product.name }}</a></h2>
+            <h2><a href="{{ site.baseurl }}/cloud-strategy-products/{{ product.slug }}">{{ product.name }}</a></h2>
           {% else %}
             <h2>{{ product.name }}</h2>
           {% endif %}

@@ -31,8 +31,8 @@ collections:
   guides:
     permalink: /guides/:title/
     output: true
-  cloud-products:
-    permalink: /cloud-products/:slug
+  cloud-strategy-products:
+    permalink: /cloud-strategy-products/:slug
     output: true
 
 defaults:
