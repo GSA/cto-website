@@ -1,6 +1,6 @@
 ---
-name: GRACE
-slug: grace
+name: Cloud.gov
+slug: cloud-gov
 contact_name: Office of the CTO
 contact_email: cto@gsa.gov
 stage: live

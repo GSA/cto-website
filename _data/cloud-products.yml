@@ -6,7 +6,7 @@
   contact_email: cto@gsa.gov
   stage: live
   link:
-  picture: project_tech.gsa.gov.jpg
+  picture: govt-cloud.jpg
   short-description: This is a short description.
   long-description: Here is a much longer description which can detail out more of the products components and dependencies.
 
@@ -16,7 +16,7 @@
   contact_email: cto@gsa.gov
   stage: live
   link:
-  picture: project_tech.gsa.gov.jpg
+  picture: govt-cloud.jpg
   short-description: This is a short description.
   long-description: Here is a much longer description which can detail out more of the products components and dependencies.
 
@@ -27,6 +27,6 @@
   contact_email: cto@gsa.gov
   stage: live
   link:
-  picture: project_tech.gsa.gov.jpg
+  picture: govt-cloud.jpg
   short-description: This is a short description.
   long-description: Here is a much longer description which can detail out more of the products components and dependencies.
