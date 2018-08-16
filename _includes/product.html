@@ -1,0 +1,65 @@
+
+
+<div class="usa-product">
+	<div class="usa-grid product-grid">
+
+		<div class="product-nav">
+			<a href="{{site.baseurl}}/cloud-strategy-products">
+				All Products
+			</a>
+			<i class="fa fa-caret-right"></i>
+			{{ page.name }}
+		</div>
+
+		<div class="product-content">
+			<div class="usa-width-one-third">
+				<div class="product-logo">
+                    {% if page.picture %}
+                     <img src="{{ site.baseurl }}/assets/img/cloud-strategy/{{ page.picture }}" alt="Picture of {{ page.name }}">
+                    {% else %}
+                     <img src="{{ site.baseurl }}/assets/img/cloud-strategy/govt-cloud.jpg" alt="" class="product-picture-none">
+                    {% endif %}
+				</div>
+
+				{% if page.contact_name %}
+					<a class="usa-button product-contact" href="mailto:{{ page.contact_email }}" target="blank">Contact</a>
+				{% else %}
+					<a class="usa-button usa-button-disabled product-contact">Contact</a>
+				{% endif %}
+                
+			</div>
+			<div class="usa-width-two-thirds">
+				<section class="product-info">
+					<h2>{{ page.name }}</h2>
+					<p>{{ page.long_description }}</p>
+				</section>
+				<div class="proc-options">
+					<h3>FAQ's</h3>
+					<ul class="usa-accordion">
+                            <li>
+                              <button class="usa-accordion-button"
+                                aria-expanded="true"
+                                aria-controls="a1">
+                                How do I request this item?
+                              </button>
+                              <div id="a1" class="usa-accordion-content">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque iaculis libero, vel consequat arcu molestie imperdiet. Morbi sit amet urna justo. Pellentesque vitae auctor mauris. Mauris lobortis, augue non aliquam sollicitudin, eros est vehicula magna, at malesuada nunc elit quis nulla. Ut at arcu a odio iaculis luctus. 
+                              </div>
+                            </li>
+                        <li>
+                            <button class="usa-accordion-button"
+                            aria-expanded="false"
+                            aria-controls="a2">
+                            What else would we need?
+                            </button>
+                            <div id="a2" class="usa-accordion-content">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque iaculis libero, vel consequat arcu molestie imperdiet. Morbi sit amet urna justo. Pellentesque vitae auctor mauris. Mauris lobortis, augue non aliquam sollicitudin, eros est vehicula magna, at malesuada nunc elit quis nulla. Ut at arcu a odio iaculis luctus. 
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+	</div>
+</div>

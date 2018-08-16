@@ -46,3 +46,42 @@
         top: 100px;
     } 
 } 
+.sidebar-sticky {
+    position: sticky;
+    top: 100px; 
+}
+
+//*******************************************//
+//begin styles for cloud strategy products
+.cloud-products {
+    .product {
+        cursor: pointer;
+        height: 280px;
+        border-radius: 3px;
+        box-shadow: 0 1px 4px rgba($color-black, .3);
+        margin-top: 2rem;
+        width: 250px;
+    
+        h2 {
+            font-size: 2rem;
+            margin: 1rem;
+        }
+
+        .product-short-description {
+            margin: 1rem;
+        }
+    }
+}
+
+.usa-product {
+    img {
+        margin-top: 2rem;
+    }
+    .product-contact {
+        margin-top: 2rem;
+        width: 100%;
+    }
+}
+
+//*******************************************//
+//end styles for cloud strategy products
