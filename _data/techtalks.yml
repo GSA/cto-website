@@ -33,7 +33,7 @@
       <p>Finally, we will discuss how GSA can readily use and share existing taxonomies and authority control sources to enhance metadata and achieve interoperability.</p>
   presenter: Sara Mooney and Angela Pitts
   register:
-  slides:
+  slides: /assets/downloads/techtalks/EDMSTaxonomyTechTalk.pdf
   recording:
 - title: GSA's Electronic Document Management System (EDMS) Tech Talk
   date: Aug 9, 2018
@@ -45,7 +45,7 @@
       <p> Finally, we will show the process for moving your content onto the EDMS so that you can prepare to work with the EDMS team if you are interested.</p>
   presenter: Dean Grady and Joe Hilger
   register: 
-  slides: /
+  slides: /assets/downloads/techtalks/EDMSTechTalkPresentation.pdf
   recording:
 
 - title: Battle of Bots Tech Talk
