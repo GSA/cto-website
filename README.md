@@ -31,7 +31,7 @@ To update the vendor assets, run `npm run assets`.
 First, install Ruby gem dependencies:
 
 ```
-bundle install
+bundle install --with=development
 ```
 
 Then you can run the site locally with live reloading:
