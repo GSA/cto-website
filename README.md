@@ -28,7 +28,13 @@ To update the vendor assets, run `npm run assets`.
 
 ### Building and Previewing
 
-First, install Ruby gem dependencies:
+First, install `bundler` if you don't already have it:
+
+```
+gem install bundler
+```
+
+Then install the project's Ruby dependencies:
 
 ```
 bundle install --with=development
