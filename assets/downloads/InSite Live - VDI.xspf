@@ -4,7 +4,7 @@
 	<trackList>
 		<track>
 			<location>udp://@insightliverob.gsa.gov:5000</location>
-                <title>GSA ROB</title>
+                <title>GSA VDI</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
