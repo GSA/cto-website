@@ -1,4 +1,4 @@
-/*! uswds v1.6.6 */
+/*! uswds v1.6.8 */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -1576,15 +1576,19 @@ legend {
 [type=checkbox] + label::before,
 [type=radio] + label::before {
   background: #ffffff;
-  border-radius: 2px;
-  box-shadow: 0 0 0 1px #757575;
   content: '\a0';
   display: inline-block;
-  height: 2rem;
-  line-height: 2rem;
-  margin-right: 0.6em;
   text-indent: 0.15em;
   vertical-align: middle\0;
+}
+
+[type=checkbox] + label::before {
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px #757575;
+  height: 2rem;
+  line-height: 2rem;
+  margin-left: 1px;
+  margin-right: 0.6em;
   width: 2rem;
 }
 
@@ -1593,6 +1597,7 @@ legend {
   box-shadow: 0 0 0 2px #ffffff, 0 0 0 3px #757575;
   height: 1.4rem;
   line-height: 1.4rem;
+  margin-left: 3px;
   margin-right: 0.75em;
   width: 1.4rem;
 }
@@ -1642,60 +1647,78 @@ legend {
   appearance: none;
   border: none;
   padding-left: 0;
+  overflow: hidden;
   width: 100%;
 }
 
+[type=range]:focus {
+  outline: none;
+}
+
+[type=range]:focus::-webkit-slider-thumb {
+  box-shadow: 0 0 0 2px #0071bc;
+}
+
+[type=range]:focus::-moz-range-thumb {
+  box-shadow: 0 0 0 2px #0071bc;
+}
+
+[type=range]:focus::-ms-thumb {
+  box-shadow: 0 0 0 2px #0071bc;
+}
+
 [type=range]::-webkit-slider-runnable-track {
-  background: #aeb0b5;
+  background: #d6d7d9;
   border: 1px solid #757575;
   cursor: pointer;
-  height: 1.2rem;
+  height: 1.6rem;
   width: 100%;
 }
 
 [type=range]::-moz-range-track {
-  background: #0071bc;
+  background: #d6d7d9;
   border: 1px solid #757575;
   cursor: pointer;
-  height: 1.2rem;
+  height: 1.6rem;
   width: 100%;
 }
 
 [type=range]::-ms-track {
-  background: transparent;
-  color: transparent;
+  background: #d6d7d9;
+  border: 1px solid #757575;
   cursor: pointer;
-  height: 1.2rem;
+  height: 1.6rem;
   width: 100%;
 }
 
 [type=range]::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  border: 1px solid #757575;
-  height: 2.2rem;
-  border-radius: 1.5rem;
   background: #f1f1f1;
+  box-shadow: 0 0 0 1px #757575;
+  border-radius: 1.5rem;
   cursor: pointer;
-  margin-top: -.65rem;
-  width: 2.2rem;
+  height: 2.5rem;
+  width: 2.5rem;
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -0.6rem;
 }
 
 [type=range]::-moz-range-thumb {
   background: #f1f1f1;
-  border: 1px solid #757575;
+  box-shadow: 0 0 0 1px #757575;
   border-radius: 1.5rem;
   cursor: pointer;
-  height: 2.2rem;
-  width: 2.2rem;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 [type=range]::-ms-thumb {
   background: #f1f1f1;
-  border: 1px solid #757575;
+  box-shadow: 0 0 0 1px #757575;
   border-radius: 1.5rem;
   cursor: pointer;
-  height: 2.2rem;
-  width: 2.2rem;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 [type=range]::-ms-fill-lower {
@@ -1715,19 +1738,31 @@ legend {
   padding-left: 0;
 }
 
+.usa-date-of-birth {
+  /* stylelint-disable-line */
+}
+
 .usa-date-of-birth label {
   margin-top: 0;
 }
 
-.usa-date-of-birth [type=number]::-webkit-inner-spin-button,
-.usa-date-of-birth [type=number]::-webkit-outer-spin-button {
-  -webkit-appearance: none;
-  appearance: none;
-  margin: 0;
-}
-
 .usa-date-of-birth [type=number] {
   -moz-appearance: textfield;
+}
+
+.usa-date-of-birth [type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.usa-date-of-birth [type=number]::-webkit-contacts-auto-fill-button {
+  visibility: hidden;
+  display: none !important;
+  /* stylelint-disable-line declaration-no-important */
+  pointer-events: none;
+  height: 0;
+  width: 0;
+  margin: 0;
 }
 
 .usa-form-group-day,
@@ -3696,7 +3731,6 @@ fieldset {
     margin-right: auto;
     padding-right: 3rem;
     padding-left: 1.5rem;
-    margin-top: -1px;
     position: relative;
   }
   .usa-header-extended .usa-nav-inner::after {
