@@ -37,7 +37,7 @@ gem install bundler
 Then install the project's Ruby dependencies:
 
 ```
-bundle install
+bundle install --with=development
 ```
 
 Then you can run the site locally with live reloading:
