@@ -17,6 +17,9 @@ const assets = {
   },
   "jquery": {
     js: ["dist/jquery.min.js"]
+  },
+  "webfontloader": {
+    js: ["webfontloader.js"]
   }
 };
 
