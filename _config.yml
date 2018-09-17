@@ -34,7 +34,10 @@ collections:
   cloud-strategy-products:
     permalink: /cloud-strategy-products/:slug/
     output: true
-
+  cloud-strategy-services:
+    permalink: /cloud-strategy-services/:slug/
+    output: true 
+    
 defaults:
   -
     values:
