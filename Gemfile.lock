@@ -6,6 +6,13 @@ GIT
       htmlentities (~> 4.3)
       jekyll (>= 2.0, < 4.0)
 
+GIT
+  remote: https://github.com/jfredrickson5/jekyll-toc
+  revision: b38440d8d7454e06b15a3f81d8d2a38e2e674f61
+  specs:
+    jekyll-toc (0.6.0)
+      nokogiri (~> 1.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -108,8 +115,9 @@ DEPENDENCIES
   hawkins
   html-proofer
   jekyll (~> 3.8.2)
+  jekyll-toc!
   jekyll_pages_api!
   rake
 
 BUNDLED WITH
-   1.16.1
+   1.16.4
