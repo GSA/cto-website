@@ -10,7 +10,7 @@
       <p>The interactive map includes search and filter capabilities to view and assess the federal government’s real property holdings.<p>
       <p>The public can use the tool to search for federal property in a certain geographic area, sort by federal agency and access information including whether the property is utilized, underutilized or not utilized.</p>
   presenter: Horatio McDowney and Michael Hartung and Patricia Cheng
-  register: https://docs.google.com/forms/d/1xGHef53TX05crX33ugSLL52xEAcYz4wRtPF9K5RpFhM/edit
+  register:
 - title: Robotic Process Automation (RPA) TechTalk 
   date: Sept 5, 2018  
   time: 1-1:30p
@@ -20,7 +20,7 @@
       <p>There are two pilots being conducted at GSA right now.<p>
       <p>Come join us to learn more about this technology and how GSA stood up a working solution for a pilot and learn where we are headed next!</p>
   presenter: Jasmeen Bowmaster
-  register: https://docs.google.com/forms/d/1jC-w8R0YvkmOJv9WIOXM44hEIklj4bKgXZtjnshUf8Y/edit
+  register: 
   slides:
   recording:
 - title: Electronic Document Management System (EDMS) Taxonomy Maintenance Tech Talk
