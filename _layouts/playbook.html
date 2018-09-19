@@ -1,0 +1,16 @@
+---
+layout: page
+description: "This layout is used for playbooks. Remember to use 'toc: true' in your playbook's front matter."
+---
+
+<div class="usa-width-one-fourth sidebar-sticky">
+  <section>
+    <aside>
+      {{ content | toc_only }}
+    </aside>
+  </section>
+</div>
+
+<div class="usa-width-three-fourths">
+  {{ content | inject_anchors }}
+</div>
