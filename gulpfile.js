@@ -17,6 +17,9 @@ const assets = {
   },
   "jquery": {
     js: ["dist/jquery.min.js"]
+  },
+  "scrollmonitor": {
+    js: ["scrollMonitor.js*"]
   }
 };
 

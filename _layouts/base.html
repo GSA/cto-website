@@ -62,7 +62,13 @@ description: >
 
     <script src="{{ '/assets/vendor/jquery/js/jquery.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ '/assets/vendor/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/assets/vendor/scrollmonitor/js/scrollMonitor.js' | prepend: site.baseurl }}"></script>
     <script src="{{ site.baseurl }}/assets/js/global.js"></script>
+    {% if layout.custom_js %}
+      {% for file in layout.custom_js %}
+        <script src="{{ site.baseurl }}/assets/js/{{ file }}.js"></script>
+      {% endfor %}
+    {% endif %}
     {% if page.custom_js %}
       {% for file in page.custom_js %}
         <script src="{{ site.baseurl }}/assets/js/{{ file }}.js"></script>
