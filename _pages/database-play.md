@@ -64,8 +64,6 @@ The portfolio inventory and assessment will provide a **snapshot** of both the c
 
 Examining these topics will provide the **data-driven insight** needed to make **defensible decisions**, **reduce risk**, and **prioritize**.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/flask.PNG" > 
-
 
 ## Prioritize 
 
@@ -158,7 +156,7 @@ A database is an intricate part of an application. As such, changing the databas
 
 * For example, there may be **refactoring** and/or **re-engineering** of your system’s backend.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" > 
+<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.PNG" > 
 
 To make the most informed decision when selecting a database technology, you should know what your **database criteria **are.  
 
@@ -251,10 +249,7 @@ When GSA’s Identity and Access Management System reached the end of its lifecy
 
 
 
-
-
-**Credits:**
- 
+Credits: 
 “Boost” by Dev Patel from thenounproject.com  
 “Bow and Arrow” by faisalovers from thenounproject.com  
 “Archery” by Oliviu Stoian from thenounproject.com 

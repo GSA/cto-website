@@ -23,6 +23,8 @@ exclude:
   - '_test'
   - '.circleci'
   - 'vendor'
+  - 'Dockerfile'
+  - 'docker-run.sh'
 
 collections:
   team:
