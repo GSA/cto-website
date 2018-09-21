@@ -14,7 +14,7 @@ This playbook is designed to help you **transform your database technology** and
 <br>
 <br>
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.PNG" class="icon"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.png" class="icon"> 
 
 ## The Plays...
 
@@ -68,14 +68,14 @@ The portfolio inventory and assessment will provide a **snapshot** of both the c
 * It should include: security, functional health, technical health, strategic alignment, and financial impact of the portfolio. 
 * Technological complexity should take into account information types, product-specific implementations, and the architecture of the legacy solution.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/flask.PNG" class="icon-left"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/flask.png" class="icon-left"> 
 
 Examining these topics will provide the **data-driven insight** needed to make **defensible decisions**, **reduce risk**, and **prioritize**.
 
 
 ## Prioritize 
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.PNG" class="icon-left"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.png" class="icon-left"> 
 
 While these are all compelling reasons to transform, the key to a successful database transformation is to **align the business value** with the database **transformation** strategy and **implementation** strategy. 
 
@@ -84,7 +84,7 @@ To preserve and structure the business knowledge and functions residing in legac
 
 * Allow users to easily get **actionable** and **unified** information the way they want it, and at the **speed** their business needs it.  
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/arrowtarget.PNG" class="icon-right"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrowtarget.png" class="icon-right"> 
 
 This will improve the overall **efficiency** and **effectiveness** in performing the functions that support mission priorities, and revitalize IT investments. 
 
@@ -104,7 +104,7 @@ Your goals might be a combination of:
 * performance
 * modernization
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.PNG" class="icon-right"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.png" class="icon-right"> 
 
 Set achievable goals that move you towards your priorities. Focus on a **few core goals** and define them.
 
@@ -140,7 +140,7 @@ Database transformations allow you to transform to more **modular systems**:
 In implementing a database transformation, you should **start small and scale fast**. Use an **agile approach** to reduce **risk** and drive **quality**. 
 Deliver modernized components **incrementally**, transforming the bare minimum necessary to:
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" class="icon-right"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.png" class="icon-right"> 
 
 * **deploy** faster, obtain **feedback** from users, create technical architecture **validation**. 
 
@@ -167,7 +167,7 @@ A database is an intricate part of an application. As such, changing the databas
 
 * For example, there may be **refactoring** and/or **re-engineering** of your system’s backend.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.PNG" class="icon-left"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.png" class="icon-left"> 
 
 To make the most informed decision when selecting a database technology, you should know what your **database criteria **are.  
 
@@ -210,7 +210,7 @@ To this end, consider **open-source** database technologies to “**future proof
 Open-source databases are more **modular**, promote **open standards** and **APIs**, and extend **foundational elements** essential to: 
 * **Avoiding** a one-size-fits-all feature set
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.PNG" class="icon-right"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.png" class="icon-right"> 
 
 * **Shifting** from low-value work to **high-value** work
 * **Robustness** of code
@@ -230,7 +230,7 @@ Leverage the phased approach below in executing incremental funding and incremen
 * _**Phase 2/ Pilot:**_
 
   * Pilot a database technology with **pilot candidates** to uncover legacy technology obstacles, increase confidence, and gain user buy-in. 
-  <img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.PNG" class="icon-right"> 
+  <img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.png" class="icon-right"> 
   * Evaluate the success of your pilot based on the goals and metrics you established. 
   * Report out on what strategies worked and what experiments failed
 
@@ -245,7 +245,7 @@ Leverage the phased approach below in executing incremental funding and incremen
 
 <br>
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.PNG" class="icon"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.png" class="icon"> 
 
 ## Database Modernization Case Study 
 
