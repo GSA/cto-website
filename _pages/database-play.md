@@ -1,7 +1,7 @@
 ---
 layout: playbook
 title: Database Transformation Playbook
-permalink: /database-playbook/
+permalink: /playbooks/database/
 toc: true
 ---
 # Database Transformation Playbook
