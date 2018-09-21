@@ -43,7 +43,6 @@ defaults:
       layout: guide
 
 toc:
-  min_level: 2
   list_class: usa-sidenav-list
   sublist_class: usa-sidenav-sub_list
 
