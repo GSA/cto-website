@@ -17,6 +17,9 @@ const assets = {
   },
   "jquery": {
     js: ["dist/jquery.min.js"]
+  },
+  "waypoints": {
+    js: ["lib/jquery.waypoints.min.js"]
   }
 };
 
