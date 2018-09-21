@@ -6,10 +6,13 @@ toc: true
 ---
 # Database Transformation Playbook
 
-This playbook is designed to help you transform your database technology and overcome any obstacles on the way.
+This playbook is designed to help you **transform your database technology** and overcome any obstacles on the way.
 
-* Each play is an integral part of database transformation decisions.
-* All these plays in total are essential to the success of these decisions.
+* Each play is an **integral** part of database transformation decisions.
+* All these plays in total are essential to the **success** of these decisions.
+
+<br>
+<br>
 
 <img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.PNG" class="icon"> 
 
@@ -39,7 +42,11 @@ This is an opportunity to take your enterprise to the next level, don't let this
 
 Double down on what works, stop doing the things that aren't producing results
 
-Let’s get started…
+<br>
+
+<span style="font-size:larger;"> **Let’s get started…** </span>
+
+<br>
 
 ## Know your inventory
 
@@ -54,28 +61,30 @@ As such, agencies should know what tools and services are available internally, 
 
 Before you begin developing your database transformation strategies, it’s important to understand what’s incorporated in your **legacy database portfolio** and any **complexities** tied to that portfolio. 
 
-* To do so, assess the extent to which the portfolio currently meets your agency’s business needs. 
+* To do so, assess the extent to which the portfolio currently meets your agency’s **business needs**. 
 
 The portfolio inventory and assessment will provide a **snapshot** of both the current and future environment, and the complexities associated with those environments.
 
 * It should include: security, functional health, technical health, strategic alignment, and financial impact of the portfolio. 
 * Technological complexity should take into account information types, product-specific implementations, and the architecture of the legacy solution.
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/flask.PNG" class="icon-left"> 
+
 Examining these topics will provide the **data-driven insight** needed to make **defensible decisions**, **reduce risk**, and **prioritize**.
 
 
 ## Prioritize 
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.PNG" class="icon-left"> 
 
 While these are all compelling reasons to transform, the key to a successful database transformation is to **align the business value** with the database **transformation** strategy and **implementation** strategy. 
 
 
 To preserve and structure the business knowledge and functions residing in legacy systems, your strategy should: 
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.PNG" class="icon-left"> 
+* Allow users to easily get **actionable** and **unified** information the way they want it, and at the **speed** their business needs it.  
 
-Allow users to easily get **actionable** and **unified** information the way they want it, and at the **speed** their business needs it.  
-
-<img src="{{ site.baseurl }}/assets/img/playbooks/target.PNG" class="icon-right"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrowtarget.PNG" class="icon-right"> 
 
 This will improve the overall **efficiency** and **effectiveness** in performing the functions that support mission priorities, and revitalize IT investments. 
 
@@ -95,9 +104,9 @@ Your goals might be a combination of:
 * performance
 * modernization
 
-Set achievable goals that move you towards your priorities. Focus on a **few core goals** and define them.
+<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.PNG" class="icon-right"> 
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.PNG" height="80px"> 
+Set achievable goals that move you towards your priorities. Focus on a **few core goals** and define them.
 
 For example, modernization in the context of databases might mean:
 * database code is in source control
@@ -107,7 +116,7 @@ For example, modernization in the context of databases might mean:
 
 Once you define your goals it’s important to establish well thought out **metrics** to gauge your level of **success**.
 
-* IT modernization architecture should include defined performance measures and outcomes that support your organization’s objectives. 
+* IT modernization architecture should include **defined performance measures** and **outcomes** that support your organization’s objectives. 
 
 Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation.
 
@@ -130,9 +139,10 @@ Database transformations allow you to transform to more **modular systems**:
 
 In implementing a database transformation, you should **start small and scale fast**. Use an **agile approach** to reduce **risk** and drive **quality**. 
 Deliver modernized components **incrementally**, transforming the bare minimum necessary to:
-* **deploy** faster, obtain **feedback** from users, create technical architecture **validation**. 
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" height="80px"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" class="icon-right"> 
+
+* **deploy** faster, obtain **feedback** from users, create technical architecture **validation**. 
 
 
 ## Build Up Your Teams and Systems 
@@ -157,9 +167,11 @@ A database is an intricate part of an application. As such, changing the databas
 
 * For example, there may be **refactoring** and/or **re-engineering** of your system’s backend.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.PNG" height="80px"> 
+<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.PNG" class="icon-left"> 
 
 To make the most informed decision when selecting a database technology, you should know what your **database criteria **are.  
+
+<br>
 
 **Considerations** and **Requirements** include:
 * Security
@@ -187,7 +199,7 @@ It is normal to have more than one database technology in satisfying your databa
 
 * Certain databases are popular for their **speed** and **scalability**, while other databases are preferred for being **highly structured**.
 
-You should understand your specific use case in selecting the right database technology. 
+You should understand your specific **use case** in selecting the right database technology. 
 
 No matter what database or service you use. Make sure you own your own data. 
 
@@ -197,12 +209,13 @@ To this end, consider **open-source** database technologies to “**future proof
 
 Open-source databases are more **modular**, promote **open standards** and **APIs**, and extend **foundational elements** essential to: 
 * **Avoiding** a one-size-fits-all feature set
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.PNG" class="icon-right"> 
+
 * **Shifting** from low-value work to **high-value** work
 * **Robustness** of code
 * **Flexible** and **scalable** platform for the future
 * **Scaling** up or out without direct cost/license restrictions
-
-<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.PNG" height="80px"> 
 
 By implementing open-source databases, you can yield a **lower total cost of ownership**, and shift the **cost burden** from upfront licensing to **implementation** and **customization**.
 
@@ -215,11 +228,11 @@ Leverage the phased approach below in executing incremental funding and incremen
   * Identify **prototype candidates**, and test various database records to see if a target technology meets your specific needs. 
 
 * _**Phase 2/ Pilot:**_
+
   * Pilot a database technology with **pilot candidates** to uncover legacy technology obstacles, increase confidence, and gain user buy-in. 
+  <img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.PNG" class="icon-right"> 
   * Evaluate the success of your pilot based on the goals and metrics you established. 
   * Report out on what strategies worked and what experiments failed
-
-<img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.PNG" height="80px"> 
 
 * _**Phase 3/ Scalable Execution**_
   * Fully execute your selected database transition - this may go beyond just transitioning the database, but application transformation. Have a detailed **design**, **building**, and **configuration** of the new environment, system, and application.
@@ -230,7 +243,9 @@ Leverage the phased approach below in executing incremental funding and incremen
   * **Apply** what you have learned to new projects
   * Continue to **Test**, **Deploy**, **Patch and Maintain** your solutions
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.PNG" height="80px"> 
+<br>
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.PNG" class="icon"> 
 
 ## Database Modernization Case Study 
 
@@ -248,20 +263,14 @@ When GSA’s Identity and Access Management System reached the end of its lifecy
 * Don't forget the closeout activities such as updating ATOs and properly decommissioning any hardware or you will be answering for it in years to come.  It's not as critical but it still needs to be completed. 
 * It’s better to tackle a database transformation earlier in a system’s lifecycle than later. 
 
+<br>
+<br>
+<br>
 
 <small>
-**Credits:** 
+**Icon Credits:**
 </small>
 
 <small>
-**“Boost” by Dev Patel from thenounproject.com**
-**“Bow and Arrow” by faisalovers from thenounproject.com**  
-“Archery” by Oliviu Stoian from thenounproject.com 
-“Flask” by NOPIXEL from thenounproject.com 
-“Telescope” icon by Eucalyp, from thenounproject.com 
-“Sabotage” by Krisada from thenounproject.com 
-“Integration” by Tokka Elkholy from thenounproject.com 
-“Delivery Man” by Виталий Плут from thenounproject.com  
-“Jet Fighter Pilot” by Gan Khoon Lay from thenounproject.com 
-“Rocket” by Nikita Tcherednikov from thenounproject.com 
+_**“Boost” by Dev Patel from thenounproject.com**_; _**“Bow and Arrow” by faisalovers from thenounproject.com**_; _“Archery” by Oliviu Stoian from thenounproject.com**_; _“Flask” by NOPIXEL from thenounproject.com**_; _“Telescope” icon by Eucalyp, from thenounproject.com**_; _“Sabotage” by Krisada from thenounproject.com**_; _“Integration” by Tokka Elkholy from thenounproject.com**_; _“Delivery Man” by Виталий Плут from thenounproject.com**_; _“Jet Fighter Pilot” by Gan Khoon Lay from thenounproject.com**_; _“Rocket” by Nikita Tcherednikov from thenounproject.com**_
 </small>
