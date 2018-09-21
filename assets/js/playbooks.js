@@ -24,5 +24,5 @@ $(document).ready(function () {
     offset: 0
   })
 
-  $("h2, h3, h4, h5").before('<p><small><a href="#">Back to top</a></small></p>')
+  $("#main-content h2, #main-content h3, #main-content h4, #main-content h5").before('<p><small><a href="#">Back to top</a></small></p>')
 })
