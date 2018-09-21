@@ -1,3 +1,64 @@
+- title: Use of a Computer while Teleworking Security Tech Talk
+  date: Oct 4, 2018  
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 4232
+  description: >
+        <p>This Tech Talk presentation will focus on how the home GSA user can work safely on their computers; both Government Furnished Equipment (GFE) and personally owned computers.<p>
+        <p>We will discuss the ways in which you can connect safely to GSA’s network and applications while remaining data aware.
+        <p>Join us for some basic home user tips to aid you in working safely and keeping the cyber criminals out.</p>
+  presenter: Tamara Woodcock
+  register: https://docs.google.com/forms/d/1Gp7CqA0kHTmE_kAeo_xE3QP5IHaQNq-4uLfVEOHkjVg/edit
+  slides:
+- title: Geographical Information System (GIS) TechTalk 
+  date: Sept 13, 2018  
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3232
+  description: >
+      <p>Did you know?<p>
+      <p>Use case of GIS enterprise tools: GSA Publishes First Map of Executive Branch-owned and Controlled Real Property<p>
+      <p>GSA published recently a geographic information system (GIS)-enabled map of the federal government’s centralized inventory of real property.<p>
+      <p>The Federal Real Property Profile (FRPP) Management System data, lists property under the custody and control of executive branch agencies, and is posted in accordance with the Federal Assets Sale and Transfer Act of 2016 and represents the federal government’s inventory as of September 30, 2017.<p>
+      <p>The interactive map includes search and filter capabilities to view and assess the federal government’s real property holdings.<p>
+      <p>The public can use the tool to search for federal property in a certain geographic area, sort by federal agency and access information including whether the property is utilized, underutilized or not utilized.</p>
+  presenter: Horatio McDowney and Michael Hartung and Patricia Cheng
+  register:
+- title: Robotic Process Automation (RPA) TechTalk 
+  date: Sept 5, 2018  
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 6232
+  description: >
+      <p>Robotics Process Automation (RPA) is automation of a manual process that is largely rules based, structured, and repetitive using software robots (bots).<p>
+      <p>There are two pilots being conducted at GSA right now.<p>
+      <p>Come join us to learn more about this technology and how GSA stood up a working solution for a pilot and learn where we are headed next!</p>
+  presenter: Jasmeen Bowmaster
+  register: 
+  slides:
+  recording:
+- title: Electronic Document Management System (EDMS) Taxonomy Maintenance Tech Talk
+  date: Aug 23, 2018  
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 1147
+  description: >
+      <p>Learn more about how the Taxonomy is used and managed within the GSA EDMS (Electronic Document Management System). We will pick up the discussion where we left off in the previous EDMS Tech Talk and Taxonomy Tech Talk.<p> 
+      <p>During the presentation, we  will focus on the EDMS Team’s taxonomy governance process by showing how changes to terms and structure are identified and implemented.<p>
+      <p>Finally, we will discuss how GSA can readily use and share existing taxonomies and authority control sources to enhance metadata and achieve interoperability.</p>
+  presenter: Sara Mooney and Angela Pitts
+  register:
+  slides: /assets/downloads/techtalks/EDMSTaxonomyTechTalk.pdf
+  recording:
+- title: GSA's Electronic Document Management System (EDMS) Tech Talk
+  date: Aug 9, 2018
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3232
+  description: >
+      <p>Learn more about the GSA's EDMS system and how you can use it to help formalize the way you manage documents and electronic records.<p>
+      <p> During this presentation, we will explain what an EDMS is and how it can help your organization be more efficient.  We will also explain the difference between EDMS and Google Drive and when you should use each tool.<p>
+      <p> Finally, we will show the process for moving your content onto the EDMS so that you can prepare to work with the EDMS team if you are interested.</p>
+  presenter: Dean Grady and Joe Hilger
+  register: 
+  slides: /assets/downloads/techtalks/EDMSTechTalkPresentation.pdf
+  recording:
+
 - title: Battle of Bots Tech Talk
   date: July 31, 2018
   time: 1-1:30p
@@ -5,9 +66,9 @@
   description: >
       <p> Have you ever been interested in machine learning but didn't know how to start? Lindsay Young will share her tribulations in making a simple machine learning app.<p>
       <p> She'll go over how it works and what code libraries are available for exploration. You will get an understanding of what situations make for good machine learning opportunities, and how to evaluate your options to know if you should use it for a given task </p>
-  presenter: Lindsey Young
-  register: https://docs.google.com/forms/d/1Z-8tbm5E6AKBG4jVjvcoj1Fj-38imKIjATsDAAlRwYE/edit
-  slides:
+  presenter: Lindsay Young
+  register:
+  slides: /assets/downloads/techtalks/Battle_of_the_Bots_Tech_Talk.pdf
   recording:
 
 - title: Controlled Unclassified Information (CUI) Tech Talk
@@ -19,7 +80,7 @@
     This new program, to be implemented across all Executive Branch agencies, will standardize the way agencies mark, handle, and share information that is unclassified but requires protection.
     Types of information that will be affected include PII, SBU, legal info, contracts, bids, etc. Tune in July 17th to learn more about the program and implementation plans for GSA.</p>
   presenter: Karen Overall
-  register: https://docs.google.com/forms/d/1qnr8Egv5bnqov8rdqDLZAbdwsgGe3JMzvAfMgVNU1Eo/
+  register:
   slides:
   recording:
 
@@ -47,7 +108,7 @@
     <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.</p>
     <p>This is the second tech talk related to the topic of IT Standards.</p>
   presenter: Andrew Starling, Dan Perkins, and Mark Buchko
-  register: https://docs.google.com/forms/d/1JAiL9F_6VnsF1pxbYz-6F1Hl0Sv6iFZOaJJop6Ur6TM/edit
+  register: 
   slides:
   recording:
 
@@ -108,7 +169,8 @@
    <p>We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
    <p>Paper: <a href="/assets/downloads/techtalks/params.pdf">Parametric and Logical Types for Model-Driven Engineering</a>
   presenter: Rick Murphy
-  register: https://docs.google.com/forms/d/1UR7_s2sLmczFfy8Ic4TcCPIH-XR9DGbYtoMqBlSqqgg/
+  register: 
+  slides:
   recording:
 
 - title: Digital Signature Solutions Tech Talk
