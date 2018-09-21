@@ -6,3 +6,21 @@
         top: 100px
     }
 }
+
+.icon {
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.icon-right {
+    height: 80px;
+    float: right;
+    padding-left: 20px;
+}
+
+.icon-left {
+    height: 80px;
+    float: left; 
+}
