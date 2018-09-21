@@ -12,6 +12,8 @@ This playbook is designed to help you transform your database technology and ove
 * Each play is an integral part of database transformation decisions.
 * All these plays in total are essential to the success of these decisions.
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.PNG" > 
+
 ## The Plays...
 
 **1. Know your inventory**
@@ -62,16 +64,22 @@ The portfolio inventory and assessment will provide a **snapshot** of both the c
 
 Examining these topics will provide the **data-driven insight** needed to make **defensible decisions**, **reduce risk**, and **prioritize**.
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/flask.PNG" > 
+
 
 ## Prioritize 
 
 While these are all compelling reasons to transform, the key to a successful database transformation is to **align the business value** with the database **transformation** strategy and **implementation** strategy. 
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.PNG" > 
 
 To preserve and structure the business knowledge and functions residing in legacy systems, your strategy should: 
 
 * Allow users to easily get **actionable** and **unified** information the way they want it, and at the **speed** their business needs it.  
 
 This will improve the overall **efficiency** and **effectiveness** in performing the functions that support mission priorities, and revitalize IT investments. 
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/target.PNG" > 
 
 Having clear priorities will help you set meaningful goals.
 
@@ -89,6 +97,8 @@ Your goals might be a combination of:
 * modernization
 
 Set achievable goals that move you towards your priorities. Focus on a **few core goals** and define them.
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.PNG" > 
 
 For example, modernization in the context of databases might mean:
 * database code is in source control
@@ -123,6 +133,8 @@ In implementing a database transformation, you should **start small and scale fa
 Deliver modernized components **incrementally**, transforming the bare minimum necessary to:
 * **deploy** faster, obtain **feedback** from users, create technical architecture **validation**. 
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" > 
+
 
 ## Build Up Your Teams and Systems 
 
@@ -145,6 +157,8 @@ For your pilot project and subsequent projects make sure your solutions fit the 
 A database is an intricate part of an application. As such, changing the database technology may require **changes to other layers of the overall application**. 
 
 * For example, there may be **refactoring** and/or **re-engineering** of your system’s backend.
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.PNG" > 
 
 To make the most informed decision when selecting a database technology, you should know what your **database criteria **are.  
 
@@ -189,6 +203,8 @@ Open-source databases are more **modular**, promote **open standards** and **API
 * **Flexible** and **scalable** platform for the future
 * **Scaling** up or out without direct cost/license restrictions
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.PNG" > 
+
 By implementing open-source databases, you can yield a **lower total cost of ownership**, and shift the **cost burden** from upfront licensing to **implementation** and **customization**.
 
 ## Iterate
@@ -204,6 +220,8 @@ Leverage the phased approach below in executing incremental funding and incremen
   * Evaluate the success of your pilot based on the goals and metrics you established. 
   * Report out on what strategies worked and what experiments failed
 
+<img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.PNG" > 
+
 * _**Phase 3/ Scalable Execution**_
   * Fully execute your selected database transition - this may go beyond just transitioning the database, but application transformation. Have a detailed **design**, **building**, and **configuration** of the new environment, system, and application.
   * **Test** to ensure all requirements have been met.
@@ -212,6 +230,8 @@ Leverage the phased approach below in executing incremental funding and incremen
 * _**Continue iterating**_ 
   * **Apply** what you have learned to new projects
   * Continue to **Test**, **Deploy**, **Patch and Maintain** your solutions
+
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.PNG" > 
 
 ## Database Modernization Case Study 
 
@@ -228,3 +248,20 @@ When GSA’s Identity and Access Management System reached the end of its lifecy
   * One-on-one chats can be forthcoming, and provide both good and bad insight to the process. 
 * Don't forget the closeout activities such as updating ATOs and properly decommissioning any hardware or you will be answering for it in years to come.  It's not as critical but it still needs to be completed. 
 * It’s better to tackle a database transformation earlier in a system’s lifecycle than later. 
+
+
+
+
+
+**Credits:**
+ 
+“Boost” by Dev Patel from thenounproject.com  
+“Bow and Arrow” by faisalovers from thenounproject.com  
+“Archery” by Oliviu Stoian from thenounproject.com 
+“Flask” by NOPIXEL from thenounproject.com 
+“Telescope” icon by Eucalyp, from thenounproject.com 
+“Sabotage” by Krisada from thenounproject.com 
+“Integration” by Tokka Elkholy from thenounproject.com 
+“Delivery Man” by Виталий Плут from thenounproject.com  
+“Jet Fighter Pilot” by Gan Khoon Lay from thenounproject.com 
+“Rocket” by Nikita Tcherednikov from thenounproject.com 
