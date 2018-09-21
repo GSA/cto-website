@@ -8,7 +8,10 @@ custom_js:
 <div class="usa-width-one-fourth sidebar-sticky">
   <section>
     <aside>
-      {{ content | toc_only }}
+      <h6 class="usa-heading-alt">{{ page.title }}</h6>
+      <nav>
+        {{ content | toc_only }}
+      </nav>
     </aside>
   </section>
 </div>
