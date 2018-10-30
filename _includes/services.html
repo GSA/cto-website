@@ -1,0 +1,65 @@
+
+
+<!-- this page is for the Enterprise services tools, should link from the Categories page expanding buttons -->
+
+
+<div class="usa-product">
+        <div class="usa-grid product-grid">
+            <div class="product-nav">
+                <a href="{{site.baseurl}}/enterprise-services">
+                    All Products
+                </a>
+                <i class="fa fa-caret-right"></i>
+                {{ page.name }}
+            </div>
+    
+            <div class="product-content">
+                <div class="usa-width-one-third">
+                    <div class="product-logo">
+                        {% if page.picture %}
+                         <img src="{{ site.baseurl }}/assets/img/cloud-strategy/{{ page.picture }}" alt="Picture of {{ page.name }}">
+                        {% else %}
+                         <img src="{{ site.baseurl }}/assets/img/cloud-strategy/govt-cloud.jpg" alt="" class="product-picture-none">
+                        {% endif %}
+                    </div>
+    
+                    {% if page.contact_name %}
+                        <a class="usa-button product-contact" href="mailto:{{ page.contact_email }}" target="blank">Contact</a>
+                    {% else %}
+                        <a class="usa-button usa-button-disabled product-contact">Contact</a>
+                    {% endif %}
+
+                    <section class="product-info">    
+                            <p><strong>Service Type</strong></p>
+                            <p>{{ page.service_type }}</p>
+    
+                            <p><strong>Category</strong></p>
+                            <p>{{ page.category }}</p>
+    
+                            <p><strong>Service Name</strong></p>
+                            <p>{{ page.service_name }}</p>
+                    </section>
+                </div>
+                
+                <div class="usa-width-two-thirds">
+                    <section class="product-info">
+                        <h2>{{ page.name }}</h2>
+
+                        <p><strong>Description</strong></p>
+                        <p>{{ page.literal_block }}</p>
+
+                        <p><strong>Features & Functions</strong></p>
+                        <p>{{ page.features_functions }}</p>
+
+                        <p><strong>Eligibility & Pre-requisities</strong></p>
+                        <p>{{ page.eligibility_prerequisites }}</p>
+
+                        <p><strong>Website</strong></p>
+                        <p>{{ page.website }}</p>
+                    </section>
+                </div>
+            </div>
+    
+        </div>
+    </div>
+    

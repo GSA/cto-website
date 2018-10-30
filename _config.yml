@@ -37,6 +37,9 @@ collections:
   cloud-strategy-services:
     permalink: /cloud-strategy-services/:slug/
     output: true 
+  enterprise-categories: 
+    permalink: /enterprise-categories/:slug/
+    output: true 
     
 defaults:
   -

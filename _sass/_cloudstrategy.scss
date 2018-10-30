@@ -81,3 +81,35 @@
 
 //*******************************************//
 //end styles for cloud strategy products
+
+//*******************************************//
+//begin styles for enterprise services
+.enterprise-services{
+    .services {
+        cursor: pointer;
+        height: 200px;
+        border-radius: 3px;
+        box-shadow: 0 1px 4px rgba($color-black, .3);
+        margin-top: 2rem;
+        width: 250px;
+    
+        h1 {
+            font-size: 2rem;
+            margin: 1rem;
+            align-items: center
+        }
+    }
+}
+
+.usa-product {
+    img {
+        margin-top: 2rem;
+    }
+    .product-contact {
+        margin-top: 2rem;
+        width: 100%;
+    }
+}
+
+//*******************************************//
+//end styles for cloud strategy products

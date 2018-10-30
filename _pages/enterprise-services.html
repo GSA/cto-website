@@ -1,0 +1,31 @@
+---
+layout: page
+title: Cloud Strategy Products
+permalink: /enterprise-services/
+--- 
+
+<!--This page is for the category Buttons-->
+
+<h1>Enterprise Services</h1>
+
+<div class="enterprise-services">
+    {% for product in site.enterprise-categories %}
+      {% assign loopstatus = forloop.index | modulo: 3 %}
+      {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
+      <div class="services usa-width-one-third">
+        <div class="product-name">
+          {% if product.slug %}
+            <h2><a href="{{ site.baseurl }}/enterprise-categories/{{ product.slug }}">{{ product.name }}</a></h2>
+          {% else %}
+            <h2>{{ product.name }}</h2>
+          {% endif %}
+        </div>
+      </div>
+      {% if loopstatus == 0 %}
+        </div>
+      {% elsif forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  
