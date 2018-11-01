@@ -19,6 +19,7 @@ $nav-height-collapsed: 60px; // Nav bar height on larger devices after scrolling
 @import "techtalks";
 @import "search";
 @import "database-play";
+@import "cards";
 
 body {
   color: $color-gray-warm-dark;
@@ -44,27 +45,16 @@ body.front {
     margin-top: 0.5em;
     text-align: center;
   }
+}
 
-  .vision-element {
-    background-color: white;
-    padding: 2em 1em;
-    border: 1px solid $color-gray-lighter;
-    box-shadow: 2px 2px 4px rgba(128, 128, 128, 0.2);
-    margin-top: 2em;
-    font-size: 1.1em;
-    text-align: center;
-
-    h2 a {
-      text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-      }
-    }
+.vision-element {
+  h2 {
+    font-size: 1em;
   }
 
-  .vision-element-icon i {
-    font-size: 4em;
+  p {
+    text-align: left;
+    font-size: 0.85em;
   }
 }
 
@@ -72,12 +62,13 @@ body.front {
   text-align: center;
 
   i {
+    font-size: 4em;
     color: white;
     vertical-align: middle;
     border-radius: 50%;
     width: 1.6em;
     height: 1.6em;
-    line-height: 1.6em;
+    line-height: 1.6em;    
   }
 
   .icon-share-technology        { background-color: $color-primary-alt-darkest; }
@@ -165,5 +156,82 @@ footer {
     display: block;
     margin-bottom: 2em;
     width: 120px;
+  }
+}
+
+// One-fifth grid from: https://github.com/GSA/centers-of-excellence/blob/master/css/styles.css
+.usa-grid {
+  max-width: 1240px;
+}
+.usa-width-one-fifth:first-child > :first-child  {
+  margin-top: 0;
+}
+.usa-width-one-fifth:last-child > :last-child {
+  margin-bottom: 0;
+}
+.usa-width-one-fifth {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 17.93176%;
+}
+.usa-width-one-fifth:last-child {
+  margin-right: 0;
+}
+.usa-width-one-fifth:nth-child(2n) {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 17.93176%;
+}
+@media screen and (max-width: 1200px) {
+  .usa-width-one-fifth:nth-of-type(1),
+  .usa-width-one-fifth:nth-of-type(2),
+  .usa-width-one-fifth:nth-of-type(3) {
+      float: left;
+      display: block;
+      margin-right: 4.82916%;
+      width: 30.11389%;
+  }
+  .usa-width-one-fifth:nth-of-type(3) {
+      margin-right: 0;
+  }
+  .usa-width-one-fifth:nth-of-type(4),
+  .usa-width-one-fifth:nth-of-type(5) {
+      margin-right: 4.82916%;
+      width: 30.11389%;
+  }
+  .usa-width-one-fifth:nth-of-type(4) {
+      margin-left: 17%;
+  }
+  .usa-width-one-fifth:nth-of-type(5) {
+      margin-right: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .usa-width-one-fifth:nth-of-type(1),
+  .usa-width-one-fifth:nth-of-type(2),
+  .usa-width-one-fifth:nth-of-type(3),
+  .usa-width-one-fifth:nth-of-type(4),
+  .usa-width-one-fifth:nth-of-type(5) {
+      margin-right: 4.82916%;
+      width: 47.58542%;
+  }
+  .usa-width-one-fifth:nth-of-type(4) {
+      margin-left: 0;
+  }
+  .usa-width-one-fifth:nth-of-type(2),
+  .usa-width-one-fifth:nth-of-type(4) {
+      margin-right: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  .usa-width-one-fifth:nth-of-type(1),
+  .usa-width-one-fifth:nth-of-type(2),
+  .usa-width-one-fifth:nth-of-type(3),
+  .usa-width-one-fifth:nth-of-type(4),
+  .usa-width-one-fifth:nth-of-type(5) {
+      margin-right: 0;
+      width: 100%;
   }
 }

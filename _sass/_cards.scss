@@ -1,0 +1,17 @@
+.card {
+  background-color: white;
+  padding: 2em 1em;
+  border: 1px solid $color-gray-lighter;
+  box-shadow: 2px 2px 4px rgba(128, 128, 128, 0.2);
+  margin-top: 2em !important;
+  font-size: 1.1em;
+  text-align: center;
+
+  h2 a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
