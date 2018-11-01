@@ -58,11 +58,14 @@ body.front {
   }
 }
 
+body.front .vision-element-icon i {
+  font-size: 4em;
+}
+
 .vision-element-icon {
   text-align: center;
 
   i {
-    font-size: 4em;
     color: white;
     vertical-align: middle;
     border-radius: 50%;
