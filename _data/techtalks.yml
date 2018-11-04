@@ -18,7 +18,8 @@
         <p>We will also discuss some of the basic requirements in operating these devices in the various operating environments.<p>
         <p>Please join us for some basic mobile device safety tips to help protect GSA's data as well as your own.</p>
   presenter: Debra Smith 
-  register: https://docs.google.com/forms/d/1QAuWP9ZuAnIUoiRtmFILymrs4RwQCizSmTeAs-rQOBQ/edit
+  register: 
+  slides: /assets/downloads/techtalks/Mobile_Device_Security_in_ GSA_Security_TechTalks_Part_2_of_3
 - title: IT Standards Tech Talk
   date: Oct 25, 2018  
   time: 1-1:30p
