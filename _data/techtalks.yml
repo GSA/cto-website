@@ -31,7 +31,7 @@
         <p>We look forward to seeing you on October 25th!</p>
   presenter: Cindy Smith & IT Standards Team
   register: 
-  slides:/assets/downloads/techtalks/October_ 2018_ IT_ Standards_ Tech_Talk
+  slides: /assets/downloads/techtalks/October_2018_IT_Standards_Tech_Talk.pdf
 - title: Use of a Computer while Teleworking Security Tech Talk
   date: Oct 4, 2018  
   time: 1-1:30p
