@@ -1,4 +1,4 @@
-- title:  Tech Talk
+- title:  Google Hangouts Closed Captioning Tech Talk
   date: Nov 14, 2018  
   time: 1-1:30p
   location: Virtual and 1800F Rm 5213
@@ -31,8 +31,8 @@
         <p>The IT Standards team wants to hear from you!  Please join us at the Tech Talk and bring your questions.<p>
         <p>We look forward to seeing you on October 25th!</p>
   presenter: Cindy Smith & IT Standards Team
-  register: https://docs.google.com/forms/d/e/1FAIpQLSeKmcIUybE4o9nzElLs2iZdYDRu2zIAiH6JZOsi6VABVoCBVw/viewform?usp=sf_link
-  slides:
+  register: 
+  slides: /assets/downloads/techtalks/October_2018_IT_Standards_Tech_Talk.pdf
 - title: Use of a Computer while Teleworking Security Tech Talk
   date: Oct 4, 2018  
   time: 1-1:30p
