@@ -1,5 +1,5 @@
 - title:  Google Hangouts Closed Captioning Tech Talk
-  date: Nov 14, 2018  
+  date: Nov 14, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 5213
   description: >
@@ -10,17 +10,18 @@
   presenter: Mark Buchko
   register: https://docs.google.com/forms/d/17nNJJNRjRoEYW2RR2pulajVMsrENXcN65u7Ill_ZV0o/edit
 - title: Use of a Mobile Device while Teleworking Security Tech Talk
-  date: Nov 1, 2018  
+  date: Nov 1, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 2213
   description: >
         <p>This presentation will focus on how the home user can work safely using their GFE mobile device as well as their BYOD and personally owned mobile device<p>
         <p>We will also discuss some of the basic requirements in operating these devices in the various operating environments.<p>
         <p>Please join us for some basic mobile device safety tips to help protect GSA's data as well as your own.</p>
-  presenter: Debra Smith 
-  register: https://docs.google.com/forms/d/1QAuWP9ZuAnIUoiRtmFILymrs4RwQCizSmTeAs-rQOBQ/edit
+  presenter: Debra Smith
+  register:
+  slides: /assets/downloads/techtalks/Mobile_Device_Security_in_GSA_Security_TechTalks_Part_2_of_3.pdf
 - title: IT Standards Tech Talk
-  date: Oct 25, 2018  
+  date: Oct 25, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 3232
   description: >
@@ -30,10 +31,10 @@
         <p>The IT Standards team wants to hear from you!  Please join us at the Tech Talk and bring your questions.<p>
         <p>We look forward to seeing you on October 25th!</p>
   presenter: Cindy Smith & IT Standards Team
-  register: 
+  register:
   slides: /assets/downloads/techtalks/October_2018_IT_Standards_Tech_Talk.pdf
 - title: Use of a Computer while Teleworking Security Tech Talk
-  date: Oct 4, 2018  
+  date: Oct 4, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 4232
   description: >
@@ -43,8 +44,8 @@
   presenter: Tamara Woodcock
   register: https://docs.google.com/forms/d/1Gp7CqA0kHTmE_kAeo_xE3QP5IHaQNq-4uLfVEOHkjVg/edit
   slides:
-- title: Geographical Information System (GIS) TechTalk 
-  date: Sept 13, 2018  
+- title: Geographical Information System (GIS) TechTalk
+  date: Sept 13, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 3232
   description: >
@@ -56,8 +57,8 @@
       <p>The public can use the tool to search for federal property in a certain geographic area, sort by federal agency and access information including whether the property is utilized, underutilized or not utilized.</p>
   presenter: Horatio McDowney and Michael Hartung and Patricia Cheng
   register:
-- title: Robotic Process Automation (RPA) TechTalk 
-  date: Sept 5, 2018  
+- title: Robotic Process Automation (RPA) TechTalk
+  date: Sept 5, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 6232
   description: >
@@ -65,15 +66,15 @@
       <p>There are two pilots being conducted at GSA right now.<p>
       <p>Come join us to learn more about this technology and how GSA stood up a working solution for a pilot and learn where we are headed next!</p>
   presenter: Jasmeen Bowmaster
-  register: 
+  register:
   slides:
   recording:
 - title: Electronic Document Management System (EDMS) Taxonomy Maintenance Tech Talk
-  date: Aug 23, 2018  
+  date: Aug 23, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 1147
   description: >
-      <p>Learn more about how the Taxonomy is used and managed within the GSA EDMS (Electronic Document Management System). We will pick up the discussion where we left off in the previous EDMS Tech Talk and Taxonomy Tech Talk.<p> 
+      <p>Learn more about how the Taxonomy is used and managed within the GSA EDMS (Electronic Document Management System). We will pick up the discussion where we left off in the previous EDMS Tech Talk and Taxonomy Tech Talk.<p>
       <p>During the presentation, we  will focus on the EDMS Team’s taxonomy governance process by showing how changes to terms and structure are identified and implemented.<p>
       <p>Finally, we will discuss how GSA can readily use and share existing taxonomies and authority control sources to enhance metadata and achieve interoperability.</p>
   presenter: Sara Mooney and Angela Pitts
@@ -89,7 +90,7 @@
       <p> During this presentation, we will explain what an EDMS is and how it can help your organization be more efficient.  We will also explain the difference between EDMS and Google Drive and when you should use each tool.<p>
       <p> Finally, we will show the process for moving your content onto the EDMS so that you can prepare to work with the EDMS team if you are interested.</p>
   presenter: Dean Grady and Joe Hilger
-  register: 
+  register:
   slides: /assets/downloads/techtalks/EDMSTechTalkPresentation.pdf
   recording:
 
@@ -142,7 +143,7 @@
     <p>Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.</p>
     <p>This is the second tech talk related to the topic of IT Standards.</p>
   presenter: Andrew Starling, Dan Perkins, and Mark Buchko
-  register: 
+  register:
   slides:
   recording:
 
@@ -203,7 +204,7 @@
    <p>We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
    <p>Paper: <a href="/assets/downloads/techtalks/params.pdf">Parametric and Logical Types for Model-Driven Engineering</a>
   presenter: Rick Murphy
-  register: 
+  register:
   slides:
   recording:
 
