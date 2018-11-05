@@ -1,0 +1,23 @@
+---
+title: Playbooks
+permalink: /playbooks/
+---
+
+<h1>GSA Tech Playbooks</h1>
+
+<table class="usa-table-borderless">
+  <thead class="usa-sr-only">
+    <tr>
+      <th id="playbooks-table-heading-title" scope="col">Title</th>
+      <th id="playbooks-table-heading-description" scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for playbook in site.playbooks %}
+        <tr class="playbooks-table-row">
+          <td><a href="{{ playbook.url | prepend: site.baseurl }}">{{ playbook.title }}</a></td>
+          <td>{{ playbook.description }}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
