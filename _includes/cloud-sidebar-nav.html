@@ -1,8 +1,12 @@
 
-<div class="usa-width-one-third">
+<div class="usa-grid usa-width-one-third sidebar-sticky">
+    <h6>Enterprise Categories</h6>
     <nav>
         <ul class="usa-sidenav-list">
-            <li class="toc-entry toc-h2"> <a href="#">Navigation Bar test</a></li>
+            {% for category in site.enterprise-categories %}
+            <li> <a href="{{ category.url }}"> {{ category.name }} </a>
+            </li>
+            {% endfor %}
         </ul>
     </nav>
 </div>
