@@ -12,14 +12,14 @@ The following document describes, at a high-level, the expectations, scope of re
 **DevSecOps:** A cultural and engineering practice that breaks down barriers and opens collaboration between development, security, and operations organizations using automation to focus on rapid, frequent delivery of secure infrastructure and software to production. It encompasses intake to release of software and manages those flows predictably, transparently, and with minimal human intervention/effort.
 
 #### Common Expectations
-Successful DevSecOps teams have processes characterized by repeatability, low redundancy, high collaboration with dispersion of collective efforts; in order to achieve this most efficiently, automation and auditability is prized above subjective decision-making. The decisions that would drive successful release should be codified in code. If it is not feasible to capture in code, checklists with clear yes/no decision points are preferred to heavily documented standard operating procedures (SOPs). SOPs can be subjectively interpreted more so than these first options. 
+Successful DevSecOps teams have processes characterized by repeatability, low redundancy, high collaboration with dispersion of collective efforts; in order to achieve this most efficiently, automation and auditability is prized above subjective decision-making. The decisions that would drive successful release should be codified in code. If it is not feasible to capture in code, checklists with clear yes/no decision points are preferred to heavily documented standard operating procedures (SOPs). SOPs can be subjectively interpreted more so than these first options.
 
 This does not mean that there aren’t scenarios in which that process can be disrupted and replaced by subjective decision-making; but those scenarios should be rare and driven by extreme conditions rather than the norm.
 
-All of the components described below are going to imply the necessity for some foundational elements; for example, infrastructure-as-code, source control, automation, clear communication pipelines, and many others. Individual platforms may implement these differently, but we will see those common elements emerge as designed. 
+All of the components described below are going to imply the necessity for some foundational elements; for example, infrastructure-as-code, source control, automation, clear communication pipelines, and many others. Individual platforms may implement these differently, but we will see those common elements emerge as designed.
 
 ### How to Use This Document
-This document is not a framework describing any specific implementation. It describes the requirements that need to be met by any specific implementation before it can be considered a Standard GSA DevSecOps Platform. It should be used by owners of platforms in conjunction with the CTO, Deputy CIO, and CISO to define an implementation of the requirements described in this framework. It should be used by application developers to understand and find platform implementations. This framework is set alongside a [template](https://docs.google.com/document/d/1Vu4Ku4dD8zdHlv4N1hSapZIxrlIbzhgsdUUY_yHCAZI/edit?ts=596f7f50//) that captures the requirements for any platform implementation.
+This document is not a framework describing any specific implementation. It describes the requirements that need to be met by any specific implementation before it can be considered a Standard GSA DevSecOps Platform. It should be used by owners of platforms in conjunction with the CTO, Deputy CIO, and CISO to define an implementation of the requirements described in this framework. It should be used by application developers to understand and find platform implementations. This framework is set alongside a [template]({{ site.baseurl }}/assets/downloads/DevSecOps_Platform_Template.docx) that captures the requirements for any platform implementation.
 
 A **platform** can be anything from an IaaS-driven pipeline of software delivery to a PaaS to a SaaS-driven application deployment scheme. Applications are deployed on platforms and provide services to our users. **Applications** are accepted onto platforms via an **intake** process. In GSA, that could mean that our delivery of applications on Salesforce can (and should) align to the framework described below.
 
@@ -140,7 +140,7 @@ Logging, monitoring and alerting covers the domain of understanding and managing
 ### Artifacts
 * Guide (code and/or document) to application owner access to logging, monitoring, and alerting services; use of the guide should suffice for an application owner to configure and manage their logs, monitoring, and alerts.  The guide should also cover logging configuration for centralized security monitoring by SecOps.
 
-### Patch management 
+### Patch management
 Is the process by which the operating system, software, and supporting services are upgraded. This is a key element of maintaining the security of systems.
 #### Maturity Model
 * Level 1 (Not considered viable for a DevSecOps platform): Patching is both manual and is not enforceable as a requirement nor is the state of patches running machines discoverable
@@ -228,7 +228,7 @@ Availability and performance management covers the processes that allow applicat
 
 ### Network Management
 Description
-Network management consists of the creation, maintenance and management of the network structures (such as ingress and egress points, virtual private cloud construction) on which the platform resides and in which the applications are launched. 
+Network management consists of the creation, maintenance and management of the network structures (such as ingress and egress points, virtual private cloud construction) on which the platform resides and in which the applications are launched.
 Maturity Model
 * Level 1 (Not considered viable for a DevSecOps platform): Each application defines and manages its network structures, inclusive of security assessments.
 * Level 2: The platform governs the overarching network infrastructure supporting the applications, with defined and assessed separation of network concerns. Application deployment and development requires frequent update of the network configuration.
