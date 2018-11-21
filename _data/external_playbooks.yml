@@ -12,3 +12,11 @@
 - title: 18F Guides
   description: 18F provides a repository of best practices across their teams.
   url: https://guides.18f.gov/
+
+- title: 18F Partnership Principles
+  description: 18F's approach to collaboration with agencies that have partnerships with 18F.
+  url: https://18f.gsa.gov/partnership-principles/
+
+- title: 18F Automated Testing Playbook
+  description: A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption.
+  url: https://18f.github.io/automated-testing-playbook/
