@@ -2,6 +2,7 @@
 name: Communication
 layout: enterprise-services
 slug: communication
+service_name: Communication
 service_type: End User Services
 service_category: Communication & Collaboration
 service_owner_org: Org. XYZ
