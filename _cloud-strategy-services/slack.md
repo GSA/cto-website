@@ -1,6 +1,7 @@
 ---
 name: Slack
 slug: slack
+layout: enterprise-tools
 service_type: End User Services
 category: Communication & Collaboration
 service_name: Communication
@@ -22,5 +23,3 @@ offerings:
 - Video Conferencing
 
 ---
-
-{% include services.html %}
