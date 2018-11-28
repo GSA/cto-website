@@ -1,6 +1,7 @@
 ---
 name: Slack
 slug: slack
+layout: enterprise-tools
 service_type: End User Services
 category: Communication & Collaboration
 service_name: Communication
@@ -18,7 +19,7 @@ eligibility_prerequisites: Fully-adjudicated Fed Employees and Contractors and l
 website: N/A 
 picture: slack-icon.jpg
 offerings: 
-  - Instant Messaging
----
+- Instant Messaging
+- Video Conferencing
 
-{% include services.html %}
+---

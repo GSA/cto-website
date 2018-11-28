@@ -1,9 +1,9 @@
 
-<!-- This include is for the actual Service Categories pages -->
+<!-- This include creates the Enterprise Service Categories pages -->
 
 <div class="usa-product product-grid">
     <div class="product-nav">
-        <a href="{{site.baseurl}}/enterprise-services"> All Categories </a>
+        <a href="{{site.baseurl}}/enterprise-services"> Enterprise Services </a>
         <i class="fa fa-caret-right"></i>
         {{ page.name }}
     </div>   
@@ -25,6 +25,7 @@
         </section>
 
 <!-- how to expand accordian button to add tools underneath-->
+
         {% for offering in page.offerings %}
             <section class="usa-accordion">
                 <ul class="usa-unstyled-list">

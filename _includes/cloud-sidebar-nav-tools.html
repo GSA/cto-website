@@ -1,0 +1,24 @@
+
+<div class="usa-grid usa-width-one-third sidebar-sticky">
+        <h6>Enterprise Categories</h6>
+        <nav>
+            <ul class="usa-sidenav-list">
+                {% for category in site.enterprise-categories %}
+                <li> <a href="{{ category.url }}"> {{ category.name }} </a>
+                    {% for service in site.cloud-strategy-services %}
+                        {% for service_category in service_category.service_name %}
+                            {% if service_category = service_name %}
+                                <ul class="usa-sidenav-sub_list">
+                                    <li>
+                                        <a href="{{ service_category.url }}"> {{ service_category.service_name}} </a>
+                                    </li>
+                                </ul>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %} 
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+    

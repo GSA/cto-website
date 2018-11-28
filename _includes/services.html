@@ -2,16 +2,20 @@
 
 <!-- this page is for the Enterprise services tools, should link from the Categories page expanding buttons -->
 
-
 <div class="usa-product">
-        <div class="usa-grid product-grid">
-            <div class="product-nav">
-                <a href="{{site.baseurl}}/enterprise-services">
-                    All Products
-                </a>
-                <i class="fa fa-caret-right"></i>
-                {{ page.name }}
-            </div>
+    <div class="usa-grid product-grid">
+        
+        <div class="product-nav">
+            {% for category in site.enterprise-categories %}
+                {% for offerings in category.offerings %}
+                    {% if offerings == offerings %}
+                        <a href="{{ category.url }}">{{ category.name }}</a>
+                        <i class="fa fa-caret-right"></i>
+                            {{ page.name }}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
     
             <div class="product-content">
                 <div class="usa-width-one-third">
@@ -30,14 +34,14 @@
                     {% endif %}
 
                     <section class="product-info">    
-                            <p><strong>Service Type</strong></p>
-                            <p>{{ page.service_type }}</p>
-    
-                            <p><strong>Category</strong></p>
-                            <p>{{ page.category }}</p>
-    
-                            <p><strong>Service Name</strong></p>
-                            <p>{{ page.service_name }}</p>
+                        <p><strong>Service Type</strong></p>
+                        <p>{{ page.service_type }}</p>
+
+                        <p><strong>Category</strong></p>
+                        <p>{{ page.category }}</p>
+
+                        <p><strong>Service Name</strong></p>
+                        <p>{{ page.service_name }}</p>
                     </section>
                 </div>
                 
