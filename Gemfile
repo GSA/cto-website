@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.8.2'
+gem 'jekyll', '~> 3.8.5'
 
 group :jekyll_plugins do
   gem 'jekyll_pages_api', git: 'https://github.com/18f/jekyll_pages_api'
