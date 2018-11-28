@@ -24,29 +24,28 @@
             <p>{{ page.long_description }}</p>
         </section>
 
-<!-- Accordian button to add tools underneath-->
+<!-- how to expand accordian button to add tools underneath-->
+        {% for offering in page.offerings %}
+            <section class="usa-accordion">
+                <ul class="usa-unstyled-list">
+                    <li>
+                        <button class="usa-accordion-button" aria-expanded="false" aria-controls="offering-{{ offering | slugify }}">
+                            {{ offering }} 
+                        </button>
 
-        {% for offerings in page.offerings %}
-        <section class="usa-accordion">
-            <ul class="usa-unstyled-list">
-                <li>
-                    <button class="usa-accordion-button" aria-expanded="false" aria-controls="offering-{{ offerings | slugify }}">
-                        {{ offerings }}
-                    </button>
-                    
-                    <div id="offering-{{ offerings | slugify }}" class="usa-accordion-content">
-                        {% for service in site.cloud-strategy-services %}
-                            {% for service_offering in service.offerings %}
-                                {% if service_offering == offerings %}
-                                    <h3><a href="{{ site.baseurl }}/cloud-strategy-services/{{ service.slug }}">{{ service.name }}</a></h3>
-                                    <p>{{ service.short_description }}</p>
-                                {% endif %}
+                        <div id="offering-{{ offering | slugify }}" class="usa-accordion-content">
+                            {% for service in site.cloud-strategy-services %}
+                                {% for service_offering in service.offerings %}
+                                    {% if service_offering == offering %}
+                                        <h3><a href="{{ site.baseurl }}/cloud-strategy-services/{{ service.slug }}">{{ service.name }}</a></h3>
+                                        <p>{{ service.short_description }}</p>
+                                    {% endif %}
+                                {% endfor %}
                             {% endfor %}
-                        {% endfor %}
-                    </div>
-                </li>
-            </ul>
-        </section>
+                        </div>   
+                    </li>
+                </ul>
+            </section>
         {% endfor %}
     </div>
 </div>
