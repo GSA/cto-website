@@ -1,6 +1,6 @@
 ---
 name: Communication
-layout: enterprise-services
+layout: enterprise-services-category
 slug: communication
 service_name: Communication
 service_type: End User Services
