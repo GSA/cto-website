@@ -1,0 +1,26 @@
+---
+title: Playbooks
+permalink: /playbooks/
+---
+
+<h1>GSA Tech Playbooks</h1>
+
+<p>A playbook is a comprehensive guide on a technical topic, describing both overarching strategy and tactical approaches. This is a list of playbooks from across the federal government.</p>
+
+<table class="usa-table-borderless">
+  <thead class="usa-sr-only">
+    <tr>
+      <th id="playbooks-table-heading-title" scope="col">Title</th>
+      <th id="playbooks-table-heading-description" scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign playbooks = site.playbooks | concat: site.data.external_playbooks | sort: "title" %}
+    {% for playbook in playbooks %}
+        <tr class="playbooks-table-row">
+          <td><a href="{{ playbook.url | relative_url }}">{{ playbook.title }}</a></td>
+          <td>{{ playbook.description }}</td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
