@@ -12,7 +12,7 @@ description: This layout is for all Enterprise Services pages.
           <li><a href="{{ site.baseurl }}/enterprise-services/">All Categories</a></li>
           {% for category in site.enterprise-categories %}
             <li>
-              <a href="{{ category.url }}">{{ category.name }}</a>
+              <a href="{{ category.url | prepend: site.baseurl }}">{{ category.name }}</a>
             </li>
           {% endfor %}
         </ul>
