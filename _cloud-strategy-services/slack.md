@@ -17,6 +17,9 @@ features_functions: channel-based, persistent correspondence and private, direct
 eligibility_prerequisites: Fully-adjudicated Fed Employees and Contractors and license availability. External users by invitation only (TTS only)
 website: N/A 
 picture: slack-icon.jpg
+offerings: 
+- Instant Messaging
+- Video Conferencing
 
 ---
 

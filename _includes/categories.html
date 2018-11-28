@@ -1,5 +1,5 @@
 
-<!-- This include is for the actual Service Categories pages -->
+<!-- This include creates the Enterprise Service Categories pages -->
 
 <div class="usa-product product-grid">
     <div class="product-nav">
@@ -24,21 +24,30 @@
             <p>{{ page.long_description }}</p>
         </section>
 
-<!-- how to expand accordian button to add tools underneath-->
+<!-- Accordian button to add tools underneath-->
 
-        <section class="usa-accordian">
+        {% for offerings in page.offerings %}
+        <section class="usa-accordion">
             <ul class="usa-unstyled-list">
                 <li>
-                    <button class="usa-accordion-button" aria-expanded="false" aria-controls="question-1">
-                        Instant Messaging Test 
+                    <button class="usa-accordion-button" aria-expanded="false" aria-controls="offering-{{ offerings | slugify }}">
+                        {{ offerings }}
                     </button>
-
-                    <div id="question-1" class="usa-accordion-content">
-                        <H1>Test test test</H1>
-                    </div>   
+                    
+                    <div id="offering-{{ offerings | slugify }}" class="usa-accordion-content">
+                        {% for service in site.cloud-strategy-services %}
+                            {% for service_offering in service.offerings %}
+                                {% if service_offering == offerings %}
+                                    <h3><a href="{{ site.baseurl }}/cloud-strategy-services/{{ service.slug }}">{{ service.name }}</a></h3>
+                                    <p>{{ service.short_description }}</p>
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}
+                    </div>
                 </li>
             </ul>
         </section>
+        {% endfor %}
     </div>
 </div>
     
