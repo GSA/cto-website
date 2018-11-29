@@ -6,10 +6,9 @@ description: This layout is for all Enterprise Services pages.
 <div class="usa-width-one-fourth sidebar-sticky">
   <section>
     <aside>
-      <h6 class="usa-heading-alt">Enterprise Categories</h6>
+      <h4 class="usa-heading-alt"><a href="{{ site.baseurl}}/enterprise-services"> Enterprise Services</a></h4>
       <nav>
         <ul class="usa-sidenav-list">
-          <li><a href="{{ site.baseurl }}/enterprise-services/">All Categories</a></li>
           {% for category in site.enterprise-categories %}
             <li>
               <a href="{{ category.url | prepend: site.baseurl }}">{{ category.name }}</a>
