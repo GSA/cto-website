@@ -20,6 +20,5 @@ website: N/A
 picture: slack-icon.jpg
 offerings:
 - Instant Messaging
-- Video Conferencing
 
 ---
