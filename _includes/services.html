@@ -6,15 +6,9 @@
     <div class="usa-grid product-grid">
         
         <div class="product-nav">
-            {% for category in site.enterprise-categories %}
-                {% for offerings in category.offerings %}
-                    {% if offerings == offerings %}
-                        <a href="{{ category.url }}">{{ category.name }}</a>
-                        <i class="fa fa-caret-right"></i>
-                            {{ page.name }}
-                    {% endif %}
-                {% endfor %}
-            {% endfor %}
+            <a href="{{ page.url }}">{{ page.service_name }}</a>
+            <i class="fa fa-caret-right"></i>
+                {{ page.name}}
         </div>
     
             <div class="product-content">
