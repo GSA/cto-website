@@ -1,7 +1,7 @@
 ---
-name: Technology Business Management 
-layout: enterprise-services
-slug: tech-bus-mgmt 
+name: Technology Business Management
+layout: enterprise-services-category
+slug: tech-bus-mgmt
 service_type: End User Services
 service_category: Communication & Collaboration
 service_owner_org: Org. XYZ

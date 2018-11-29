@@ -1,6 +1,6 @@
 ---
 name: Compute On Demand
-layout: enterprise-services
+layout: enterprise-services-category
 slug: compute-on-demand
 service_type: End User Services
 service_category: Communication & Collaboration

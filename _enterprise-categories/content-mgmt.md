@@ -1,6 +1,6 @@
 ---
-name: Content Management 
-layout: enterprise-services
+name: Content Management
+layout: enterprise-services-category
 slug: content-mgmt
 service_type: End User Services
 service_category: Communication & Collaboration

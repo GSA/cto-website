@@ -1,6 +1,6 @@
 ---
-name: Data Analytics 
-layout: enterprise-services
+name: Data Analytics
+layout: enterprise-services-category
 slug: data-analytics
 service_type: End User Services
 service_category: Communication & Collaboration

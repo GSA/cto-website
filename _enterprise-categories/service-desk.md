@@ -1,6 +1,6 @@
 ---
 name: Service Desk
-layout: enterprise-services
+layout: enterprise-services-category
 slug: service-desk
 service_type: End User Services
 service_category: Communication & Collaboration

@@ -41,8 +41,11 @@ collections:
     output: true 
   enterprise-categories: 
     permalink: /enterprise-categories/:slug/
-    output: true 
-    
+    output: true
+  playbooks:
+    permalink: /playbooks/:title/
+    output: true
+
 defaults:
   -
     values:
@@ -52,6 +55,11 @@ defaults:
       type: guides
     values:
       layout: guide
+  -
+    scope:
+      type: playbooks
+    values:
+      layout: playbook
 
 toc:
   min_level: 2

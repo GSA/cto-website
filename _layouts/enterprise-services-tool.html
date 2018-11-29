@@ -1,16 +1,10 @@
-
-
-<!-- this page is for the Enterprise services tools, should link from the Categories page expanding buttons -->
+---
+layout: enterprise-services
+description: This layout is for the Enterprise Services tool pages.
+---
 
 <div class="usa-product">
-    <div class="usa-grid product-grid">
-        
-        <div class="product-nav">
-            <a href="{{ page.url }}">{{ page.service_name }}</a>
-            <i class="fa fa-caret-right"></i>
-                {{ page.name}}
-        </div>
-    
+    <div class="usa-grid-full product-grid">
             <div class="product-content">
                 <div class="usa-width-one-third">
                     <div class="product-logo">
@@ -20,14 +14,14 @@
                          <img src="{{ site.baseurl }}/assets/img/cloud-strategy/govt-cloud.jpg" alt="" class="product-picture-none">
                         {% endif %}
                     </div>
-    
+
                     {% if page.contact_name %}
                         <a class="usa-button product-contact" href="mailto:{{ page.contact_email }}" target="blank">Contact</a>
                     {% else %}
                         <a class="usa-button usa-button-disabled product-contact">Contact</a>
                     {% endif %}
 
-                    <section class="product-info">    
+                    <section class="product-info">
                         <p><strong>Service Type</strong></p>
                         <p>{{ page.service_type }}</p>
 
@@ -38,7 +32,7 @@
                         <p>{{ page.service_name }}</p>
                     </section>
                 </div>
-                
+
                 <div class="usa-width-two-thirds">
                     <section class="product-info">
                         <h2>{{ page.name }}</h2>
@@ -57,7 +51,6 @@
                     </section>
                 </div>
             </div>
-    
+
         </div>
     </div>
-    

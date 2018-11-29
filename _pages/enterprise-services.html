@@ -1,24 +1,31 @@
 ---
-layout: page
+layout: enterprise-services
 title: Cloud Strategy Products
 permalink: /enterprise-services/
---- 
-
-<!--This page is for the category Buttons-->
+---
 
 <h1>Enterprise Services</h1>
 
 <div class="enterprise-services">
-    {% for product in site.enterprise-categories %}
+  <div class="cards">
+    {% for category in site.enterprise-categories %}
       {% assign loopstatus = forloop.index | modulo: 3 %}
-      {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
-      <div class="services usa-width-one-third">
-        <div class="product-name">
-          {% if product.slug %}
-            <h2><a href="{{ site.baseurl }}/enterprise-categories/{{ product.slug }}">{{ product.name }}</a></h2>
+      {% if loopstatus == 1 %}<div class="usa-grid-full">{% endif %}
+      <div class="card usa-width-one-third">
+        <div class="card-picture">
+          {% if category.picture %}
+            <img src="{{ site.baseurl }}/assets/img/enterprise-services/{{ category.picture }}" alt="Picture of {{ category.name }}">
           {% else %}
-            <h2>{{ product.name }}</h2>
+            <img src="{{ site.baseurl }}/assets/img/blank.svg" alt="" class="card-picture-none">
           {% endif %}
+        </div>
+        <div class="card-content">
+          <div class="project-name">
+            <h2><a href="{{ category.url | prepend: site.baseurl }}">{{ category.name }}</a></h2>
+          </div>
+          <div class="project-description">
+            {{ category.long_description }}
+          </div>
         </div>
       </div>
       {% if loopstatus == 0 %}
@@ -28,4 +35,4 @@ permalink: /enterprise-services/
       {% endif %}
     {% endfor %}
   </div>
-  
+</div>

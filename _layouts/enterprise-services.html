@@ -1,11 +1,26 @@
 ---
-layout: base
-description:
-  This layout is for the enterprise services categories pages. 
+layout: page
+description: This layout is for all Enterprise Services pages.
 ---
-<div class="usa-grid"> 
 
-{% include cloud-sidebar-nav.html %}
-{% include categories.html %}
+<div class="usa-width-one-fourth sidebar-sticky">
+  <section>
+    <aside>
+      <h6 class="usa-heading-alt">Enterprise Categories</h6>
+      <nav>
+        <ul class="usa-sidenav-list">
+          <li><a href="{{ site.baseurl }}/enterprise-services/">All Categories</a></li>
+          {% for category in site.enterprise-categories %}
+            <li>
+              <a href="{{ category.url | prepend: site.baseurl }}">{{ category.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </aside>
+  </section>
+</div>
 
+<div class="usa-width-three-fourths">
+  {{ content }}
 </div>

@@ -1,6 +1,6 @@
 ---
 name: Backup & Archive
-layout: enterprise-services
+layout: enterprise-services-category
 slug: backup-archives
 service_type: End User Services
 service_category: Communication & Collaboration

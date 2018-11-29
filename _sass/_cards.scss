@@ -1,0 +1,38 @@
+.card {
+  background-color: white;
+  border: 1px solid $color-gray-lighter;
+  box-shadow: 0px 2px 4px rgba(128, 128, 128, 0.2);
+  margin-top: 2em !important;
+
+  .card-picture img {
+    width: 100%;
+    border-bottom: 1px solid $color-gray-lighter;
+    object-fit: cover;
+    @media only screen and (min-width: $nav-breakpoint) {
+      height: 160px;
+    }
+  }
+
+  .card-picture-none {
+    display: none;
+    @media only screen and (min-width: $nav-breakpoint) {
+      display: block;
+    }
+  }
+
+  .card-content {
+    margin: 1em !important;
+  }
+
+  h2 {
+    font-size: 1.1em;
+  }
+
+  h2 a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
