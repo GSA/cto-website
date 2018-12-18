@@ -33,6 +33,9 @@ collections:
   guides:
     permalink: /guides/:title/
     output: true
+  playbooks:
+    permalink: /playbooks/:title/
+    output: true
 
 defaults:
   -
@@ -43,6 +46,11 @@ defaults:
       type: guides
     values:
       layout: guide
+  -
+    scope:
+      type: playbooks
+    values:
+      layout: playbook
 
 toc:
   min_level: 2
