@@ -1,22 +1,18 @@
 ---
 title: API Standards
-category: Development
+category: API
 audiences:
   - Developers
 ---
 
-As GSA continues down the past to "open all the things" and take an "open first" approach to data, APIs, code, etc., we consider standards around how to make "things" open.  
+GSA has developed [API Standards](https://github.com/GSA/api-standards) that capture GSA's recommended best practices, conventions, and standards for Application Programming Interfaces (APIs). 
 
-We have developed [API Standards](https://github.com/GSA/api-standards), which are currently in beta. We invite you to participate in the discussion of those standards as they develop.
+The standards include these critical items:
 
-In short, we consider the following as good practice:
-
-1. Primarily speaking of RESTful APIs (some consideration should be given to maturing SOA/SOAP and other ETL type code/transactions).
-2. Standard use cases - bulk data, staying up to date, and transactions - in every case, as we have data, we should support through API exposure of that data.
-3. Support your API! Have a real life person who can evangelize, mature the code, and assist users.
-4. Utilize [api.data.gov](http://api.data.gov/docs/gsa/) as a gateway to your APIs. This provides key management, analytics, and throttling.
-5. Use JSON!  There are other types of machine-readable formats that would work but recently JSON has become the most common and easiest to use.
-6. Consider keys, HTTPs, error handling, etc.  These need to be executed on the GSA side to provide users appropriate access and messaging.
-7. Use the [GSA API Documentation Template](https://github.com/GSA/api-documentation-template).  Clone it, change it, make it look good, make it work for consumers.
-
-Good API management starts with the program office that recognizes the need to expose data in an easy to understand way.  APIs create the connection to share with external customers, support mobile apps, transition from legacy technology, and many other situations.
+1. **Always Use HTTPS** - All APIs should require and use HTTPS encryption (using TLS/SSL). APIs should not allow HTTP connections. [CIO.gov guidance on HTTPS](https://https.cio.gov/apis/)
+2. **Add Your API To The GSA API Directory** - The GSA API Directory is available at [https://open.gsa.gov/api](https://open.gsa.gov/api). 
+3. **Use The api.data.gov Service** - The [api.data.gov service](https://api.data.gov/about/) is an API management service for federal agencies. GSA APIs should use the api.gsa.gov base domain with this service.
+4. **Provide Support For Versioning** - Versioning APIs makes the process of adding new functionality smoother and less disruptive to existing API consumers.
+5. **Provide Public Documentation** - The developer's entry point to an API is its documentation. Clear and functional documentation improves the on-boarding process. 
+6. **Provide A Feedback Mechanism That Is Clear and Monitored** - Having an obvious mechanism for clients to report issues and ask questions about the API demonstrates that the API can be counted on for production usage. 
+7. **Provide An OpenAPI Specification File** - Providing this allows consumers to understand the details and can be used by development or testing tools accessing your API.

@@ -1,6 +1,6 @@
 ---
 title: API Documentation Template
-category: Development
+category: API
 audiences:
   - Developers
   - Project Managers
