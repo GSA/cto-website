@@ -2,7 +2,7 @@
 firstname: Cindy
 lastname: Smith
 photo:
-role:
+role: IT Specialist
 group: GSA Office of the CTO
 email: cindya.smith@gsa.gov
 layout: profile
