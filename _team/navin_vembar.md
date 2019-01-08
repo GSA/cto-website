@@ -1,10 +1,10 @@
 ---
-firstname: Navin
-lastname: Vembar
-photo: navin_vembar.jpg
-role: Chief Technology Officer
+firstname: Kris
+lastname: Rowley
+photo: 
+role: Interim Chief Technology Officer
 group: GSA Office of the CTO
-email: navin.vembar@gsa.gov
+email: kris.rowley@gsa.gov
 layout: profile
 ordering: 1
 ---
