@@ -1,5 +1,5 @@
 ---
-firstname: Kehinde Omolola
+firstname: Kehinde
 lastname: Ogundolie
 photo:
 role: Program Analyst
