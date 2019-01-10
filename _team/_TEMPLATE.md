@@ -4,7 +4,6 @@ lastname:
 photo:
 role:
 email:
-layout: profile
 ordering: 10
 ---
 

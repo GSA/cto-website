@@ -4,6 +4,5 @@ lastname: Ramamoorthy
 photo:
 role: IT Consultant
 email: gokul.ramamoorthy@gsa.gov
-layout: profile
 ordering: 10
 ---
