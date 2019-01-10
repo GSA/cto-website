@@ -3,8 +3,7 @@ firstname: Pamela
 lastname: Miller
 photo:
 role:
-group: GSA Office of the CTO
 email: pamela.miller@gsa.gov
 layout: profile
-ordering: 6
+ordering: 10
 ---

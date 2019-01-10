@@ -3,7 +3,6 @@ firstname:
 lastname:
 photo:
 role:
-group:
 email:
 layout: profile
 ordering: 10
