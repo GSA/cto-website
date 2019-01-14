@@ -51,6 +51,10 @@ defaults:
       type: playbooks
     values:
       layout: playbook
+  - scope:
+      type: team
+    values:
+      layout: profile
 
 toc:
   min_level: 2
