@@ -13,8 +13,8 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 There are two ways you can set up your development environment:
 
-* **Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)
-* **(Experimental) Method 2:** Use Docker to maintain all tools and dependencies inside a container
+* [**Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
+* [**Method 2:** Use Docker to maintain all tools and dependencies inside a container](#method-2-containerized-development-environment-using-docker)
 
 ### Method 1: Local development environment
 
@@ -52,7 +52,7 @@ rake serve
 
 You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
 
-### Method 2 (Experimental): Containerized development environment using Docker
+### Method 2: Containerized development environment using Docker
 
 This method explains how to set up a containerized development environment by using Docker. Using this method, you shouldn't need to install anything other than Docker on your local machine.
 
