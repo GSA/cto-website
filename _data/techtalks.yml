@@ -15,7 +15,7 @@
         <p>Qualtrics is a customer experience management platform that allows users to create surveys, dashboards, and graphics, in addition, to analyze and synthesize data.</p>
         <p>This presentation will focus on Qualtrics as a platform and how to effectively create a survey. Surveys should be built with the user in mind, utilizing best practices based on behavioral science research</p>
   presenter: Sheev Dave
- - title:  NAAS Tech Talk
+- title:  NAAS Tech Talk
   date: Jan 31, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3211
@@ -23,7 +23,7 @@
         <p>Responding correctly to the National Alert and Accountability System (NAAS) notification messages is important for GSA’s accountability.</p>
         <p>This tech talk will discuss details of notification types and your responsibility in responding></p>
   presenter: Buddy King
- - title:  Salesforce Lightning Experience Tech Talk
+- title:  Salesforce Lightning Experience Tech Talk
   date: Jan 24, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3334
@@ -32,7 +32,7 @@
         <p>With Lightning users can find insights more quickly, work more efficiently, and be connected across all devices.</p>
         <p>During the Lightning Experience Tech Talk, Annie Egan from the ICPA team, will provide an overview about what Lightning is, highlight new and exciting features of the interface and discuss the Salesforce COE’s strategy for transitioning GSA to Lightning.</p>
   presenter: Anne Eagan
-  - title:  Account and Network Security for teleworks Tech Talk
+- title:  Account and Network Security for teleworks Tech Talk
   date: Dec 6, 2018
   time: 1-1:30p
   location: Virtual and 1800F Rm 2143
