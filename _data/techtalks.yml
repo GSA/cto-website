@@ -1,3 +1,12 @@
+- title: Agile Basics and Control Tech Talk
+  date: Feb 28, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3334
+  description: >
+        <p>This tech talk will cover two related topics</p>
+        <p>First we'll discuss Agile basics and how to get started in adopting Agile practices, as well as some of the benefits. Second, we'll outline some ways in which Agile practices can enhance accountability and transparency.</p>
+  presenter: Andrew Politi
+  register: https://docs.google.com/forms/d/1ngAeIcJGPMldvF1QQHQ0aMIVIOtW-iQQzQxND7J6YkA/edit
 - title: Qualtrics Tech Talk
   date: Feb 7, 2019
   time: 1-1:30p
@@ -6,7 +15,6 @@
         <p>Qualtrics is a customer experience management platform that allows users to create surveys, dashboards, and graphics, in addition, to analyze and synthesize data.</p>
         <p>This presentation will focus on Qualtrics as a platform and how to effectively create a survey. Surveys should be built with the user in mind, utilizing best practices based on behavioral science research</p>
   presenter: Sheev Dave
-  register: https://docs.google.com/forms/d/1Ykn4Gqcrj3naNRP-O0abH2EiI6fuqTncaxDeaeE7i7M/edit
 - title:  NAAS Tech Talk
   date: Jan 31, 2019
   time: 1-1:30p
@@ -15,7 +23,6 @@
         <p>Responding correctly to the National Alert and Accountability System (NAAS) notification messages is important for GSA’s accountability.</p>
         <p>This tech talk will discuss details of notification types and your responsibility in responding></p>
   presenter: Buddy King
-  register: https://docs.google.com/forms/d/1gg1DlMnDPqh0c1bybJJ_P5KfaDBsQMil4PXO15MPBuk/viewform
 - title:  Salesforce Lightning Experience Tech Talk
   date: Jan 24, 2019
   time: 1-1:30p
@@ -25,7 +32,6 @@
         <p>With Lightning users can find insights more quickly, work more efficiently, and be connected across all devices.</p>
         <p>During the Lightning Experience Tech Talk, Annie Egan from the ICPA team, will provide an overview about what Lightning is, highlight new and exciting features of the interface and discuss the Salesforce COE’s strategy for transitioning GSA to Lightning.</p>
   presenter: Anne Eagan
-  register: https://docs.google.com/forms/d/1td-fSeGFiyReFnEp2cV8lf3zYBUsRM7OnoLiovCj97I/viewform
 - title:  Account and Network Security for teleworks Tech Talk
   date: Dec 6, 2018
   time: 1-1:30p
