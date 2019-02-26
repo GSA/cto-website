@@ -20,3 +20,7 @@
 - title: 18F Automated Testing Playbook
   description: A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption.
   url: https://18f.github.io/automated-testing-playbook/
+
+- title: Technology Business Management Playbook
+  description: This playbook is designed to assist federal agencies as they start Technology Business Management (TBM) implementation. While each agency should tailor its TBM implementation to their organization’s current state and desired outcomes, the playbook offers guidance and lessons learned from the U.S. General Services Administration (GSA) and the U.S. Department of Education.
+  url: ../assets/downloads/GSA_Education_TBM_Playbook_v6.pdf
