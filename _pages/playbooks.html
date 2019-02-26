@@ -18,7 +18,7 @@ permalink: /playbooks/
     {% assign playbooks = site.playbooks | concat: site.data.external_playbooks | sort: "title" %}
     {% for playbook in playbooks %}
         <tr class="playbooks-table-row">
-          <td><a href="{{ playbook.url | relative_url }}">{{ playbook.title }}</a></td>
+          <td><a href="{{ playbook.url }}">{{ playbook.title }}</a></td>
           <td>{{ playbook.description }}</td>
         </tr>
     {% endfor %}
