@@ -23,10 +23,8 @@ If not planned properly, Tiger Teams can fall prey to some of these shortcomings
 
 Tiger Teams can be considered effective if the primary issue is resolved and the root causes are shared widely across the organization. The following is an approach to meet those ends. (Remember this assumes that the most likely solutions have already been tried without success.)
 
-#### Before trying any solutions, take the following steps ####
-
-1. Agree to a description of the symptoms (preferably from the perspective of the end user)
-2. Spend time identifying possible root causes. Sources of information include:
+1. Take time to observe the symptoms. Agree to a consensus on the current condition (preferably from the perspective of the end user)
+2. Identify possible root causes. Sources of information include:
   * Previous documentation from using this process
   * Bug tracking, help desk, and ticketing systems
   * Collective memory of organization, Slack channels, and email listservs
@@ -78,6 +76,10 @@ Tiger Teams can be considered effective if the primary issue is resolved and the
 
 
 This information becomes the basis of a knowledge store to consult in the future before the next Tiger Team is formed.
+
+### Related Methodologies
+
+This process is consistent with the Improvement Kata, and its use of the Plan-Do-Check-Act (PDCA) cycle.
 
 
 
