@@ -8,7 +8,17 @@
         </p>
   presenter: Sean Zerges
   register: https://docs.google.com/forms/d/1ALMYNsVmNMDtwlkDua6GKipdzaTzc3srxuWo8_F6hTg/edit
-- title: Agile Basics and Control Tech Talk
+  - title: GEAR Manager Tech Talk
+    date: Mar 21, 2019
+    time: 1-1:30p
+    location: Virtual and 1800F Rm 6213
+    description: >
+        <p>Many of us use the GSA EA Analytics and Reporting (GEAR) site as a source of rich information pertaining to GSA business application, FISMA systems, and IT standards.</p>
+        <p>However, any data is only reliable if it is regularly reviewed and updated. For this reason, the Enterprise Architecture team has created the GEAR Manager page, which provides an intuitive interface for users to quickly edit and update their data in GEAR and see these updates on the site in real time.</p>      
+        <p> Please join us in this Tech Talk as the EA team discusses everything about the GEAR Manager page, from requesting access to making your first edits.</p>
+   presenter: Jonah Hatfield
+   register: https://docs.google.com/forms/d/18VlWi8rXScjimfXrXLgSMO9JZaYHWFDVscZ-85YGoAg/edit
+  - title: Agile Basics and Control Tech Talk
   date: Mar 12, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3334
