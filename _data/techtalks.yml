@@ -8,17 +8,19 @@
         </p>
   presenter: Sean Zerges
   register: https://docs.google.com/forms/d/1ALMYNsVmNMDtwlkDua6GKipdzaTzc3srxuWo8_F6hTg/edit
-  - title: GEAR Manager Tech Talk
-    date: Mar 21, 2019
-    time: 1-1:30p
-    location: Virtual and 1800F Rm 6213
-    description: >
+
+- title: GEAR Manager Tech Talk
+  date: Mar 21, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 6213
+  description: >
         <p>Many of us use the GSA EA Analytics and Reporting (GEAR) site as a source of rich information pertaining to GSA business application, FISMA systems, and IT standards.</p>
         <p>However, any data is only reliable if it is regularly reviewed and updated. For this reason, the Enterprise Architecture team has created the GEAR Manager page, which provides an intuitive interface for users to quickly edit and update their data in GEAR and see these updates on the site in real time.</p>      
         <p> Please join us in this Tech Talk as the EA team discusses everything about the GEAR Manager page, from requesting access to making your first edits.</p>
-   presenter: Jonah Hatfield
-   register: https://docs.google.com/forms/d/18VlWi8rXScjimfXrXLgSMO9JZaYHWFDVscZ-85YGoAg/edit
-  - title: Agile Basics and Control Tech Talk
+  presenter: Jonah Hatfield
+  register: https://docs.google.com/forms/d/18VlWi8rXScjimfXrXLgSMO9JZaYHWFDVscZ-85YGoAg/edit
+
+- title: Agile Basics and Control Tech Talk
   date: Mar 12, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3334
@@ -27,6 +29,7 @@
         <p>First we'll discuss Agile basics and how to get started in adopting Agile practices, as well as some of the benefits. Second, we'll outline some ways in which Agile practices can enhance accountability and transparency.</p>
   presenter: Andrew Politi
   register: https://docs.google.com/forms/d/1ngAeIcJGPMldvF1QQHQ0aMIVIOtW-iQQzQxND7J6YkA/edit
+
 - title: Qualtrics Tech Talk
   date: Feb 7, 2019
   time: 1-1:30p
@@ -35,7 +38,8 @@
         <p>Qualtrics is a customer experience management platform that allows users to create surveys, dashboards, and graphics, in addition, to analyze and synthesize data.</p>
         <p>This presentation will focus on Qualtrics as a platform and how to effectively create a survey. Surveys should be built with the user in mind, utilizing best practices based on behavioral science research</p>
   presenter: Sheev Dave
-- title:  NAAS Tech Talk
+
+- title: NAAS Tech Talk
   date: Jan 31, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3211
@@ -43,7 +47,8 @@
         <p>Responding correctly to the National Alert and Accountability System (NAAS) notification messages is important for GSA’s accountability.</p>
         <p>This tech talk will discuss details of notification types and your responsibility in responding></p>
   presenter: Buddy King
-- title:  Salesforce Lightning Experience Tech Talk
+
+- title: Salesforce Lightning Experience Tech Talk
   date: Jan 24, 2019
   time: 1-1:30p
   location: Virtual and 1800F Rm 3334
@@ -52,6 +57,7 @@
         <p>With Lightning users can find insights more quickly, work more efficiently, and be connected across all devices.</p>
         <p>During the Lightning Experience Tech Talk, Annie Egan from the ICPA team, will provide an overview about what Lightning is, highlight new and exciting features of the interface and discuss the Salesforce COE’s strategy for transitioning GSA to Lightning.</p>
   presenter: Anne Eagan
+
 - title:  Account and Network Security for teleworks Tech Talk
   date: Dec 6, 2018
   time: 1-1:30p
@@ -63,6 +69,7 @@
         <p>Join us for some basic home user tips on remaining data aware and keeping the cyber criminals out.</p>
   presenter: Stephanie Dillon
   register:
+
 - title:  Google Hangouts Closed Captioning Tech Talk
   date: Nov 14, 2018
   time: 1-1:30p
@@ -74,6 +81,7 @@
         <p>Join us for this informative tech talk</p>
   presenter: Mark Buchko
   register:
+
 - title: Use of a Mobile Device while Teleworking Security Tech Talk
   date: Nov 1, 2018
   time: 1-1:30p
@@ -85,6 +93,7 @@
   presenter: Debra Smith
   register:
   slides: /assets/downloads/techtalks/Mobile_Device_Security_in_GSA_Security_TechTalks_Part_2_of_3.pdf
+
 - title: IT Standards Tech Talk
   date: Oct 25, 2018
   time: 1-1:30p
@@ -98,6 +107,7 @@
   presenter: Cindy Smith & IT Standards Team
   register:
   slides: /assets/downloads/techtalks/October_2018_IT_Standards_Tech_Talk.pdf
+
 - title: Use of a Computer while Teleworking Security Tech Talk
   date: Oct 4, 2018
   time: 1-1:30p
@@ -109,6 +119,7 @@
   presenter: Tamara Woodcock
   register:
   slides:
+
 - title: Geographical Information System (GIS) TechTalk
   date: Sept 13, 2018
   time: 1-1:30p
@@ -122,6 +133,7 @@
       <p>The public can use the tool to search for federal property in a certain geographic area, sort by federal agency and access information including whether the property is utilized, underutilized or not utilized.</p>
   presenter: Horatio McDowney and Michael Hartung and Patricia Cheng
   register:
+
 - title: Robotic Process Automation (RPA) TechTalk
   date: Sept 5, 2018
   time: 1-1:30p
@@ -134,6 +146,7 @@
   register:
   slides:
   recording:
+
 - title: Electronic Document Management System (EDMS) Taxonomy Maintenance Tech Talk
   date: Aug 23, 2018
   time: 1-1:30p
@@ -146,6 +159,7 @@
   register:
   slides: /assets/downloads/techtalks/EDMSTaxonomyTechTalk.pdf
   recording:
+
 - title: GSA's Electronic Document Management System (EDMS) Tech Talk
   date: Aug 9, 2018
   time: 1-1:30p
