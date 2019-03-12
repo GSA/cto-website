@@ -6,3 +6,5 @@ role: Sr. Developer
 email: jeffrey.fredrickson@gsa.gov
 ordering: 10
 ---
+
+here is my bio
