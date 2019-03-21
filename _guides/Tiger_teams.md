@@ -70,10 +70,10 @@ Tiger Teams can be considered effective if the primary issue is resolved and the
 7. As a group, review this list and agree to the solution. If a solution is left in place from the testing, it still needs agreement from the team that this is the correct solution. 
 
 8. When the solution is identified, finish the process with these steps (following change management policies):
-  * Allocate funding (if required)
+  * Allocate funding (if required).
   * Perform appropriate backups and document rollback plan.
   * Schedule the implementation.
-  * Implement the solution
+  * Implement the solution.
   * Validate the results against the solution definition. This may include observation for a period of time identified in step 6.
   * Consider how it can be implemented across the enterprise for maximum benefit and prevention of future emergencies through configuration and automation (or procedures as a last result). Assign an owner to get this applied and set a date for a follow up report to the team or management.
 
