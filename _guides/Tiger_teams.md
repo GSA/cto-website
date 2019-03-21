@@ -92,7 +92,11 @@ This information becomes the basis of a knowledge store to consult in the future
 
 This process is consistent with the [Improvement Kata](http://www.methodsandtools.com/archive/toyotakata.php), and its use of the Plan-Do-Check-Act (PDCA) cycle. 
  
+### Future Improvements
 
+This guide is a start, but there is plenty of room for improvement, including:
+ * Sharing standardized templates for root cause analysis and other analysis in this process
+ * Providing a searchable repository for the outcomes of this process. 
 
 
 
