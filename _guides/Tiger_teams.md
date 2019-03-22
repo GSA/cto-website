@@ -8,7 +8,7 @@ audiences:
   - Information Security
 ---
 
-Tiger Teams are cross-functional teams pulled together for a period of time to address a critical issue. They are often formed when an IT issue is impacting customers and the most likely solutions have already been tried without success. A typical example would be that a critical application is running slowly, and a team is formed with representatives from network, infrastructure, development, and database groups.  The group schedules a series of meetings to worth through an issue until a root cause is determined and a solution is implemented.
+Tiger Teams are cross-functional teams pulled together for a period of time to address a critical issue. They are often formed when an IT issue is impacting customers and the most likely solutions have already been tried without success. A typical example would be that a critical application is running slowly, and a team is formed with representatives from the network, infrastructure, development, and database groups.  The team schedules a series of meetings to work through an issue until a root cause is determined and a solution is implemented.
 
 ### Potential Risks To Be Avoided ###
 
@@ -24,7 +24,7 @@ If not planned properly, Tiger Teams can fall prey to some of these risks:
 
 Tiger Teams can be considered effective if the primary issue is resolved and the root causes are shared widely across the organization. The following is an approach to meet those ends. (Remember this assumes that the most likely solutions have already been tried without success.)
 
-1. Take time to observe the symptoms. Agree to a consensus on the current condition (preferably from the perspective of the end user).
+1. Take time to observe the symptoms and their impacts. Agree to a consensus on the current condition (preferably from the perspective of the end user).
 
     **List of Symptoms**
 
@@ -57,15 +57,15 @@ Tiger Teams can be considered effective if the primary issue is resolved and the
   * Run one test.
   * Document the results of the test.
   * Determine if test results confirm a root cause.
-  * If the root cause is not identified, back the changes out of the system and continue onto the next item.
+  * If the root cause is not identified, back the changes out of the system and continue to the next item.
 
-6. Once the root cause is identified develop a list of possible solutions:
+6. Once the root cause is identified, develop a list of possible solutions:
 
       **List of Possible Solutions**
 
-    | Because the root cause is | One possible solution is | Benefits for this solution are| Risks for this solution are| Monetary cost for solution is | We will know this solution solves the root cause when (includes period of time needed to validate) |
-    | ---- | ----- | ----- |----- | ------| ---- |
-    | | | | | |
+    | Because the root cause is | One possible solution is | Benefits  | Risks  | Monetary cost  | We will know this solution solves the root cause when | Period of time needed to validate |
+    | ---- | ----- | ----- |----- | ------| ---- | ---- |
+    | | | | | | |
 
 7. As a group, review this list and agree to the solution. If a solution is left in place from the testing, it still needs agreement from the team that this is the correct solution. 
 
@@ -95,7 +95,7 @@ This process is consistent with the [Improvement Kata](http://www.methodsandtool
 ### Future Improvements
 
 This guide is a start, but there is plenty of room for improvement, including:
- * Sharing standardized templates for root cause analysis and other analysis in this process
+ * Sharing standardized templates for root cause analysis and other analysis in this process.
  * Providing a searchable repository for the outcomes of this process. 
 
 
