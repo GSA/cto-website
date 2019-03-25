@@ -15,11 +15,11 @@ The following diagram demonstrates the three-pillar approach we are following to
 
 ### Pillar 1: External Customer Experience
 
-Providing APIs and API documentation that fulfill the needs of customers. Designing from a user-focused perspective, rather than technology-focused. The [GSA API Directory](https://open.gsa.gov/api) and [API Documentation Template](/guides/API_doco_template) are the primary methods of implementing this.
+Providing APIs and API documentation that fulfill the needs of customers. Designing from a user-focused perspective, rather than technology-focused. The [GSA API Directory](https://open.gsa.gov/api) and [Self-service API Documentation Hosting](https://github.com/GSA/open-gsa-redesign/blob/master/APIDOCS.md) are the primary methods of implementing this. We also plan to implement Human Centered Design (HCD) techniques to enhance our developer experience.
 
 ### Pillar 2: Internal Engagement
 
-Building a community of API owners and practitioners inside GSA to develop APIs in a consistent fashion. The [GSA API Standards](/guides/API_standards) and GSA API Working Group are two key components of this pillar.
+Building a community of API owners and practitioners inside GSA to develop APIs in a consistent fashion. The [GSA API Standards](/guides/API_standards) and GSA API Guild are two key components of this pillar.
 
 ### Pillar 3: Technical Architecture
 
