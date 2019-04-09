@@ -18,7 +18,8 @@
         <p>But how do we make sure that GSA's APIs are high quality, secure, and consistent with each other? And how do we help people find and use our APIs?</p>
         <p>This presentation will share the details of GSA's API Strategy, and the three areas we are focused on to make it a reality: External Customer Experience, Internal Engagement, and Technical Architecture.</p>
   presenter: Ryan Day
-  register: https://docs.google.com/forms/d/1WbwAxdGroVcFu1qZRlP2dGr9l9ppv8XYTz9ITutK37Y/edit
+  register: 
+  slides: /assets/downloads/techtalks/Tech Talks-APIStrategyImplementation-Spring2019.pdf
 
 - title: GEAR Manager Tech Talk
   date: Mar 21, 2019
