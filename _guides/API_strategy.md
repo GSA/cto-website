@@ -19,7 +19,7 @@ Providing APIs and API documentation that fulfill the needs of customers. Design
 
 ### Pillar 2: Internal Engagement
 
-Building a community of API owners and practitioners inside GSA to develop APIs in a consistent fashion. The [GSA API Standards](/guides/API_standards) and GSA API Guild are two key components of this pillar.
+Building a community of API owners and practitioners inside GSA to develop APIs in a consistent fashion. The [GSA API Standards](/guides/API_standards) and [GSA API Guild](/guides/API_guild) are two key components of this pillar.
 
 ### Pillar 3: Technical Architecture
 
