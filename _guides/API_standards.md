@@ -9,7 +9,7 @@ GSA has developed [API Standards](https://github.com/GSA/api-standards) that cap
 
 API Security is governed by the GSA IT Security Procedural Guide: API Security CIO-IT Security-19-93. Reference that guide for security-related topics such as HTTPS encryption, authentication, and authorization.
 
-The standards include these critical items:
+The API standards include these required items:
 
 1. **Add Your API To The GSA API Directory** - The GSA API Directory is available at [https://open.gsa.gov/api](https://open.gsa.gov/api). 
 2. **Use The api.data.gov Service** - The [api.data.gov service](https://api.data.gov/about/) is an API management service for federal agencies. GSA APIs should use the api.gsa.gov base domain with this service.
