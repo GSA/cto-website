@@ -5,7 +5,9 @@ audiences:
   - Developers
 ---
 
-GSA has developed [API Standards](https://github.com/GSA/api-standards) that capture GSA's recommended best practices, conventions, and standards for Application Programming Interfaces (APIs).API Security is governed by the GSA IT Security Procedural Guide: API Security CIO-IT Security-19-93.
+GSA has developed [API Standards](https://github.com/GSA/api-standards) that capture GSA's recommended best practices, conventions, and standards for Application Programming Interfaces (APIs).
+
+API Security is governed by the GSA IT Security Procedural Guide: API Security CIO-IT Security-19-93. Reference that guide for security-related topics such as HTTPS encryption, authentication, and authorization.
 
 The standards include these critical items:
 
