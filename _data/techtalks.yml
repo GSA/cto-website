@@ -1,3 +1,15 @@
+- title: GitHub Tech Talk
+  date: May 23, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 7115
+  description: >
+       <p> A Tour of GitHub for Non-Developers: GitHub is a collaboration platform where users can work on open source projects together.
+       <p>In this session, we’ll take a look at the many GitHub features and get you up to speed with version control terminology. 
+       <p>We’ll also take a look at a few workflows in GitHub for contributing to open source projects without coding.
+       <p>This is a beginner friendly session for someone who has little to no experience with GitHub.</p> 
+  presenter: Sara Cope
+  register: https://docs.google.com/forms/d/1uCibyu308Vac2zg8079wlBN24mhdlx0kmutlZfn9ons/edit
+
 - title: Google Design Sprint Tech Talk
   date: May 1, 2019
   time: 1-1:30p
