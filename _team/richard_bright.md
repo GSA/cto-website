@@ -2,7 +2,7 @@
 firstname: Richard  
 lastname: Bright
 photo: richard_bright.jpg
-role:
+role: Sr. Solution Arch
 email: richard.bright@gsa.gov
 ordering: 10
 ---
