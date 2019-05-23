@@ -11,5 +11,5 @@ Joseph de Rosales is assigned to the Office of the Chief Technology Officer as t
 
 Joseph joined the GSA in February 2014. He has received the FAS Commissioner’s Spotlight on Success Award for managing the GWAC Prices Paid Dashboards and the IT Solutions Navigator Application. Prior to joining GSA, he served as an IT Specialist for the United States Coast Guard and as a Project Manager for the Department of Navy.
 
-Joseph’s holds a Bachelor of Science degree in Information Systems and a minor in Computer Science from the University of Maryland Baltimore County (UMBC)
+Joseph’s holds a Bachelor of Science degree in Information Systems and a minor in Computer Science from the University of Maryland Baltimore County (UMBC).
 
