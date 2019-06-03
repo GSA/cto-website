@@ -1,3 +1,14 @@
+- title: Alfresco Tech Talk
+  date:June 13, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3022
+  description: >
+       <p>Alfresco is the software behind EDMS.
+       <p>The Tech Talk will be about the Upgrading of Alfresco to Version 6.0 and the additional attributes we gain by using it.
+       <p>Tentatively scheduled for release later this summer.</p> 
+  presenter: Richard Shaw
+  register: https://docs.google.com/forms/d/1B5XIyepiDxML_Y-3PL15FpkX5oZ7mNlODmIMGcFMf3c/edit
+  slides: 
 - title: GitHub Tech Talk
   date: May 23, 2019
   time: 1-1:30p
