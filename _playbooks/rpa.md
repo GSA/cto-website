@@ -8,8 +8,6 @@ toc: true
 
 # Robotic Process Automation 
 
-## RPA Basics 
-
 **Robotic Process Automation (RPA)** is a business process automation technology that automates manual tasks that are largely **rules based, structured and repetitive** using software robots, also known as **bots**. A RPA tool maps a process for a robot to follow which allows the bot to operate in place of a human.
 
 ## GSA RPA Bots
