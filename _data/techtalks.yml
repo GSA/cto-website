@@ -1,3 +1,15 @@
+title: GRACE Tech Talk
+  date: June 27, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 3232
+  description: >
+       <p>This talk is an overview of the GSA Readily Available Computing Environment (GRACE). 
+       <p>The GRACE is a cloud broker, designed for DevSecOps teams with a high level of technical proficiency. 
+       <p>We will go over GRACE capabilities today, what will be improved, and what GRACE will be sharing with the greater community in the future.</p> 
+  presenter: Bryan Alexander
+  register: https://docs.google.com/forms/d/11uQAWN9_6lvCGQnDMKHfp5LwdQzPUD-hmcTSghUZgj4/edit
+  slides: 
+
 - title: Alfresco Tech Talk
   date: June 13, 2019
   time: 1-1:30p
