@@ -26,15 +26,9 @@ RPA enables employees to spend less time on routine tasks and focus more on chal
 
 The [RPA Community of Practice (CoP)](https://digital.gov/communities/rpa/) is a government-wide initiative led by the U.S. General Services Administration (GSA) and Technology Transformation Services (TTS) program offices to facilitate collaboration and problem solving between federal agencies that are interested in implementing RPA. The CoP shares information and resources and provides guidance for RPA implementation and operations. Government employees can join the FedRPA CoP by sending an email to [fedrpa-subscribe-request@listserv.gsa.gov](mailto:fedrpa-subscribe-request@listserv.gsa.gov). 
 
-## Resources 
+## GSA RPA GitHub Repo
 
-### RPA Guide
-
-The U.S. General Services Administration (GSA) has developed an **RPA guide that sets standards and best practices** that RPA teams should use when implementing RPA. 
-- [RPA Guide](hyperlink)
-
-### GSA RPA GitHub Repo
-The U.S. General Services Administration (GSA) has made the **code accessible through GitHub** for those looking to get started or learn more about RPA. The code powers a few of GSA’s bots that are currently being used by various teams.
+The U.S. General Services Administration (GSA) has made the code accessible through GitHub for those looking to get started or learn more about RPA. The code powers a few of GSA’s bots that are currently being used by various teams.
 - [GSA RPA GitHub Repo](hyperlink)
 
 
