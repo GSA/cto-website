@@ -8,7 +8,7 @@ toc: true
 
 # Robotic Process Automation 
 
-**Robotic Process Automation (RPA)** is a business process automation technology that automates manual tasks that are largely **rules based, structured and repetitive** using software robots, also known as **bots**. A RPA tool maps a process for a robot to follow which allows the bot to operate in place of a human.
+**Robotic Process Automation (RPA)** is a business process automation technology that automates manual tasks that are largely **rules based, structured and repetitive** using software robots, also known as **bots**.  RPA tools map a process for a robot to follow which allows the bot to operate in place of a human.
 
 RPA aligns with the President's agenda goals for IT Modernization (shown below). 
 <img src="{{ site.baseurl }}/assets/img/rpa/rpa-top-down-strategy.png">
@@ -29,6 +29,7 @@ The [RPA Community of Practice (CoP)](https://digital.gov/communities/rpa/) is a
 ## GSA RPA GitHub Repo
 
 The U.S. General Services Administration (GSA) has made the code accessible through GitHub for those looking to get started or learn more about RPA. The code powers a few of GSA’s bots that are currently being used by various teams.
-- [GSA RPA GitHub Repo](hyperlink)
+- [GSA's AP Email Notifications bot ](https://github.com/GSA/AP-Email-Notifications)
+- [GSA’s Credit Card Logging bot](https://github.com/GSA/Credit_Card_Logging_Bot)
 
 
