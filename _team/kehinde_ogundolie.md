@@ -1,7 +1,7 @@
 ---
 firstname: Kehinde
 lastname: Ogundolie
-photo:
+photo: Kehinde_Ogundolie.jpg
 role: Program Analyst
 email: Kehinde.ogundolie@gsa.gov
 ordering: 11

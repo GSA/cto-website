@@ -1,0 +1,11 @@
+/* Playbooks listing */
+
+.playbooks-table {
+  td {
+    vertical-align: top;
+
+    &:first-child {
+      min-width: 200px;
+    }
+  }
+}

@@ -1,5 +1,5 @@
 /**
- * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.3.0
+ * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.3.5
  * Copyright (C) 2018 Oliver Nightingale
  * @license MIT
  */
@@ -54,7 +54,7 @@ var lunr = function (config) {
   return builder.build()
 }
 
-lunr.version = "2.3.0"
+lunr.version = "2.3.5"
 /*!
  * lunr.utils
  * Copyright (C) 2018 Oliver Nightingale
@@ -262,6 +262,14 @@ lunr.Set.prototype.contains = function (object) {
 lunr.Set.prototype.intersect = function (other) {
   var a, b, elements, intersection = []
 
+  if (other === lunr.Set.complete) {
+    return this
+  }
+
+  if (other === lunr.Set.empty) {
+    return other
+  }
+
   if (this.length < other.length) {
     a = this
     b = other
@@ -290,6 +298,14 @@ lunr.Set.prototype.intersect = function (other) {
  */
 
 lunr.Set.prototype.union = function (other) {
+  if (other === lunr.Set.complete) {
+    return lunr.Set.complete
+  }
+
+  if (other === lunr.Set.empty) {
+    return this
+  }
+
   return new lunr.Set(Object.keys(this.elements).concat(Object.keys(other.elements)))
 }
 /**
@@ -659,7 +675,7 @@ lunr.Pipeline.prototype.run = function (tokens) {
 
       if (result === void 0 || result === '') continue
 
-      if (result instanceof Array) {
+      if (Array.isArray(result)) {
         for (var k = 0; k < result.length; k++) {
           memo.push(result[k])
         }
@@ -1444,13 +1460,13 @@ lunr.TokenSet.fromFuzzyString = function (str, editDistance) {
 
       if (frame.str.length == 1) {
         noEditNode.final = true
-      } else {
-        stack.push({
-          node: noEditNode,
-          editsRemaining: frame.editsRemaining,
-          str: frame.str.slice(1)
-        })
       }
+
+      stack.push({
+        node: noEditNode,
+        editsRemaining: frame.editsRemaining,
+        str: frame.str.slice(1)
+      })
     }
 
     // deletion
@@ -1569,14 +1585,13 @@ lunr.TokenSet.fromFuzzyString = function (str, editDistance) {
  */
 lunr.TokenSet.fromString = function (str) {
   var node = new lunr.TokenSet,
-      root = node,
-      wildcardFound = false
+      root = node
 
   /*
    * Iterates through all characters within the passed string
    * appending a node for each character.
    *
-   * As soon as a wildcard character is found then a self
+   * When a wildcard character is found then a self
    * referencing edge is introduced to continually match
    * any number of any characters.
    */
@@ -1585,7 +1600,6 @@ lunr.TokenSet.fromString = function (str) {
         final = (i == len - 1)
 
     if (char == "*") {
-      wildcardFound = true
       node.edges[char] = node
       node.final = final
 
@@ -1595,11 +1609,6 @@ lunr.TokenSet.fromString = function (str) {
 
       node.edges[char] = next
       node = next
-
-      // TODO: is this needed anymore?
-      if (wildcardFound) {
-        node.edges["*"] = root
-      }
     }
   }
 
@@ -1626,6 +1635,11 @@ lunr.TokenSet.prototype.toArray = function () {
         len = edges.length
 
     if (frame.node.final) {
+      /* In Safari, at this point the prefix is sometimes corrupted, see:
+       * https://github.com/olivernn/lunr.js/issues/279 Calling any
+       * String.prototype method forces Safari to "cast" this string to what
+       * it's supposed to be, fixing the bug. */
+      frame.prefix.charAt(0)
       words.push(frame.prefix)
     }
 
@@ -2275,7 +2289,7 @@ lunr.Index.load = function (serializedIndex) {
   var attrs = {},
       fieldVectors = {},
       serializedVectors = serializedIndex.fieldVectors,
-      invertedIndex = {},
+      invertedIndex = Object.create(null),
       serializedInvertedIndex = serializedIndex.invertedIndex,
       tokenSetBuilder = new lunr.TokenSet.Builder,
       pipeline = lunr.Pipeline.load(serializedIndex.pipeline)
@@ -3388,6 +3402,9 @@ lunr.QueryParser.parseEditDistance = function (parser) {
       return lunr.QueryParser.parseEditDistance
     case lunr.QueryLexer.BOOST:
       return lunr.QueryParser.parseBoost
+    case lunr.QueryLexer.PRESENCE:
+      parser.nextClause()
+      return lunr.QueryParser.parsePresence
     default:
       var errorMessage = "Unexpected lexeme type '" + nextLexeme.type + "'"
       throw new lunr.QueryParseError (errorMessage, nextLexeme.start, nextLexeme.end)
@@ -3428,6 +3445,9 @@ lunr.QueryParser.parseBoost = function (parser) {
       return lunr.QueryParser.parseEditDistance
     case lunr.QueryLexer.BOOST:
       return lunr.QueryParser.parseBoost
+    case lunr.QueryLexer.PRESENCE:
+      parser.nextClause()
+      return lunr.QueryParser.parsePresence
     default:
       var errorMessage = "Unexpected lexeme type '" + nextLexeme.type + "'"
       throw new lunr.QueryParseError (errorMessage, nextLexeme.start, nextLexeme.end)
