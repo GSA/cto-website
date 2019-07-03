@@ -1,7 +1,7 @@
 ---
 layout: playbook
 title: Robotics Process Automation
-description: This is the RPA playbook 
+description: This playbook is to serve as a brief overview of Robotic Process Automation and provide resources to sample 'bots,' GSA's github page, and resources. 
 permalink: /playbooks/rpa/
 toc: true
 ---
