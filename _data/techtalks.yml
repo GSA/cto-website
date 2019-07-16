@@ -20,7 +20,6 @@
        <p>We will go over GRACE capabilities today.
        <p>Also we will go over what will be improved, and what GRACE will be sharing with the greater community in the future. </p> 
   presenter: Bryan Alexander 
-  register: https://docs.google.com/forms/d/11uQAWN9_6lvCGQnDMKHfp5LwdQzPUD-hmcTSghUZgj4/edit
   slides:
   
 - title: Alfresco Tech Talk
@@ -32,7 +31,6 @@
        <p>The Tech Talk will be about the Upgrading of Alfresco to Version 6.0 and the additional attributes we gain by using it.
        <p>Tentatively scheduled for release later this summer.</p> 
   presenter: Richard Shaw
-  register: https://docs.google.com/forms/d/1B5XIyepiDxML_Y-3PL15FpkX5oZ7mNlODmIMGcFMf3c/edit
   slides: 
 
 - title: GitHub Tech Talk
@@ -45,7 +43,6 @@
        <p>We’ll also take a look at a few workflows in GitHub for contributing to open source projects without coding.
        <p>This is a beginner friendly session for someone who has little to no experience with GitHub.</p> 
   presenter: Sara Cope
-  register:
   slides: /assets/downloads/techtalks/GitHubforNondevelopers2.pdf
 
 - title: Google Design Sprint Tech Talk
@@ -58,7 +55,7 @@
         <p>Sprint is a book written by two ex-Googler's who undertook many such challenges when working with clients to transform the way they work.</p> 
         <p>Sprint focuses on a 5 day, intensive set of sessions to break down issues, center the team on the right problems to solve, and produce prototypes quickly.</p> 
   presenter: Mark Vogelgesang
-  register: https://docs.google.com/forms/d/1y0FlZ2ur9YiVN3GJCM-z5wyNsuumjHDPpO2eFYGHfR4/edit
+  slides:
   
 - title: Mac Attack Tech Talk
   date: Apr 16, 2019
@@ -69,8 +66,7 @@
         <p>The Mac Attack Tech Talk will be centered around providing a current overview of Macs in the GSA environment and how they are supported, recent end user survey results, and the User Acceptance Testing process.
         </p>
   presenter: Sean Zerges
-  register: https://docs.google.com/forms/d/1ALMYNsVmNMDtwlkDua6GKipdzaTzc3srxuWo8_F6hTg/edit
-
+  
 - title: GSA API Strategy Tech Talk
   date: Apr 4, 2019
   time: 1-1:30p
@@ -92,8 +88,7 @@
         <p>However, any data is only reliable if it is regularly reviewed and updated. For this reason, the Enterprise Architecture team has created the GEAR Manager page, which provides an intuitive interface for users to quickly edit and update their data in GEAR and see these updates on the site in real time.</p>
         <p> Please join us in this Tech Talk as the EA team discusses everything about the GEAR Manager page, from requesting access to making your first edits.</p>
   presenter: Jonah Hatfield
-  register: https://docs.google.com/forms/d/18VlWi8rXScjimfXrXLgSMO9JZaYHWFDVscZ-85YGoAg/edit
-
+  
 - title: Agile Basics and Control Tech Talk
   date: Mar 12, 2019
   time: 1-1:30p
@@ -102,8 +97,7 @@
         <p>This tech talk will cover two related topics</p>
         <p>First we'll discuss Agile basics and how to get started in adopting Agile practices, as well as some of the benefits. Second, we'll outline some ways in which Agile practices can enhance accountability and transparency.</p>
   presenter: Andrew Politi
-  register: https://docs.google.com/forms/d/1ngAeIcJGPMldvF1QQHQ0aMIVIOtW-iQQzQxND7J6YkA/edit
-
+  
 - title: Qualtrics Tech Talk
   date: Feb 7, 2019
   time: 1-1:30p
