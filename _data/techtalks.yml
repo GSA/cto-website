@@ -6,8 +6,7 @@
        <p>The Mulesoft Anypoint Platform focuses on unlocking data and building an application network via an API driven approach.
        <p>The Anypoint Platform is a suite of tools that allows users to develop, deploy, manage, secure and collaborate on APIs.
        <p>GSA is currently leveraging Mulesoft for Salesforce provisioning and there are projects underway in PBS and OGP.</p> 
-
-  presenter:Joe Lawless
+  presenter: Joe Lawless
   register: https://docs.google.com/forms/d/18g4hn_nTrEwZGqFD0RW-U3WjgBNW-NqXAZUX3WTHj2k/edit
   slides:
 
