@@ -11,6 +11,8 @@ This playbook is designed to help you **transform your database technology** and
 
 * Each play is an **integral** part of database transformation decisions.
 * All these plays in total are essential to the **success** of these decisions.
+* **Note:** GSA will continue to publish updates to the playbook with best practices and lessons learned.
+* Last Updated on 7/24/2019
 
 <br>
 <br>
