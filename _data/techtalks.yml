@@ -33,7 +33,7 @@
        <p>This format ensures that the ICPA team has a proper understanding of how to setup Salesforce standard objects, configure workflows, and setup reports / dashboards based on the needs of the business line. </p> 
   presenter: Anne Egan 
   register: 
-  slides:
+  slides: /assets/downloads/techtalks/SprintbasedRequirements.pdf
 
 - title: GRACE Tech Talk
   date: June 27, 2019
