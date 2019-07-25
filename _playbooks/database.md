@@ -102,7 +102,7 @@ As a result, the scope of your database transformation should be **well-defined*
 
 Your goals might be a combination of:
 * cost avoidance
-* Maintainability
+* maintainability
 * security
 * performance
 * modernization
@@ -121,7 +121,7 @@ Once you define your goals it’s important to establish well thought out **metr
 
 * IT modernization architecture should include **defined performance measures** and **outcomes** that support your organization’s objectives.
 
-Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation.
+Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation. Be sure you capture a valid baseline of performance that can be used to compare the perfomance of the to-be architecture.  
 
 
 ## Pilot Solutions
@@ -212,6 +212,8 @@ To this end, consider **open-source** database technologies to “**future proof
 
 Open-source databases are more **modular**, promote **open standards** and **APIs**, and extend **foundational elements** essential to:
 * **Avoiding** a one-size-fits-all feature set
+
+Also concider any ***encryption requirements*** when selecting a viable open source database engine. Applications with Personally Identifiable Information (PII) or Payment Card Information (PCI) data may have Transparent Data Encryption (TDE) or Cell-Level Encryption (CLE) requirements. Thouroughly research which encryption features are supported by the to-be database engine.   
 
 <img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.png" class="icon-right">
 
