@@ -9,8 +9,8 @@
        <p>So that users may preserve any of those older messages for personal reference use, GSA IT developed a Chrome extension that allows users to save those message outside the GSA email system--in this case Google Drive. 
        <p>The Chrome extension saves messages as PDF documents and includes any attachments in their native form. 
        <p>Without this tool users will have to print each message as PDF and manually combine with any attachments to store outside GSA email system.</p>
-presenter: Amar Singh
-  register:https://docs.google.com/forms/d/18PMm-w4VG-vBrC3EMwpTVGyfs6uSzfg81_zmuDmYyUI/edit
+  presenter: Amar Singh
+  register: https://docs.google.com/forms/d/18PMm-w4VG-vBrC3EMwpTVGyfs6uSzfg81_zmuDmYyUI/edit
   slides:
 
 - title: Mulesoft Tech Talk
