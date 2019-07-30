@@ -11,6 +11,8 @@ This playbook is designed to help you **transform your database technology** and
 
 * Each play is an **integral** part of database transformation decisions.
 * All these plays in total are essential to the **success** of these decisions.
+* **Note:** GSA will continue to publish updates to the playbook with best practices and lessons learned.
+* Last Updated on 7/24/2019
 
 <br>
 <br>
@@ -100,7 +102,7 @@ As a result, the scope of your database transformation should be **well-defined*
 
 Your goals might be a combination of:
 * cost avoidance
-* Maintainability
+* maintainability
 * security
 * performance
 * modernization
@@ -119,7 +121,7 @@ Once you define your goals it’s important to establish well thought out **metr
 
 * IT modernization architecture should include **defined performance measures** and **outcomes** that support your organization’s objectives.
 
-Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation.
+Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation. Be sure you capture a valid baseline of performance and network typology that can be used to compare the perfomance of the to-be architecture.  
 
 
 ## Pilot Solutions
@@ -219,6 +221,8 @@ Open-source databases are more **modular**, promote **open standards** and **API
 * **Scaling** up or out without direct cost/license restrictions
 
 By implementing open-source databases, you can yield a **lower total cost of ownership**, and shift the **cost burden** from upfront licensing to **implementation** and **customization**.
+
+Also consider any **encryption requirements** when selecting a viable open source database engine. Applications with Personally Identifiable Information (PII) or Payment Card Information (PCI) data may have Transparent Data Encryption (TDE) or Cell-Level Encryption (CLE) requirements. Thoroughly research which encryption features are supported by the to-be database engine.
 
 ## Iterate
 
