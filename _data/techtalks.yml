@@ -32,11 +32,10 @@
   description: >
        <p>Activiti, part of the EDMS platform, is an enterprise Business Process Management (OA) solution with the flexibility and scalability to handle a wide variety of workflow processes within GSA.
        <p>It provides a powerful suite of end user tools and integrates with a range of enterprise systems to allow for cross team/cross platform workflows.
-       <p> Teams such as Occupancy Agreements (OA) and Digital Signatures (DSS) rely on Activiti as it's workflow engine. Close integration with Alfresco allows workflows to drive compliance and records activity.</p> 
-
+       <p> Teams such as Occupancy Agreements (OA) and Digital Signatures (DSS) rely on Activiti as it's workflow engine. Close integration with Alfresco allows workflows to drive compliance and records activity.</p>
   presenter: Hugo Martinez 
   register: https://docs.google.com/forms/d/1cFaKnmvNWEZV0WBjIZ_lAri8FaJn9J-pEq7K8eaxWMI/edit
-  slides:/assets/downloads/techtalks/EDMSAlfrescoActivitiTechTalk.pdf
+  slides: /assets/downloads/techtalks/EDMSAlfrescoActivitiTechTalk.pdf
   
 - title: Sprint-Based Requirements Tech Talk
   date: July 18, 2019
