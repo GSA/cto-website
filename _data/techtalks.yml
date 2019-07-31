@@ -106,6 +106,7 @@
         <p>The Mac Attack Tech Talk will be centered around providing a current overview of Macs in the GSA environment and how they are supported, recent end user survey results, and the User Acceptance Testing process.
         </p>
   presenter: Sean Zerges
+  slides:/assets/downloads/techtalks/MacAttack.pdf
   
 - title: GSA API Strategy Tech Talk
   date: Apr 4, 2019
