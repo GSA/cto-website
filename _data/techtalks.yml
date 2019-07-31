@@ -36,7 +36,7 @@
 
   presenter: Hugo Martinez 
   register: https://docs.google.com/forms/d/1cFaKnmvNWEZV0WBjIZ_lAri8FaJn9J-pEq7K8eaxWMI/edit
-  slides:
+  slides:/assets/downloads/techtalks/EDMSAlfrescoActivitiTechTalk.pdf
   
 - title: Sprint-Based Requirements Tech Talk
   date: July 18, 2019
