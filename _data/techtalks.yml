@@ -10,7 +10,6 @@
        <p>The Chrome extension saves messages as PDF documents and includes any attachments in their native form. 
        <p>Without this tool users will have to print each message as PDF and manually combine with any attachments to store outside GSA email system.</p>
   presenter: Amar Singh
-  register: https://docs.google.com/forms/d/18PMm-w4VG-vBrC3EMwpTVGyfs6uSzfg81_zmuDmYyUI/edit
   slides:
 
 - title: Mulesoft Tech Talk
@@ -22,7 +21,6 @@
        <p>The Anypoint Platform is a suite of tools that allows users to develop, deploy, manage, secure and collaborate on APIs.
        <p>GSA is currently leveraging Mulesoft for Salesforce provisioning and there are projects underway in PBS and OGP.</p> 
   presenter: Joe Lawless
-  register: https://docs.google.com/forms/d/18g4hn_nTrEwZGqFD0RW-U3WjgBNW-NqXAZUX3WTHj2k/edit
   slides:
 
 - title: Activiti Tech Talk
@@ -34,7 +32,6 @@
        <p>It provides a powerful suite of end user tools and integrates with a range of enterprise systems to allow for cross team/cross platform workflows.
        <p> Teams such as Occupancy Agreements (OA) and Digital Signatures (DSS) rely on Activiti as it's workflow engine. Close integration with Alfresco allows workflows to drive compliance and records activity.</p>
   presenter: Hugo Martinez 
-  register: https://docs.google.com/forms/d/1cFaKnmvNWEZV0WBjIZ_lAri8FaJn9J-pEq7K8eaxWMI/edit
   slides: /assets/downloads/techtalks/EDMSAlfrescoActivitiTechTalk.pdf
   
 - title: Sprint-Based Requirements Tech Talk
