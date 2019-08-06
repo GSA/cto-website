@@ -12,7 +12,7 @@ This playbook is designed to help you **transform your database technology** and
 * Each play is an **integral** part of database transformation decisions.
 * All these plays in total are essential to the **success** of these decisions.
 * **Note:** GSA will continue to publish updates to the playbook with best practices and lessons learned.
-* Last Updated on 7/24/2019
+* Last Updated on 8/6/2019
 
 <br>
 <br>
@@ -267,6 +267,12 @@ When GSA’s Identity and Access Management System reached the end of its lifecy
   * One-on-one chats can be forthcoming, and provide both good and bad insight to the process.
 * Don't forget the closeout activities such as updating ATOs and properly decommissioning any hardware or you will be answering for it in years to come.  It's not as critical but it still needs to be completed.
 * It’s better to tackle a database transformation earlier in a system’s lifecycle than later.
+
+## Case Study Update
+
+GSA is wrapping up the Pilot phase of a project where we are partnering with the TMF to modernize our application and database infrastructure: <a href="https://tmf.cio.gov/projects/#application-modernization-integrating-flexible-architectures">Application Modernization Integrating Flexible Architectures</a>. Please refer to the link for the details and goals of the project. 
+
+We are  updating the playbook based on our experience from this project to ensure we are providing teams with lessons learned and best practices.  The team will host retrospectives later this month (August 2019) once we closeout Pilot Phase deliverables. Thanks and stay tuned! 
 
 <br>
 <br>
