@@ -12,6 +12,7 @@ This playbook is designed to help you **transform your database technology** and
 * Each play is an **integral** part of database transformation decisions.
 * All these plays in total are essential to the **success** of these decisions.
 * **Note:** GSA will continue to publish updates to the playbook with best practices and lessons learned.
+* GSA will publish an updated case study article/playbook detailing some of the challanges and lesssons learned from the TMF Database Transformation Project. We expect to publish the case study NLT September 2019. Thanks and stay tunned! 
 * Last Updated on 8/6/2019
 
 <br>
