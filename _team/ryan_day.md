@@ -4,7 +4,7 @@ lastname: Day
 photo: ryan_day.jpg 
 role: Senior Software Developer | Solutions Architect
 email: ryan.day@gsa.gov
-ordering: 10
+ordering: 5
 ---
 Ryan Day joined the CTO team in July 2018.
 
