@@ -1,3 +1,14 @@
+- title: USWDS Tech Talk
+  date: September 26, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 2232
+  description: >
+       <p><strong>The Rules of Play: Creativity and Constraint in the US Web Design System</strong></p>
+       <p>Designing and building a new government website or digital service requires both coherence with a practical, consistent baseline of user-friendly experience across government and the flexibility to adapt to the specific needs of your mission and audience.</p>
+       <p>The U.S. Web Design System (USWDS) is a digital design toolkit that helps teams achieve both these goals. We’ll take a look at how a design system like USWDS makes agile, iterative development faster, cheaper, and even more fun.</p>
+  presenter: Dan Williams
+  slides:
+
 - title: JAMF Pro Tech Talk
   date: September 12, 2019
   time: 1-1:30p
