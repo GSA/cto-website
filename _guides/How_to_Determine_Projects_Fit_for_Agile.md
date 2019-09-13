@@ -15,7 +15,7 @@ So, what drives the decision to go with one or the other? What are the factors t
 <img src="{{ site.baseurl }}/assets/img/guides/ProjectScenariosGSA1.png"
   alt="Project Scenarios"
   class="guide-image">
-	* *It is also important to highlight that there are times when Agile approaches can be applied to facilitate transparency and communication at team-levels even when the nature of the project is best suited for waterfall approaches. A good example here would be a construction team that adopts Scrum practices, such as daily stand-ups for their daily check-ins, sprints to break down their work, and Kanban boards to visualize progress and track the work in queue.*
+  *It is also important to highlight that there are times when Agile approaches can be applied to facilitate transparency and communication at team-levels even when the nature of the project is best suited for waterfall approaches. A good example here would be a construction team that adopts Scrum practices, such as daily stand-ups for their daily check-ins, sprints to break down their work, and Kanban boards to visualize progress and track the work in queue.*
 	
 **The Project / Product Environment.** Another vital element that can inform or influence approach selection is the project / product delivery environment and life-cycle. Factors to consider here include:
 
