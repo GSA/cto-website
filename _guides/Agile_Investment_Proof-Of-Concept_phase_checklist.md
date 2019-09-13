@@ -13,7 +13,7 @@ During the PoC Phase:
 * Business / technical review to approve/reject progressing to next Phase
 
 
-	***Input* Checklist Before Starting PoC**
+***Input* Checklist Before Starting PoC**
 
 **Scope and Approach**
 * PoC scope is defined
@@ -25,9 +25,9 @@ During the PoC Phase:
 **People and Resources**
 * Sponsoring Department/Executive has been defined
 * Key personnel resources and skill sets identified and secured
-	* Assigned Product Owner from the Business Team
-	* Assigned Scrum Master
-	* Agile coaching support and guidance 
+* Assigned Product Owner from the Business Team
+* Assigned Scrum Master
+* Agile coaching support and guidance 
 * Team members are fully dedicated to the PoC effort
 
 **Development Environment** 
@@ -39,11 +39,11 @@ During the PoC Phase:
 **PoC Success Criteria**
 * Measures of success for PoC have been met and accepted by stakeholders 
 * Recommendation for Prototype phase developed
-	* Key personnel resources and skill requirements identified
-	* Process approach is defined
+* Key personnel resources and skill requirements identified
+* Process approach is defined
 * Prototype Scope is defined
-	* High-level *business features* have been identified and prioritized
-	* High-level *technical features* and requirements have been identified and prioritized
+* High-level *business features* have been identified and prioritized
+* High-level *technical features* and requirements have been identified and prioritized
 
 ------
 **Sample Technical Considerations for Next Phase Recommendations** 

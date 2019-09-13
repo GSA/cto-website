@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /pages.json
+---
+
+{% capture newline %}
+{% endcapture %}
+
+{% assign pages = site.html_pages | concat: site.guides | concat: site.playbooks %}
+
+{
+  "entries": [
+    {% for page in pages %}
+      {
+        "title": "{{ page.title }}",
+        "url": "{{ page.url }}",
+        "body": "{{ page.content | strip_html | escape_once | replace: newline, " " | strip }}"
+      }{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}    
+  ]
+}
