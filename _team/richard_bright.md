@@ -2,9 +2,9 @@
 firstname: Richard  
 lastname: Bright
 photo: richard_bright.jpg
-role: Sr. Solution Arch
+role: Senior Technology Adviser
 email: richard.bright@gsa.gov
-ordering: 10
+ordering: 3
 ---
 
 Richard K. Bright is assigned to the Office of the Chief Technology Officer as a Senior Advisor / Senior Solutions Architect for the U.S. General Services Administration’s Office of Information Technology (GSA IT). Mr. Bright provides broad and strategic programmatic and technical guidance covering agency-level initiatives and piloting emerging technology and innovation across all of GSA. 
