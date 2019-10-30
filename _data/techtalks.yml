@@ -1,3 +1,14 @@
+ title: GSA API Strategy Tech Talk
+  date: November 14, 2019
+  time: 1-1:30p
+  location: Virtual and 1800F Rm 4232
+  description: >
+       <p>Application Programming Interfaces (APIs) are a valuable method to share data with mobile apps, websites, and computer systems. GSA publishes many Public APIs for use outside of GSA. We also have many Non-Public APIs that are used to share functionality or data between GSA systems.</p> 
+       <p>There is even a group inside GSA named the "GSA API Guild" that is dedicated solely to API best practices.</p>
+       <p>This tech talk will give a brief overview of APIs, along with an update on the agency's activity with APIs in 2019 and goals for 2020.</p>
+    presenter: Ryan Day
+  slides:
+  
 - title: Open Source Tech Talk
   date: October 10, 2019
   time: 1-1:30p
