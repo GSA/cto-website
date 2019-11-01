@@ -23,7 +23,7 @@ namespace :test do
     desc "Run HTML Proofer on internal links"
     task :internal do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on internal links..."
       options = {
         check_html: true,
@@ -36,7 +36,7 @@ namespace :test do
     desc "Run HTML Proofer on all links"
     task :all do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on all links..."
       options = {
         check_html: true,
