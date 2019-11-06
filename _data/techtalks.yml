@@ -6,6 +6,7 @@
        <p>Application Programming Interfaces (APIs) are a valuable method to share data with mobile apps, websites, and computer systems. GSA publishes many Public APIs for use outside of GSA. We also have many Non-Public APIs that are used to share functionality or data between GSA systems.</p> 
        <p>There is even a group inside GSA named the "GSA API Guild" that is dedicated solely to API best practices.</p>
        <p>This tech talk will give a brief overview of APIs, along with an update on the agency's activity with APIs in 2019 and goals for 2020.</p>
+       <div><img style="display: block; width: 50%; margin: 0 auto;" src="../assets/img/API_3_pillars.png" alt="A list of GSA API Strategy's three pillars of implementation: External Customer Experience, Internal Engagement, and Technical Architecture"></div>
   presenter: Ryan Day
   slides:
   
