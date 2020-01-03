@@ -1,7 +1,7 @@
 ---
 layout: playbook
 title: Database Transformation Lessons Learned
-description: This case study will highlight the lessons learned from the GSA <a href="https://tmf.cio.gov/projects/#application-modernization-integrating-flexible-architectures">Application Modernization Integrating Flexible Architectures</a> project.   
+description: This case study will highlight the lessons learned from the GSA Application Modernization Integrating Flexible Architectures project.   
 permalink: /playbooks/databaselessonslearned/
 toc: true
 ---
