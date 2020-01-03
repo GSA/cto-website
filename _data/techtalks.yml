@@ -21,7 +21,7 @@
        <p>The Anypoint Platform is a suite of tools that allows users to develop, deploy, manage, secure and collaborate on APIs.
        <p>GSA is currently leveraging Mulesoft for Salesforce provisioning and there are projects underway in PBS and OGP.</p> 
   presenter: Joe Lawless
-  slides:
+  slides: /assets/downloads/techtalks/MulesoftTechTalk3.pdf
 
 - title: Activiti Tech Talk
   date: July 30, 2019
