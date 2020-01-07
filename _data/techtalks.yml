@@ -1,12 +1,21 @@
+- title: Artificial Intelligence and Machine Learning Tech Talk
+  date: January 14, 1-1:30pm
+  location: Virtual and 1800F Rm 2232
+  description: >
+      <p>Machine Learning and Artificial Intelligence are terms that have received quite a bit of attention in recent years.</p> 
+      <p>GSA is in the early phases of deploying machine learning to provide business value.</p>
+      <p>In this tech talk, we will discuss some examples of how machine learning is being used in industry and at GSA.</p>
+  presenter: Ryan Day
+
 - title: BPM Tech Talk
-  date: December 1-1:30p 
+  date: December 12, 1-1:30p 
   location: Virtual and 1800F Rm 5213
   description: >
-       <p>In this first of upcoming BPM related Tech Talks, you will learn about optimizing your organizational processes through simulation with Trisotech, an enterprise tool suite.</p> 
-       <p>Author and Enterprise Architect practitioner Dr. Joshua Fuehrer will discuss how you can use Trisotech to model and simulate to-be changes to business processes in order to examine if desired changes will make an impact. Josh will dive into Trisotech capabilities for simulation and provide an in-depth look at how you can lead within your organisation to help transform their business model; from both an efficiency and effectiveness perspective.</p>
-       <p>We are looking to continue this BPM topic in future tech talks which will include case management, capability or strategic management, and decision modeling.</p>
+      <p>In this first of upcoming BPM related Tech Talks, you will learn about optimizing your organizational processes through simulation with Trisotech, an enterprise tool suite.</p> 
+      <p>Author and Enterprise Architect practitioner Dr. Joshua Fuehrer will discuss how you can use Trisotech to model and simulate to-be changes to business processes in order to examine if desired changes will make an impact. Josh will dive into Trisotech capabilities for simulation and provide an in-depth look at how you can lead within your organisation to help transform their business model; from both an efficiency and effectiveness perspective.</p>
+      <p>We are looking to continue this BPM topic in future tech talks which will include case management, capability or strategic management, and decision modeling.</p>
   presenter: Dr. Joshua Fuehrer
-  slides:  /assets/downloads/techtalks/TechTalksTrisotechCapabilities.pdf  
+  slides: /assets/downloads/techtalks/TechTalksTrisotechCapabilities.pdf  
 
 - title: Records Management Tech Talk
   date: November 21, 2019
