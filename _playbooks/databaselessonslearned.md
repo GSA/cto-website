@@ -26,17 +26,17 @@ GSA IT did not assemble a dedicated team for planning, project management and im
 ## Pilot Phase Outcome
 GSA IT **developed a repeatable database migration service** that will be used to facilitate future database migrations of any database engine type. We also developed an API that decouples a database from the application. The API will be leveraged to further decouple databases that fall within that GSA portfolio.
 
-### Product Management and Communication
+## Product Management and Communication
 Team members from the office of the OCTO facilitated product management activities, coordination and overall monitoring and status reporting to GSA IT leadership, the TMF PMO office, and OMB. The Pilot Phase meeting cadence consisted of 1 weekly 30 minute stand up on Mondays with the overall team and 1 bi-weekly 45/60 minute session with each of the development teams.
 * The **30 Minute weekly stand ups** were helpful for sharing information and statuses across the team. It provided a consistent and recurring means for each team to interact directly with other teams to coordinate tasks, clear blockers, and further define requirements and dependencies.
 * The **bi-weekly 45/60 minute sessions** provided each of the development teams the opportunity to meet with team members providing core-IT services from security, enterprise infrastructure, enterprise architecture, database and middleware, privacy, and cloud services. Each of the support staff had an opportunity to clarify requirements and dependencies to ensure tasks were well understood.
-<br>
+
 * In addition, the team operated on a two week sprint cycle (scrum) and consolidated activities on a master Trello board to tracking tasks.
 
-### Budget and Contract Support
+## Budget and Contract Support
 * Dedicated budget support was essential for tracking budget execution activities and contracting actions. GSA IT did not execute a new contract for database transformation, much of the technical and support related work were already in scope throughout several GSA IT contracts with multi-year renewals remaining on the contract. By leveraging existing contracts, GSA IT was able to begin work shortly after the TMF Board awarded the initial disbursement of funds.
 
-### Collaboration
+## Collaboration
 * GSA migrated to Google Suite (G-Suite) several years ago, so  the team primarily used G-Suite tools for content creation and consolidation, instant messaging, group chats, email and video calls.
 * **Note:** Although the Google Hangouts application does support history retention within an established group, the team sparsely used the tool and relied on communicating through email and status updates applied directly to the Trello board.
 
