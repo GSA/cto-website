@@ -26,7 +26,6 @@ GSA IT did not assemble a dedicated team for planning, project management and im
   * AWS RDS      
   * PostgreSQL Database
 
-<br>
 ## Pilot Phase Outcome
 GSA IT **developed a repeatable database migration service** that will be used to facilitate future database migrations of any database engine type. We also developed an API that decouples a database from the application. The API will be leveraged to further decouple databases that fall within that GSA portfolio.
 
