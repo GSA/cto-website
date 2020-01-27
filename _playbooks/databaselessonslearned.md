@@ -38,7 +38,6 @@ Team members from the office of the OCTO facilitated product management activiti
 
 ## Collaboration
 * GSA migrated to Google Suite (G-Suite) several years ago, so  the team primarily used G-Suite tools for content creation and consolidation, instant messaging, group chats, email and video calls. <br />
-<br />
 **Note:** Although the Google Hangouts application does support history retention within an established group, the team sparsely used the tool and relied on communicating through email and status updates applied directly to the Trello board. In the next phase of the project we are exploring using Slack to help drive better collaboration across teams.  
 
 ## Challenges
