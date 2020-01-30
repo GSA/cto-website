@@ -1,4 +1,4 @@
--title: AWS Workspaces Tech Talk
+- title: AWS Workspaces Tech Talk
   date: February 27, 2020
   time: 11-1130a
   location: Rm 6324
@@ -8,7 +8,7 @@
       <p>Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps </p>
   presenter: Kishore Kikani
 
-title: Privacy Tech Talk
+- title: Privacy Tech Talk
   date: January 29
   time: 9:30-11a
   location:
