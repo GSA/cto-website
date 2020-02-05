@@ -1,3 +1,14 @@
+ title: Historic Building Documentation Resource (HBDR) Tech Talk
+  date: February 13, 2020
+  time: 1-130p
+  location: Rm 5321
+  description: >
+      <p>This talk is an overview of the Historic Building Documentation Resource (HBDR), also known as the BPP transition project. PBS-IT is currently managing the development of the HBDR interface for use by both the Center for Historic Buildings and supporting project teams assessing and rehabilitating historic buildings.</p>
+      <p>The goal is to offer a simplified solution for management of BPP data and related supporting documents while leveraging the power of the EDMS Alfresco environment.
+      </p>
+      <p>We will review several of these capabilities today designed in Alfresco for the HBDR interface which contribute to the ease of BPP management and increased productivity for users.</p>
+  presenter: Hugo Martinez
+
 - title: AWS Workspaces Tech Talk
   date: February 27, 2020
   time: 11-1130a
