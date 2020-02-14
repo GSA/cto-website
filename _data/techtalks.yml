@@ -1,3 +1,13 @@
+- title: AWS WorkSpaces Tech Talk
+  date: February 27, 2020
+  time: 11-1130a
+  location: Rm 6324
+  description: >
+      <p>Amazon WorkSpaces enables the provision of virtual, cloud-based Microsoft Windows or Amazon Linux desktops for GSA user community, known as WorkSpaces. Amazon WorkSpaces eliminates the need to procure and deploy hardware or install complex software. </p>
+      <p>We can quickly add or remove users as the needs change. Users can access their virtual desktops from multiple devices or web browsers.</p>
+      <p>Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps </p>
+  presenter: Kishore Kakani
+
 - title: Historic Building Documentation Resource (HBDR) Tech Talk
   date: February 13, 2020
   time: 1-130p
@@ -7,16 +17,6 @@
       <p>The goal is to offer a simplified solution for management of BPP data and related supporting documents while leveraging the power of the EDMS Alfresco environment.</p>
       <p>We will review several of these capabilities today designed in Alfresco for the HBDR interface which contribute to the ease of BPP management and increased productivity for users.</p>
   presenter: Hugo Martinez
-
-- title: AWS Workspaces Tech Talk
-  date: February 27, 2020
-  time: 11-1130a
-  location: Rm 6324
-  description: >
-      <p>Amazon WorkSpaces enables the provision of virtual, cloud-based Microsoft Windows or Amazon Linux desktops for GSA user community, known as WorkSpaces. Amazon WorkSpaces eliminates the need to procure and deploy hardware or install complex software. </p>
-      <p>We can quickly add or remove users as the needs change. Users can access their virtual desktops from multiple devices or web browsers.</p>
-      <p>Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps </p>
-  presenter: Kishore Kikani
 
 - title: Privacy Tech Talk
   date: January 29
