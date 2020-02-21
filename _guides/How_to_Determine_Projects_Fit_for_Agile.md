@@ -15,14 +15,14 @@ So, what drives the decision to go with one or the other? What are the factors t
 <img src="{{ site.baseurl }}/assets/img/guides/ProjectScenariosGSA1.png"
   alt="Project Scenarios"
   class="guide-image">
-	* *It is also important to highlight that there are times when Agile approaches can be applied to facilitate transparency and communication at team-levels even when the nature of the project is best suited for waterfall approaches. A good example here would be a construction team that adopts Scrum practices, such as daily stand-ups for their daily check-ins, sprints to break down their work, and Kanban boards to visualize progress and track the work in queue.*
-	
+  *It is also important to highlight that there are times when Agile approaches can be applied to facilitate transparency and communication at team-levels even when the nature of the project is best suited for waterfall approaches. A good example here would be a construction team that adopts Scrum practices, such as daily stand-ups for their daily check-ins, sprints to break down their work, and Kanban boards to visualize progress and track the work in queue.*
+
 **The Project / Product Environment.** Another vital element that can inform or influence approach selection is the project / product delivery environment and life-cycle. Factors to consider here include:
 
 <img src="{{ site.baseurl }}/assets/img/guides/EnvironmentScenariosGSA1.png"
   alt="Environment Scenarios"
   class="guide-image">
-	
+
 Overall, supporting [data](https://www.infoq.com/articles/standish-chaos-2015) suggests that not all Agile projects succeed and not all “waterfall” projects fail. Organizations can identify the most fitting approach that helps accelerate delivery, minimize risk, save costs, and ultimately present a higher likelihood of success by carefully analyzing the nature of a product or project and having a good strategy that creates the enabling environment.
 
 Further, if the decision is to transition to an Agile approach, similar to any new process or change initiative, Agile adoption requires a supportive environment that spans beyond a given project / product to an organizational transformation. An Agile implementation must be supported by change management activities that foster buy-in and ensure the Agile vision and goals are clearly communicated across the enterprise.

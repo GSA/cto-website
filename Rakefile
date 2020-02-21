@@ -3,7 +3,7 @@ require "html-proofer"
 
 desc "Serve the site with live reload for development"
 task :serve do
-  sh "bundle exec jekyll liveserve -H 0.0.0.0", verbose: false
+  sh "bundle exec jekyll serve --livereload -H 0.0.0.0", verbose: false
 end
 
 desc "Build the site to the default Jekyll output directory"
@@ -23,7 +23,7 @@ namespace :test do
     desc "Run HTML Proofer on internal links"
     task :internal do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on internal links..."
       options = {
         check_html: true,
@@ -36,7 +36,7 @@ namespace :test do
     desc "Run HTML Proofer on all links"
     task :all do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on all links..."
       options = {
         check_html: true,
