@@ -20,3 +20,8 @@
 - title: 18F Automated Testing Playbook
   description: A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption.
   url: https://18f.github.io/automated-testing-playbook/
+
+- title: Application Rationalization Playbook
+  description: An agency guide to IT portfolio management.
+  url: http://github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true
+  
