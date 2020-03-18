@@ -25,3 +25,10 @@
   description: An agency guide to IT portfolio management.
   url: http://github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true
   
+- title: Executive Guide to Federal IT Accessibility
+  description: Guidance for Federal CIOs and agency executives on their responsibilities under Section 508.
+  url: https://www.section508.gov/tools/playbooks/exec-guide-accessibility
+
+- title: Quick Guide to IT Accessibility for Program Managers
+  description: Guidance on managing a federal agency IT Accessibility program.
+  url: https://www.section508.gov/tools/playbooks/accessibility-playbook-quick-guide
