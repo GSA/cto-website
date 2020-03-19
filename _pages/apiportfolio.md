@@ -5,9 +5,9 @@ permalink: /api_portfolio/
 
 # GSA API Management Shared Services Portfolio
 
-The API Management Portfolio is one of GSA IT’s Shared Services Portfolios. This is part of GSA’s broader IT shared services strategy. 
+GSA is developing an IT shared services strategy to improve the delivery of common IT capabilities to support GSA’s mission. Our goal is to reduce IT costs, increase collaboration across the delivery teams, and enhance the overall customer experience.
 
-The Porfolio is key to the Internal Engagement and Technical Architecture pillars of the [GSA API Strategy](/guides/API_strategy). The Portfolio includes representatives from organizations in GSA IT.
+The API Management Portfolio is one of GSA IT’s Shared Services Portfolios.  This group is key to the Internal Engagement and Technical Architecture pillars of the [GSA API Strategy](/guides/API_strategy). The Portfolio includes representatives from organizations in GSA IT.
 
 The group meets monthly, and has the following initial goals and objectives:
 
