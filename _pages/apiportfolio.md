@@ -11,10 +11,10 @@ The API Management Portfolio is one of GSA IT’s Shared Services Portfolios.  T
 
 The group meets monthly, and has the following initial goals and objectives:
 
-- Develop centralized directory of non-public APIs  
-- Perform API Technology analysis
-- Develop an Internal Marketing/Communications Campaign
-- Expand reviewers of API Standards in GSA IT Offices
-- Develop Non-Public/Internal API Guides
+- Develop a centralized directory of non-public APIs  
+- Perform API technology analysis
+- Develop an internal marketing/communications campaign
+- Expand reviewers of API Standards in GSA IT offices
+- Develop non-public/internal API guides
 
 For more information,  please contact the CTO team using the contact information at the bottom of this page.
