@@ -1,20 +1,20 @@
 - title: Technology Modernization Fund (TMF) at GSA Tech Talk
   date: March 31, 2020
   time: 1-130p
-  location: 
+  location:
   description: >
-      <p>Learn more about how the Technology Modernization Fund (TMF) are being used to modernize GSA applications.  Hear about completed projects and projects on the horizon.</p> 
+      <p>Learn more about how the Technology Modernization Fund (TMF) are being used to modernize GSA applications.  Hear about completed projects and projects on the horizon.</p>
       <p>The goal is to transform agency systems from proprietary technologies to open source.<p>
       <p>Transformation will simplify integrations with other systems; enable greater agility, resiliency, scalability, and performance, reduce the risk of scarce resource/talent pool and in long term lower the cost of operations, improve the quality of product, and help drive cultural change.</p>
   presenter: Jason Donow and William Wales
-  slides:/assets/downloads/techtalks/TechTalkTMFMarch2020Pub.pdf
-  
+  slides: /assets/downloads/techtalks/TechTalkTMFMarch2020Pub.pdf
+
 - title: Zero Trust Road Map Tech Talk
   date: March 18, 2020
   time: 1-130p
   location: Rm 5007
   description: >
-      <p>Traditional approaches to IT network security are based on the castle-and-moat concept. In castle-and-moat security, it is hard to obtain access from outside the network, but once inside the network, users are more or less considered trusted.</p> 
+      <p>Traditional approaches to IT network security are based on the castle-and-moat concept. In castle-and-moat security, it is hard to obtain access from outside the network, but once inside the network, users are more or less considered trusted.</p>
       <p>The problem with this approach is that once an attacker gains access to the network, they have more free reign over everything inside.</p>
       <p>Zero Trust Network (ZTN) security is an IT security framework that requires strict identity verification for every person and device trying to access resources on a private network, regardless of whether they are sitting within or outside of the network perimeter.</p>
       <p>No single specific technology is associated with zero trust; it is a holistic approach to network security that incorporates several different principles and technologies. In this tech talk, we introduce Zero Trust Network and GSA’s roadmap towards this security framework.</p>
@@ -50,7 +50,7 @@
       <p><a href="../assets/downloads/techtalks/PrivacyTechTalkPoster.pdf"><img style="display: block; width: 50%; margin: 0 auto;" src="../assets/img/PrivacyTechTalkPoster.png" alt="A poster for the Privacy Tech Talk. Data Privacy Day is an internationally recognized day dedicated to creating awareness about the importance of privacy and protecting personal information. Tech Talk is Wednesday, January 29th 9:30 to 11:00 am. Register now at https://go.usa.gov/xpSK8/. In 2020, GSA encourages you to own your privacy. Join us for a special Privacy Tech Talk featuring Becky Richards and Akbar Siddiqui, experts from the National Security Agency (NSA). Learn about the ethical use of Artificial Intelligence and Machine Learning within federal agencies."></a></p>
   presenter: Richard Speidel (GSA), Krista Kinnard (GSA), Becky Richards (NSA), and Akbar Siddiqui (NSA)
   slides: /assets/downloads/techtalks/2020_0129_AIPrivacy_TechTalk.pdf
-  
+
 - title: Artificial Intelligence and Machine Learning Tech Talk
   date: January 14, 1-1:30pm
   location: Virtual and 1800F Rm 2232
