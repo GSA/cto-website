@@ -1,10 +1,31 @@
 ---
 title: API Strategy
-category: Development
+category: API
 audiences:
   - Developers
 ---
 
-GSA promotes an API-first approach for making its solutions optimal for data transparency, data consumer engagement, application development, and the like. This assists with opening systems and data sets for further system integration by allowing the movement of data from legacy systems for use and design of new solutions via new open technologies.
+[The GSA API Strategy]({{ site.baseurl }}/assets/downloads/GSAAPIStrategy.pdf) describes GSA’s direction for agency­-wide API design, development, architecture, operations and support, and security. We want to use public APIs to expose public data for transparency, data consumer engagement, and application development. We also want to use non-public APIs to promote system integration and migration of legacy systems. In all these efforts, we seek to adopt industry best practices for API design, development, and management.
 
-We are adopting industry best practices with API design, development, and management. Our approach to APIs is found in our [API Strategy]({{ site.baseurl }}/assets/downloads/GSAAPIStrategy.pdf).
+### API Strategy Implementation Approach
+
+The following diagram demonstrates the three-pillar approach we are following to implement this strategy:
+
+![API Strategy image displaying the 3 pillars of Implementation]({{ site.baseurl }}/assets/img/API_3_pillars.png "3 Pillars of Implementation")
+
+### Pillar 1: External Customer Experience
+
+Providing APIs and API documentation that fulfill the needs of customers. Designing from a user-focused perspective, rather than technology-focused. The [GSA API Directory](https://open.gsa.gov/api) and [Self-service API Documentation Hosting](https://github.com/GSA/open-gsa-redesign/blob/master/APIDOCS.md) are the primary methods of implementing this. We also plan to implement Human Centered Design (HCD) techniques to enhance our developer experience.
+
+### Pillar 2: Internal Engagement
+
+Building a community of API owners and practitioners inside GSA to develop APIs in a consistent fashion. The [GSA API Standards](/guides/API_standards), [GSA API Guild](/api_guild), and [GSA API Management Portfolio](/api_portfolio) are key components of this pillar.
+
+### Pillar 3: Technical Architecture
+
+Designing technology solutions for developing and hosting high quality APIs. Creating technical guides to assist teams in implementing APIs that follow the [GSA API Standards](/guides/API_standards).
+
+
+
+
+*Icons by [Font Awesome](https://github.com/FortAwesome/Font-Awesome)*

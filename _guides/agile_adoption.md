@@ -49,7 +49,7 @@ While the [Agile Manifesto](http://agilemanifesto.org/) lists the **Agile Princi
 Some common Agile terms include:
 
 * **Iterations** : duration; often used synonymously with **Sprint**; typically 2 week increments
-* **Epics**	: refers to a group of features; also a term used in the tool JIRA
+* **Epics** : refers to a group of features; also a term used in the tool JIRA
 * **User Stories** : requirement, or feature; referred to as “Story” in JIRA
 * **Vertical Slicing** : “chunks” of related features
 * **MVP (or MMP)** : Minimum Viable Product (or Minimum Marketable Product)

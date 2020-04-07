@@ -10,22 +10,26 @@ const assets = {
     fonts: ["dist/fonts/**"]
   },
   "lunr": {
-    js: ["lunr.min.js"]
+    js: ["lunr.js"]
   },
   "font-awesome": {
     fonts: ["fonts/*"]
   },
   "jquery": {
     js: ["dist/jquery.min.js"]
+  },
+  "waypoints": {
+    js: ["lib/jquery.waypoints.min.js"]
   }
 };
 
-gulp.task("copy-assets", function () {
+gulp.task("copy-assets", function (cb) {
   _.forEach(assets, function (vendorAssets, vendor) {
     _.forEach(vendorAssets, function (asset, type) {
       gulp.src("node_modules/" + vendor + "/" + asset).pipe(gulp.dest("assets/vendor/" + vendor + "/" + type));
     })
   });
+  return cb()
 });
 
-gulp.task("default", ["copy-assets"]);
+gulp.task("default", gulp.series("copy-assets"));

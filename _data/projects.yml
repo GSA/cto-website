@@ -3,16 +3,16 @@
 - name: tech.gsa.gov
   contact_name: Office of the CTO
   contact_email: cto@gsa.gov
-  stage: beta
+  stage: live
   link:
   repository_link: https://github.com/GSA/cto-website
   picture: project_tech.gsa.gov.jpg
-  description: A new GSA website that will provide guidance to GSA IT as it drives towards adopting modern IT practices. This guidance includes agile practices, modern IT development, open data, APIs, and information for GSA employees and potential new hires.
+  description: A website that provides guidance to GSA IT as it drives towards adopting modern IT practices. This guidance includes agile practices, modern IT development, open data, APIs, and information for GSA employees and potential new hires.
 
 - name: open.gsa.gov
   contact_name: Sara Cope
   contact_email: sara.cope@gsa.gov
-  stage: beta
+  stage: live
   link: http://open.gsa.gov/
   repository_link: https://github.com/GSA/open-gsa-redesign
   picture: project_open.gsa.gov.png
@@ -36,18 +36,6 @@
   picture: project_challengetoolkit.png
   description: Development of the Federal Challenges & Prizes Toolkit to fulfill the President's commitment to improve public services through support of open innovation by harnessing the ingenuity of the american public (as outlined in the 2nd Open Government National Action Plan).
 
-- name: PBS Comfort App
-  contact_name: Jeff Fredrickson
-  contact_email: jeffrey.fredrickson@gsa.gov
-  stage: alpha
-  link:
-  repository_link: https://github.com/GSA/pbs-sensor
-  picture: project_pbs_comfort.png
-  description: An application that utilizes environmental sensor data at GSA to integrate with hoteling and reserving workspaces in GSA buildings. It allows users to choose where to sit based on temperature, light, sound, etc.
-  links:
-    - title: PBS Case Study
-      url: /assets/downloads/PBS_Case_Study.pdf
-
 - name: National Staffing Application
   contact_name: Joseph Castle
   contact_email: joseph.castle@gsa.gov
@@ -70,7 +58,7 @@
   description: Microsite dedicated to sharing the recently published General Services Administration’s (GSA) policy on open source software development and to communicate responsibilities to the organization for compliance with Office of Management and Budget’s (OMB) open source policy.
   links:
     - title: GSA OSS Policy
-      url: https://gsa.github.io/GSAOpenSourcePolicy/policy/
+      url: https://open.gsa.gov/code/
 
 - name: GSA Open Gov Plan
   contact_name: Sara cope
@@ -101,3 +89,21 @@
   links:
     - title: CTO Case Study
       url: /assets/downloads/CTO.Office.Case.Study.Implementing.Agile.pdf
+
+- name: DevSecOps Working Group and GRACE
+  contact_name:
+  contact_email:
+  stage: alpha
+  link:
+  repository_link:
+  picture:
+  description: The DevSecOps Working Group is an initiative to encourage learning and application of DevSecOps principles across GSA. GSA Readily Accessible Computing Environment (GRACE) is an IaaS platform that provides application teams with a place to apply these DevSecOps practices.
+
+- name: Opioids.gov
+  contact_name:
+  contact_email:
+  stage: live
+  link: https://www.opioids.gov/
+  repository_link: https://github.com/GSA/opioids.gov
+  picture: project_opioids.png
+  description:

@@ -11,33 +11,67 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ## Setup
 
-### Prerequisites
+There are two ways you can set up your development environment:
 
-#### Ruby
+* [**Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
+* [**Method 2:** Use Docker to maintain all tools and dependencies inside a container](#method-2-containerized-development-environment-using-docker)
 
-Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get
-Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the
-[rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
-to set it up on your system.
+### Method 1: Local development environment
 
-#### Node.js and npm
+This method explains how to set up a local development environment by installing all necessary tools and dependencies.
+
+#### Install Ruby
+
+Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the [rbenv installation instructions](https://github.com/rbenv/rbenv#installation) to set it up on your system.
+
+#### Install Node.js and npm
 
 We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You only need it if you plan to update the [vendor assets](/assets/vendor/).
 
 To update the vendor assets, run `npm run assets`.
 
-### Building and Previewing
+#### Building and previewing the website
 
-First, install Ruby gem dependencies:
+First, install `bundler` if you don't already have it:
 
 ```
-bundle install
+gem install bundler
+```
+
+Then install the project's Ruby dependencies:
+
+```
+bundle install --with=development
 ```
 
 Then you can run the site locally with live reloading:
 
 ```
 rake serve
+```
+
+You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
+
+### Method 2: Containerized development environment using Docker
+
+This method explains how to set up a containerized development environment by using Docker. Using this method, you shouldn't need to install anything other than Docker on your local machine.
+
+#### Install Docker
+
+[Install Docker](https://docs.docker.com/install/) on your development machine and ensure the Docker daemon is successfully running.
+
+#### Build the Docker container
+
+```
+docker build -t cto-website .
+```
+
+#### Building and previewing the website
+
+Run the site locally with live reloading:
+
+```
+./docker-run.sh rake serve
 ```
 
 You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
@@ -54,7 +88,7 @@ Please run `rake test` locally before pushing new content or code. This runs a J
 2. Create a feature branch
 3. Make your changes in the feature branch
 4. Commit the feature branch
-5. Push the feature branch to GitHub (preview your changes at `https://federalist.18f.gov/preview/GSA/cto-website/BRANCH_NAME/`)
+5. Push the feature branch to GitHub (preview your changes at `https://federalist.18f.gov/preview/gsa/cto-website/BRANCH_NAME/`)
 6. Open a pull request to merge the feature branch
 
 ### Proposing changes and reporting issues
@@ -66,25 +100,7 @@ The best way to contact us regarding the CTO Website is to [open an issue on Git
 
 ## Deploying
 
-We make use of Federalist's continuous deployment system, which automatically
-deploys branches as soon as it detects a push to GitHub.
-
-### Development
-
-Commits and merges to the `dev` branch will automatically be picked up by
-Federalist and deployed to the [development site](https://federalist.18f.gov/preview/GSA/cto-website/dev/).
-
-#### Feature branches
-
-In addition to the main `dev` branch, you can push a feature branch to GitHub
-and Federalist will deploy it to a preview site for you. After pushing your
-feature branch to GitHub, you can preview it using this URL format:
-`https://federalist.18f.gov/preview/GSA/cto-website/BRANCH_NAME/`
-
-### Production
-
-The production deployment process is to merge the `dev` branch into `master`.
-Federalist will automatically deploy `master` to the [tech.gsa.gov production site](https://tech.gsa.gov/).
+We make use of Federalist's continuous deployment system, which automatically deploys branches as soon as it detects a push to GitHub. Therefore, as soon as your pull request is accepted into the `master` branch, it goes to production.
 
 ## License
 

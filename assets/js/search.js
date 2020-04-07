@@ -8,7 +8,7 @@
   function initSearchPage() {
     var searchTerm = getSearchQuery();
     if (searchTerm) {
-      var url = baseurl + "/api/v1/pages.json";
+      var url = baseurl + "/pages.json";
       var xhr = new XMLHttpRequest();
       xhr.open("GET", url, true);
       xhr.onload = function () {
@@ -40,15 +40,16 @@
       this.ref("id");
       this.field("title", { boost: 10 });
       this.field("body");
+      for (var index in pages) {
+        this.add({
+          id: index,
+          title: pages[index].title,
+          body: pages[index].body
+        });
+      }
     });
-    for (var index in pages) {
-      lunrIndex.add({
-        id: index,
-        title: pages[index].title,
-        body: pages[index].body
-      });
-    }
     var matches = lunrIndex.search(searchTerm);
+    console.log(matches);
     displayResults(matches, pages);
   }
 
@@ -72,9 +73,6 @@
       for (var index in matches) {
         var page = pages[matches[index].ref];
         var pageNote = "";
-        if (page.meta.layout === "guide") {
-          pageNote = "<small>(" + page.meta.category + " Guides)</small>";
-        }
         output += '<li>';
         output += '<h3><a href="' + page.url + '">' + page.title + '</a> ' + pageNote + '</h3>';
         output += '<p>' + page.body.substring(0, 200) + ' ...</p>';

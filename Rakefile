@@ -3,32 +3,13 @@ require "html-proofer"
 
 desc "Serve the site with live reload for development"
 task :serve do
-  sh "bundle exec jekyll liveserve", verbose: false
+  sh "bundle exec jekyll serve --livereload -H 0.0.0.0", verbose: false
 end
 
 desc "Build the site to the default Jekyll output directory"
 task :build do
   puts "Building the website..."
   sh "bundle exec jekyll build -q", verbose: false
-end
-
-desc "Deploy the site by merging a branch into master and pushing to origin"
-task :deploy, [:branch] do |task, args|
-  branch = args[:branch]
-  if branch.nil?
-    puts "You must specify a branch to deploy (e.g. 'rake deploy[dev]')"
-  else
-    sh <<-EOS, { verbose: false }
-      SOURCE_BRANCH=#{branch}
-      PROD_BRANCH=master
-      INITIAL_BRANCH=`git symbolic-ref --short HEAD`
-      git fetch -q origin $PROD_BRANCH
-      git checkout -q $PROD_BRANCH
-      echo "Merging branch '${SOURCE_BRANCH}' and pushing..."
-      git merge $SOURCE_BRANCH && git push origin $PROD_BRANCH
-      git checkout -q $INITIAL_BRANCH
-    EOS
-  end
 end
 
 namespace :test do
@@ -42,7 +23,7 @@ namespace :test do
     desc "Run HTML Proofer on internal links"
     task :internal do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on internal links..."
       options = {
         check_html: true,
@@ -55,11 +36,12 @@ namespace :test do
     desc "Run HTML Proofer on all links"
     task :all do
       puts "Building the website..."
-      sh "bundle exec jekyll build -q -d _test", verbose: false
+      sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on all links..."
       options = {
         check_html: true,
-        empty_alt_ignore: true
+        empty_alt_ignore: true,
+        url_ignore: [/docs.google.com/, /ea.gsa.gov/]
       }
       HTMLProofer.check_directory("./_test", options).run
     end

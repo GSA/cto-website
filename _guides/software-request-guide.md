@@ -16,7 +16,7 @@ Occasionally you may need to use software that is not already available to you. 
 Once you have identified a software need, discuss this with your supervisor and colleagues to get more information about what tool may be best to use. Be sure to check if the software you want is listed on the [GSA EA Analytics & Reporting](https://ea.gsa.gov/#!/itstandards) (GEAR) IT Standards list. Note: The GEAR site is only available within the GSA network.<br><br> Once you have identified the software you would like, you will need to take some time to gather all the information needed to request it.
 <br>
 <br>
-Resources: [GEAR](https://ea.gsa.gov/#!/itstandards)
+Resources: [GEAR](https://ea.gsa.gov/#!/itstandards) (GSA internal users only)
 
 ### Gather
 You will need several pieces of information, like software purpose, cost, and a download link, to complete a software request. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.

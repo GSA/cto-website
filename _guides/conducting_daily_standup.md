@@ -11,10 +11,6 @@ audiences:
 
 The **Daily Scrum / Stand-up** allows the Scrum Team to highlight what they are working on and any impediments to progress. It provides the opportunity for rapid communication and decision-making; ensuring issues don’t "fall through the cracks" and eliminating the need for lengthy status meetings that may drag on. 
 
-<img src="{{ site.baseurl }}/assets/img/guides/Ken_Rubin_Daily_Standup.png"
-  alt="Daily Scrum / Stand-up"
-  class="guide-image">  
-
 While the Scrum Master may facilitate the Daily Scrum / Stand-up, it is the Scrum Team who conducts the session, “inspecting and adapting” as they work to achieve the sprint goal. The Product Owner and management may attend, but only as “silent observers” - available to provide clarification on user stories or to assume responsibility for impediments that need escalation.
 
 ### Daily Scrum / Stand-up Best Practices
@@ -34,7 +30,6 @@ These are good references for conducting a Daily Scrum / Stand-up:
 * [Effective Scrum](https://www.slideshare.net/SndorZoltaSzkelySipo/effective-scrum)
 * [How to Use the Daily Stand-up Meeting Effectively](https://www.scrumalliance.org/community/articles/2012/june/how-to-use-the-daily-stand-up-meeting-effectively)
 * [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html)
-* [Stand-up meeting : (Not?) to do lists](https://blog.netapsys.fr/stand-up-meeting-not-to-do-lists/)
 * [Top Five Reasons Product Owners Should Attend Daily Scrums](https://www.scrumalliance.org/community/articles/2013/december/top-five-reasons-product-owners-should-attend-dail)
 * [Top 10 Best Practices for Productive Stand Ups](https://www.solstice.com/blog/top-10-best-practices-for-productive-stand-ups)
 * [What is a Daily Scrum?](https://www.scrum.org/resources/what-is-a-daily-scrum)

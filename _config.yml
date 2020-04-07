@@ -23,6 +23,8 @@ exclude:
   - '_test'
   - '.circleci'
   - 'vendor'
+  - 'Dockerfile'
+  - 'docker-run.sh'
 
 collections:
   team:
@@ -30,6 +32,9 @@ collections:
     output: true
   guides:
     permalink: /guides/:title/
+    output: true
+  playbooks:
+    permalink: /playbooks/:title/
     output: true
 
 defaults:
@@ -41,6 +46,20 @@ defaults:
       type: guides
     values:
       layout: guide
+  -
+    scope:
+      type: playbooks
+    values:
+      layout: playbook
+  - scope:
+      type: team
+    values:
+      layout: profile
+
+toc:
+  min_level: 2
+  list_class: usa-sidenav-list
+  sublist_class: usa-sidenav-sub_list
 
 forms:
   - type: newsletter
