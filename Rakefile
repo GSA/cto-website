@@ -21,7 +21,7 @@ namespace :test do
 
   namespace :htmlproofer do
     desc "Run HTML Proofer on internal links"
-    task :internal do
+    task :internal_links do
       puts "Building the website..."
       sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on internal links..."
@@ -34,7 +34,7 @@ namespace :test do
     end
 
     desc "Run HTML Proofer on all links"
-    task :all do
+    task :all_links do
       puts "Building the website..."
       sh "bundle exec jekyll build --trace -q -d _test", verbose: false
       puts "Running HTML Proofer on all links..."
@@ -48,12 +48,10 @@ namespace :test do
   end
 
   desc "Run all tests"
-  task all: ["eslint", "htmlproofer:all"]
+  task all: ["eslint", "htmlproofer:internal_links"]
 
-  # Don't check external links for CI since it's too much overhead. External links
-  # should be tested locally before pushing.
-  desc "Run continuous integration tests"
-  task ci: ["eslint", "htmlproofer:internal"]
+  desc "Run all tests, including external link checks"
+  task all_external: ["eslint", "htmlproofer:all_links"]
 end
 
 task test: ["test:all"]
