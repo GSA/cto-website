@@ -1,3 +1,13 @@
+- title: HSPD-12 vs. GACA Tech Talk
+  date: April 22, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>As GSA IT has expanded IT tools offerings and options for external access, questions have arisen about when HSPD-12 is required for vendors, and what alternate methods or mechanisms (e.g. GACA) can be used to share information? What are approved NIST 800-63 B Multi-Factor Authentication (MFA) methods to be used for vendors and/or federal customers?<p>
+      <p>Join us for the upcoming Tech Talk for a Q&A session on this topic with Phil Klokis, Associate CIO for the Public Buildings IT Services, and Bo Berlas, the GSA Chief Information Security Officer</p>
+  presenter: Phil Klokis and Bo Berlas
+  slides: 
+
 - title: Technology Modernization Fund (TMF) at GSA Tech Talk
   date: March 31, 2020
   time: 1-130p
