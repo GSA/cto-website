@@ -86,8 +86,8 @@ body:not(.front) {
 
 header#front-hero {
   color: white;
-  background-color: $color-primary-darker;
-  background-image: radial-gradient(ellipse at bottom center, $color-primary-darker, $color-base);
+  background-color: $color-black;
+  background-image: radial-gradient(ellipse at right, $color-gray-dark, $color-black,);
   padding-top: calc(#{$nav-height-mobile} + #{$usa-banner-height} + 4em);
   padding-bottom: 4em;
 
