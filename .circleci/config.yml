@@ -22,4 +22,4 @@ jobs:
           - vendor/bundle
 
       # test
-      - run: bundle exec rake test:ci
+      - run: bundle exec rake test
