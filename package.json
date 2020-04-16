@@ -13,7 +13,7 @@
   "homepage": "https://github.com/GSA/cto-website#readme",
   "scripts": {
     "assets": "gulp copy-assets",
-    "test:a11y": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
+    "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
