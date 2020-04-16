@@ -15,7 +15,7 @@
     "assets": "gulp copy-assets",
     "test:serve": "bundle exec jekyll build && http-server -s -p 4567 _site",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml",
-    "test:a11y:local": "pa11y-ci --sitemap http://localhost:4567/sitemap.xml --sitemap-find https://tech.gsa.gov --sitemap-replace http://localhost:4567",
+    "test:a11y:local": "pa11y-ci --sitemap http://localhost:4567/sitemap.xml --sitemap-find 'https?:\\/{2}.*?[a-zA-Z0-9\\.]+(:[0-9]*)?[^\\/]' --sitemap-replace http://localhost:4567",
     "test:a11y:ci": "start-server-and-test test:serve 4567 test:a11y:local"
   },
   "devDependencies": {
