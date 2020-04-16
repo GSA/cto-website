@@ -25,6 +25,8 @@ exclude:
   - 'vendor'
   - 'Dockerfile'
   - 'docker-run.sh'
+plugins:
+  - jekyll-sitemap
 
 collections:
   team:
@@ -55,6 +57,11 @@ defaults:
       type: team
     values:
       layout: profile
+  # Exclude assets from sitemap.xml
+  - scope:
+      path: "assets/**"
+    values:
+      sitemap: false
 
 toc:
   min_level: 2

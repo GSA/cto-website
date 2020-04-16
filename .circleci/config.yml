@@ -1,25 +1,56 @@
-version: 2
+version: 2.1
 
-jobs:
-  build:
-    working_directory: ~/cto-website
+executors:
+  default:
     docker:
       - image: circleci/ruby:2.6-node-browsers
+    working_directory: ~/cto-website
+
+commands:
+  setup_dependencies:
+    description: Install RubyGems and Node modules
+    steps:
+      - restore_cache:
+          key: cto-website-gems-{{ checksum "Gemfile.lock" }}
+      - run: bundle install --path vendor/bundle
+      - save_cache:
+          key: cto-website-gems-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - restore_cache:
+          key: cto-website-npm-{{ checksum "package-lock.json" }}
+      - run: npm install
+      - save_cache:
+          key: cto-website-npm-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+
+jobs:
+  test:
+    executor: default
     steps:
       - checkout
-
-      # Restore bundle cache
-      - type: cache-restore
-        key: cto-website-{{ checksum "Gemfile.lock" }}
-
-      # Install dependencies
-      - run: bundle install --path vendor/bundle
-
-      # Save bundle cache
-      - type: cache-save
-        key: cto-website-{{ checksum "Gemfile.lock" }}
-        paths:
-          - vendor/bundle
-
-      # test
+      - setup_dependencies
       - run: bundle exec rake test
+  test-accessibility:
+    executor: default
+    steps:
+      - checkout
+      - setup_dependencies
+      - run: npm run --silent test:a11y
+
+workflows:
+  version: 2
+  nightly:
+    triggers:
+      - schedule:
+          cron: 0 0 * * *
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - test-accessibility
+  test:
+    jobs:
+      - test
