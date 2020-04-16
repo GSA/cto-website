@@ -32,18 +32,25 @@ jobs:
       - checkout
       - setup_dependencies
       - run: bundle exec rake test
-  test-accessibility:
+  accessibility-live:
     executor: default
     steps:
       - checkout
       - setup_dependencies
-      - run: npm run --silent test:a11y
+      - run: npm run --silent test:a11y:live
 
 workflows:
   version: 2
-  test-accessibility:
+  nightly:
+    triggers:
+      - schedule:
+          cron: 0 0 * * *
+          filters:
+            branches:
+              only:
+                - master
     jobs:
-      - test-accessibility
+      - accessibility-live
   test:
     jobs:
       - test
