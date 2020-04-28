@@ -71,6 +71,7 @@ body.front .vision-element-icon i {
     float: left;
     margin-bottom: 0.5em;
     margin-right: 0.5em;
+    margin-top: 1em;
   }
 
   .icon-share-technology        { background-color: $color-primary-alt-darkest; }
@@ -186,7 +187,7 @@ footer {
 .usa-width-one-third {
     float: left;
     display: block;
-    margin-right: 2.35765%;
+    margin-right: 5%;
     width: 25%;
  
 }
@@ -206,7 +207,7 @@ footer {
   .usa-width-one-third:nth-of-type(3) {
     float: left;
     display: block;
-    margin-right: 2.35765%;
+    margin-right: 5%;
     width: 25%;
     
   }
@@ -236,8 +237,9 @@ footer {
   .usa-width-one-third:nth-of-type(4),
   .usa-width-one-third:nth-of-type(5)
   */ {
-      margin-right: 4.82916%;
-      width: 47.58542%;
+      margin-right: 5%;
+      width: 100%;
+      display: inline-flex;
   }
  /*  .usa-width-one-third:nth-of-type(4) {
       margin-left: 0;
