@@ -65,11 +65,11 @@ body.front .vision-element-icon i {
     color: white;
     vertical-align: middle;
     border-radius: 50%;
-    width: 1.6em;
-    height: 1.6em;
-    line-height: 1.6em;
-    float:left;
-    margin-bottom:5%;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    float: left;
+    margin-bottom: 5%;
   }
 
   .icon-share-technology        { background-color: $color-primary-alt-darkest; }
@@ -77,6 +77,10 @@ body.front .vision-element-icon i {
   .icon-modernize-and-innovate  { background-color: $color-gold; }
   .icon-be-open                 { background-color: $color-green; }
   .icon-users-come-first        { background-color: $color-cool-blue; }
+  .icon-see-the-guides       { background-color: $color-green; }
+  .icon-see-the-playbooks        { background-color: $color-secondary-darkest; }
+  .icon-attend-a-ted-talk        { background-color: $color-gold; }
+
 }
 
 body:not(.front) {
