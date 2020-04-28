@@ -167,9 +167,12 @@ footer {
   display: flex;
   flex-wrap: wrap;
 }
-/*.usa-width-one-third:first-child > :first-child  {
+.usa-grid {
+    padding: 5%;
+}
+.usa-width-one-third:first-child > :first-child  {
   margin-top: 0;
-}*/
+}
 .usa-width-one-third:last-child > :last-child {
   margin-bottom: 0;
 }
@@ -178,7 +181,7 @@ footer {
     display: block;
     margin-right: 2.35765%;
     width: 20%;
-    margin-top: 5%;
+ 
 }
 .usa-width-one-third:last-child {
   margin-right: 0;
@@ -198,7 +201,7 @@ footer {
     display: block;
     margin-right: 2.35765%;
     width: 20%;
-    margin-top: 5%;
+    
   }
   .usa-width-one-third:nth-of-type(3) {
       margin-right: 0;
