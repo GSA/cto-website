@@ -173,28 +173,31 @@ footer {
   margin-bottom: 0;
 }
 .usa-width-one-third {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 17.93176%;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 20%;
+    margin-top: 5%;
 }
 .usa-width-one-third:last-child {
   margin-right: 0;
 }
 .usa-width-one-third:nth-child(2n) {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 17.93176%;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 20%;
+    margin-top: 5%;
 }
 @media screen and (max-width: 1200px) {
   .usa-width-one-third:nth-of-type(1),
   .usa-width-one-third:nth-of-type(2),
   .usa-width-one-third:nth-of-type(3) {
-      float: left;
-      display: block;
-      margin-right: 4.82916%;
-      width: 30.11389%;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 20%;
+    margin-top: 5%;
   }
   .usa-width-one-third:nth-of-type(3) {
       margin-right: 0;
