@@ -163,18 +163,20 @@ footer {
 // One-third grid from: https://github.com/GSA/centers-of-excellence/blob/master/css/styles.css
 .usa-grid, .usa-grid-full {
   max-width: 1240px;
-  justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
 }
-.usa-grid {
-    padding: 5%;
-}
+
 .usa-width-one-third:first-child > :first-child  {
   margin-top: 0;
 }
 .usa-width-one-third:last-child > :last-child {
   margin-bottom: 0;
+}
+.usa-grid-container {
+    max-width: 1240px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5%;
 }
 .usa-width-one-third {
     float: left;
