@@ -69,7 +69,8 @@ body.front .vision-element-icon i {
     height: 2em;
     line-height: 2em;
     float: left;
-    margin-bottom: 5%;
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
   }
 
   .icon-share-technology        { background-color: $color-primary-alt-darkest; }
@@ -255,5 +256,6 @@ footer {
   .usa-width-one-third:nth-of-type(5) */ {
       margin-right: 0;
       width: 100%;
+      display: inline-flex;
   }
 }
