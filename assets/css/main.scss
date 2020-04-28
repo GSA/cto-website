@@ -164,13 +164,12 @@ footer {
 .usa-grid, .usa-grid-full {
   max-width: 1240px;
   justify-content: center;
-  align-items: center;
   display: flex;
   flex-wrap: wrap;
 }
-.usa-width-one-third:first-child > :first-child  {
+/*.usa-width-one-third:first-child > :first-child  {
   margin-top: 0;
-}
+}*/
 .usa-width-one-third:last-child > :last-child {
   margin-bottom: 0;
 }
