@@ -95,7 +95,8 @@ body:not(.front) {
 header#front-hero {
   color: white;
   background-color: $color-black;
-  background-image: radial-gradient(ellipse at right, $color-gray-dark, $color-black,);
+  background-image: url(https://cdn.pixabay.com/photo/2018/07/14/11/33/network-3537401_1280.jpg);
+  /* background-image: radial-gradient(ellipse at right, $color-gray-dark, $color-black,); */
   padding-top: calc(#{$nav-height-mobile} + #{$usa-banner-height} + 4em);
   padding-bottom: 4em;
 
