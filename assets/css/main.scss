@@ -96,6 +96,7 @@ header#front-hero {
   color: white;
   background-color: $color-black;
   background-image: url(https://cdn.pixabay.com/photo/2018/07/14/11/33/network-3537401_1280.jpg);
+  background-position: top;
   /* background-image: radial-gradient(ellipse at right, $color-gray-dark, $color-black,); */
   padding-top: calc(#{$nav-height-mobile} + #{$usa-banner-height} + 4em);
   padding-bottom: 4em;
@@ -167,96 +168,12 @@ footer {
   }
 }
 
-// One-third grid from: https://github.com/GSA/centers-of-excellence/blob/master/css/styles.css
 .usa-grid, .usa-grid-full {
   max-width: 1240px;
 }
 
-.usa-width-one-third:first-child > :first-child  {
-  margin-top: 0;
-}
-.usa-width-one-third:last-child > :last-child {
-  margin-bottom: 0;
-}
-.usa-grid-container {
-    max-width: 1240px;
-    justify-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    margin: 5%;
-}
-.usa-width-one-third {
-    float: left;
-    display: block;
-    margin-right: 5%;
-    width: 25%;
- 
-}
-.usa-width-one-third:last-child {
-  margin-right: 0;
-}
-/* .usa-width-one-third:nth-child(2n) {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 20%;
-    margin-top: 5%;
-} */
-@media screen and (max-width: 1200px) {
-  .usa-width-one-third:nth-of-type(1),
-  .usa-width-one-third:nth-of-type(2),
-  .usa-width-one-third:nth-of-type(3) {
-    float: left;
-    display: block;
-    margin-right: 5%;
-    width: 25%;
-    
-  }
-  .usa-width-one-third:nth-of-type(3) {
-      margin-right: 0;
-  }
-  /* Not Needed*/
-  /*.usa-width-one-third:nth-of-type(4),
-  .usa-width-one-third:nth-of-type(5) {
-      margin-right: 4.82916%;
-      width: 30.11389%;
-  }
-  
-  .usa-width-one-third:nth-of-type(4) {
-      margin-left: 17%;
-  }
-  .usa-width-one-third:nth-of-type(5) {
-      margin-right: 0;
-  }
-  */
-}
-@media screen and (max-width: 768px) {
-  .usa-width-one-third:nth-of-type(1),
-  .usa-width-one-third:nth-of-type(2),
-  .usa-width-one-third:nth-of-type(3)
-  /*,
-  .usa-width-one-third:nth-of-type(4),
-  .usa-width-one-third:nth-of-type(5)
-  */ {
-      margin-right: 5%;
-      width: 100%;
-      display: inline-flex;
-  }
- /*  .usa-width-one-third:nth-of-type(4) {
-      margin-left: 0;
-  } */
-  /* .usa-width-one-third:nth-of-type(2),
-  .usa-width-one-third:nth-of-type(4) {
-      margin-right: 0;
-  } */
-}
-@media screen and (max-width: 600px) {
-  .usa-width-one-third:nth-of-type(1),
-  .usa-width-one-third:nth-of-type(2),
-  .usa-width-one-third:nth-of-type(3)
-  /* ,
-  .usa-width-one-third:nth-of-type(4),
-  .usa-width-one-third:nth-of-type(5) */ {
+@media screen and (max-width: 800px) {
+  .usa-width-one-third {
       margin-right: 0;
       width: 100%;
       display: inline-flex;
