@@ -65,9 +65,13 @@ body.front .vision-element-icon i {
     color: white;
     vertical-align: middle;
     border-radius: 50%;
-    width: 1.6em;
-    height: 1.6em;
-    line-height: 1.6em;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    float: left;
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 1em;
   }
 
   .icon-share-technology        { background-color: $color-primary-alt-darkest; }
@@ -75,6 +79,10 @@ body.front .vision-element-icon i {
   .icon-modernize-and-innovate  { background-color: $color-gold; }
   .icon-be-open                 { background-color: $color-green; }
   .icon-users-come-first        { background-color: $color-cool-blue; }
+  .icon-see-the-guides       { background-color: $color-green; }
+  .icon-see-the-playbooks        { background-color: $color-secondary-darkest; }
+  .icon-attend-a-ted-talk        { background-color: $color-gold; }
+
 }
 
 body:not(.front) {
@@ -86,8 +94,10 @@ body:not(.front) {
 
 header#front-hero {
   color: white;
-  background-color: $color-primary-darker;
-  background-image: radial-gradient(ellipse at bottom center, $color-primary-darker, $color-base);
+  background-color: $color-black;
+  background-image: url(https://cdn.pixabay.com/photo/2018/07/14/11/33/network-3537401_1280.jpg);
+  background-position: top;
+  /* background-image: radial-gradient(ellipse at right, $color-gray-dark, $color-black,); */
   padding-top: calc(#{$nav-height-mobile} + #{$usa-banner-height} + 4em);
   padding-bottom: 4em;
 
@@ -158,79 +168,14 @@ footer {
   }
 }
 
-// One-fifth grid from: https://github.com/GSA/centers-of-excellence/blob/master/css/styles.css
 .usa-grid, .usa-grid-full {
   max-width: 1240px;
 }
-.usa-width-one-fifth:first-child > :first-child  {
-  margin-top: 0;
-}
-.usa-width-one-fifth:last-child > :last-child {
-  margin-bottom: 0;
-}
-.usa-width-one-fifth {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 17.93176%;
-}
-.usa-width-one-fifth:last-child {
-  margin-right: 0;
-}
-.usa-width-one-fifth:nth-child(2n) {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 17.93176%;
-}
-@media screen and (max-width: 1200px) {
-  .usa-width-one-fifth:nth-of-type(1),
-  .usa-width-one-fifth:nth-of-type(2),
-  .usa-width-one-fifth:nth-of-type(3) {
-      float: left;
-      display: block;
-      margin-right: 4.82916%;
-      width: 30.11389%;
-  }
-  .usa-width-one-fifth:nth-of-type(3) {
-      margin-right: 0;
-  }
-  .usa-width-one-fifth:nth-of-type(4),
-  .usa-width-one-fifth:nth-of-type(5) {
-      margin-right: 4.82916%;
-      width: 30.11389%;
-  }
-  .usa-width-one-fifth:nth-of-type(4) {
-      margin-left: 17%;
-  }
-  .usa-width-one-fifth:nth-of-type(5) {
-      margin-right: 0;
-  }
-}
-@media screen and (max-width: 768px) {
-  .usa-width-one-fifth:nth-of-type(1),
-  .usa-width-one-fifth:nth-of-type(2),
-  .usa-width-one-fifth:nth-of-type(3),
-  .usa-width-one-fifth:nth-of-type(4),
-  .usa-width-one-fifth:nth-of-type(5) {
-      margin-right: 4.82916%;
-      width: 47.58542%;
-  }
-  .usa-width-one-fifth:nth-of-type(4) {
-      margin-left: 0;
-  }
-  .usa-width-one-fifth:nth-of-type(2),
-  .usa-width-one-fifth:nth-of-type(4) {
-      margin-right: 0;
-  }
-}
-@media screen and (max-width: 600px) {
-  .usa-width-one-fifth:nth-of-type(1),
-  .usa-width-one-fifth:nth-of-type(2),
-  .usa-width-one-fifth:nth-of-type(3),
-  .usa-width-one-fifth:nth-of-type(4),
-  .usa-width-one-fifth:nth-of-type(5) {
+
+@media screen and (max-width: 800px) {
+  .usa-width-one-third {
       margin-right: 0;
       width: 100%;
+      display: inline-flex;
   }
 }
