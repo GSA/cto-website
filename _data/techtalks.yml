@@ -1,4 +1,14 @@
-- title: IDT Reorg Tech Talk
+- title: Security Considerations with ATO's Tech Talk
+  date: May 20, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>The Federal Assessment and Authorization (A&A) process and the requirements to achieve an Authorization to Operate (ATO) can seem so complicated.<p>
+      <p>Join Bo Berlas, GSA's Chief Information Security Officer, to make sense of it all and review GSA's agile and risk based approaches to ATO.</p> 
+  presenter: Bo Berlas
+  slides:
+  
+title: IDT Reorg Tech Talk
   date: April 30, 2020
   time: 1-130p
   location:
