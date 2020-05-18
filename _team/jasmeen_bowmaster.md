@@ -4,7 +4,7 @@ lastname: Bowmaster
 photo: jasmeen_bowmaster.jpg
 role: Solutions Architect
 email: jasmeen.bowmaster@gsa.gov
-ordering: 4
+ordering: 10
 ---
 
 Jasmeen is a solutions architect and senior technical program manager who leads GSA's Solution Strategy division. Jasmeen joined the CTO team in February 2019 and has led the development of GSA’s Cloud journey strategy, solutioning for Robotics Process Automation, piloting of various cloud services, and other emerging technology efforts. Jasmeen had received multiple GSA-IT awards, including the GSA IT CIO I3 Award and the GSA IT CIO Award for Excellence in Innovation. Jasmeen has worked inside and outside of government during her career, supporting large and small, commercial and government clients.
