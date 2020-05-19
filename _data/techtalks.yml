@@ -1,4 +1,15 @@
-- title: Security Considerations with ATOs Tech Talk
+-title: Google Flutter Tech Talk
+  date: May 27, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.<p>
+      <p>Introduced in 2017, it is a growing platform that helps ease cross-platform application development.</p> 
+      <p>It has brought a large number of noteworthy changes to the procedure of application development, which we are going to review during this Tech Talk.</p>
+  presenter: Brian Miguel
+  slides:
+
+title: Security Considerations with ATOs Tech Talk
   date: May 20, 2020
   time: 1-130p
   location:
