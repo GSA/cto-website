@@ -1,10 +1,10 @@
 ---
 firstname: Ryan
 lastname: Day
-photo: ryan_day.jpg 
+photo: ryan_day.jpg
 role: Senior Software Developer | Solutions Architect
 email: ryan.day@gsa.gov
-ordering: 5
+ordering: 10
 ---
 Ryan Day joined the team in July 2018.
 

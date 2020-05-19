@@ -4,7 +4,7 @@ lastname: de Rosales
 photo: joseph_derosales.jpg
 role: TTS Liaison Team Lead
 email: joseph.derosales@gsa.gov
-ordering: 7
+ordering: 10
 ---
 
 Joseph de Rosales is assigned to the Office of the Chief Technology Officer as the Technology Transformation Services (TTS) Liason Team Lead for the U.S. General Services Administration’s Office of Information Technology (GSA IT). Working directly with the TTS and GSA IT organizations, Joseph strives to improve current business practices, streamline workflows, and create efficiencies utilizing modern technology and shared services.

@@ -2,9 +2,9 @@
 firstname: Jeff
 lastname: Fredrickson
 photo: jeff_fredrickson.jpg
-role: Sr. Software Developer
+role: Senior Software Developer
 email: jeffrey.fredrickson@gsa.gov
-ordering: 6
+ordering: 10
 ---
 
 Jeff is a developer focused on introducing innovative technology to GSA. He helps design, build, or advise on pilot projects that demonstrate practical applications of new technology or processes.
