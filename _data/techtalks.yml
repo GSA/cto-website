@@ -1,3 +1,14 @@
+- title: Digital Signature Solutions Docu Sign Federal Tech Talk
+  date: June 10, 2020
+  time: 1-130p
+  location:
+  description: >
+      <p>DocuSign Federal, GSA’s new digital signature solution went live on October 1, 2019.</p>
+      <p>DocuSign is an intuitive, 508-compliant option that is sure to improve your overall user experience. This digital signature solution offers a robust menu and more drag-and-drop options making it easier than ever to sign and send your documents.</p> 
+      <p>DSS also offers several APIs options which we are going to review during this Tech Talk.</p>
+  presenter: Sudhathi Suthrave
+  slides:
+
 - title: Google Flutter Tech Talk
   date: May 27, 2020
   time: 1-130p
