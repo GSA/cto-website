@@ -17,3 +17,4 @@ The API standards include these required items:
 4. **Provide Public Documentation** - The developer's entry point to an API is its documentation. Clear and functional documentation improves the on-boarding process. 
 5. **Provide A Feedback Mechanism That Is Clear and Monitored** - Having an obvious mechanism for clients to report issues and ask questions about the API demonstrates that the API can be counted on for production usage. 
 6. **Provide An OpenAPI Specification File** - Providing this allows consumers to understand the details and can be used by development or testing tools accessing your API.
+7. **Follow The Standard API Endpoint Design** - This allows for a standardization of all Public APIs released for easier consumption. Exceptions: Not required for SOAP APIs. Not required for APIs that were in progress or production prior to December 2018.
