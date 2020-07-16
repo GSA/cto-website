@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "pa11y-ci": "^2.3.0"
   },
   "dependencies": {
