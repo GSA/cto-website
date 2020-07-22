@@ -7,15 +7,15 @@ audiences:
   - Project Managers
 ---
 
-In an Agile organization, where self-organizing teams are the core of the delivery process, the function of managers shifts in such a way that their focus and efforts are geared towards supporting business objectives and values for the transformation. Managers get to highlight and utilize leadership skills such as facilitation, coaching and the support of enabling environments. Below, we explore examples of traditional management roles and the respective skillsets managers can translate to develop and grow an agile organization. 
+In an Agile organization, where self-organizing teams are the core of the delivery process, the function of managers shifts in such a way that their focus and efforts are geared towards supporting business objectives and values for the transformation. Managers get to highlight and utilize leadership skills such as facilitation, coaching and the support of enabling environments. Below, we explore examples of traditional management roles and the respective skillsets managers can translate to develop and grow an agile organization.
 
-<h2>Program / Project Management</h2> 
+<h2>Program / Project Management</h2>
 
 In an Agile environment, the primary skillsets and functions required from Program managers shift from monitoring and controlling teams and portfolios to leading product / portfolio vision.
 
 <img src="{{ site.baseurl }}/assets/img/guides/TraditionalRolesProgMgt.jpg"
   alt="Program Management in Agile"
-  class="guide-image guide-image-three-fourths">  
+  class="guide-image guide-image-three-fourths">
 
 **Vision and Direction:** Program Managers use their leadership and communication skills to drive high-level strategies, develop project/product roadmaps and set priorities based on long-term vision and business objectives. The program manager gets to emphasize on their management functions when it comes to effective resource allocation, design and development of working environments, management of risk and dependencies across teams and the removal of impediments.
 
@@ -32,7 +32,7 @@ As part of this shift, functional managers can employ the following important sk
 
 <img src="{{ site.baseurl }}/assets/img/guides/FunctionalMgt.png"
   alt="Functional Management in Agile"
-  class="guide-image guide-image-three-fourths"> 
+  class="guide-image guide-image-three-fourths">
 
 **Subject Matter Expertise:** Can serve as Technical or Business Leads who are subject matter experts advising the team and who can translate the business vision into a technical vision. This means focusing on setting a clear vision, defining acceptance criteria and letting the team figure out the ‘how’ by providing guidance and direction when needed, in addition to coaching and transferring knowledge.
 
@@ -47,15 +47,15 @@ Agile design development shifts the notion of a single person is in charge of de
 <img src="{{ site.baseurl }}/assets/img/guides/SysDesignMgt.png"
   alt="Technical Design Management"
   class="guide-image guide-image-three-fourths">
-  
-**Systems Design:** Architectural designers utilize their technical skills on developing the high-level system design and strategy, while guiding the development team on the architecture design that is to be created during the coding process. 
+
+**Systems Design:** Architectural designers utilize their technical skills on developing the high-level system design and strategy, while guiding the development team on the architecture design that is to be created during the coding process.
 
 **Technical Standards and Requirements:**In terms of technical design requirements, architecture and design managers can successfully employ their technical skills and evolve into the role of a technical product owners in order to guide technical excellence and strategy throughout the development process. This position requires a unique skill set where the technical Product Owner carries technical knowledge into strategic conversations about the product to support long-term roadmapping that require an understanding of technical capabilities.
 
 -------------------------------------------------------------------------------------------------------------------------
 
 **Additional Reference**
-* [The Manager's Role in Agile](https://www.scrumalliance.org/community/articles/2008/july/the-manager-s-role-in-agile) 
+* [Manager 2.0: The Role of the Manager in Scrum](https://www.infoq.com/articles/scrum-management-deemer/)
 * [The Role of Functional Managers in Agile: From Tactical to Strategic](https://blog.versionone.com/the-role-of-functional-managers-in-agile-from-tactical-to-strategic/)
 * [Middle Managers Matter](http://www.epe.admin.cam.ac.uk/middle-managers-matter)
 * [How Agile Led to the Creation of the Technical Product Owner](https://www.techwell.com/techwell-insights/2013/09/how-agile-led-creation-technical-product-owner)

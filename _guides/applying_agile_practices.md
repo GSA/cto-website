@@ -6,7 +6,7 @@ audiences:
   - Designers
   - Project Managers
 ---
-  
+
 ### If Not Software Development, Then “Who…?”
 Agile practices have proliferated into business lines such as [Marketing, Human Resources, Legal]({{ site.baseurl }}/guides/agile_adoption/#agileculturebenefits), and beyond. Agile can not only transform an organization’s approach to software development, but also its enterprise departmental functions, project management practices, and product development. Moreover, in order to survive an ever-changing environment, creating more innovative, cross-functional, and multidisciplinary teams that generate growth and increased skillsets has become paramount - across the _**entire**_ organization. Taking an Agile approach can boost self-organization and employee engagement among business teams while breaking organizational silos that present barriers to communication and collaboration.
 
@@ -21,7 +21,7 @@ The key to broadening Agile adoption is the adaption of new mindsets and behavio
 * Scheduling daily 15-minute check-ins (instead of holding lengthy staff meetings), and
 * Focusing on velocity / capacity, versus speed.
 
-First, Agile behaviors are not beholden to any one framework (i.e. Scrum, Kanban, etc.) and can conceivably be implemented without one. These behaviors simply help establish a more transparent, collaborative Agile environment, even beyond software development. 
+First, Agile behaviors are not beholden to any one framework (i.e. Scrum, Kanban, etc.) and can conceivably be implemented without one. These behaviors simply help establish a more transparent, collaborative Agile environment, even beyond software development.
 
 Second, Agile behaviors not only accommodate visibility of the business team’s work, but allow for better prioritization and breakdown of project work and tasks. They also support the setting and achievement of short, targeted goals and increase collaboration among team members. Finally, Agile behavior encourages communication of progress within and outside the team, without adding lengthy meetings that take away from prioritized work.
 
@@ -48,7 +48,7 @@ These are good references for understanding the application of Agile practices t
 * [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
 * [How NPR benefits from agile project development & you can too](http://www.poynter.org/2012/how-npr-benefits-from-agile-project-development-you-can-too/175487/)
 * [How to apply Agile practices with your non-tech team or business](http://www.techrepublic.com/article/how-to-apply-agile-practices-with-your-non-tech-team-or-business/)
-* [Organisational agility: How business can survive and thrive in turbulent times](https://www.emc.com/collateral/leadership/organisational-agility-230309.pdf)
+* [Organisational agility: How business can survive and thrive in turbulent times](https://www.cfoinnovation.com/organisational-agility-how-business-can-survive-and-thrive-turbulent-times)
 * [Scaling Agile at Spotify](https://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agile-it-runs-squads-like-lean-startups/)
 * [The Dawn of the Agile Attorney](http://www.lawpracticetoday.org/article/dawn-agile-attorney/)
 * [What is Agile HR? And is it right for you?](http://www.hrsg.ca/what-is-agile-hr-and-is-it-right-for-you/)

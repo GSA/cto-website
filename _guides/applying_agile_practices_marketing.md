@@ -21,7 +21,7 @@ As the [Agile Marketer](http://theagilemarketer.net/agile-marketing-manifesto-ex
 
 <img src="{{ site.baseurl }}/assets/img/guides/Agile_Marketing.png"
   alt="Agile Marketing"
-  class="guide-image guide-image-three-fourths">  
+  class="guide-image guide-image-three-fourths">
 *Source: The Agile Marketer*
 
 ### Good Reads
@@ -30,7 +30,7 @@ These are good references for understanding Agile practices used in Marketing:
 * [Agile Alliance: Agile 101](https://www.agilealliance.org/agile101/)
 * [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
 * [How to apply Agile practices with your non-tech team or business](http://www.techrepublic.com/article/how-to-apply-agile-practices-with-your-non-tech-team-or-business/)
-* [Organisational agility: How business can survive and thrive in turbulent times](https://www.emc.com/collateral/leadership/organisational-agility-230309.pdf)
+* [Organisational agility: How business can survive and thrive in turbulent times](https://www.cfoinnovation.com/organisational-agility-how-business-can-survive-and-thrive-turbulent-times)
 
 ##### Marketing
 * [Agile Marketing Manifesto](http://agilemarketingmanifesto.org/)

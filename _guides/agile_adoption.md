@@ -57,7 +57,7 @@ Some common Agile terms include:
 Additional terms can be found in our [**Glossary**]({{ site.baseurl }}/guides/glossary/).
 
 ### <a name="agileculturebenefits"></a>Benefits of an Agile Culture
-Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), [Customer Support](http://www.award-entry.nl/2014/cases/klm/happy-to-help/), and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
+Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), Customer Support, and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/) and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
 
 The result, or the answer to **“[What’s in it for me?!](https://hbr.org/2016/05/embracing-agile)”** rather - is additional cost-savings and more informed spend; greater visibility with executive leadership; empowered, self-organized teams; work that is broken down into smaller, achievable increments; and shared responsibility between Business and IT.
 
@@ -71,22 +71,22 @@ Through Agile Investment, the CTO Office introduces business and development tea
 #### Agile Behavior Adaptation
 Here are just some of the ways we can support Agile adoption:
 
-**Stop the Jargon!**  
+**Stop the Jargon!**
 Be informed & know the proper terminology to better support Agile adoption and reduce confusion.
 
-**Shift the Mindset**  
+**Shift the Mindset**
 Be open, flexible, responsive, & transparent in developing a more Agile mindset, but know that transition takes time and patience.
 
-**Change Management**  
+**Change Management**
 Be flexible as new processes are implemented, but call pain points and issues so that they can be addressed.
 
-**Communication**  
+**Communication**
 Be a reliable source for & encourage open communication.
 
-**Accountability**  
+**Accountability**
 Be reliable & responsible to the Team and with assigned work.
 
-**Transparency**  
+**Transparency**
 Be honest & transparent with the Team and assigned work.
 
 And finally, as we learn from each experience, we celebrate and share the success through "storytelling." In GSA IT, our current successes include the OMB endorsement of Agile, the introduction of standards, and each Agile Investment project-level implementation. Moreover, the collaboration we continue to build between Business and IT leads to faster, more efficient product delivery and is a win towards Agile adoption!

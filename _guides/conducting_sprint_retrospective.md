@@ -9,7 +9,7 @@ audiences:
 
 [Return to Agile Meetings]({{ site.baseurl }}/guides/Agile_Meetings_Goals_and_Benefits/#sprint-retrospective)
 
-During a **Sprint Retrospective**, the Scrum Master facilitates an hour-long session as the Scrum Team reviews their previous sprint’s activities and processes (e.g. milestones, dependencies, etc.) in an effort to continuously improve and address potential risks or concerns for the upcoming iteration. 
+During a **Sprint Retrospective**, the Scrum Master facilitates an hour-long session as the Scrum Team reviews their previous sprint’s activities and processes (e.g. milestones, dependencies, etc.) in an effort to continuously improve and address potential risks or concerns for the upcoming iteration.
 
 The Sprint Retrospective is not intended to be a gripe session, but an opportunity for the Scrum Team to “**inspect and adapt**” their work with open, honest, and constructive feedback. This is why *all* other invitees - including the Product Owner and / or management - should **only** attend the retrospective at the discretion of the Scrum Team.
 
@@ -35,11 +35,10 @@ These are good references for conducting a Sprint Retrospective:
 * [A Simple Way to Run a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
 * [Atlassian Playbook: Retrospectives](https://www.atlassian.com/team-playbook/plays/retrospective)
 * [Do’s and Don’ts: How to Conduct Effective Retrospectives](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/)
-* [Effective Sprint Retrospectives](https://msdn.microsoft.com/en-us/library/jj620912(v=vs.120).aspx)
-* [Key Elements of the Sprint Retrospective](https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-the-sprint-retrospective)
+* [Effective Sprint Retrospectives](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/jj620912(v=vs.120)?redirectedfrom=MSDN)
+* [Key Elements of a Successful Agile Retrospective: Preparation and Participation](https://www.infoq.com/news/2009/09/key-elements-agile-retrospective/)
 * [Scrum Inc: Sprint Retrospective](https://www.scruminc.com/sprint-retrospective/)
 * [Sprint Retrospective](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-retrospective)
-* [Sprint Retrospective Meetings](https://www.scrumalliance.org/community/articles/2015/may/sprint-retrospective-meetings)
 * [The Product Owner in a Sprint Retrospective](https://www.mountaingoatsoftware.com/blog/the-product-owner-in-a-sprint-retropsective)
 * [Valuable Agile Retrospectives: How to Do Them?](https://blog.versionone.com/valuable-agile-retrospectives-how-to-do-them/)
 * [Why Agile Teams Need to Know How to Inspect and Adapt](https://www.agileconnection.com/article/why-agile-teams-need-know-how-inspect-and-adapt)

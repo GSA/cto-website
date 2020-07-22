@@ -49,4 +49,4 @@ This content provides scenarios and questions that are intended to guide the the
 * [Finding a Partner to Trust: The Agile RFP](http://www.methodsandtools.com/archive/archive.php?id=84)
 * [Top 20 Scrum Master & Agile Scrum Interview Questions](https://www.simplilearn.com/agile-scrum-master-interview-questions-article)
 * [5 Agile Methodology Interview Questions To Find Your Next Testing Superstar](http://reqtest.com/testing-blog/agile-methodology-interview-questions/)
-* [Your 16-Point Litmus Test for the Right Agile Development Services Vendor](http://www.brillio.com/insights/blog-posts/your-16-point-litmus-test-for-the-right-agile-development-service-vendor)
+* [Your 16-Point Litmus Test for the Right Agile Development Services Vendor](https://www.brillio.com/insights/your-16-point-litmus-test-for-the-right-agile-development-services-vendor/)
