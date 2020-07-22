@@ -9,9 +9,9 @@ audiences:
 
 Human Resources (HR) also manages complex projects and serves multiple stakeholders, often times with competing priorities that require consistent, effective strategies in their approach to communication, programs, administration, and talent management. Since 2012, “**[Agile HR](http://www.bersin.com/Lexicon/details.aspx?id=15373)**” (Deloitte) has emerged as a popular discipline with the goal of empowering HR professionals to better “manage volatility, enhance adaptability, and strengthen the organization by applying Agile methodologies to their talent-management processes.”
 
-According to the [HR Trend Institute](https://hrtrendinstitute.com/), “Agile HR” refers to: 
-* a way of working and organizing of the HR function that facilitates responsiveness and adaptiveness of activities and structures, 
-* facilitating the flexibility in matching workforce fluctuations to demand, and 
+According to the [HR Trend Institute](https://hrtrendinstitute.com/), “Agile HR” refers to:
+* a way of working and organizing of the HR function that facilitates responsiveness and adaptiveness of activities and structures,
+* facilitating the flexibility in matching workforce fluctuations to demand, and
 * the way the HR function supports the organization in becoming more responsive and adaptive.
 
 With Agile HR, the traditional focus on control and alignment has shifted to a more Agile focus on speed of responsiveness and customers.
@@ -25,7 +25,7 @@ Human Resources is no longer limited to just implementing controls and standards
 
 <img src="{{ site.baseurl }}/assets/img/guides/Agile_HR.png"
   alt="Agile HR"
-  class="guide-image guide-image-three-fourths">  
+  class="guide-image guide-image-three-fourths">
 *Source: HR Trend Institute*
 
 ### Good Reads
@@ -34,7 +34,7 @@ These are good references for understanding Agile practices used in Human Resour
 * [Agile Alliance: Agile 101](https://www.agilealliance.org/agile101/)
 * [Embracing Agile](https://hbr.org/2016/05/embracing-agile)
 * [How to apply Agile practices with your non-tech team or business](http://www.techrepublic.com/article/how-to-apply-agile-practices-with-your-non-tech-team-or-business/)
-* [Organisational agility: How business can survive and thrive in turbulent times](https://www.emc.com/collateral/leadership/organisational-agility-230309.pdf)
+* [Organisational agility: How business can survive and thrive in turbulent times](https://www.cfoinnovation.com/organisational-agility-how-business-can-survive-and-thrive-turbulent-times)
 
 ##### Human Resources (HR)
 * [7 aspects of Agile HR](https://hrtrendinstitute.com/2015/02/14/7-aspects-of-agile-hr/)

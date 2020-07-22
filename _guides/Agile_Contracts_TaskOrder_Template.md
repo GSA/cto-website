@@ -125,7 +125,7 @@ _Sample Tasks Statement_
 
 <p>[Add specific details applicable here]</p>
 
-_Sample Language for POP_  
+_Sample Language for POP_
 
 <p><i> "“The Period of Performance (POP) includes a base period of 3 month, with 5 additional option periods, each 3 months in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award."</i></p>
 
@@ -157,6 +157,6 @@ _Sample Language for POP_
 
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
 * [Software Development: Effective Practices and Federal Challenges in Applying Agile Methods, Agile Contracts Primer](http://www.gao.gov/products/GAO-12-681) Tom Arbrogast, Craig Larman, and Bas Voddee,
-* [Finding a Partner to Trust](http://www.agilecontracts.org) The Agile RFP, by Peter Stevens cited
+* [Finding a Partner to Trust](https://agilecontracts.org/) The Agile RFP, by Peter Stevens cited
 * [Agile Services for the Enterprise, Statement of Work Template](http://www.methodsandtools.com) - GSA Alliant Shared Interest Group (SIG)
 * [Performance Work Statement (PWS)](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md) Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development

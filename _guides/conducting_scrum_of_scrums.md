@@ -39,7 +39,6 @@ These are good references for conducting a Scrum of Scrums:
 * [AgileAlliance: Scrum of Scrums](https://www.agilealliance.org/glossary/scrum-of-scrums/)
 * [Daily Standup and Scrum of Scrums - what should be the order of meetings?](https://www.scrum.org/forum/scrum-forum/5723/daily-standup-and-scrum-scrums-what-should-be-order-meetings)
 * [Making A Cross-Team Standup Work](https://medium.com/@devemail17/making-a-cross-team-standup-work-69237ebf8789)
-* [Scrum, Inc: Scrum of Scrums](https://www.scruminc.com/scrum-of-scrums/)
 * [Scrum in practice: the Scrum of Scrums meeting](https://manifesto.co.uk/scrum-of-scrums-meeting/)
 * [Using Scrum of Scrums with Agile Teams to Coordinate and Collaborate](https://www.infoq.com/news/2014/03/scrum-of-scrums)
 * [What is a Scrum of Scrums?](http://www.velocitypartners.net/blog/2017/01/17/what-is-a-scrum-of-scrums/)

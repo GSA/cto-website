@@ -74,7 +74,7 @@ _Sample Contracting Officer Language_
 
 <p>[Add specific roles here]</p>
 
-_Sample Procurement Manager Language_  
+_Sample Procurement Manager Language_
 
 <p><i> "The Procurement Project Manager is the interface between the requiring organization (GSA 18F) and contracting organization. The Procurement PM coordinates technical aspects of the contract with the COR / ACOR and CO, assists with contract administration, ensures client acceptance of services, and reviews invoices for payment."</i></p>
 
@@ -82,7 +82,7 @@ _Sample Procurement Manager Language_
 
 <p>[Add specific roles here]</p>
 
-_Sample Product Lead Language_  
+_Sample Product Lead Language_
 
 <p><i> "The Contractor shall provide a Project Lead as the primary point of contact for the coordination between the contractor, the Product Owner, as well as the CO and COR / ACOR. The Project Lead’s responsibilities include:</i></p>
 
@@ -108,7 +108,7 @@ _Sample Product Owner Role Statement_
 
 <p>[Add specific roles here]</p>
 
-_Sample Scrum Master Role Statement_  
+_Sample Scrum Master Role Statement_
 
 <p><i> "The Scrum Master is responsible for facilitating Agile ceremonies and discussions among development and customer team members. They are responsible for coaching the team on the Scrum processes and removes impediments for the team. Scrum Master Role activities include, but are not limited to, the following:</i></p>
 
@@ -122,7 +122,7 @@ _Sample Scrum Master Role Statement_
 
 <p>[Add specific roles here]</p>
 
-_Sample Technical Lead Language_  
+_Sample Technical Lead Language_
 
 <p><i> "The 18F Technical Lead is responsible for coordination between the contractor’s development team, the Product Owner and the key technical stakeholders."</i></p>
 
@@ -132,7 +132,7 @@ _Sample Technical Lead Language_
 
 <p>[Add specific skills and knowledge required here]</p>
 
-_Sample language on Skills and Knowledge_  
+_Sample language on Skills and Knowledge_
 
 <p><i> "The contractor shall provide qualified personnel with relevant experience and domain knowledge in line with this task's performance work statement, in terms of necessary skills at the requisite level of knowledge and experience. Broadly, a team assigned to build the {product name} is expected to have experience with:</i></p>
 
@@ -163,7 +163,7 @@ _Sample Language for Acceptance and Inspection_
 
 <p><i> "The Government and Contractor define acceptance of the deliverables as follows:</i></p>
 <p><i>Deliverable passes all new automated and manual acceptance tests that were defined before the most recent iteration. Deliverable passes all prior automated and manual acceptance tests, verifying that no regression has occurred. Deliverable conforms to the “definition of done” that was defined before the iteration.</i></p>
-<p><i>The customer/PO will have a period of one week within an iteration (“Evaluation Period”) after increments of a deliverable have been provided to verify that the Deliverable or part thereof is not deficient per acceptance criteria. The PO should notify Contractor prior to the expiration of the relevant Evaluation Period if the Deliverable or part thereof is deficient in any material respect (a “Nonconformity” pursuant to the definition of done or acceptance criteria agreed upon by the parties). The Contractor will correct such Nonconformity as soon as reasonably practical but no longer than the length of one iteration whereupon. The Government will receive an additional Iteration period (“Verification Period”) commencing upon its receipt of the corrected Deliverables or part thereof to verify that the specific Non-conformity has been corrected.”  
+<p><i>The customer/PO will have a period of one week within an iteration (“Evaluation Period”) after increments of a deliverable have been provided to verify that the Deliverable or part thereof is not deficient per acceptance criteria. The PO should notify Contractor prior to the expiration of the relevant Evaluation Period if the Deliverable or part thereof is deficient in any material respect (a “Nonconformity” pursuant to the definition of done or acceptance criteria agreed upon by the parties). The Contractor will correct such Nonconformity as soon as reasonably practical but no longer than the length of one iteration whereupon. The Government will receive an additional Iteration period (“Verification Period”) commencing upon its receipt of the corrected Deliverables or part thereof to verify that the specific Non-conformity has been corrected.”
 “The Contractor will also deliver the release test plan which is a step by step walkthrough of the functionality in the release and allows the user community to make notes and
 comments regarding how that functionality can be improved and made more useable or defect-free. The Contractor shall work to correct all errors and increase usability. Comments that are delivered within [agreed # of days] of the release walkthrough shall be included in the subsequent deliverable/release.”</i></p>
 
@@ -187,7 +187,7 @@ comments regarding how that functionality can be improved and made more useable 
 
 <p>[Add specific details applicable here]</p>
 
-_Sample Language for Contract Type_  
+_Sample Language for Contract Type_
 
 <p><i> "This is a [labor-hour (LH) FFP, Hybrid, etc.] order under master Agile BPA (aBPA) terms and conditions"</i></p>
 
@@ -195,7 +195,7 @@ _Sample Language for Contract Type_
 
 <p>[Add specific details applicable here]</p>
 
-_Sample Language for POP_  
+_Sample Language for POP_
 
 <p><i> "“The Period of Performance (POP) includes a base period of 3 month, with 5 additional option periods, each 3 months in duration. Further, a contingency of up to 6 months may be exercised . The POP is expected to begin within 10 calendar days after award."</i></p>
 
@@ -227,6 +227,6 @@ _Sample Language for POP_
 
 * [The TechFAR Handbook for Procuring Digital Services Using Agile Processes](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
 * [Software Development: Effective Practices and Federal Challenges in Applying Agile Methods, Agile Contracts Primer](http://www.gao.gov/products/GAO-12-681) Tom Arbrogast, Craig Larman, and Bas Voddee,
-* [Finding a Partner to Trust](http://www.agilecontracts.org) The Agile RFP, by Peter Stevens cited
+* [Finding a Partner to Trust](https://agilecontracts.org/) The Agile RFP, by Peter Stevens cited
 * [Agile Services for the Enterprise, Statement of Work Template](http://www.methodsandtools.com) - GSA Alliant Shared Interest Group (SIG)
 * [PERFORMANCE WORK STATEMENT (PWS)](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md) Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development

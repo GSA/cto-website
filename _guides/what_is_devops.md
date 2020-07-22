@@ -50,7 +50,6 @@ These are good references for understanding DevOps, Continuous Integration (CI),
 * [Cloud.gov](https://cloud.gov/)
 * [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
 * [DevOps.com](https://devops.com/)
-* [DevOps and Agile](https://www.scrumalliance.org/community/articles/2014/april/devops-and-agile)
 * [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 * [Gartner and Software Advice examine Agile Lifecycle Management Tools](https://www.infoq.com/news/2015/02/agile-management-tools)
 * [MartinFowler.com: ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)

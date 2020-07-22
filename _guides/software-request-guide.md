@@ -25,10 +25,10 @@ You will need several pieces of information, like software purpose, cost, and a 
 Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/downloads/software-request-checklist.pdf))
 
 ### Request
-Once you have gathered the info, it's time to put in your request. To do this, select the Submitting a Service Catalog, [Request for Software](https://gsa.service-now.com/GSA_Self-Service/software.do) option in ServiceNow.
+Once you have gathered the info, it's time to put in your request. To do this, select the Submitting a Service Catalog, [Request for Software](https://gsa.servicenowservices.com/) option in ServiceNow.
 <br>
 <br>
-Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/software.do)
+Resources: [ServiceNow](https://gsa.servicenowservices.com/)
 
 #### Non-Standard Software Requests
 If the software you are requesting is not listed as Approved on the IT Standards List in GEAR, it will need to go through the non-standard request approval process. This involves 2 additional reviews where the software is evaluated for Security vulnerabilities and Accessibility features. After these reviews are complete, the Technology Standards Committee (TSC) will provide their recommendation as to whether or not the software should be added to the IT Standards list. Finally, the Chief Technology Officer (CTO) will approve or reject the request. If approved, the software will be added to the IT Standards List in GEAR. This process can take quite a bit longer than requesting software that is already approved in GEAR. Expect 4-6 weeks for software to be completely evaluated.
@@ -46,7 +46,7 @@ At the conclusion of the pilot, the requestor will need to provide to the CTO th
 After your software request is entered in ServiceNow, you will receive an email confirmation. Be sure to read that email since it will provide your service ticket number.  Any follow-up communication will also be sent to you in email from the IT Standards Desk. Be aware that follow-up communications from the IT Standards team may be a request for missing information and should be answered promptly to keep your request moving along. You can review your request information in ServiceNow by viewing your open tickets. For any questions, contact the IT Standards Team at [it-standards@gsa.gov](mailto:it-standards@gsa.gov).
 
 ### Approve
-It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do).
+It can typically take up to 2 weeks for a request to be completed for Standard software. After your software request is approved, the ticket is marked as closed and you'll be contacted via phone or email by your local IT Service Desk. Remember, you can always check your ticket status in [ServiceNow](https://gsa.servicenowservices.com/).
 
 ### Acquire
 Once the software is approved, you will work with your local Contract Officer (CO) to purchase a software license. Reach out to your supervisor to identify the correct CO.
@@ -60,7 +60,7 @@ All software is assigned an expiration date. This date is when the software will
 When you no longer need the software, please enter a ticket in ServiceNow to have it removed from your equipment.
 <br>
 <br>
-Resources: [ServiceNow](https://gsa.service-now.com/GSA_Self-Service/home.do)
+Resources: [ServiceNow](https://gsa.servicenowservices.com/)
 
 ### FAQ's
 

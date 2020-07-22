@@ -7,7 +7,7 @@ audiences:
   - Project Managers
 ---
 
-Requirements define the business needs or goals of a given effort and guide the Team on what to build, the customer and user expectations, and provide a way to validate what is built and ensure it satisfies the initial objective. 
+Requirements define the business needs or goals of a given effort and guide the Team on what to build, the customer and user expectations, and provide a way to validate what is built and ensure it satisfies the initial objective.
 
 Before you can call a requirement, or user story, complete, you must first define what you are trying to accomplish and outline the steps necessary to achieve it. Only then, can you successfully identify when a requirement is complete.
 
@@ -25,7 +25,7 @@ Suggested user story criteria for meeting the [Definition of Ready (DoR)]({{ sit
 * Card is estimated
 
 ### Definition of Done (DoD)
-Once a requirement is ready, the Team must agree to the steps necessary to accomplish it. Throughout each [status]({{ site.baseurl }}/guides/visibility_and_status/) phase of development (typically represented by a column on a whiteboard or in a tool), the “rules” for passing it along to the next phase should also be clearly defined (e.g. the need for work to be reviewed by a peer prior to being sent to the next phase).  
+Once a requirement is ready, the Team must agree to the steps necessary to accomplish it. Throughout each [status]({{ site.baseurl }}/guides/visibility_and_status/) phase of development (typically represented by a column on a whiteboard or in a tool), the “rules” for passing it along to the next phase should also be clearly defined (e.g. the need for work to be reviewed by a peer prior to being sent to the next phase).
 
 Additionally, a Team may identify other needs based on the type of requirement that should be met, including specific testing needs (i.e. performance testing, penetration testing, etc.), that are necessary to call the user story done.
 
@@ -38,7 +38,7 @@ Suggested user story criteria for meeting the [Definition of Done (DoD)]({{ site
 In software development, user story criteria might also include:
 * Code is checked in and written according to standard
 * Peer review
-* Unit testing 
+* Unit testing
 * Merging of code
 * Integration testing
 * Logging of any bug fixes
@@ -55,5 +55,5 @@ These are good references when defining your Definition of Ready (DoR) or Defini
 
 * [Definition of Ready](https://www.agilealliance.org/glossary/definition-of-ready/)
 * [Definition of DONE! 10 Point Checklist](http://www.allaboutagile.com/definition-of-done-10-point-checklist/)
-* [Definition of Done: User Stories](https://www.agilealliance.org/definition-done-user-stories/)
+* [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
 * [Multiple Levels of Done](https://www.mountaingoatsoftware.com/blog/multiple-levels-of-done)
