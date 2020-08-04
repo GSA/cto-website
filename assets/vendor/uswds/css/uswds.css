@@ -1,4 +1,4 @@
-/*! uswds v1.6.9 */
+/*! uswds v1.6.12 */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -811,7 +811,22 @@ body {
   /* stylelint-disable-line declaration-no-important */
 }
 
-*:focus,
+input:not([disabled]):focus,
+select:not([disabled]):focus,
+textarea:not([disabled]):focus,
+button:not([disabled]):focus {
+  outline: 2px dotted #aeb0b5;
+  outline-offset: 3px;
+}
+
+iframe:focus,
+[href]:focus,
+[tabindex]:focus,
+[contentEditable=true]:focus {
+  outline: 2px dotted #aeb0b5;
+  outline-offset: 3px;
+}
+
 .usa-focus {
   outline: 2px dotted #aeb0b5;
   outline-offset: 3px;
@@ -1649,6 +1664,10 @@ legend {
     content: url("../img/correct8-alt.png");
     content: url("../img/correct8-alt.svg");
     text-indent: 0;
+  }
+  [type=radio]:checked:disabled + label::before,
+  [type=radio]:checked + label::before {
+    box-shadow: 0 0 0 2px #ffffff, inset 0 0 0 14px #0071bc, 0 0 0 4px #0071bc;
   }
 }
 
