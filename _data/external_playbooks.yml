@@ -28,3 +28,7 @@
 - title: Quick Guide to IT Accessibility for Program Managers
   description: Guidance on managing a federal agency IT Accessibility program.
   url: https://www.section508.gov/tools/playbooks/accessibility-playbook-quick-guide
+
+- title: Database Transformation Playbook - Sensitive Data Migration Process
+  description: Data Migration Streamsets Service Standard Playbook
+  url: ../assets/downloads/SDM-SensitiveDataMigrationPlaybook.pdf
