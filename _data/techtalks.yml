@@ -1,3 +1,26 @@
+- title: OSCAL Tech Talk
+  date: October 21, 2020
+  time: 1-1:30p
+  location:
+  description: >
+     <p> The Open Security Controls Assessment Language (OSCAL) enables automation of the authorization to operate (ATO) process. OSCAL is an emerging NIST standard for exchanging ATO package information in a machine-readable format.</p>
+     <p> The Federal Risk and Authorization Management Program (FedRAMP) is enabling stakeholders to create and submit their packages in OSCAL. </p>
+     <p> In this tech talk you will learn more about the benefits of OSCAL, what is available today, how it applies to both cloud and legacy data center ATOs, and how you can get started. </p>
+  presenter: Brian Ruf
+
+- title: ServiceNow Self Service Portal Tech Talk
+  date: October 7, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p> The self-service portal recently got a makeover and we'd like to show you these cool features!</p>
+     <p> Curie: The new name for Virtual Agent, honoring the innovative Marie Curie. </p> 
+     <p> My Workbench:  See your tickets, approval requests, and assigned equipment all in one place </p>
+     <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
+     <p> Favorites: Save your favorite articles and requests for easy access </p>
+     <p> And more...</p>
+  presenter: Steve Gillespie
+
 - title: GSA IT Collaboration Tools Professionals Tech Talk
   date: September 9, 2020
   time: 11-130p
