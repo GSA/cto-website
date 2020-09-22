@@ -1,4 +1,4 @@
- title: OSCAL Tech Talk
+- title: OSCAL Tech Talk
   date: October 21, 2020
   time: 1-1:30p
   location:
@@ -8,8 +8,7 @@
      <p> In this tech talk you will learn more about the benefits of OSCAL, what is available today, how it applies to both cloud and legacy data center ATOs, and how you can get started. </p>
   presenter: Brian Ruf
 
-
-title: ServiceNow Self Service Portal Tech Talk
+- title: ServiceNow Self Service Portal Tech Talk
   date: October 7, 2020
   time: 1-130p
   location:
@@ -20,9 +19,7 @@ title: ServiceNow Self Service Portal Tech Talk
      <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
      <p> Favorites: Save your favorite articles and requests for easy access </p>
      <p> And more...</p>
-
   presenter: Steve Gillespie
-
 
 - title: GSA IT Collaboration Tools Professionals Tech Talk
   date: September 9, 2020
