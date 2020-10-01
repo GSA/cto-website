@@ -1,6 +1,6 @@
 # Tech at GSA website
 
-This is the website for the GSA Office of the Chief Technology Officer.
+This is a website for the GSA Office of the Chief Technology Officer.
 
 ## Architecture
 
@@ -13,7 +13,7 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 There are two ways you can set up your development environment:
 
-* [**Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
+* [**Method 1:** Install all the tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
 * [**Method 2:** Use Docker to maintain all tools and dependencies inside a container](#method-2-containerized-development-environment-using-docker)
 
 ### Method 1: Local development environment
