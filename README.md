@@ -1,6 +1,6 @@
-# Tech at GSA website
+# Tech at GSA (General Services Administration) website
 
-This is the website for the GSA Office of the Chief Technology Officer.
+This is the website for the GSA(General Services Administration) Office of the Chief Technology Officer.
 
 ## Architecture
 
