@@ -1,4 +1,4 @@
-# Tech at GSA website
+# Tech projects at GSA website
 
 This is the website for the GSA Office of the Chief Technology Officer.
 
@@ -32,7 +32,7 @@ To update the vendor assets, run `npm run assets`.
 
 #### Building and previewing the website
 
-First, install `bundler` if you don't already have it:
+Firstly, get installed `bundler` if you don't already have it:
 
 ```
 gem install bundler
