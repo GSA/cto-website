@@ -11,7 +11,7 @@ The website utilizes the [US Web Design Standards](https://standards.usa.gov/).
 
 ## Setup
 
-There are two ways you can set up your development environment:
+There are 2 (two) ways you can set up your development environment:
 
 * [**Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
 * [**Method 2:** Use Docker to maintain all tools and dependencies inside a container](#method-2-containerized-development-environment-using-docker)
