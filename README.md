@@ -27,6 +27,7 @@ Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang
 #### Install Node.js and npm
 
 We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You only need it if you plan to update the [vendor assets](/assets/vendor/).
+Link Download - https://nodejs.org/en/ (Optional)
 
 To update the vendor assets, run `npm run assets`.
 
