@@ -1,6 +1,6 @@
 # Tech at GSA website
 
-This is the website for the GSA Office of the Chief Technology Officer.
+This is a website for the GSA Office of the Chief Technology Officer.
 
 ## Architecture
 
@@ -26,35 +26,35 @@ Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang
 
 #### Install Node.js and npm
 
-We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You only need it if you plan to update the [vendor assets](/assets/vendor/).
+We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage the front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website. You need it only if you plan to update the [vendor assets](/assets/vendor/).
 
 To update the vendor assets, run `npm run assets`.
 
 #### Building and previewing the website
 
-First, install `bundler` if you don't already have it:
+-> First, install `bundler` if you don't already have it:
 
-```
-gem install bundler
-```
+  ```
+  gem install bundler
+  ```
 
-Then install the project's Ruby dependencies:
+-> Then install the project's Ruby dependencies:
 
-```
-bundle install --with=development
-```
+  ```
+  bundle install --with=development
+  ```
 
-Then you can run the site locally with live reloading:
+-> Then you can run the site locally with live reloading:
 
-```
-rake serve
-```
+  ```
+  rake serve
+  ```
 
 You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
 
 ### Method 2: Containerized development environment using Docker
 
-This method explains how to set up a containerized development environment by using Docker. Using this method, you shouldn't need to install anything other than Docker on your local machine.
+This method explains how to set up a containerized development environment by using Docker. Using this method, you wouldn't need to install anything other than Docker on your local machine.
 
 #### Install Docker
 
