@@ -1,6 +1,6 @@
 # Tech at GSA website
 
-This is the website for the GSA Office of the Chief Technology Officer.
+This is a website for the GSA Office of the Chief Technology Officer.
 
 ## Architecture
 
@@ -54,7 +54,7 @@ You should now be able to preview the site on your local machine at [http://loca
 
 ### Method 2: Containerized development environment using Docker
 
-This method explains how to set up a containerized development environment by using Docker. Using this method, you shouldn't need to install anything other than Docker on your local machine.
+This method explains how to set up a containerized development environment with the help of Docker. Using this method, you are not required to install anything other than Docker on your local machine.
 
 #### Install Docker
 
