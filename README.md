@@ -18,11 +18,11 @@ There are two ways you can set up your development environment:
 
 ### Method 1: Local development environment
 
-This method explains how to set up a local development environment by installing all necessary tools and dependencies.
+This, method explains how to set up a local development environment by installing all necessary tools and dependencies.
 
 #### Install Ruby
 
-Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the [rbenv installation instructions](https://github.com/rbenv/rbenv#installation) to set it up on your system.
+Since, this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the [rbenv installation instructions](https://github.com/rbenv/rbenv#installation) to set it up on your system.
 
 #### Install Node.js and npm
 
@@ -44,7 +44,7 @@ Then install the project's Ruby dependencies:
 bundle install --with=development
 ```
 
-Then you can run the site locally with live reloading:
+Then, you can run the site locally with live reloading:
 
 ```
 rake serve
@@ -86,7 +86,7 @@ Please run `rake test` locally before pushing new content or code. This runs a J
 
 1. Fork the repository (or clone it if you have commit access)
 2. Create a feature branch
-3. Make your changes in the feature branch
+3. Make your changes in the feature branch to amke it better
 4. Commit the feature branch
 5. Push the feature branch to GitHub (preview your changes at `https://federalist.18f.gov/preview/gsa/cto-website/BRANCH_NAME/`)
 6. Open a pull request to merge the feature branch
