@@ -1,3 +1,13 @@
+- title: Trello Tech Talk
+  date: October 28, 2020
+  time: 1-1:30p
+  location:
+  description: >
+     <p>Trello is a recently FedRAMPED productivity, task management, and project management tool.</p>
+     <p> While similar collaborative Agile tools are geared towards IT teams, Trello has a much broader application. </p>
+     <p>This tech talk will introduce Trello basics, teach you how to get started, and show you some real-world examples at GSA. We'll also briefly address the 'why's' behind Trello, and when your team should consider its use.</p>
+  presenter: Andrew Politi
+
 - title: OSCAL Tech Talk
   date: October 21, 2020
   time: 1-1:30p
@@ -19,7 +29,7 @@
      <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
      <p> Favorites: Save your favorite articles and requests for easy access </p>
      <p> And more...</p>
-  presenter: Steve Gillespie
+  presenter: Peter Blaney and Steve Gillespie
 
 - title: GSA IT Collaboration Tools Professionals Tech Talk
   date: September 9, 2020
