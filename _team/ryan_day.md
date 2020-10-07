@@ -2,7 +2,7 @@
 firstname: Ryan
 lastname: Day
 photo: ryan_day.jpg
-role: Senior Software Developer | Solutions Architect
+role: Director, Digital Services Division
 email: ryan.day@gsa.gov
 ordering: 10
 ---
