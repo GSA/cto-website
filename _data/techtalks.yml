@@ -1,3 +1,58 @@
+- title: Trello Tech Talk
+  date: October 28, 2020
+  time: 1-1:30p
+  location:
+  description: >
+     <p>Trello is a recently FedRAMPED productivity, task management, and project management tool.</p>
+     <p> While similar collaborative Agile tools are geared towards IT teams, Trello has a much broader application. </p>
+     <p>This tech talk will introduce Trello basics, teach you how to get started, and show you some real-world examples at GSA. We'll also briefly address the 'why's' behind Trello, and when your team should consider its use.</p>
+  presenter: Andrew Politi
+
+- title: OSCAL Tech Talk
+  date: October 21, 2020
+  time: 1-1:30p
+  location:
+  description: >
+     <p> The Open Security Controls Assessment Language (OSCAL) enables automation of the authorization to operate (ATO) process. OSCAL is an emerging NIST standard for exchanging ATO package information in a machine-readable format.</p>
+     <p> The Federal Risk and Authorization Management Program (FedRAMP) is enabling stakeholders to create and submit their packages in OSCAL. </p>
+     <p> In this tech talk you will learn more about the benefits of OSCAL, what is available today, how it applies to both cloud and legacy data center ATOs, and how you can get started. </p>
+  presenter: Brian Ruf
+
+- title: ServiceNow Self Service Portal Tech Talk
+  date: October 7, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p> The self-service portal recently got a makeover and we'd like to show you these cool features!</p>
+     <p> Curie: The new name for Virtual Agent, honoring the innovative Marie Curie. </p> 
+     <p> My Workbench:  See your tickets, approval requests, and assigned equipment all in one place </p>
+     <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
+     <p> Favorites: Save your favorite articles and requests for easy access </p>
+     <p> And more...</p>
+  presenter: Peter Blaney and Steve Gillespie
+
+- title: GSA IT Collaboration Tools Professionals Tech Talk
+  date: September 9, 2020
+  time: 11-130p
+  location:
+  description: >
+     <p>Different teams communicate in different ways.  There's no one-size-fits-all solution that meets the needs of every business and operational need. </p>
+     <p>So how are folks supposed to know what's best for their activity?  GSA IT's service catalog includes a robust offering of Communications and Collaboration tools. </p> 
+     <p>This Tech Talk provides a high level overview of the current offerings as well as touches on things to consider when determining what's best for your team. </p>
+  presenter: Sean Zerges and Paul Powell
+  slides: /assets/downloads/techtalks/GSAITTechTalk_CollabTools.pdf 
+
+- title: Professional Development for IT Professionals Tech Talk
+  date: September 1, 2020
+  time: 1-130p
+  location:
+  description: >
+     <p>Some people have ten years of experience, and other people have one year of experience ten times.</p>
+     <p> Are you intentional in your development as an IT Professional, or is your career simply happening to you? Rachel Surick and Ryan Day will share some strategies for Professional Development for IT Pros.</p> 
+     <p> Learn about the new Cyber Career Pathways Tool, Intentional Development, Personal Branding, and becoming a T-Shaped Person.</p>
+  presenter: Rachel Surick and Ryan Day
+  slides:
+
 - title: GSA Acquisition Fax Solutions Tech Talk
   date: July 23, 2020
   time: 1-130p
