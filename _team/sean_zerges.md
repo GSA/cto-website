@@ -2,7 +2,7 @@
 firstname: Sean
 lastname: Zerges
 photo: sean_zerges.jpg
-role: Division Chief, Digital Services & Solutions Strategy
+role: Director, Office of the Chief Technology Officer
 email: sean.zerges@gsa.gov
 ordering: 2
 ---
