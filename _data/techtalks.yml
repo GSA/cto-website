@@ -28,10 +28,11 @@
      <p>Challenge.gov is the central hub of all federally sponsored prize competitions and has hosted over 1150 prize competitions from over 100 hundred agencies over the past decade.</p>
      <p>We’ll discuss how federal agencies are using prize competitions as an open innovation mechanism to source technology from a diversity of participants by reducing barriers to participation.</p>
   presenter: Jarah Meador
+  slides: /assets/downloads/techtalks/TechTalkChallenge.gov.pdf
 
 - title: Trello Tech Talk
   date: October 28, 2020
-  time: 1-1:30p
+  time: 1-1:30p ET
   location:
   description: >
      <p>Trello is a recently FedRAMPED productivity, task management, and project management tool.</p>
@@ -41,7 +42,7 @@
 
 - title: OSCAL Tech Talk
   date: October 21, 2020
-  time: 1-1:30p
+  time: 1-1:30p ET
   location:
   description: >
      <p> The Open Security Controls Assessment Language (OSCAL) enables automation of the authorization to operate (ATO) process. OSCAL is an emerging NIST standard for exchanging ATO package information in a machine-readable format.</p>
@@ -51,7 +52,7 @@
 
 - title: ServiceNow Self Service Portal Tech Talk
   date: October 7, 2020
-  time: 1-130p
+  time: 1-1:30p ET
   location:
   description: >
      <p> The self-service portal recently got a makeover and we'd like to show you these cool features!</p>
@@ -64,7 +65,7 @@
 
 - title: GSA IT Collaboration Tools Professionals Tech Talk
   date: September 9, 2020
-  time: 11-130p
+  time: 1-1:30p ET
   location:
   description: >
      <p>Different teams communicate in different ways.  There's no one-size-fits-all solution that meets the needs of every business and operational need. </p>
