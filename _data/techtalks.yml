@@ -6,8 +6,7 @@
      <p>Building Tools to Help Privacy Officers Better Protect Personal Information</p>    
      <p>Protecting the privacy of Americans is an essential function of our government and every agency has dedicated professionals who ensure that their agency is responsible for collecting and maintaining private information in its systems.</p>
      <p>The problem is that many of these folks, called privacy officers, are not equipped with modern tools and many rely on paper-based processes to do their important work. This is a problem that seemed ripe for 10x investigation.</p>
-     <p>Over four phases of research and engineering, all while working closely with privacy offices across government, 10x has been able to address this gap by building a custom dashboard that allows privacy officers to do their jobs more quickly and more efficiently by quickly locating over 5,884 records based on the types of private information that is held in systems across government.
-     </p>
+     <p>Over four phases of research and engineering, all while working closely with privacy offices across government, 10x has been able to address this gap by building a custom dashboard that allows privacy officers to do their jobs more quickly and more efficiently by quickly locating over 5,884 records based on the types of private information that is held in systems across government.     </p>
   presenter: Andrew Hyder and Nico Papafil
 
 - title: AI/ML Challenge Tech Talk
@@ -15,7 +14,7 @@
   time: 1-1:30p ET
   location:
   description: >
-     <p>The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.    
+     <p>The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.  </p>  
      <p>We asked teams to use Artificial Intelligence and Machine Learning (AI/ML) to improve the process of reviewing End User License Agreements (EULAs).</p>
      <p>The challenge received 20 submissions from individuals, companies, and students.</p>
      <p>Ryan Day of the OCTO will share what we learned about the technology and data science methods from these solvers.</p>
