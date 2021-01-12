@@ -8,6 +8,7 @@
      <p>The problem is that many of these folks, called privacy officers, are not equipped with modern tools and many rely on paper-based processes to do their important work. This is a problem that seemed ripe for 10x investigation.</p>
      <p>Over four phases of research and engineering, all while working closely with privacy offices across government, 10x has been able to address this gap by building a custom dashboard that allows privacy officers to do their jobs more quickly and more efficiently by quickly locating over 5,884 records based on the types of private information that is held in systems across government.     </p>
   presenter: Andrew Hyder and Nico Papafil
+  Slides: /assets/downloads/techtalks/10xPrivacyDashboard1.7.pdf 
 
 - title: AI/ML Challenge Tech Talk
   date: Dec 9, 2020
