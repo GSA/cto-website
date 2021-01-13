@@ -1,3 +1,14 @@
+- title: Leveraging DevOps for AI Adoption  
+  date: Jan 21, 2021
+  time: 11-11:30a ET
+  location:
+  description: >
+     <p>Introduction to what MLOps and AIOps are and why they are important to drive AI adoption</p>    
+     <p>As the government looks towards AI as an enabling technology to inform decision making and drive mission outcomes, it is important to understand how AI fits into the existing IT framework. </p>
+     <p>Given the nature of AI development, understanding how it fits with agile methodologies and DevOps is critical for successful adoption</p>
+   
+  presenter: Krista Kinnard and Joseph Raetano
+  
 - title: 10K Devops for Privacy Offices Tech Talk
   date: Jan 7, 2021
   time: 1-1:30p ET
