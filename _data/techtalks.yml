@@ -1,3 +1,14 @@
+- title: Google Scripts Tech Talk
+  date: Apr 20, 2021
+  time: 11-11:30a ET
+  location:
+  description: >
+     <p>.Google Apps Script, also know as Google Scripts, is a free programming language mostly based on an earlier version of JavaScript.</p> 
+     <p>It includes built-in libraries for Google Workplace apps, but it's flexible enough to bridge other development platforms, an example being HTML.</p> 
+     <p>.This is a free of cost solution and no installation is required since the code editor is web-based.</p>
+     <p>.Many GSA employees use Google Scripts on a daily basis to enable data automation; in a way, it's our in-house "robotics" solution.</p>.
+  presenter: Rolo Sierra
+
 - title: Authentify Tech Talk
   date: Apr 14, 2021
   time: 1-1:30p ET
