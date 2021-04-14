@@ -17,14 +17,14 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "pa11y-ci": "^2.4.0"
   },
   "dependencies": {
     "extend": "^3.0.2",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.5.1",
-    "lunr": "^2.3.6",
+    "jquery": "^3.6.0",
+    "lunr": "^2.3.9",
     "uswds": "^1.6.13",
     "waypoints": "^4.0.1"
   }
