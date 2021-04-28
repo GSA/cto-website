@@ -3,12 +3,11 @@
   time: 11-11:30a ET
   location:
   description: >
-    De-risking Guide.</p> 
-    Guidance for delivering successful custom technology projects in government.</p> 
-    Government software projects fail at an alarmingly high rate.</p>
-    The de-risking guide was written to provide actionable guidance to the public sector for delivering custom technology projects successfully.</p>
-    This research is based on 6 years of consulting with over 100 federal agency programs trying to modernize their information technology, written by 18F’s digital consultants, and was funded by 10x.</p>
-    
+    <p><a href="https://derisking-guide.18f.gov/">De-risking Guide</a>.</p> 
+    <p>Guidance for delivering successful custom technology projects in government.</p> 
+    <p>Government software projects fail at an alarmingly high rate.</p>
+    <p>The de-risking guide was written to provide actionable guidance to the public sector for delivering custom technology projects successfully.</p>
+    <p>This research is based on 6 years of consulting with over 100 federal agency programs trying to modernize their information technology, written by 18F’s digital consultants, and was funded by 10x.</p>
   presenter: Vicki McFadden and Randy Hart
 
 - title: Google Scripts Tech Talk
