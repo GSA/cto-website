@@ -1,3 +1,13 @@
+- title: Data Platforms Tech Talk
+  date: May 19, 2021
+  time: 1-1:30p ET
+  location:
+  description: >
+    The CDO office is working with various GSA stakeholders on a strategy and roadmap for data-related initiatives and investments.</p> 
+    Such GSA wide efforts will among others address data integration across the enterprise, analytics modeling and computing, data governance, and other opportunities that will allow GSA to avoid duplications and use data as a strategic asset.</p> 
+    In this talk, Payman will present the core elements of the data strategy, vision for a GSA-wide data platform, and some of the related work that is already underway.</p>
+  presenter: Payman Sadegh
+
 - title: 10X De-risking Guide Tech Talk
   date: May 11, 2021
   time: 11-11:30a ET
@@ -9,6 +19,7 @@
     <p>The de-risking guide was written to provide actionable guidance to the public sector for delivering custom technology projects successfully.</p>
     <p>This research is based on 6 years of consulting with over 100 federal agency programs trying to modernize their information technology, written by 18F’s digital consultants, and was funded by 10x.</p>
   presenter: Vicki McFadden and Randy Hart
+
 
 - title: Google Scripts Tech Talk
   date: Apr 20, 2021
