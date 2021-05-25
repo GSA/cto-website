@@ -18,7 +18,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "lodash": "^4.17.21",
-    "pa11y-ci": "^2.4.0"
+    "pa11y-ci": "^2.4.1"
   },
   "dependencies": {
     "extend": "^3.0.2",
