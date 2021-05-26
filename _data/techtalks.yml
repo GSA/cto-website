@@ -3,8 +3,8 @@
   time: 1-1:30p ET
   location:
   description: >
-    The CDO office is working with various GSA stakeholders on a strategy and roadmap for data-related initiatives and investments.</p> 
-    Such GSA wide efforts will among others address data integration across the enterprise, analytics modeling and computing, data governance, and other opportunities that will allow GSA to avoid duplications and use data as a strategic asset.</p> 
+    The CDO office is working with various GSA stakeholders on a strategy and roadmap for data-related initiatives and investments.</p>
+    Such GSA wide efforts will among others address data integration across the enterprise, analytics modeling and computing, data governance, and other opportunities that will allow GSA to avoid duplications and use data as a strategic asset.</p>
     In this talk, Payman will present the core elements of the data strategy, vision for a GSA-wide data platform, and some of the related work that is already underway.</p>
   presenter: Payman Sadegh
 
@@ -13,8 +13,8 @@
   time: 11-11:30a ET
   location:
   description: >
-    <p><a href="https://derisking-guide.18f.gov/">De-risking Guide</a>.</p> 
-    <p>Guidance for delivering successful custom technology projects in government.</p> 
+    <p><a href="https://derisking-guide.18f.gov/">De-risking Guide</a>.</p>
+    <p>Guidance for delivering successful custom technology projects in government.</p>
     <p>Government software projects fail at an alarmingly high rate.</p>
     <p>The de-risking guide was written to provide actionable guidance to the public sector for delivering custom technology projects successfully.</p>
     <p>This research is based on 6 years of consulting with over 100 federal agency programs trying to modernize their information technology, written by 18F’s digital consultants, and was funded by 10x.</p>
@@ -27,8 +27,8 @@
   time: 11-11:30a ET
   location:
   description: >
-     Google Apps Script, also know as Google Scripts, is a free programming language mostly based on an earlier version of JavaScript.</p> 
-     It includes built-in libraries for Google Workplace apps, but it's flexible enough to bridge other development platforms, an example being HTML.</p> 
+     Google Apps Script, also know as Google Scripts, is a free programming language mostly based on an earlier version of JavaScript.</p>
+     It includes built-in libraries for Google Workplace apps, but it's flexible enough to bridge other development platforms, an example being HTML.</p>
      This is a free of cost solution and no installation is required since the code editor is web-based.</p>
      Many GSA employees use Google Scripts on a daily basis to enable data automation; in a way, it's our in-house "robotics" solution.</p>.
   presenter: Rolo Sierra
@@ -39,51 +39,51 @@
   time: 1-1:30p ET
   location:
   description: >
-     <p>The Identity Portfolio in GSA's Technology Transformation Services continues to advance best in class identity capabilities within government.</p> 
-     <p>One area of focus is expanding the capabilities the government has today in determining if the user at the keyboard is the same person requesting government services.</p> 
+     <p>The Identity Portfolio in GSA's Technology Transformation Services continues to advance best in class identity capabilities within government.</p>
+     <p>One area of focus is expanding the capabilities the government has today in determining if the user at the keyboard is the same person requesting government services.</p>
      <p>One mechanism under pilot is with Early Warning Services, a company that is owned by multiple financial institutions, where a currently banked customer can attest to their identity through their bank.</p>
      <p>We will talk about what this could mean for government identity verification and answer any questions the group has regarding this potential capability.</p>.
-  presenter: Phillip Lam   
-  
+  presenter: Phillip Lam
+
 - title: FITARA Tech Talk
   date: Mar 17, 2021
   time: 11-11:30p ET
   location:
   description: >
-     <p>When the Federal Information Technology Act (AKA FITARA) came on the scene in December of 2014, its goal was to eliminate duplication and waste in information technology acquisition for the federal government.</p> 
-     <p>Agencies were challenged not just to SAY what they were doing, but to literally SHOW quarterly how they were doing those things.</p> 
+     <p>When the Federal Information Technology Act (AKA FITARA) came on the scene in December of 2014, its goal was to eliminate duplication and waste in information technology acquisition for the federal government.</p>
+     <p>Agencies were challenged not just to SAY what they were doing, but to literally SHOW quarterly how they were doing those things.</p>
      <p>GSA's been leading the way as the highest ranked agency for FITARA for several years now.</p>
      <p>Come see how, and how FITARA impacts your day to day work in ways you might not have realized!</p>.
   presenter: Monica Fitzgerald and Mary Brockenborough
 
-- title: 10X Ideas/Projects 
+- title: 10X Ideas/Projects
   date: Feb 25, 2021
   time: 1-1:30p ET
   location:
   description: >
-     <p>The 10x program crowdsources ideas from federal employees all across the government and turns them into technology projects that improve the public's experience with government.</p> 
-     <p>10x will be funding new projects in April, which means now is a good time to submit your ideas.</p> 
+     <p>The 10x program crowdsources ideas from federal employees all across the government and turns them into technology projects that improve the public's experience with government.</p>
+     <p>10x will be funding new projects in April, which means now is a good time to submit your ideas.</p>
      <p>At this tech talk, Will Cahoe will give a brief overview of how 10x works, discuss the specific topic areas that 10x wants ideas around, and give some advice for writing excellent submissions.</p>
   presenter: Nico Papafil and William Cahoe
   slides: /assets/downloads/techtalks/10xFY21RoadshowGSAITTechTalk.pdf
 
-- title: Leveraging DevOps for AI Adoption  
+- title: Leveraging DevOps for AI Adoption
   date: Jan 21, 2021
   time: 11-11:30a ET
   location:
   description: >
-     <p>Introduction to what MLOps and AIOps are and why they are important to drive AI adoption</p>    
+     <p>Introduction to what MLOps and AIOps are and why they are important to drive AI adoption</p>
      <p>As the government looks towards AI as an enabling technology to inform decision making and drive mission outcomes, it is important to understand how AI fits into the existing IT framework. </p>
      <p>Given the nature of AI development, understanding how it fits with agile methodologies and DevOps is critical for successful adoption</p>
-   
+
   presenter: Krista Kinnard and Joseph Raetano
-  
+
 - title: 10K Devops for Privacy Offices Tech Talk
   date: Jan 7, 2021
   time: 1-1:30p ET
   location:
   description: >
-     <p>Building Tools to Help Privacy Officers Better Protect Personal Information</p>    
+     <p>Building Tools to Help Privacy Officers Better Protect Personal Information</p>
      <p>Protecting the privacy of Americans is an essential function of our government and every agency has dedicated professionals who ensure that their agency is responsible for collecting and maintaining private information in its systems.</p>
      <p>The problem is that many of these folks, called privacy officers, are not equipped with modern tools and many rely on paper-based processes to do their important work. This is a problem that seemed ripe for 10x investigation.</p>
      <p>Over four phases of research and engineering, all while working closely with privacy offices across government, 10x has been able to address this gap by building a custom dashboard that allows privacy officers to do their jobs more quickly and more efficiently by quickly locating over 5,884 records based on the types of private information that is held in systems across government.     </p>
@@ -95,12 +95,12 @@
   time: 1-1:30p ET
   location:
   description: >
-     <p>The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.  </p>  
+     <p>The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.  </p>
      <p>We asked teams to use Artificial Intelligence and Machine Learning (AI/ML) to improve the process of reviewing End User License Agreements (EULAs).</p>
      <p>The challenge received 20 submissions from individuals, companies, and students.</p>
      <p>Ryan Day of the OCTO will share what we learned about the technology and data science methods from these solvers.</p>
   presenter: Ryan Day
-  slides: /AI_MLTechTalk12_9_2020Public.pdf
+  slides: /assets/downloads/techtalks/AI_MLTechTalk12_9_2020Public.pdf
 
 - title: Deep Analytics Tech Talk
   date: Nov 18, 2020
@@ -112,7 +112,7 @@
      <p>This calls for deep analytics and entails a number of architectural approaches one should consider when designing and modernizing the IT systems.</p>
   presenter: Edward Meyman, Dept of Labor
   slides: /assets/downloads/techtalks/DEEP ANALYTICS1.pdf
-  
+
 
 - title: Challenge.gov Tech Talk
   date: Nov 5, 2020
@@ -151,7 +151,7 @@
   location:
   description: >
      <p> The self-service portal recently got a makeover and we'd like to show you these cool features!</p>
-     <p> Curie: The new name for Virtual Agent, honoring the innovative Marie Curie. </p> 
+     <p> Curie: The new name for Virtual Agent, honoring the innovative Marie Curie. </p>
      <p> My Workbench:  See your tickets, approval requests, and assigned equipment all in one place </p>
      <p> Supervisor's Workbench: See your approval requests and your employees' tickets and assigned equipment all in one place </p>
      <p> Favorites: Save your favorite articles and requests for easy access </p>
@@ -164,10 +164,10 @@
   location:
   description: >
      <p>Different teams communicate in different ways.  There's no one-size-fits-all solution that meets the needs of every business and operational need. </p>
-     <p>So how are folks supposed to know what's best for their activity?  GSA IT's service catalog includes a robust offering of Communications and Collaboration tools. </p> 
+     <p>So how are folks supposed to know what's best for their activity?  GSA IT's service catalog includes a robust offering of Communications and Collaboration tools. </p>
      <p>This Tech Talk provides a high level overview of the current offerings as well as touches on things to consider when determining what's best for your team. </p>
   presenter: Sean Zerges and Paul Powell
-  slides: /assets/downloads/techtalks/GSAITTechTalk_CollabTools.pdf 
+  slides: /assets/downloads/techtalks/GSAITTechTalk_CollabTools.pdf
 
 - title: Professional Development for IT Professionals Tech Talk
   date: September 1, 2020
@@ -175,7 +175,7 @@
   location:
   description: >
      <p>Some people have ten years of experience, and other people have one year of experience ten times.</p>
-     <p> Are you intentional in your development as an IT Professional, or is your career simply happening to you? Rachel Surick and Ryan Day will share some strategies for Professional Development for IT Pros.</p> 
+     <p> Are you intentional in your development as an IT Professional, or is your career simply happening to you? Rachel Surick and Ryan Day will share some strategies for Professional Development for IT Pros.</p>
      <p> Learn about the new Cyber Career Pathways Tool, Intentional Development, Personal Branding, and becoming a T-Shaped Person.</p>
   presenter: Rachel Surick and Ryan Day
   slides:
@@ -190,8 +190,8 @@
      <p>Teleworking has created the need for "Virtual Faxing" and GSA employees can now send and receive faxes from their laptops. Physical fax machines are becoming a thing of the past.</p>
      <p>The combination of FOIP and Gmail has allowed GSA users to now send and receive faxes. Faxing has always been a low cost portal for communication between GSA and its Faxing trading partners.</p>
   presenter: Christine Palko
-  slides: 
-  
+  slides:
+
 - title: 10x Tech Talk
   date: June 25, 2020
   time: 1-130p
@@ -211,7 +211,7 @@
   location:
   description: >
       <p>DocuSign Federal, GSA’s new digital signature solution went live on October 1, 2019.</p>
-      <p>DocuSign is an intuitive, 508-compliant option that is sure to improve your overall user experience. This digital signature solution offers a robust menu and more drag-and-drop options making it easier than ever to sign and send your documents.</p> 
+      <p>DocuSign is an intuitive, 508-compliant option that is sure to improve your overall user experience. This digital signature solution offers a robust menu and more drag-and-drop options making it easier than ever to sign and send your documents.</p>
       <p>DSS also offers several APIs options which we are going to review during this Tech Talk.</p>
   presenter: Sudhathi Suthrave
   slides:
@@ -222,7 +222,7 @@
   location:
   description: >
       <p>Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</p>
-      <p>Introduced in 2017, it is a growing platform that helps ease cross-platform application development.</p> 
+      <p>Introduced in 2017, it is a growing platform that helps ease cross-platform application development.</p>
       <p>It has brought a large number of noteworthy changes to the procedure of application development, which we are going to review during this Tech Talk.</p>
   presenter: Brian Miguel
   slides:
@@ -233,10 +233,10 @@
   location:
   description: >
       <p>The Federal Assessment and Authorization (A&A) process and the requirements to achieve an Authorization to Operate (ATO) can seem so complicated.<p>
-      <p>Join Bo Berlas, GSA's Chief Information Security Officer, to make sense of it all and review GSA's Agile and risk-based approaches to ATO.</p> 
+      <p>Join Bo Berlas, GSA's Chief Information Security Officer, to make sense of it all and review GSA's Agile and risk-based approaches to ATO.</p>
   presenter: Bo Berlas
   slides:
-  
+
 - title: IDT Reorg Tech Talk
   date: April 30, 2020
   time: 1-130p
@@ -244,9 +244,9 @@
   description: >
       <p>The GSA IT Office of Digital Infrastructure Technologies (IDT), formerly the GSA IT Office of Infrastructure and Operations (IDI), is in the process of reorganizing in order to shift from project-based stovepipes into product-based plan|build|run or intake|broker|integrate|orchestrate teams.<p>
       <p>The strategic value of this new business model lies in leveraging existing technology, resources and vendor relationships in a new utility service environment, while improving access and quality of services to clients, and reducing costs of delivery.<p>
-      <p>This Tech Talk will drill down into what Digital Transformation means to IDT, what benefits and changes customers can expect, and the activities IDT is initiating in order to innovate IT for tomorrow.</p> 
+      <p>This Tech Talk will drill down into what Digital Transformation means to IDT, what benefits and changes customers can expect, and the activities IDT is initiating in order to innovate IT for tomorrow.</p>
   presenter: Brian Muolo
-  slides: 
+  slides:
 
 - title: HSPD-12 vs. GACA Tech Talk
   date: April 22, 2020
@@ -256,7 +256,7 @@
       <p>As GSA IT has expanded IT tools offerings and options for external access, questions have arisen about when HSPD-12 is required for vendors, and what alternate methods or mechanisms (e.g. GACA) can be used to share information? What are approved NIST 800-63 B Multi-Factor Authentication (MFA) methods to be used for vendors and/or federal customers?<p>
       <p>Join us for the upcoming Tech Talk for a Q&A session on this topic with Phil Klokis, Associate CIO for the Public Buildings IT Services, and Bo Berlas, the GSA Chief Information Security Officer</p>
   presenter: Phil Klokis and Bo Berlas
-  slides: 
+  slides:
 
 - title: Technology Modernization Fund (TMF) at GSA Tech Talk
   date: March 31, 2020
