@@ -1,3 +1,13 @@
+- title: GraphQL Tech Talk
+  date: July 15, 2021
+  time: 11-11:30a ET
+  location:
+  description: >
+    <p>GraphQL is a query language for your API, and a server-side runtime for executing queries.</p>
+    <p>This tech talk will be an introduction to GraphQL, which will include core concepts like GraphQL Schema, Queries and Mutation.</p> 
+    <p>We will also look at how GraphQL compares to other API technologies and finally touch up on how GraphQL fits into microservices architecture.</p>
+  presenter: Judewin Gabriel
+
 - title: Robotic Process Automation (RPA) Tech Talk
   date: June 24, 2021
   time: 1-1:30p ET
