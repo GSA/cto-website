@@ -3,12 +3,11 @@ title: Onboarding
 category: Team
 ---
 
-
 New CTO team members will want to consider the following when onboarding:
 
-| Task   | Description  |
-|---------------|----------------|
-| Attend GSA Orientation   |   This is scheduled by your HR contact.  
+| Task | Description |
+|-|-|
+| Attend GSA Orientation   |   This is scheduled by your HR contact.
 | Receive your laptop, badge, and phone  |   You'll receive these at orientation if attending in person.
 | Change your ENT (enterprise) password | This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive. You'll receive instructions via email.
 | Login in to your email| GSA uses Gmail to send and receive email. Access this at [email.gsa.gov](http://email.gsa.gov/).

@@ -3,44 +3,44 @@ title: Tech Talks
 permalink: /techtalks/
 ---
 
-<br>
-<div class="usa-grid usa-width-one-fourth">
-  <h1>Tech<br>&nbsp;&nbsp;&nbsp;Talks</h1>
-</div>
+<h1>Tech Talks</h1>
 
-  <p>The GSA CTO team hosts in-depth Tech Talks.  This is where GSA IT presenters discuss technology topics affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&amp;A.</p>
+<p>The GSA CTO team hosts in-depth Tech Talks. This is where GSA IT presenters discuss technology topics affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&A.</p>
 
-  <p>Register for upcoming events here and enjoy content from past events.  You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.</p>
+<p>Register for upcoming events here and enjoy content from past events. You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.</p>
 
-  <p>For questions about the content of the Tech Talks not publicly available, please contact the GSA CTO team at <a href="mailto:cto@gsa.gov">cto@gsa.gov</a>.</p>
+<p>For questions about the content of the Tech Talks not publicly available, please contact the GSA CTO team at <a href="mailto:cto@gsa.gov">cto@gsa.gov</a>.</p>
 
-  <br><hr><br>
-
-<div class="usa-grid">
-    <div class="usa-width-one-whole">
-        {% for event in site.data.techtalks %}
-
-          <article class="card">
-              <header>
-                  <h3 class="title">{{ event.title }}</h3>
-                  <p class="date">{{ event.date }}, {{event.time }}</p>
-              </header>
-              <div class="content">
-                  <h3>Objective</h3>
-                  <div class="txt">
-                      {{ event.description }}
-                  </div>
-                  {% if event.location %}<p class="location">{{ event.location }}</p>{% endif %}
-                  <h3>Who</h3>
-                  <p>{{ event.presenter }}</p>
-                  {% if event.register %}<a class="usa-button usa-button-outline" href="{{ event.register }}">Register</a>{% endif %}
-                  {% if event.slides %}<a class="usa-button usa-button-outline" href="{{ event.slides | prepend: site.baseurl }}">Slides</a>{% endif %}
-                  {% if event.recording %}<a class="usa-button usa-button-outline" href="{{ event.recording | prepend: site.baseurl }}">Recording</a>{% endif %}
-              </div>
-              <footer class="usa-card-footer">
-              </footer>
-          </article>
-
-        {% endfor %}
-    </div>
-  </div>
+<ul class="usa-card-group">
+  {% for event in site.data.techtalks %}
+    <li class="tablet:grid-col-12 usa-card">
+      <div class="usa-card__container">
+        <header class="usa-card__header">
+          <h2 class="usa-card__heading">{{ event.title }}</h2>
+          <p>{{ event.date }}, {{event.time }}</p>
+        </header>
+        <div class="usa-card__body">
+          <h3>Objective</h3>
+          {{ event.description }}
+          {% if event.location %}
+            <h3>Location</h3>
+            <p>{{ event.location }}</p>
+          {% endif %}
+          <h3>Who</h3>
+          <p>{{ event.presenter }}</p>
+        </div>
+        <div class="usa-card__footer">
+          {% if event.register %}
+            <a class="usa-button" href="{{ event.register }}">Register</a>
+          {% endif %}
+          {% if event.slides %}
+            <a class="usa-button" href="{{ event.slides | relative_url }}">Slides</a>
+          {% endif %}
+          {% if event.recording %}
+            <a class="usa-button" href="{{ event.recording | relative_url }}">Recording</a>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

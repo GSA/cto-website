@@ -1,36 +1,104 @@
-<footer class="usa-footer">
-  <div class="usa-grid">
-    <nav>
-      <div class="usa-width-one-fourth">
-        <h3>Office of the CTO</h3>
-        <ul class="usa-unstyled-list">
-          <li><a href="{{ '/about/' | prepend: site.baseurl }}">About us</a></li>
-          <li><a href="{{ '/team/' | prepend: site.baseurl }}">The team</a></li>
-          <li><a href="{{ '/vision/' | prepend: site.baseurl }}">CTO vision</a></li>
-        </ul>
+<footer class="usa-footer usa-footer--big">
+  <div class="grid-container usa-footer__return-to-top">
+    <a href="#">Return to top</a>
+  </div>
+  <div class="usa-footer__primary-section">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="tablet:grid-col-12">
+          <nav class="usa-footer__nav" aria-label="Footer navigation">
+            <div class="grid-row grid-gap-4">
+              <div class="mobile-lg:grid-col-6 desktop:grid-col-3">
+                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+                  <h4 class="usa-footer__primary-link">Office of the CTO</h4>
+                  <ul class="usa-list usa-list--unstyled">
+                    <li class="usa-footer__secondary-link"><a href="{{ '/about/' | prepend: site.baseurl }}">About us</a></li>
+                    <li class="usa-footer__secondary-link"><a href="{{ '/team/' | prepend: site.baseurl }}">The team</a></li>
+                    <li class="usa-footer__secondary-link"><a href="{{ '/vision/' | prepend: site.baseurl }}">CTO vision</a></li>
+                  </ul>
+                </section>
+              </div>
+              <div class="mobile-lg:grid-col-6 desktop:grid-col-3">
+                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+                  <h4 class="usa-footer__primary-link">Open Source</h4>
+                  <ul class="usa-list usa-list--unstyled">
+                    <li class="usa-footer__secondary-link"><a href="https://open.gsa.gov/">GSA Open Technology</a></li>
+                    <li class="usa-footer__secondary-link"><a href="https://github.com/GSA/cto-website#contributing">Tech at GSA source code</a></li>
+                  </ul>
+                </section>
+              </div>
+              <div class="mobile-lg:grid-col-6 desktop:grid-col-3">
+                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+                  <h4 class="usa-footer__primary-link">Contact Us</h4>
+                  <ul class="usa-list usa-list--unstyled">
+                    <li class="usa-footer__secondary-link"><a href="mailto:cto@gsa.gov">Email us</a></li>
+                  </ul>
+                </section>
+              </div>
+              <div class="mobile-lg:grid-col-6 desktop:grid-col-3">
+                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
+                  <h4 class="usa-footer__primary-link">Also of Interest</h4>
+                  <ul class="usa-list usa-list--unstyled">
+                    <li class="usa-footer__secondary-link"><a href="https://www.gsa.gov/technology/government-it-initiatives/digital-strategy">GSA Digital Strategy</a></li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+          </nav>
+        </div>
       </div>
-      <div class="usa-width-one-fourth">
-        <h3>Open Source</h3>
-        <ul class="usa-unstyled-list">
-          <li><a href="http://open.gsa.gov/">GSA Open Technology</a></li>
-          <li><a href="https://github.com/gsa/cto-website#contributing">Fork this site on GitHub</a></li>
-          <!-- <li><a href="https://github.com/gsa/cto-website/issues">Submit feedback</a></li> -->
-        </ul>
-      </div>
-      <div class="usa-width-one-fourth">
-        <h3>Contact Us</h3>
-        <ul class="usa-unstyled-list">
-          <li><a href="{{ '/contact/' | prepend: site.baseurl }}">Email us</a></li>
-        </ul>
-      </div>
-      <div class="usa-width-one-fourth">
-        <h3>Also of Interest</h3>
-        <ul class="usa-unstyled-list">
-          <li><a href="https://www.gsa.gov/technology/government-it-initiatives/digital-strategy">GSA Digital Strategy</a></li>
-          <!-- <li><a href="https://www.gsa.gov/about-us/organization/office-of-the-chief-information-officer/chief-technology-officer/it-standards">GSA IT Standards</a></li>
-          <li><a href="https://www.gsa.gov/about-us/organization/gsa-it">About GSA IT</a></li> -->
-        </ul>
-      </div>
-    </nav>
+    </div>
   </div>
 </footer>
+
+<div class="usa-identifier">
+  <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier,">
+    <div class="usa-identifier__container">
+      <div class="usa-identifier__logos">
+        <a href="javascript:void(0);" class="usa-identifier__logo">
+          <img class="usa-identifier__logo-img" src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="GSA logo" role="img">
+        </a>
+      </div>
+      <div class="usa-identifier__identity" aria-label="Agency description">
+        <p class="usa-identifier__identity-domain">tech.gsa.gov / Office of the CTO</p>
+        <p class="usa-identifier__identity-disclaimer">An official website of the <a href="https://www.gsa.gov/">U.S. General Services Administration</a></p>
+      </div>
+    </div>
+  </section>
+  <nav class="usa-identifier__section usa-identifier__section--required-links" aria-label="Important links,">
+    <div class="usa-identifier__container">
+      <ul class="usa-identifier__required-links-list">
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/about-us" class="usa-identifier__required-link">About GSA</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/website-information/accessibility-aids"
+            class="usa-identifier__required-link">Accessibility support</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/reference/freedom-of-information-act-foia"
+            class="usa-identifier__required-link usa-link">FOIA requests</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/reference/civil-rights-programs/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002"
+            class="usa-identifier__required-link usa-link">No FEAR Act data</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsaig.gov/" class="usa-identifier__required-link usa-link">Office of the Inspector General</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/reference/reports/budget-performance" class="usa-identifier__required-link usa-link">Performance reports</a>
+        </li>
+        <li class="usa-identifier__required-links-item">
+          <a href="https://www.gsa.gov/website-information/website-policies" class="usa-identifier__required-link usa-link">Privacy policy</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <section class="usa-identifier__section usa-identifier__section--usagov" aria-label="U.S. government information and services,">
+    <div class="usa-identifier__container">
+      <div class="usa-identifier__usagov-description">Looking for U.S. government information and services?</div>
+      <a href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
+    </div>
+  </section>
+</div>

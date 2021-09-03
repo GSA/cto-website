@@ -1,40 +1,38 @@
 ---
-title: The Team
+title: The CTO Team
 permalink: /team/
-layout: base
 ---
 
-<div class="usa-grid">
-  <h1>The CTO Team</h1>
-</div>
+<h1>The CTO Team</h1>
 
-<div class="team">
-  {% assign members = site.team | sort: 'lastname' %}
-  {% assign members = members | sort: 'ordering' %}
+{% assign members = site.team | sort_natural: 'lastname' %}
+{% assign members = members | sort: 'ordering' %}
+
+<ul class="team usa-card-group">
   {% for member in members %}
-    {% assign loopstatus = forloop.index | modulo: 4 %}
-    {% if loopstatus == 1 %}<div class="usa-grid">{% endif %}
-      <div class="member usa-width-one-fourth">
-        <a href="{{ member.url | prepend: site.baseurl }}">
-          {% if member.photo %}
-            <img src="{{ site.baseurl }}/assets/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
-          {% else %}
-            <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
-          {% endif %}
-        </a>
-        <div class="member-name">
-          <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
-        </div>
-        {% if member.role %}
-          <div class="member-role">
-            {{ member.role }}
+    <li class="tablet:grid-col-4 usa-card">
+      <div class="usa-card__container">
+        <header class="usa-card__header">
+          <h2 class="usa-card__heading">{{ member.firstname }} {{ member.lastname }}</h2>
+        </header>
+        <div class="usa-card__media">
+          <div class="usa-card__img">
+            {% if member.photo %}
+              <img src="{{ site.baseurl }}/assets/img/team/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+            {% else %}
+              <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+            {% endif %}
           </div>
-        {% endif %}
+        </div>
+        <div class="usa-card__body">
+          {% if member.role %}
+            <div class="member-role">{{ member.role }}</div>
+          {% endif %}
+        </div>
+        <div class="usa-card__footer">
+          <a href="{{ member.url | relative_url }}" class="usa-button">Bio</a>
+        </div>
       </div>
-    {% if loopstatus == 0 %}
-      </div>
-    {% elsif forloop.last %}
-      </div>
-    {% endif %}
+    </li>
   {% endfor %}
-</div>
+</ul>

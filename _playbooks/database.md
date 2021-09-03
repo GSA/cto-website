@@ -12,13 +12,13 @@ This playbook is designed to help you **transform your database technology** and
 * Each play is an **integral** part of database transformation decisions.
 * All these plays in total are essential to the **success** of these decisions.
 * **Note:** GSA will continue to publish updates to the playbook with best practices and lessons learned.
-* GSA will publish an updated case study article/playbook detailing some of the challanges and lesssons learned from the TMF Database Transformation Project. We expect to publish the case study NLT September 2019. Thanks and stay tunned! 
+* GSA will publish an updated case study article/playbook detailing some of the challanges and lesssons learned from the TMF Database Transformation Project. We expect to publish the case study NLT September 2019. Thanks and stay tunned!
 * Last Updated on 8/6/2019
 
 <br>
 <br>
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.png" class="icon">
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship1.png" class="icon icon-center">
 
 ## The Plays...
 
@@ -72,14 +72,14 @@ The portfolio inventory and assessment will provide a **snapshot** of both the c
 * It should include: security, functional health, technical health, strategic alignment, and financial impact of the portfolio.
 * Technological complexity should take into account information types, product-specific implementations, and the architecture of the legacy solution.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/flask.png" class="icon-left">
+<img src="{{ site.baseurl }}/assets/img/playbooks/flask.png" class="icon icon-left">
 
 Examining these topics will provide the **data-driven insight** needed to make **defensible decisions**, **reduce risk**, and **prioritize**.
 
 
 ## Prioritize
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.png" class="icon-left">
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrow.png" class="icon icon-left">
 
 While these are all compelling reasons to transform, the key to a successful database transformation is to **align the business value** with the database **transformation** strategy and **implementation** strategy.
 
@@ -88,7 +88,7 @@ To preserve and structure the business knowledge and functions residing in legac
 
 * Allow users to easily get **actionable** and **unified** information the way they want it, and at the **speed** their business needs it.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/arrowtarget.png" class="icon-right">
+<img src="{{ site.baseurl }}/assets/img/playbooks/arrowtarget.png" class="icon icon-right">
 
 This will improve the overall **efficiency** and **effectiveness** in performing the functions that support mission priorities, and revitalize IT investments.
 
@@ -108,7 +108,7 @@ Your goals might be a combination of:
 * performance
 * modernization
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.png" class="icon-right">
+<img src="{{ site.baseurl }}/assets/img/playbooks/telescope.png" class="icon icon-right">
 
 Set achievable goals that move you towards your priorities. Focus on a **few core goals** and define them.
 
@@ -122,7 +122,7 @@ Once you define your goals it’s important to establish well thought out **metr
 
 * IT modernization architecture should include **defined performance measures** and **outcomes** that support your organization’s objectives.
 
-Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation. Be sure you capture a valid baseline of performance and network typology that can be used to compare the perfomance of the to-be architecture.  
+Clear goals and metrics will enable you to establish the **project scope** and **roadmap** of your database transformation. Be sure you capture a valid baseline of performance and network typology that can be used to compare the perfomance of the to-be architecture.
 
 
 ## Pilot Solutions
@@ -144,7 +144,7 @@ Database transformations allow you to transform to more **modular systems**:
 In implementing a database transformation, you should **start small and scale fast**. Use an **agile approach** to reduce **risk** and drive **quality**.
 Deliver modernized components **incrementally**, transforming the bare minimum necessary to:
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.png" class="icon-right">
+<img src="{{ site.baseurl }}/assets/img/playbooks/scooter.png" class="icon icon-right">
 
 * **deploy** faster, obtain **feedback** from users, create technical architecture **validation**.
 
@@ -171,7 +171,7 @@ A database is an intricate part of an application. As such, changing the databas
 
 * For example, there may be **refactoring** and/or **re-engineering** of your system’s backend.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.png" class="icon-left">
+<img src="{{ site.baseurl }}/assets/img/playbooks/building blocks.png" class="icon icon-left">
 
 To make the most informed decision when selecting a database technology, you should know what your **database criteria **are.
 
@@ -214,7 +214,7 @@ To this end, consider **open-source** database technologies to “**future proof
 Open-source databases are more **modular**, promote **open standards** and **APIs**, and extend **foundational elements** essential to:
 * **Avoiding** a one-size-fits-all feature set
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.png" class="icon-right">
+<img src="{{ site.baseurl }}/assets/img/playbooks/puzzle.png" class="icon icon-right">
 
 * **Shifting** from low-value work to **high-value** work
 * **Robustness** of code
@@ -236,7 +236,7 @@ Leverage the phased approach below in executing incremental funding and incremen
 * _**Phase 2/ Pilot:**_
 
   * Pilot a database technology with **pilot candidates** to uncover legacy technology obstacles, increase confidence, and gain user buy-in.
-  <img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.png" class="icon-right">
+  <img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.png" class="icon icon-right">
   * Evaluate the success of your pilot based on the goals and metrics you established.
   * Report out on what strategies worked and what experiments failed
 
@@ -251,7 +251,7 @@ Leverage the phased approach below in executing incremental funding and incremen
 
 <br>
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.png" class="icon">
+<img src="{{ site.baseurl }}/assets/img/playbooks/spaceship2.png" class="icon icon-center">
 
 ## Database Modernization Case Study
 
@@ -271,9 +271,9 @@ When GSA’s Identity and Access Management System reached the end of its lifecy
 
 ## Case Study Update
 
-GSA is wrapping up the Pilot phase of a project where we are partnering with the TMF to modernize our application and database infrastructure: <a href="https://tmf.cio.gov/projects/#application-modernization-integrating-flexible-architectures">Application Modernization Integrating Flexible Architectures</a>. Please refer to the link for the details and goals of the project. 
+GSA is wrapping up the Pilot phase of a project where we are partnering with the TMF to modernize our application and database infrastructure: <a href="https://tmf.cio.gov/projects/#application-modernization-integrating-flexible-architectures">Application Modernization Integrating Flexible Architectures</a>. Please refer to the link for the details and goals of the project.
 
-We are  updating the playbook based on our experience from this project to ensure we are providing teams with lessons learned and best practices.  The team will host retrospectives later this month (August 2019) once we closeout Pilot Phase deliverables. Thanks and stay tuned! 
+We are  updating the playbook based on our experience from this project to ensure we are providing teams with lessons learned and best practices.  The team will host retrospectives later this month (August 2019) once we closeout Pilot Phase deliverables. Thanks and stay tuned!
 
 <br>
 <br>

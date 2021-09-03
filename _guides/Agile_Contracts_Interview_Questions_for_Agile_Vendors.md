@@ -5,16 +5,13 @@ audiences:
   - Project Managers
 ---
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-</style>
-
 This content provides scenarios and questions that are intended to guide the the government representative during  the interview and evaluation phase where a vendor representative has been shortlisted and is being considered for an Agile delivery RFI or RFP. These sample questions can be used to assess the overall experience, competency and compatibility of a vendor or contractor for Agile product development or project management  engagements. Please refer to the *“Agile Roles: Interview Questions”* guide for interview questions for evaluating candidates being considered for specific roles in agile methodologies (e.g. Scrum Master, Solutions Architect, etc.).
 
-**1. Product Development: Scope and Changing Requirements**
+{::nomarkdown}
+<div class="accordionmatic">
+{:/}
+
+### Product Development: Scope and Changing Requirements
 
 |**Interview Questions** | **Agile Response Samples**
 |---------------|---------------|
@@ -22,7 +19,7 @@ This content provides scenarios and questions that are intended to guide the the
 |What is your process for seeking, capturing and managing customer feedback and requirement changes during product development? | Engages with customer representatives on an ongoing basis: {::nomarkdown}<ul><li> Plan to implement an agreed process for Change Management with the customer during sprints </li> <li> Recurring product demos or meeting sessions for capturing feedback </li> <li> Ongoing backlog planning and requirement negotiation sessions to work on highest priority work based on scope and product objectives throughout the product development lifecycle (e.g. The priority of not yet implemented functions can be downgraded in favor of new requests that are prioritized more important to achieve the primary objective of the contract). </li></ul> {:/}|
 |Can you provide case studies of Agile projects with similar complexity involving a product? |Shows effectiveness of sprint planning, implementation and release process {::nomarkdown}<ul><li> Sufficient details on a high-level or kick-off (design) sprints before starting on the delivery sprints </li> <li> Dependency identification process </li> <li>Resolution in the sprint planning </li><li> Low number of defects and integration issues during releases </li></ul> {:/}|
 
-**2. Project Management Process and Approaches**
+### Project Management Process and Approaches
 
 |**Interview Questions** | **Agile Response Samples**
 |---------------|---------------|
@@ -33,7 +30,7 @@ This content provides scenarios and questions that are intended to guide the the
 |How do you measure performance and effectiveness? | Framework for capturing product metrics (e.g. effectiveness, quality, sprint / product Burndown/Burnup charts, etc.). {::nomarkdown}<ul><li> What success looks like on similar Agile Projects. Request for examples from specific projects. </li> <li>What kind of reports / dashboards will be generated </li> <li> Sample measures in relation to Story Cycle Time, Velocity, Defect Density, test statistics, etc. </li><li> How customer meetings would be conducted, plain status reports or contain insights and learning from the retrospectives. Request for sample reports to evaluate. </li></ul> {:/}|
 |What approaches do you use for continuous process improvement? |Mechanisms in place for effective retrospectives / Lessons Learned sessions. {::nomarkdown}<ul><li> Measures of velocity to set higher targets for improvements </li> <li> Review work process at the end each sprint and take corrective actions</li></ul> {:/}|
 
-**3. Delivery Process**
+### Delivery Process
 
 |**Interview Questions** | **Agile Response Samples**
 |---------------|---------------|
@@ -42,9 +39,11 @@ This content provides scenarios and questions that are intended to guide the the
 |How do you execute integration communications, testing and release management? | Sufficient engineering checks and balances in place to minimize defects and ensure delivery quality. {::nomarkdown}<ul><li> Approaches for design reviews, code review and unit testing e.g. automation practices </li> <li> Plan for integration testing and / or performance testing for big releases </li><li> Process to ensure test cases and automation scripts are up-to-date </li><li> Support system of experienced designers/architects for ongoing architectural reviews to capture technical requirements </li><li> Communication plan with technical stakeholders </li><li> Agreements on the definition of done for each delivery/product increment </li></ul> {:/}|
 |What are examples of Agile tools and technology you are familiar with? (e.g. software development) | Shows tangible experience with a pool of tools and technologies relevant to the domain in question and support the Agile delivery and development process.  {::nomarkdown}<ul><li> Examples of end-to-end tools used to facilitate projects (e.g. JIRA, Rally, VersionOne, Trello, DevOps tools for continuous delivery, etc.) </li> <li> Examples of experience in IT Architecture and system development using Agile and DevOps development practices </li><li> Example projects and solutions to the cloud, hybrid, or on premise data centers, and employing automated testing </li><li> Security tools and practices needed at the code and user level; request examples the tools used. </li></ul> {:/}|
 
-----
+{::nomarkdown}
+</div> <!-- end accordionmatic -->
+{:/}
 
-**Additional Reading**
+### Additional Reading
 
 * [Finding a Partner to Trust: The Agile RFP](http://www.methodsandtools.com/archive/archive.php?id=84)
 * [Top 20 Scrum Master & Agile Scrum Interview Questions](https://www.simplilearn.com/agile-scrum-master-interview-questions-article)
