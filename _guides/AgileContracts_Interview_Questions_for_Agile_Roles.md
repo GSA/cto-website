@@ -7,26 +7,13 @@ audiences:
   - Project Managers
 ---
 
-{::nomarkdown}
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-</style>
-{:/}
-
 This content provides scenarios and questions that are intended to guide the the government representative during the interview and evaluation phase where a candidate is being considered for an Agile delivery role. These sample questions can be used to evaluate and assess the overall experience, competency and compatibility of a candidate (Federal or contractor) being considered for specific roles in Agile methodologies (e.g. Scrum Master, Product Owner, developer, tester, etc.)
 
 {::nomarkdown}
-<div class="usa-accordion">
-  <ul class="usa-unstyled-list">
-    <li>
-      <button class="usa-accordion-button" aria-expanded="false" aria-controls="question-1">
-        Scrum Master Interview Questions
-      </button>
-      <div id="question-1" class="usa-accordion-content">
+<div class="accordionmatic">
 {:/}
+
+### Scrum Master Interview Questions
 
 The Scrum Master (SM) is responsible for facilitating and maintaining the Scrum process and the overall health of the process and team. The Scrum Master performs this role by administering the Scrum ceremonies, facilitating the organic self-organization of the team, and removing any obstacles that may be impeding the team’s progress.
 
@@ -43,15 +30,7 @@ The Scrum Master (SM) is responsible for facilitating and maintaining the Scrum 
 |What is your experience with reporting and metrics?| {::nomarkdown}<ul><li>Ability to understand and guide leadership in setting relevant metrics that are aligned with the objectives of the product. </li> <li>Basic understanding of Agile Metrics, such as, percentage of tasks completed, percentage of work accepted, Story Cycle Time, Defect Density, code coverage, team velocity, etc.) </li> <li> Ability to explain the difference between a BurnUp and a BurnDown </li> <li> A basic understanding of tools used to develop and deliver such metrics - the use of a scrum board, reporting dashboards and tools (JIRA, VersionOne, etc.) </li></ul> {:/}|
 |How do you help your teams continuously improve and reach their product/sprint goals?| {::nomarkdown}<ul><li>Guiding, facilitating and following up on action-items for removing impediments and dependencies </li> <li> Guiding and facilitating the development and implementation of team working agreements, e.g. acceptance criteria, the definition of of ready and definition of done, etc. </li> <li> Encouraging and facilitating the team to learn Agile development best practices such as Test Driven Development (TDD), pair programming, etc.</li></ul>{:/}|
 
-{::nomarkdown}
-      </div>
-    </li>
-    <li>
-      <button class="usa-accordion-button" aria-controls="question-2">
-        Product Owner Interview Questions
-      </button>
-      <div id="question-2" class="usa-accordion-content">
-{:/}
+### Product Owner Interview Questions
 
 The Scrum Product Owner (PO) is the primary project key stakeholder. The primary role of the product owner is to have a vision of what needs to be built, and convey that vision to the scrum team. The Product Owner is the lead champion of the product and is responsible for ensuring the product creates value for its customers and users as well as the company providing it. The PO does this through the product backlog, which is a prioritized features list for the product.
 
@@ -68,37 +47,22 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 |How do you avoid misallocating resources to features or products that are NOT a priority? |{::nomarkdown}<ul><li> Has an understanding of the Agile/Lean concept of “maximizing the work not done”. I.e. building working increments just enough to deliver a minimum viable product (MVP) and get feedback, keeping design simple, deprioritizing features that do not provide value to the end user, are duplicates or add a lot of cost to the product, etc. </li> <li> Feels comfortable to challenge and say “no” to stakeholder feature requests that are not aligned with overall product goals/objectives, and communicate accordingly.</li></ul>{:/}|
 |What would you say are the most important skills for a PO? |{::nomarkdown}<ul><li> Communication: ability to solicit product objectives, clearly articulate the connections between larger business goals and small backlog items to the team and consistently managing  expectations. </li> <li>  Analysis and prioritization: in-depth understanding of the business and the product for effective prioritization of customer needs, and to maximize the value of the product. </li> <li> Ability to breakdown and split big slices of value into small slices of value</li><li>The ability to challenge stakeholders’ feedback in light of the ultimate product goal</li></ul>{:/}|
 
-{::nomarkdown}
-      </div>
-    </li>
-    <li>
-      <button class="usa-accordion-button" aria-controls="question-3">
-        Developer Interview Questions
-      </button>
-      <div id="question-3" class="usa-accordion-content">
-{:/}
+
+### Developer Interview Questions
 
 |**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
 |How would you say Agile development impacts the programming design and development process?| {::nomarkdown}<ul><li> In Agile environments, there is no single role or person on the team that is in charge of design. The design and development process are intertwined. Developers are also designers and team members alternate between designing, developing and testing throughout the entire development process. </li> <li> Such consolidated development and design reduces errors and improves productivity because developers don’t have to interpret designs or seek clarification from designers before they write the code. </li></ul>{:/}|
 |How long is a typical sprint cycle when you are breaking work down and estimating?| {::nomarkdown}<ul><li> A typical sprint cycle should be 2 - 3 weeks maximum. </li> <li>  Agile requires frequent feedback from project owners, short sprints give the Product Owner and users a chance to make adjustments while giving developers a chance to react throughout the development cycle. </li><li>  Short sprints also give the entire team a chance to fix coding or quality issues early. </li></ul>{:/}|
 |What would you say are the most essential programming best practices within the Agile development frameworks?| An in depth understanding of the nature of Agile development and delivery process such as: {::nomarkdown}<ul><li> Familiarity with various Agile frameworks and the role of developer in each, interfacing with different layers of the development framework </li> <li> Knowledge and understanding of test driven development and continuous integration </li><li>  Setting up the development environments, build automation e.g. unit testing  (tools – NUnit, JUnit ), continuous integration tools, code-smell concepts, refactoring concepts, code coverage concepts and tools, code review concepts  and tools, etc.</li></ul>{:/}|
-|What is your experience writing automated test cases? | {::nomarkdown}<ul><li>  Experience and ability to discuss automated regression testing, continuous integration and testing, performance testing techniques and tools. </li> <li> Understands and is able to articulate the benefits of automated testing, such as, quick identification and isolation of development defects as well as the ability to test development work completed in previous iterations. </li><li>  Addresses the need for manual testing as well as automated testing, understanding and comfortable with the changing nature of the code base in Agile. </li></ul>{:/}| 
-|What is your experience with continuous integration? | Detailed explanation of how continuous integration is used on previous projects{::nomarkdown}<ul><li> Continuous integration is a set of automated builds, integration and test steps that executes against the code base in a configuration management repository. For instance, using Java and CVS repositories setting triggers that automatically built, integrated and unit tested the code often and every time someone checks in new code. </li></ul>{:/}| 
-|How did you manage traceability of the requirements?| {::nomarkdown}<ul><li> Understands code is developed to ultimately deliver business/technical needs and develops code that meets the requirements defined in the story card / use case. </li> <li> Understanding of the need to determine if functions by the developer work in the way the business wanted it to function when developing a testing plan for functionality created by the developer during an iteration. </li><li> Ensures team members understand the importance of this concept and if they understand and accept traceability for the team to meet project goals.</li></ul>{:/}| 
-|How do you handle changing requirements?| {::nomarkdown}<ul><li> Ensures change is flowing through the product owner and is prioritized accordingly.  </li> <li> Doesn’t accept and start working on change outside the team. Understands Team members need to regroup to reevaluate and welcome changes into their development cycle using sprint planning. </li><li> Comfortable with the general idea that requirements can change a lot while design is being refined, and participates in the design process with a problem solver attitude.</li></ul>{:/}| 
-|How do you understand team velocity to measure team capacity?| {::nomarkdown}<ul><li> Team velocity is the rate at which a team is completing or "burning" through story points. For instance, an average velocity of 25 story points per iteration means that so far, the team has been able to identify, code and test 25 units of functionality (story points) in an average iteration and can expect to do about that much in future iterations, all other factors remaining constant.</li></ul>{:/}| 
-|What would you say are the most important skills for an Agile developer?| Technical:{::nomarkdown}<ul><li>  Programming with intention: problem solving and supporting the business and technical needs </li> <li> Design thinking: avoid over and under-design</li><li> Considers testability before writing code</li><li> Succeed with Acceptance Test Driven Development </li><li>  Minimizes complexity and rework</li><li> Knows when and how to use inheritance/legacy </li><li> Continuous learning attitude to developing and delivering standards and best practices (including learning from peers) </li>Behavioral:<li> Communication, collaboration, time management/ planning, problem solving, conflict management, flexibility to changing requirements, decision making, diplomacy </li></ul>{:/}| 
+|What is your experience writing automated test cases? | {::nomarkdown}<ul><li>  Experience and ability to discuss automated regression testing, continuous integration and testing, performance testing techniques and tools. </li> <li> Understands and is able to articulate the benefits of automated testing, such as, quick identification and isolation of development defects as well as the ability to test development work completed in previous iterations. </li><li>  Addresses the need for manual testing as well as automated testing, understanding and comfortable with the changing nature of the code base in Agile. </li></ul>{:/}|
+|What is your experience with continuous integration? | Detailed explanation of how continuous integration is used on previous projects{::nomarkdown}<ul><li> Continuous integration is a set of automated builds, integration and test steps that executes against the code base in a configuration management repository. For instance, using Java and CVS repositories setting triggers that automatically built, integrated and unit tested the code often and every time someone checks in new code. </li></ul>{:/}|
+|How did you manage traceability of the requirements?| {::nomarkdown}<ul><li> Understands code is developed to ultimately deliver business/technical needs and develops code that meets the requirements defined in the story card / use case. </li> <li> Understanding of the need to determine if functions by the developer work in the way the business wanted it to function when developing a testing plan for functionality created by the developer during an iteration. </li><li> Ensures team members understand the importance of this concept and if they understand and accept traceability for the team to meet project goals.</li></ul>{:/}|
+|How do you handle changing requirements?| {::nomarkdown}<ul><li> Ensures change is flowing through the product owner and is prioritized accordingly.  </li> <li> Doesn’t accept and start working on change outside the team. Understands Team members need to regroup to reevaluate and welcome changes into their development cycle using sprint planning. </li><li> Comfortable with the general idea that requirements can change a lot while design is being refined, and participates in the design process with a problem solver attitude.</li></ul>{:/}|
+|How do you understand team velocity to measure team capacity?| {::nomarkdown}<ul><li> Team velocity is the rate at which a team is completing or "burning" through story points. For instance, an average velocity of 25 story points per iteration means that so far, the team has been able to identify, code and test 25 units of functionality (story points) in an average iteration and can expect to do about that much in future iterations, all other factors remaining constant.</li></ul>{:/}|
+|What would you say are the most important skills for an Agile developer?| Technical:{::nomarkdown}<ul><li>  Programming with intention: problem solving and supporting the business and technical needs </li> <li> Design thinking: avoid over and under-design</li><li> Considers testability before writing code</li><li> Succeed with Acceptance Test Driven Development </li><li>  Minimizes complexity and rework</li><li> Knows when and how to use inheritance/legacy </li><li> Continuous learning attitude to developing and delivering standards and best practices (including learning from peers) </li>Behavioral:<li> Communication, collaboration, time management/ planning, problem solving, conflict management, flexibility to changing requirements, decision making, diplomacy </li></ul>{:/}|
 
-{::nomarkdown}
-      </div>
-    </li>
-    <li>
-      <button class="usa-accordion-button" aria-controls="question-4">
-       Tester Interview Questions
-      </button>
-      <div id="question-4" class="usa-accordion-content">
-{:/}
+### Tester Interview Questions
 
 |**Interview Questions**|**Agile Response Samples**|
 |---------------|---------------|
@@ -113,15 +77,11 @@ The Scrum Product Owner (PO) is the primary project key stakeholder. The primary
 |What qualities / attributes should a good Agile tester have?| {::nomarkdown}<ul><li>  Attention to detail, ability to detect and question ambiguity, creativity to help expose hidden bugs and determine all the scenarios that are likely to detect a defect. </li> <li> Seeks to understand the requirements quickly and understand the risk/opportunities around with changing requirements. Seeks to prioritize test work based on such requirements. </li><li> Communication, collaboration, time management/ planning, problem solving, conflict management, flexibility to changing requirements, decision making, diplomacy </li><li> Understanding of Agile concepts and principles, plans to actively participate in daily sprint planning, stand-ups, retrospectives. </li></ul>{:/}|
 
 {::nomarkdown}
-      </div>
-    </li>
-  </ul><!--.usa-unstyled-list-->
-</div><!--.usa-accordion-->
+</div><!-- end accordionmatic -->
 {:/}
 
----------------------------------------------------------------------------------------------
-**Additional Reference**
-* [Scrum Master Interview Questions](http://www.agilelove.com/methodologies/scrum/scrum-master-interview-questions/)
+### Additional Reference
+
 * [42 Scrum Product Owner Interview Questions](https://age-of-product.com/42-scrum-product-owner-interview-questions/)
 * [How to Manage Change Requests](http://www.bridging-the-gap.com/how-to-manage-change-requests/)
 * [7 Skills You Need to Be a Great Product Owner](https://www.scrumalliance.org/agile-resources/7-skills-you-need-to-be-a-great-product-owner)

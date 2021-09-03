@@ -3,8 +3,6 @@ title: U.S. Web Design System
 category: Design
 ---
 
-### What is the U.S. Web Design System?
-
 The [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS)—formerly known as the U.S. Web Design Standards—is a library of design guidelines and code to help government developers and designers quickly create trustworthy, accessible, and consistent digital government services.
 
 Right now, when the American people go online to access government services, they're often met with confusing navigation systems, a cacophony of visual brands and inconsistent interaction patterns. Dedicated federal employees are striving to build helpful digital tools, but our work happens in silos, under unique brands and programs. As a result, we spend a lot of time "reinventing the wheel" - recreating common patterns such as buttons, forms, and search bars - over and over again. At the end of the day, we're creating poor user experiences, and wasting American taxpayer dollars in solving the same problems again and again. So we asked ourselves: **Could we create a shared set of tools to provide consistent, beautiful, and easy-to-use government websites?** Thus the Standards was born.

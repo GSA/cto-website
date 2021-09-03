@@ -5,62 +5,81 @@ bodyClasses: front
 permalink: /
 ---
 
-<header id="front-hero">
-
-  <div class="header-blurb usa-grid">
-    <h1>Modernizing GSA Technology.</h1>
-    <br>
-    <p>{{ site.description }}</p>
+<section class="usa-section hero" aria-label="Introduction">
+  <div class="grid-container">
+    <div class="hero-intro">
+      <h1>Modernizing GSA Technology</h1>
+      <br>
+      <p>{{ site.description }}</p>
+    </div>
   </div>
+</section>
 
-</header>
-
-<div class="usa-grid">
-    <div class="usa-width-one-third vision-elmement">
-    <div class="vision-element-icon">
-            <a href="{{ '/guides/' | prepend: site.baseurl }}"><i class="fa fa-compass icon-see-the-guides" aria-hidden="true"></i></a>
-        </div>
-
-          <div class="usa-media-block__body">
-
-            <h2><a href="{{ '/guides/' | prepend: site.baseurl }}">Guides</a></h2>
-             <p>Our Tech Guides are brief, targeted guidance documents on a variety of topics. They are designed for quick, easy reference.</p>
-
-            <p>
-              <a href="{{ '/guides/' | prepend: site.baseurl }}">See the Guides</a>
-            </p>
+<section class="usa-section">
+  <div class="grid-container">
+    <ul class="usa-card-group">
+      <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+        <div class="usa-card__container">
+          <header class="usa-card__header">
+            <h2 class="usa-card__heading">Guides</h2>
+          </header>
+          <div class="usa-card__media usa-card__media--inset">
+            <div class="usa-card__img">
+              <div class="landing-area-icon">
+                <a href="{% link _pages/guides.html %}"><span class="fas fa-compass landing-area-icon__see-the-guides" aria-hidden="true"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <p>Our Tech Guides are brief, targeted guidance documents on a variety of topics. They are designed for quick, easy reference.</p>
+          </div>
+          <div class="usa-card__footer">
+            <a href="{% link _pages/guides.html %}" class="usa-button">See the Guides</a>
           </div>
         </div>
-    <div class="usa-width-one-third vision-elmement">
-          <div class="vision-element-icon">
-            <a href="{{ '/playbooks/' | prepend: site.baseurl }}"><i class="fa fa-book icon-see-the-playbooks" aria-hidden="true"></i></a>
-        </div>
-          <div class="usa-media-block__body">
+      </li>
 
-            <h2><a href="{{ '/playbooks/' | prepend: site.baseurl }}">Playbooks</a></h2>
-             <p>Our playbooks are comprehensive guides on a technical topic, describing both overarching strategy and tactical approaches.</p>
-
-            <p>
-              <a href="{{ '/playbooks/' | prepend: site.baseurl }}">See the Playbooks</a>
-            </p>
+      <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+        <div class="usa-card__container">
+          <header class="usa-card__header">
+            <h2 class="usa-card__heading">Playbooks</h2>
+          </header>
+          <div class="usa-card__media usa-card__media--inset">
+            <div class="usa-card__img">
+              <div class="landing-area-icon">
+                <a href="{% link _pages/playbooks.html %}"><span class="fas fa-book landing-area-icon__see-the-playbooks" aria-hidden="true"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <p>Our playbooks are comprehensive guides on a technical topic, describing both overarching strategy and tactical approaches.</p>
+          </div>
+          <div class="usa-card__footer">
+            <a href="{% link _pages/playbooks.html %}" class="usa-button">See the Playbooks</a>
           </div>
         </div>
-    <div class="usa-width-one-third vision-elmement">
-          <div class="vision-element-icon">
-            <a href="{{ '/techtalks/' | prepend: site.baseurl }}"><i class="fa fa-tv icon-attend-a-ted-talk" aria-hidden="true"></i></a>
-        </div>
-          <div class="usa-media-block__body">
+      </li>
 
-            <h2><a href="{{ '/techtalks/' | prepend: site.baseurl }}">Tech Talks</a></h2>
-             <p>A couple of times each month, the Office of the CTO hosts live talks on technology topics, presented by experts from across GSA.</p>
-
-            <p>
-              <a href="{{ '/techtalks/' | prepend: site.baseurl }}">Attend a Tech Talk</a>
-            </p>
+      <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+        <div class="usa-card__container">
+          <header class="usa-card__header">
+            <h2 class="usa-card__heading">Tech Talks</h2>
+          </header>
+          <div class="usa-card__media usa-card__media--inset">
+            <div class="usa-card__img">
+              <div class="landing-area-icon">
+                <a href="{% link _pages/techtalks.html %}"><span class="fas fa-tv landing-area-icon__attend-a-tech-talk" aria-hidden="true"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="usa-card__body">
+            <p>A couple of times each month, the Office of the CTO hosts live talks on technology topics, presented by experts from across GSA.</p>
+          </div>
+          <div class="usa-card__footer">
+            <a href="{% link _pages/techtalks.html %}" class="usa-button">Attend a Tech Talk</a>
           </div>
         </div>
-
-
-
-</div>
-<script src="{{ site.baseurl }}/assets/js/home.js"></script>
+      </li>
+    </ul>
+  </div>
+</section>

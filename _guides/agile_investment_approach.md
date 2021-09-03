@@ -11,10 +11,9 @@ audiences:
 
 The goal of this approach is to create a stronger partnership between the Business and IT by [increasing collaboration]({{ site.baseurl }}/guides/Business_and_IT_Collaboration/), providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
-
 <img src="{{ site.baseurl }}/assets/img/guides/agile_investment_roles.png"
   alt="Kanban Board"
-  class="guide-image guide-image-half">
+  class="display-block margin-x-auto maxw-tablet">
 
 
 ### Before we begin...
@@ -28,6 +27,7 @@ The potential Proof of Concept (PoC) must have...
 * With committed Team Members dedicated to the success of the effort and
 * Support needs identified and assigned from the CTO Office
 
+
 ### What do we need to be successful?
 
 The core Scrum Team Members must...
@@ -37,13 +37,14 @@ The core Scrum Team Members must...
 * Encourage strong user engagement for providing feedback and acceptance testing, when applicable.
 * Attend introductory session for basic understanding of Agile and the Scrum methodology
 
+
 ### Understanding Pilot Team Roles
 
 Throughout the pilot phases, the Core Implementation Team leverages the Scrum approach to manage requirements and tasks. The roles include:
 
 <img src="{{ site.baseurl }}/assets/img/guides/scrum-team.jpg"
   alt="Bravent.net Scrum Team"
-  class="guide-image guide-image-half">
+  class="display-block margin-x-auto">
 
 **Scrum Master** serves as facilitator for the Team; enables the Team to self-organize and make changes quickly; manages the agile process for how information is exchanged. The Scrum Master is essentially "The Coach" of the Team.
 
@@ -52,6 +53,7 @@ Throughout the pilot phases, the Core Implementation Team leverages the Scrum ap
 **Scrum Team** is composed of cross-functional Team Members; they negotiate sprint commitments with the Product Owner and set the print goal. Scrum teams have autonomy regarding *how* to reach said commitments; should function in an intensely collaborative fashion; best practice is no more than three to nine members.
 
 **Stakeholders** include the Project Sponsor (i.e. ACIOs); Business Line Owners; key Business Line groups / customers; participate in Sprint Demos; may also provide User Acceptance Testing (UAT) throughout the pilot process.
+
 
 ### Pilot Team Ceremonies
 

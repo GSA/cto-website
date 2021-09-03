@@ -1,0 +1,36 @@
+---
+layout: page
+description: >
+  This layout is used by the individual team member bio pages.
+---
+
+<h1>The CTO Team</h1>
+
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs,,">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a href="{{ '/team' | prepend: site.baseurl }}" class="usa-breadcrumb__link">
+        <span>The CTO Team</span>
+      </a>
+    </li>
+    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+      <span>{{ page.firstname }} {{ page.lastname }}</span>
+    </li>
+  </ol>
+</nav>
+
+<div class="bio grid-row grid-gap">
+  <div class="tablet:grid-col-auto">
+    {% if page.photo %}
+      <img src="{{ site.baseurl }}/assets/img/team/{{ page.photo }}" alt="Photo of {{ page.firstname }} {{ page.lastname }}">
+    {% else %}
+      <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ page.firstname }} {{ page.lastname }} does not have a photo yet">
+    {% endif %}
+  </div>
+  <div class="bio__title tablet:grid-col-fill">
+    <h2>{{ page.firstname }} {{ page.lastname }}</h2>
+    {% if page.role %}<p class="text-bold">{{ page.role }}</p>{% endif %}
+  </div>
+</div>
+
+{{ content }}

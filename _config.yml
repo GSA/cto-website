@@ -5,7 +5,6 @@ title: Tech at GSA
 email: cto@gsa.gov
 description: >
   The GSA Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.
-
 baseurl: ""
 url: "https://tech.gsa.gov"
 markdown: kramdown
@@ -40,23 +39,20 @@ collections:
     output: true
 
 defaults:
-  -
-    values:
+  - values:
       layout: page
-  -
-    scope:
+  - scope:
       type: guides
     values:
       layout: guide
-  -
-    scope:
+  - scope:
       type: playbooks
     values:
       layout: playbook
   - scope:
       type: team
     values:
-      layout: profile
+      layout: bio
   # Exclude assets from sitemap.xml
   - scope:
       path: "assets/**"
@@ -64,9 +60,9 @@ defaults:
       sitemap: false
 
 toc:
-  min_level: 2
-  list_class: usa-sidenav-list
-  sublist_class: usa-sidenav-sub_list
+  list_class: usa-sidenav
+  sublist_class: usa-sidenav__sublist
+  item_class: usa-sidenav__item
 
 forms:
   - type: newsletter

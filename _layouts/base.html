@@ -1,41 +1,12 @@
 ---
 description: >
-  This layout can be used for any page requring access to the full width of the page, unconstrained by a grid.
+  This layout can be used for any page requring access to the full width of the
+  page, unconstrained by a grid.
 ---
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOZOOOOOOOOOOOOOOOOOZOOOOOOOOOOOOOOOO8OOOOOOOOOOOOO
-    OOOOOOOOI...........OOOOOO.........OOOOOOOOOOO.?OOOOOOOOOOOO
-    OOOOOO=.....~OOO:...OOOOO....=OO,..OOOOOOOOOO...OOOOOOOOOOOO
-    OOOOO....ZOOOOOOOOOOOOOO....OOOOOOOOOOOOOOOO.....OOOOOOOOOOO
-    OOOO$...OOOOOOOOOOOOOOOO....OOOOOOOOOOOOOOOO......OOOOOOOOOO
-    OOOO...~OOOOOOOOOOOOOOOOO.....OOOOOOOOOOOOO...O...OOOOOOOOOO
-    OOOO...OOOOOO.......OOOOOO.......OOOOOOOOO...OOO...OOOOOOOOO
-    OOOO...OOOOOO.......OOOOOOOOO......OOOOOOO.OOOOOOO,.OOOOOOOO
-    OOOO....OOOOOOOOO...OOOOOOOOOOOO....OOOOO.. OOOOO...OOOOOOOO
-    OOOOO...OOOOOOOOO...OOOOOOOOOOOO=...OOOO...OOO,OOO...OOOOOOO
-    OOOOO:....OOOOOOO...OOOOOOOOOOOO....OOO..... ....OZ...OOOOOO
-    OOOOOO8.............OOOOO..........OOOO.......OOOOO...:OOOOO
-    OOOOOOOOO...........OOOOO........ZOOOO....~OOOOOOOOO...OOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,10 +19,12 @@ description: >
       <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
     {% endif %}
 
-    <link rel="stylesheet" href="{{ '/assets/vendor/uswds/css/uswds.min.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+    <script src="{{ '/assets/vendor/uswds/js/uswds-init.min.js' | prepend: site.baseurl }}"></script>
+
+    <link rel="stylesheet" href="{{ '/assets/vendor/fontawesome-free/css/all.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/assets/vendor/uswds/css/styles.css' | prepend: site.baseurl }}">
   </head>
-  <body class="{{ page.bodyClasses }}">
+  <body>
 
     {% include header.html %}
 
@@ -65,6 +38,7 @@ description: >
     <script src="{{ '/assets/vendor/uswds/js/uswds.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ '/assets/vendor/waypoints/js/jquery.waypoints.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ site.baseurl }}/assets/js/global.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/accordionomatic.js"></script>
     {% if layout.custom_js %}
       {% for file in layout.custom_js %}
         <script src="{{ site.baseurl }}/assets/js/{{ file }}.js"></script>

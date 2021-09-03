@@ -5,15 +5,15 @@ audiences:
   - Project Managers
 ---
 
-**During the Discovery Phase:**
+### During the Discovery Phase
 
 * Approved 'concept' gains definition
 * High-level analysis leveraging concept/problem definition and business case
 * Specific user-focused and, possibly, technology-focused problems are defined for exploration
-* Strategic direction and platform capabilities, e.g. analysis on strategic direction of IT investment, leveraging existing solutions, etc. 
+* Strategic direction and platform capabilities, e.g. analysis on strategic direction of IT investment, leveraging existing solutions, etc.
 * High-level wireframes, user engagement, interviews, etc.
 
-**Outputs from the Discovery Phase**
+### Outputs from the Discovery Phase
 
 * Problem Statement
 * Completed Proof of Concept (PoC) request form
@@ -38,7 +38,7 @@ audiences:
     * Condition of the data specified? (e.g. format, data size, frequency of capture, current storage)
 
 * Security
-    * PII or Payment Card Information secutiry need determined (e.g. credit card numbers) 
+    * PII or Payment Card Information secutiry need determined (e.g. credit card numbers)
 
 * Environment and Integration
     * Need for integration with other systems identified
