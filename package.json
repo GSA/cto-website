@@ -33,7 +33,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "extend": "^3.0.2",
-    "font-awesome": "^4.7.0",
     "jquery": "^3.6.0",
     "lunr": "^2.3.9",
     "waypoints": "^4.0.1"
