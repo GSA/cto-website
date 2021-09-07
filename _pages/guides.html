@@ -31,6 +31,7 @@ custom_js:
           </div>
           {% endfor %}
         </fieldset>
+        <button type="submit" class="usa-sr-only">Filter</button>
       </form>
     </div>
   </div>
@@ -42,16 +43,16 @@ custom_js:
         <table class="usa-table usa-table--borderless width-full">
           <thead class="usa-sr-only">
             <tr>
-              <th id="guides-table-heading-title" scope="col">Title</th>
-              <th id="guides-table-heading-description" scope="col">Description</th>
+              <th id="guides-table-heading-title-{{ category | slugify }}" scope="col">Title</th>
+              <th id="guides-table-heading-description-{{ category | slugify }}" scope="col">Description</th>
             </tr>
           </thead>
           <tbody>
             {% for guide in site.guides %}
               {% if guide.category == category %}
                 <tr class="guides-table-row">
-                  <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-title"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
-                  <td headers="guides-table-heading-{{ category | slugify }} guides-table-heading-description">{{ guide.description }}</td>
+                  <td headers="guides-table-heading-title-{{ category | slugify }}"><a href="{{ guide.url | prepend: site.baseurl }}">{{ guide.title }}</a></td>
+                  <td headers="guides-table-heading-description-{{ category | slugify }}">{{ guide.description }}</td>
                 </tr>
               {% endif %}
             {% endfor %}
