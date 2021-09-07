@@ -234,7 +234,7 @@ Maintain **control over quality** by combining your iterations with **incrementa
 
 Leverage the phased approach below in executing incremental funding and incremental development.
 
-<img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.png" class="icon icon-right">
+<img src="{{ site.baseurl }}/assets/img/playbooks/astronaut.png" class="icon icon-right" alt="">
 
 * _**Phase 1 / Proof-of-Concept:**_
   * Identify **prototype candidates**, and test various database records to see if a target technology meets your specific needs.
