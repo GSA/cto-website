@@ -14,7 +14,7 @@ commands:
     steps:
       - restore_cache:
           key: cto-website-gems-{{ checksum "Gemfile.lock" }}
-      - run: gem install bundler
+      - run: gem install bundler:2.2.3
       - run: bundle install --path vendor/bundle
       - save_cache:
           key: cto-website-gems-{{ checksum "Gemfile.lock" }}
