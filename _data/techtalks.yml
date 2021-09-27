@@ -1,3 +1,14 @@
+- title: New IT Standards/ Software Review Request (SRR) Tech Talk
+  date: Sept 30, 2021
+  time: 11-11:30a ET
+  location:
+  description: >
+    <p>Introduction of the refreshed Software Review Request within the ServiceNow Self Service Portal, starting officially Oct 1, 2021!</p>
+    <p>The existing intake form and workflow is migrating from Salesforce Request Tracker to ServiceNow.</p>
+    <p>Presentation shall include a demo, overview of the workflow, as well as Accessibility and Security prerequisites.</p>  
+    <p>Please come to this tech talk with any questions/concerns.</p> 
+  presenter: Sean Zerges
+
 - title: IT Systems Architecture in the Future Tech Talk
   date: Sept 15, 2021
   time: 1-1:30p ET
