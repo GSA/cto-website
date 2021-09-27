@@ -12,6 +12,7 @@ commands:
   setup_dependencies:
     description: Install RubyGems and Node modules
     steps:
+      - run: gem install bundler
       - restore_cache:
           key: cto-website-gems-{{ checksum "Gemfile.lock" }}
       - run: bundle install --path vendor/bundle
