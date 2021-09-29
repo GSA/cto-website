@@ -5,8 +5,8 @@
   description: >
     <p>Introduction of the refreshed Software Review Request within the ServiceNow Self Service Portal, starting officially Oct 1, 2021!</p>
     <p>The existing intake form and workflow is migrating from Salesforce Request Tracker to ServiceNow.</p>
-    <p>Presentation shall include a demo, overview of the workflow, as well as Accessibility and Security prerequisites.</p>  
-    <p>Please come to this tech talk with any questions/concerns.</p> 
+    <p>Presentation shall include a demo, overview of the workflow, as well as Accessibility and Security prerequisites.</p>
+    <p>Please come to this tech talk with any questions/concerns.</p>
   presenter: Sean Zerges
 
 - title: IT Systems Architecture in the Future Tech Talk
@@ -19,7 +19,7 @@
     <p>What are the practical considerations for designing robust, future-proof architectures? And is there a specificity for doing so within a Government-based IT organization?</p>
     <p>That’s what we’ll attempt to address.</p>
   presenter: Edward Meyman, Dept of Labor
-  slides: /assets/downloads/techtalks/Architectureofthefuture091521.pdf
+  slides: /assets/downloads/techtalks/ArchitectureoftheFuture09152021.pdf
 
 - title: CUI Tech Talk
   date: Aug 18, 2021
@@ -27,8 +27,8 @@
   location:
   description: >
     <p>Many of us could use a little help in understanding some of the more technical aspects of the new "Controlled Unclassified Information" (CUI) program that GSA implemented July 1st.</p>
-    <p>Would you like to know more about how the new CUI program works, and what makes it different from SBU, FOUO, Confidential, Sensitive, and other markings that were used in the past? Do you need a little clarification understanding all of the different CUI categories and not sure which one to use for your data? 
-    </p> 
+    <p>Would you like to know more about how the new CUI program works, and what makes it different from SBU, FOUO, Confidential, Sensitive, and other markings that were used in the past? Do you need a little clarification understanding all of the different CUI categories and not sure which one to use for your data?
+    </p>
     <p>Our CUI PMO will offer a Tech Talk to help kick-start you in the right direction so you can do your part as a valued GSA employee to help protect our data..</p>
   presenter: Karen Overall and Andy Riordan
   slides: /assets/downloads/techtalks/TechTalkAug182021.pdf
@@ -40,7 +40,7 @@
   location:
   description: >
     <p>GraphQL is a query language for your API, and a server-side runtime for executing queries.</p>
-    <p>This tech talk will be an introduction to GraphQL, which will include core concepts like GraphQL Schema, Queries and Mutation.</p> 
+    <p>This tech talk will be an introduction to GraphQL, which will include core concepts like GraphQL Schema, Queries and Mutation.</p>
     <p>We will also look at how GraphQL compares to other API technologies and finally touch up on how GraphQL fits into microservices architecture.</p>
   presenter: Judewin Gabriel
 
