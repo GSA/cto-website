@@ -28,7 +28,7 @@
     "postcss-csso": "^5.0.1",
     "sass": "^1.39.0",
     "uswds": "^2.12.1",
-    "uswds-gulp": "github:uswds/uswds-gulp"
+    "uswds-gulp": "https://github.com/uswds/uswds-gulp"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
