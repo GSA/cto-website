@@ -121,7 +121,7 @@ These are good references for understanding DevSecOps culture and tools:
 
 * [5 Popular Devops tools every devops should know about](http://www.actoncloud.com/blog/devops-tools/)
 * [9 Open Source DevOps Tools We Love](https://devops.com/9-open-source-devops-tools-love/)
-* [10 Deep DevOps Thoughts From Chef’s Jez Humble](https://blog.newrelic.com/2015/04/28/devops-jez-humble/)
+* [10 Deep DevOps Thoughts From Chef’s Jez Humble](https://newrelic.com/blog/best-practices/devops-jez-humble/)
 * [Agile Vs. DevOps: 10 Ways They're Different](http://www.informationweek.com/devops/agile-vs-devops-10-ways-theyre-different/d/d-id/1326121)
 * [Beyond agile: Reorganizing IT for faster software delivery](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/beyond-agile-reorganizing-it-for-faster-software-delivery)
 * [DevOps.com](https://devops.com/)
