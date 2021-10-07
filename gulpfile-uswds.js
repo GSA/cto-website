@@ -70,7 +70,6 @@ gulp.task("copy-uswds-setup", () => {
 });
 
 gulp.task("copy-uswds-fonts", () => {
-  console.log("Y NOT")
   return gulp.src(`${uswds}/fonts/**/**`).pipe(gulp.dest(`${FONTS_DEST}`));
 });
 
