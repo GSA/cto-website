@@ -1,35 +1,49 @@
 const gulp = require("gulp");
-const _ = require("lodash");
 
-/* CONFIGURE NPM VENDOR ASSETS */
-const assets = {
-  "uswds": {
-    js: ["dist/js/**"],
-    css: ["dist/css/**"],
-    img: ["dist/img/**"],
-    fonts: ["dist/fonts/**"]
+// Include USWDS gulp tasks
+require('./gulpfile-uswds.js');
+
+// Specify assets to copy from node_modules
+const assets = [
+  {
+    module: "lunr",
+    content: {
+      js: ["lunr.js"]
+    }
   },
-  "lunr": {
-    js: ["lunr.js"]
+  {
+    module: "@fortawesome/fontawesome-free",
+    content: {
+      webfonts: ["webfonts/*"],
+      css: ["css/*"]
+    }
   },
-  "font-awesome": {
-    fonts: ["fonts/*"]
+  {
+    module: "jquery",
+    content: {
+      js: ["dist/jquery.min.js"]
+    }
   },
-  "jquery": {
-    js: ["dist/jquery.min.js"]
-  },
-  "waypoints": {
-    js: ["lib/jquery.waypoints.min.js"]
+  {
+    module: "waypoints",
+    content: {
+      js: ["lib/jquery.waypoints.min.js"]
+    }
   }
-};
+];
 
 gulp.task("copy-assets", function (cb) {
-  _.forEach(assets, function (vendorAssets, vendor) {
-    _.forEach(vendorAssets, function (asset, type) {
-      gulp.src("node_modules/" + vendor + "/" + asset).pipe(gulp.dest("assets/vendor/" + vendor + "/" + type));
-    })
+  assets.forEach((asset) => {
+    const name = asset.module.split("/").slice().pop()
+    for (type in asset.content) {
+      const source = `node_modules/${asset.module}/${asset.content[type]}`;
+      const destination = `assets/vendor/${name}/${type}`;
+      console.log(`${source} -> ${destination}`)
+      gulp.src(source).pipe(gulp.dest(destination));
+    }
   });
-  return cb()
+  return cb();
 });
 
+// Note: This overrides the USWDS default gulp task
 gulp.task("default", gulp.series("copy-assets"));

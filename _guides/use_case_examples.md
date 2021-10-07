@@ -13,8 +13,11 @@ In acceptance testing, use cases provide a user (i.e. tester) direction without 
 
 [Download this Sample Use Case Document]({{site.baseurl}}/assets/downloads/DRAFTUseCaseTemplate.xlsx)
 
+
 ### Good Reads
-These are good references for  incorporating Use Cases into user acceptance testing:
+
+These are good references for incorporating Use Cases into user acceptance testing:
+
 * [Use Cases Are User Stories With Acceptance Tests](http://wiki.c2.com/?UseCasesAreUserStoriesWithAcceptanceTests)
 * [What is Use case testing in software testing?](http://istqbexamcertification.com/what-is-use-case-testing-in-software-testing/)
 * [Writing Test Cases from User Stories & Acceptance Criteria](https://blog.testlodge.com/writing-test-cases-from-user-stories-acceptance-criteria/)

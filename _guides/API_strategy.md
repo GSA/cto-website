@@ -11,7 +11,7 @@ audiences:
 
 The following diagram demonstrates the three-pillar approach we are following to implement this strategy:
 
-![API Strategy image displaying the 3 pillars of Implementation]({{ site.baseurl }}/assets/img/API_3_pillars.png "3 Pillars of Implementation")
+![API Strategy image listing the 3 pillars of Implementation: External Customer Experience, Internal Engagement, and Technical Architecture]({{ site.baseurl }}/assets/img/guides/API_3_pillars.png "3 Pillars of Implementation")
 
 ### Pillar 1: External Customer Experience
 
@@ -24,8 +24,5 @@ Building a community of API owners and practitioners inside GSA to develop APIs 
 ### Pillar 3: Technical Architecture
 
 Designing technology solutions for developing and hosting high quality APIs. Creating technical guides to assist teams in implementing APIs that follow the [GSA API Standards](/guides/API_standards).
-
-
-
 
 *Icons by [Font Awesome](https://github.com/FortAwesome/Font-Awesome)*

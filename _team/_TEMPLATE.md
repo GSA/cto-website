@@ -20,8 +20,6 @@ To complete your team profile:
    - photo: Filename of the photo you just added to the /assets/img/team/
      directory (if you don't want a photo, leave blank)
    - role: Your job title or role
-   - group: Your group name within the Office of the CTO (something like
-     Solutions Strategy or Digital Service)
    - email: Your GSA email address
 
 4. Delete all of this instructional text and replace it with a brief biography.

@@ -1,21 +1,34 @@
 ---
 layout: page
-description: "This layout is used for playbooks. Remember to use 'toc: true' in your playbook's front matter."
+description: >
+  This layout is used for playbooks. Remember to use 'toc: true' in your
+  playbook's front matter to automatically create the table of contents.
 custom_js:
   - playbooks
 ---
 
-<div class="usa-width-one-fourth sidebar-sticky">
-  <section>
-    <aside>
-      <h6 class="usa-heading-alt">{{ page.title }}</h6>
-      <nav>
-        {{ content | toc_only }}
-      </nav>
-    </aside>
-  </section>
-</div>
+<h1>GSA Tech Playbooks</h1>
 
-<div class="usa-width-three-fourths">
-  {{ content }}
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs,,">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item">
+      <a class="usa-breadcrumb__link" href="{{ site.baseurl }}/playbooks/">GSA Tech Playbooks</a>
+    </li>
+    <li class="usa-breadcrumb__list-item">
+      {{ page.title }}
+    </li>
+  </ol>
+</nav>
+
+<div class="grid-row grid-gap">
+    <div class="tablet:grid-col-4">
+      <div class="position-sticky top-3 margin-top-3">
+        <nav aria-label="Playbook table of contents">
+          {{ content | toc_only }}
+        </nav>
+      </div>
+    </div>
+  <div class="tablet:grid-col-8">
+    {{ content }}
+  </div>
 </div>

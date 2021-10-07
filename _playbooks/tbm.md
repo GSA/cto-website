@@ -6,7 +6,7 @@ permalink: /playbooks/tbm/
 toc: true
 ---
 
-# Technology Business Management Playbook
+## Technology Business Management Playbook
 
 [Download a PDF version of this playbook]({{ '/assets/downloads/GSA_Education_TBM_Playbook_v6.pdf' | relative_url }})
 
@@ -14,7 +14,7 @@ This playbook is designed to assist federal agencies as they **start Technology 
 
 Each play here is a plan of action or strategy used to move toward a goal or objective. **The 7 plays in this book will improve your chances of beginning a successful TBM implementation.**
 
-## The TBM Basics
+### The TBM Basics
 
 TBM is a **methodology designed to communicate the value of information technology** to agency stakeholders. TBM focuses on **cost transparency, delivering value, identifying the total cost of IT**, and **shaping demand for IT services**.
 
@@ -24,7 +24,7 @@ To gain alignment between IT, finance, and business stakeholders, TBM provides a
 * **IT View:** The middle layer includes a set of IT towers and sub-towers, such as servers, storage, and applications.
 * **Business View:** The taxonomy provides a standard set of application and service categories along with higher-layer business units and business capabilities.
 
-## Why TBM?
+### Why TBM?
 
 TBM is a way to manage IT like a business, support value conversations, maximize the benefit achieved through IT spending, and align with business needs and strategy.
 
@@ -38,7 +38,7 @@ Some key benefits of TBM include:
 * Providing a better understanding and method to communicate the IT budget to customers
 * Supporting Federal efforts to promote cost transparency and improve IT management
 
-## The 7 plays...
+### The 7 plays...
 
 **1) Identify key players and stakeholders**
 
@@ -68,7 +68,7 @@ Now that you have completed the first iteration of your TBM implementation, star
 
 Assess your maturity and identify opportunities to maximize your TBM implementation.
 
-### Play #1 - Identify Key Players and Stakeholders
+#### Play #1 - Identify Key Players and Stakeholders
 
 **An effective TBM program** consists of **business stakeholders**, **financial analysts**, and **IT and acquisition professionals**. Together, this team drives change through collection, analysis, reporting, and an informed review of IT data!
 
@@ -98,7 +98,7 @@ Subject Matter Experts (SME)|Specialized analyst|Provides input and guidance; ex
 >
 > **“Don’t go it alone”**—Instead of redesigning and generating things from scratch, plug into the TBM Community of Practice, use TBM resources, and talk with other agencies about how their TBM implementations are progressing. This will shorten your implementation time.
 
-### Play #2 - Determine Current State
+#### Play #2 - Determine Current State
 
 To understand what the TBM journey will look like for your agency, it’s necessary to know what **data, financial systems, business processes, and models your agency already has available** to support TBM. **Most importantly, no matter your current state, TBM can bring value.**
 
@@ -130,7 +130,7 @@ It is important to get a handle on your agency’s financial system and business
 
 **Models.** What models are your financial, enterprise architecture, governance, CIO, CFO, CAO or CTO using already? For example, service models that are similar to the TBM taxonomy could be leveraged.
 
-### Play #3 - Identify Measurable Desired Outcomes
+#### Play #3 - Identify Measurable Desired Outcomes
 
 **Identify how your agency can deliver** the **right IT services** for the best possible price as you work with stakeholders to **identify priority areas** to focus your TBM efforts.
 
@@ -166,7 +166,7 @@ Comparing the cost of on premise infrastructure versus migrating to the cloud ma
 >
 > **“Don’t try to boil the ocean”**—Implementing TBM is a complex initiative that will take multiple resources. Breaking down the implementation into smaller, more achievable milestones is more manageable.
 
-### Play #4 - Start Aligning Data
+#### Play #4 - Start Aligning Data
 
 Based on your agency’s current state and desired near term outcomes, it’s **time to start working with your data. Starting from the bottom up is recommended** - aligning financial data to cost pools before moving to tower and service mapping. There will be data challenges. Make valid assumptions as you work through the taxonomy and develop a plan to improve this over time.
 
@@ -192,7 +192,7 @@ Assess how well the financial data are aligning to the taxonomy, then work with 
 >
 > **“Use what data you have and keep going”**—Many agencies have data that does not easily translate to TBM or may not be detailed at a useful level, but working with your data will increase understanding of what data you have and will help identify what gaps to address first. Utilize resources available to you - from the TBM Community of Practice and in the public domain. Remember, start with what you have and work to fill the gaps over time!
 
-### Play #5 - Look for Insights
+#### Play #5 - Look for Insights
 
 Where does your data lead you once you start mapping it? **The TBM Implementation Team should review the data** to see how it **provides insights into issues or benefits around** the identified outcomes.
 
@@ -218,7 +218,7 @@ The purpose of TBM is to give decisions makers the data needed to have value-dri
 >
 > **“Consider your approach in stakeholder discussions”**—Consider a top down approach or service delivery approach when talking to business stakeholders as the business tends to think about services they offer versus detailed cost data.
 
-### Play #6 - Rollout and Adoption
+#### Play #6 - Rollout and Adoption
 
 Now that you have completed the first iteration of your TBM implementation, **start integrating TBM principles, data, and value discussions** into meetings and funding reviews.
 
@@ -266,7 +266,7 @@ The TBM team should develop a **communications and change management plan** that
 
 The plans can be updated through the implementation to reflect maturity of the implementation and decisions made by your agency.
 
-### Play #7 - Keep Maturing the TBM Implementation
+#### Play #7 - Keep Maturing the TBM Implementation
 
 Assess your maturity and **identify opportunities to derive greater TBM impact.**
 
@@ -297,7 +297,7 @@ You can also mature your TBM implementation through the following ways:
 
 TBM is a journey. Use this playbook as a guide and be prepared to work through the steps...and re-work through the steps. Utilize other resources - like agencies currently implementing TBM. In addition to the steps laid out in this Playbook, the government-wide TBM Community of Practice has also developed templates to assist agencies with TBM training. Please refer to their MAX page for those resources.
 
-## Appendix - TBM Data
+### Appendix - TBM Data
 
 Data Type|Description|Data Source|Used for
 ---------|-----------|-----------|--------

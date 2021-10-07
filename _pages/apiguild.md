@@ -7,7 +7,7 @@ permalink: /api_guild/
 
 The GSA Application Programming Interface (API) guild is a "birds of a feather" group of API enthusiasts inside GSA. This group is key to the Internal Engagement pillar of the [GSA API Strategy](/guides/API_strategy). This group also assists in the development and maintenance of the [GSA API Standards](/guides/API_standards).
 
-Here is the official description of this group: _The API Guild is organized by the GSA CTO organization to share best practices and lessons learned related to Application Programming Interfaces (APIs). The group welcomes participation from any GSA employee or GSA contractor._
+Here is the official description of this group: _The API Guild is organized by the GSA Cloud Integration Shared Services (CISS) organization to share best practices and lessons learned related to Application Programming Interfaces (APIs). The group welcomes participation from any GSA employee or GSA contractor._
 
 The guild has quarterly virtual meetings, which usually include the following items:
 
@@ -19,6 +19,4 @@ The guild has quarterly virtual meetings, which usually include the following it
   * Performing user testing of APIs
 * Open forum for questions or discussion around APIs
 
-To join this group or attend the quarterly meetings, please contact the CTO team using the contact information at the bottom of this page.
-
-
+If you are a GSA employee or contractor and want to join this group or attend the quarterly meetings, please [contact the CISS team](mailto:api.ciss@gsa.gov).

@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(function () {
   /**
    * @returns {(string|Array)} A list of selected categories from persistence
    */
@@ -56,14 +56,14 @@ $(document).ready(function () {
   function filtersUpdated() {
     var selectedCategories = $(".guides-filter-category:checked").map(function () { return $(this).val(); }).get();
     persistSelectedCategories(selectedCategories);
-    $(".guides-table-row, .guides-table-category-heading").each(function () {
+    $(".guides-section").each(function () {
       var categorySelected = selectedCategories.indexOf($(this).data("category")) !== -1;
       $(this).toggle(categorySelected);
     });
   }
 
   function init() {
-    $(".guides-filter").change(filtersUpdated);
+    $(".guides-filter").on('change', filtersUpdated);
     var selectedCategories = retrieveSelectedCategories();
     if (selectedCategories !== null) {
       $(".guides-filter-category").each(function () {

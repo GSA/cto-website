@@ -1,0 +1,157 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+
+
+//
+// USWDS OVERRIDES
+//
+
+body {
+  font-size: font-size('body', 'md');
+  line-height: line-height('body', 5);
+}
+
+.usa-header {
+  background-color: color('base-darkest');
+}
+
+.usa-logo__text a {
+  font-size: font-size('body', 'xl');
+  font-weight: font-weight('light');
+  color: color('base-lightest');
+}
+
+.usa-nav__link span {
+  color: color('primary-light');
+}
+
+
+//
+// CUSTOM STYLES
+//
+
+// Apply USWDS table style to all tables
+table {
+  @extend .usa-table
+}
+
+// Icons for cards on the front page
+.landing-area-icon {
+  text-align: center;
+
+  span {
+    font-size: 4rem;
+    color: white;
+    vertical-align: middle;
+    border-radius: 5px;
+    width: 100%;
+    padding: 2rem 0;
+  }
+
+  .landing-area-icon__see-the-guides     { background-color: color('green-50'); }
+  .landing-area-icon__see-the-playbooks  { background-color: color('red-60'); }
+  .landing-area-icon__attend-a-tech-talk { background-color: color('gold-30v'); }
+}
+
+// Front page hero image/intro
+.hero {
+  background-color: black;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../../img/hero-bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.75;
+  }
+
+  .hero-intro {
+    position: relative;
+    text-align: center;
+
+    h1 {
+      color: white;
+      font-size: 3em;
+    }
+
+    p {
+      color: white;
+      font-weight: light;
+      text-shadow: 0 0 10px black;
+      font-size: 2em;
+    }
+  }
+}
+
+// Team member list
+.team img {
+  margin: 1rem auto;
+  border: 1px solid color('base-lighter');
+  border-radius: 50%;
+  width: 50%;
+}
+
+// Team member bio
+.bio {
+  img {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid color('base-lighter');
+    border-radius: 50%;
+    width: 200px;
+  }
+}
+.bio__title {
+  text-align: center;
+  @include at-media(tablet) {
+    text-align: inherit;
+  }
+}
+
+// Playbook icons
+.icon {
+  @include u-height(15);
+  display: block;
+
+  &.icon-center {
+    margin: 0 auto;
+  }
+
+  &.icon-right {
+    float: right;
+    @include u-margin-left(1);
+  }
+
+  &.icon-left {
+    float: left;
+    @include u-margin-right(1);
+  }
+}
