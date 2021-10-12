@@ -68,13 +68,11 @@
           <a class="usa-nav__link" href="{{ '/techtalks/' | prepend: site.baseurl }}"><span>Tech Talks</span></a>
         </li>
       </ul>
-      <!--
-      <form class="usa-search usa-search--small" role="search">
+      <form class="usa-search usa-search--small" role="search" action="{{ '/search/' | prepend: site.baseurl }}" method="get">
         <label class="usa-sr-only" for="basic-search-field-small">Search small</label>
         <input class="usa-input" id="basic-search-field-small" type="search" name="search">
         <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
       </form>
-      -->
     </nav>
   </div>
 </header>

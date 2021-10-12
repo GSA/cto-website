@@ -3,19 +3,22 @@ layout: null
 permalink: /pages.json
 ---
 
-{% capture newline %}
-{% endcapture %}
-
-{% assign pages = site.html_pages | concat: site.guides | concat: site.playbooks %}
+{% assign pages = site.html_pages
+    | concat: site.guides
+    | concat: site.playbooks
+    | concat: site.team
+%}
 
 {
   "entries": [
     {% for page in pages %}
       {
         "title": "{{ page.title }}",
+        "collection": "{{ page.collection }}",
+        "categories": "{{ page.categories }}",
         "url": "{{ page.url }}",
-        "body": "{{ page.content | strip_html | escape_once | replace: newline, " " | strip }}"
+        "excerpt": "{{ page.excerpt | strip_html | escape_once | strip_newlines }}"
       }{% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}    
+    {% endfor %}
   ]
 }

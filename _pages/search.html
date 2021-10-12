@@ -5,14 +5,17 @@ permalink: /search/
 
 <h1>Search</h1>
 
-<form class="usa-search" action="{{ site.baseurl }}{{ page.url }}" method="get">
-  <div role="search">
-    <label class="usa-sr-only" for="search-field">Search</label>
-    <input id="search-field" type="search" name="search">
-    <button type="submit">
-      <span class="usa-search-submit-text">Search</span>
-    </button>
-  </div>
+<form class="usa-search" role="search" action="{{ site.baseurl }}{{ page.url }}" method="get">
+  <label class="usa-sr-only" for="search-field-search-field"> Search </label>
+  <input
+    class="usa-input"
+    id="search-field"
+    type="search"
+    name="search"
+  />
+  <button class="usa-button" type="submit">
+    <span class="usa-search__submit-text">Search</span>
+  </button>
 </form>
 
 <div id="search-results"></div>
