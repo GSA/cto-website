@@ -1,4 +1,5 @@
 ---
+title:
 firstname:
 lastname:
 photo:

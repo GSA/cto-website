@@ -1,4 +1,5 @@
 ---
+title: Joseph Novak
 firstname: Joseph
 lastname: Novak
 photo: joseph_novak.jpg

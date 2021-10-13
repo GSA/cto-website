@@ -1,4 +1,5 @@
 ---
+title: Joseph de Rosales
 firstname: Joseph
 lastname: de Rosales
 photo: joseph_derosales.jpg
