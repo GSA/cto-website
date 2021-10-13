@@ -75,7 +75,7 @@
         var path = page.url.replace(/\/$/, '').split('/').join(' › ');
         output += `
           <li>
-            <h3><a href="${page.url}">${page.title}</a></h3>
+            <h3><a href="${baseurl}${page.url}">${page.title}</a></h3>
             <p class="search-results-list__path">${tags} <a href="${page.url}">${path}</a></p>
             <p>${page.excerpt}</p>
           </li>
