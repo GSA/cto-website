@@ -29,6 +29,12 @@ const assets = [
     content: {
       js: ["lib/jquery.waypoints.min.js"]
     }
+  },
+  {
+    module: "mousetrap",
+    content: {
+      js: ["mousetrap.min.js"]
+    }
   }
 ];
 
