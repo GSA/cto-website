@@ -39,17 +39,16 @@
     var lunrIndex = lunr(function () {
       this.ref("id");
       this.field("title", { boost: 10 });
-      this.field("body");
+      this.field("excerpt");
       for (var index in pages) {
         this.add({
           id: index,
           title: pages[index].title,
-          body: pages[index].body
+          excerpt: pages[index].excerpt
         });
       }
     });
     var matches = lunrIndex.search(searchTerm);
-    console.log(matches);
     displayResults(matches, pages);
   }
 
@@ -69,14 +68,18 @@
   function displayResults(matches, pages) {
     var $results = document.getElementById("search-results");
     if (matches.length > 0) {
-      var output = '<ul class="usa-unstyled-list">';
+      var output = '<ul class="usa-list usa-list--unstyled search-results-list">';
       for (var index in matches) {
         var page = pages[matches[index].ref];
-        var pageNote = "";
-        output += '<li>';
-        output += '<h3><a href="' + page.url + '">' + page.title + '</a> ' + pageNote + '</h3>';
-        output += '<p>' + page.body.substring(0, 200) + ' ...</p>';
-        output += '</li>';
+        var tags = page.collection ? `<span class="usa-tag font-body-3xs">${page.collection}</span>` : '';
+        var path = page.url.replace(/\/$/, '').split('/').join(' › ');
+        output += `
+          <li>
+            <h3><a href="${baseurl}${page.url}">${page.title}</a></h3>
+            <p class="search-results-list__path">${tags} <a href="${page.url}">${path}</a></p>
+            <p>${page.excerpt}</p>
+          </li>
+        `;
       }
       output += "</ul>";
       $results.innerHTML = output;

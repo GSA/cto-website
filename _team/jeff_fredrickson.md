@@ -1,4 +1,5 @@
 ---
+title: Jeff Fredrickson
 firstname: Jeff
 lastname: Fredrickson
 photo: jeff_fredrickson.jpg

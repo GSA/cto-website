@@ -1,4 +1,5 @@
 ---
+title: Billy Wales
 firstname: Billy
 lastname: Wales
 photo: billy_wales.jpg
