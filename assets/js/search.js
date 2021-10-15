@@ -40,11 +40,13 @@
       this.ref("id");
       this.field("title", { boost: 10 });
       this.field("excerpt");
+      this.field("fulltext");
       for (var index in pages) {
         this.add({
           id: index,
           title: pages[index].title,
-          excerpt: pages[index].excerpt
+          excerpt: pages[index].excerpt,
+          fulltext: pages[index].fulltext
         });
       }
     });

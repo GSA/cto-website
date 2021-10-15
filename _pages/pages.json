@@ -3,11 +3,10 @@ layout: null
 permalink: /pages.json
 ---
 
-{% assign pages = site.html_pages
-    | concat: site.guides
-    | concat: site.playbooks
-    | concat: site.team
-%}
+{% assign pages = site.html_pages | concat: site.documents %}
+
+{% capture newline %}
+{% endcapture %}
 
 {
   "entries": [
@@ -15,9 +14,10 @@ permalink: /pages.json
       {
         "title": "{{ page.title }}",
         "collection": "{{ page.collection }}",
-        "categories": "{{ page.categories }}",
+        "category": "{{ page.category }}",
         "url": "{{ page.url }}",
-        "excerpt": "{{ page.excerpt | strip_html | escape_once | strip_newlines }}"
+        "excerpt": "{{ page.excerpt | strip_html | escape_once | replace: newline, ' ' }}",
+        "fulltext": "{{ page.content | markdownify | strip_html | escape_once | replace: newline, ' ' }}"
       }{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
   ]
