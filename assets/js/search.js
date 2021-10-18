@@ -15,7 +15,7 @@
         if (xhr.readyState === 4) {
           if (xhr.status === 200) {
             var pagesData = JSON.parse(xhr.responseText);
-            search(pagesData.entries, searchTerm);
+            search(pagesData, searchTerm);
           } else {
             var $results = document.getElementById("search-results");
             var output = '<p>There was an error while searching. Please try again.</p>';
@@ -39,14 +39,14 @@
     var lunrIndex = lunr(function () {
       this.ref("id");
       this.field("title", { boost: 10 });
-      this.field("excerpt");
-      this.field("fulltext");
+      this.field("search_excerpt");
+      this.field("search_text");
       for (var index in pages) {
         this.add({
           id: index,
           title: pages[index].title,
-          excerpt: pages[index].excerpt,
-          fulltext: pages[index].fulltext
+          search_excerpt: pages[index].search_excerpt,
+          search_text: pages[index].search_text
         });
       }
     });
@@ -79,7 +79,7 @@
           <li>
             <h3><a href="${baseurl}${page.url}">${page.title}</a></h3>
             <p class="search-results-list__path">${tags} <a href="${page.url}">${path}</a></p>
-            <p>${page.excerpt}</p>
+            <p>${page.search_excerpt}</p>
           </li>
         `;
       }
