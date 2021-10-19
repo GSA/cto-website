@@ -14,9 +14,11 @@ collections:
     name: techtalk
     folder: _techtalks
     create: true
+    slug: "{{fields.date}}-{{slug}}"
     fields:
       - { label: "Title", name: title, widget: string }
-      - { label: "Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Date", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Time", name: time, widget: string }
       - { label: "Location", name: location, widget: string }
       - { label: "Presenter", name: presenter, widget: string }
       - { label: "Slides", name: slides, required: false, widget: file, media_library: { media_folder: techtalks } }
