@@ -14,4 +14,3 @@ To satisfy them, we must think in terms of AI/ML, RPA, Dynamic BPM etc. But what
 What are the practical considerations for designing robust, future-proof architectures? And is there a specificity for doing so within a Government-based IT organization?
 
 That’s what we’ll attempt to address.
-

@@ -12,4 +12,3 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 Introduced in 2017, it is a growing platform that helps ease cross-platform application development.
 
 It has brought a large number of noteworthy changes to the procedure of application development, which we are going to review during this Tech Talk.
-

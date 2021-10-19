@@ -1,5 +1,5 @@
 ---
-title: Taxonomy  with Angela Pitts
+title: Taxonomy with Angela Pitts
 date: '2018-01-25'
 time: 1p-1:30p
 location: Virtual and 1800F Room 4143

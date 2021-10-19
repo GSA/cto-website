@@ -11,4 +11,3 @@ Many of us use the GSA EA Analytics and Reporting (GEAR) site as a source of ric
 However, any data is only reliable if it is regularly reviewed and updated. For this reason, the Enterprise Architecture team has created the GEAR Manager page, which provides an intuitive interface for users to quickly edit and update their data in GEAR and see these updates on the site in real time.
 
 Please join us in this Tech Talk as the EA team discusses everything about the GEAR Manager page, from requesting access to making your first edits.
-

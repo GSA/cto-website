@@ -21,5 +21,4 @@ We will discuss our 'New Software' request form, talk about why we ask the quest
 
 We want to share with you the steps we must complete, the reviews that are required, and the approvals that must be acquired.
 
-We also want to hear from you, so join us on April 26th and bring your questions
-
+We also want to hear from you, so join us on April 26th and bring your questions.

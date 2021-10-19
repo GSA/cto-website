@@ -12,4 +12,3 @@ Different teams communicate in different ways.  There's no one-size-fits-all sol
 So how are folks supposed to know what's best for their activity?  GSA IT's service catalog includes a robust offering of Communications and Collaboration tools.
 
 This Tech Talk provides a high level overview of the current offerings as well as touches on things to consider when determining what's best for your team.
-

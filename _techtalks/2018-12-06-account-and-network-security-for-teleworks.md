@@ -14,4 +14,3 @@ We'll discuss keeping your networks and accounts safe.
 We will also provide Information on the measures that should be in place as a teleworker.
 
 Join us for some basic home user tips on remaining data aware and keeping the cyber criminals out.
-

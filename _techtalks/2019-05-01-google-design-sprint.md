@@ -14,4 +14,3 @@ Going about this process in a systematic way can be a challenge, it's not every 
 Sprint is a book written by two ex-Googler's who undertook many such challenges when working with clients to transform the way they work.
 
 Sprint focuses on a 5 day, intensive set of sessions to break down issues, center the team on the right problems to solve, and produce prototypes quickly.
-

@@ -16,4 +16,3 @@ Government software projects fail at an alarmingly high rate.
 The de-risking guide was written to provide actionable guidance to the public sector for delivering custom technology projects successfully.
 
 This research is based on 6 years of consulting with over 100 federal agency programs trying to modernize their information technology, written by 18F’s digital consultants, and was funded by 10x.
-

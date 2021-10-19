@@ -12,4 +12,3 @@ Some people have ten years of experience, and other people have one year of expe
 Are you intentional in your development as an IT Professional, or is your career simply happening to you? Rachel Surick and Ryan Day will share some strategies for Professional Development for IT Pros.
 
 Learn about the new Cyber Career Pathways Tool, Intentional Development, Personal Branding, and becoming a T-Shaped Person.
-

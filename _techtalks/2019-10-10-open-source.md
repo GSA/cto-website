@@ -14,4 +14,3 @@ With over 6000 OSS projects made available, Code.gov offers you the opportunity 
 Join Code.gov director, Joe Castle, and lead engineer, Sara Cope, to learn more about Open Source Software, the Federal Source Code Policy, and updates to the Open Source Pilot Program.
 
 This talk will also include a walk-through of the Code.gov platform.
-

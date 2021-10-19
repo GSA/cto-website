@@ -16,4 +16,3 @@ This Tech Talk will provide an overview of their Section 508 testing processes a
 Mark Buchko (GSA IT Section 508 team) will also give an overview of the automated testing tool AMP (Accessibility Management Platform by Level Access) that is available to everyone in GSA.
 
 This is the second tech talk related to the topic of IT Standards.
-

@@ -7,11 +7,10 @@ presenter: Mark Buchko
 register:
 ---
 
-Google Hangouts Closed Captioning and related features Tech Talk
+Google Hangouts Closed Captioning and related features Tech Talk.
 
 Learn how to close caption a video to post to InSite or gsa.gov.
 
 Learn a shortcut using Google Drive and Caption Colorado if distributing via email.
 
-Join us for this informative tech talk
-
+Join us for this informative tech talk.

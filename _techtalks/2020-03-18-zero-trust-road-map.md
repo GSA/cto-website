@@ -13,4 +13,3 @@ The problem with this approach is that once an attacker gains access to the netw
 Zero Trust Network (ZTN) security is an IT security framework that requires strict identity verification for every person and device trying to access resources on a private network, regardless of whether they are sitting within or outside of the network perimeter.
 
 No single specific technology is associated with zero trust; it is a holistic approach to network security that incorporates several different principles and technologies. In this tech talk, we introduce Zero Trust Network and GSA’s roadmap towards this security framework.
-

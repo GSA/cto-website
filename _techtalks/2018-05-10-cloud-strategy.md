@@ -16,4 +16,3 @@ Do you know that GSA will be using SaaS, IaaS and PaaS?
 Navin will explain where we are and where we are heading in this technology frontier.
 
 Come join us for the unveiling of the GSA-IT Cloud Strategy!
-

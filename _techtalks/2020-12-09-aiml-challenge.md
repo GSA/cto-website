@@ -14,4 +14,3 @@ We asked teams to use Artificial Intelligence and Machine Learning (AI/ML) to im
 The challenge received 20 submissions from individuals, companies, and students.
 
 Ryan Day of the OCTO will share what we learned about the technology and data science methods from these solvers.
-

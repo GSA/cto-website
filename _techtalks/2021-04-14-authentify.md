@@ -13,5 +13,3 @@ One area of focus is expanding the capabilities the government has today in dete
 One mechanism under pilot is with Early Warning Services, a company that is owned by multiple financial institutions, where a currently banked customer can attest to their identity through their bank.
 
 We will talk about what this could mean for government identity verification and answer any questions the group has regarding this potential capability.
-
-.

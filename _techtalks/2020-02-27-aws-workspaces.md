@@ -10,5 +10,4 @@ Amazon WorkSpaces enables the provision of virtual, cloud-based Microsoft Window
 
 We can quickly add or remove users as the needs change. Users can access their virtual desktops from multiple devices or web browsers.
 
-Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps
-
+Amazon WorkSpaces provides the flexibility of either monthly or hourly billing for WorkSpaces. For Windows desktops, there's an option to bring your own licenses and applications or purchase them from the AWS Marketplace for Desktop Apps.

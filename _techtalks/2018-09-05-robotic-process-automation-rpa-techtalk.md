@@ -11,11 +11,6 @@ recording:
 
 Robotics Process Automation (RPA) is automation of a manual process that is largely rules based, structured, and repetitive using software robots (bots).
 
-
-
 There are two pilots being conducted at GSA right now.
 
-
-
 Come join us to learn more about this technology and how GSA stood up a working solution for a pilot and learn where we are headed next!
-

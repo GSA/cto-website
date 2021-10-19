@@ -14,4 +14,3 @@ Faxing is still widely used between GSA and its user community. It is, for the m
 Teleworking has created the need for "Virtual Faxing" and GSA employees can now send and receive faxes from their laptops. Physical fax machines are becoming a thing of the past.
 
 The combination of FOIP and Gmail has allowed GSA users to now send and receive faxes. Faxing has always been a low cost portal for communication between GSA and its Faxing trading partners.
-

@@ -9,4 +9,4 @@ slides: "/assets/downloads/techtalks/tech-talk-conducting-an-agile-project.pdf"
 recording:
 ---
 
-Are you looking to increase cross-functional communication and transparency, while better engaging end users and showing  progress more rapidly for your projects or pilots? Depending on the nature of the effort, an Agile approach can help you achieve your goals! Join us as Alicia Cyrus presents the CTO Office recommendations and resources for conducting an Agile project
+Are you looking to increase cross-functional communication and transparency, while better engaging end users and showing  progress more rapidly for your projects or pilots? Depending on the nature of the effort, an Agile approach can help you achieve your goals! Join us as Alicia Cyrus presents the CTO Office recommendations and resources for conducting an Agile project.

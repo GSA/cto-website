@@ -16,4 +16,3 @@ So, what is it, how does it work, and how can you get started with it? Kishore f
 We will talk about “why GRACE?” and compare it with other GSA’s IaaS offerings. We will also briefly touch on “incremental ATO process”, which is being developed in collaboration with the security team to build GRACE platform.
 
 This is another interesting Tech Talk related to the topic of the Cloud!
-

@@ -18,4 +18,3 @@ So that users may preserve any of those older messages for personal reference us
 The Chrome extension saves messages as PDF documents and includes any attachments in their native form.
 
 Without this tool users will have to print each message as PDF and manually combine with any attachments to store outside GSA email system.
-

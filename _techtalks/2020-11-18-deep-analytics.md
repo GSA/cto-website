@@ -12,4 +12,3 @@ We are used to destination analytics; that is, going to some place called “My 
 But how about having the information “jump at you” in the context of your business transaction, adapted to a specific issue you are working on addressing? Just in time when you need it and precisely the way you need it.
 
 This calls for deep analytics and entails a number of architectural approaches one should consider when designing and modernizing the IT systems.
-

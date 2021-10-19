@@ -10,9 +10,6 @@ slides:
 
 This Tech Talk presentation will focus on how the home GSA user can work safely on their computers; both Government Furnished Equipment (GFE) and personally owned computers.
 
-
-
 We will discuss the ways in which you can connect safely to GSA’s network and applications while remaining data aware.
 
 Join us for some basic home user tips to aid you in working safely and keeping the cyber criminals out.
-

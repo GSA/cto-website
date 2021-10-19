@@ -10,4 +10,3 @@ Machine Learning and Artificial Intelligence are terms that have received quite 
 GSA is in the early phases of deploying machine learning to provide business value.
 
 In this tech talk, we will discuss some examples of how machine learning is being used in industry and at GSA.
-

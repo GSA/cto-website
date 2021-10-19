@@ -11,4 +11,3 @@ This talk is an overview of the Historic Building Documentation Resource (HBDR),
 The goal is to offer a simplified solution for management of BPP data and related supporting documents while leveraging the power of the EDMS Alfresco environment.
 
 We will review several of these capabilities today designed in Alfresco for the HBDR interface which contribute to the ease of BPP management and increased productivity for users.
-

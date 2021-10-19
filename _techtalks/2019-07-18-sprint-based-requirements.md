@@ -13,4 +13,3 @@ Provide an overview of Sprint-based Requirements and how the Platform Solutions 
 Sprint-based Requirements allow IT teams to work closely with their customers to collect requirements and create user stories following a typical agile sprint format that run for two weeks with defined business topics and scope to discover during the sprints.
 
 This format ensures that the ICPA team has a proper understanding of how to setup Salesforce standard objects, configure workflows, and setup reports / dashboards based on the needs of the business line.
-

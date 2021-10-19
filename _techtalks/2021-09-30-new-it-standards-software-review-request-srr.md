@@ -13,4 +13,3 @@ The existing intake form and workflow is migrating from Salesforce Request Track
 Presentation shall include a demo, overview of the workflow, as well as Accessibility and Security prerequisites.
 
 Please come to this tech talk with any questions/concerns.
-
