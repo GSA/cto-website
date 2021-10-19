@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: GSA/cto-website
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: main
+
+publish_mode: editorial_workflow
+media_folder: assets/uploads
+
+collections:
+  - label: Tech Talk
+    name: techtalk
+    folder: _techtalks
+    create: true
+    fields:
+      - { label: "Title", name: title, widget: string }
+      - { label: "Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Location", name: location, widget: string }
+      - { label: "Presenter", name: presenter, widget: string }
+      - { label: "Slides", name: slides, required: false, widget: file, media_library: { media_folder: techtalks } }
+      - { label: "Description", name: body, widget: markdown }
