@@ -6,6 +6,7 @@ backend:
   preview_context: federalist/build
   branch: main
 
+logo_url: https://tech.gsa.gov/assets/img/gsa_logo.svg
 publish_mode: editorial_workflow
 media_folder: assets/uploads
 
