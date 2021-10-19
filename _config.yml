@@ -37,6 +37,9 @@ collections:
   playbooks:
     permalink: /playbooks/:title/
     output: true
+  techtalks:
+    permalink: /techtalks/:year-:month-:day-:title/
+    output: true
 
 defaults:
   - values:

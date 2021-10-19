@@ -12,16 +12,16 @@ permalink: /techtalks/
 <p>For questions about the content of the Tech Talks not publicly available, please contact the GSA CTO team at <a href="mailto:cto@gsa.gov">cto@gsa.gov</a>.</p>
 
 <ul class="usa-card-group">
-  {% for event in site.data.techtalks %}
+  {% for event in site.techtalks reversed %}
     <li class="tablet:grid-col-12 usa-card">
       <div class="usa-card__container">
         <header class="usa-card__header">
           <h2 class="usa-card__heading">{{ event.title }}</h2>
-          <p>{{ event.date }}, {{event.time }}</p>
+          <p>{{ event.date | date_to_string: "ordinal", "US" }}, {{ event.time }}</p>
         </header>
         <div class="usa-card__body">
           <h3>Objective</h3>
-          {{ event.description }}
+          {{ event.content | markdownify }}
           {% if event.location %}
             <h3>Location</h3>
             <p>{{ event.location }}</p>
