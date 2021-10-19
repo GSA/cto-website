@@ -14,6 +14,7 @@ collections:
     name: techtalk
     folder: _techtalks
     create: true
+    summary: "{{date}} - {{title}}"
     slug: "{{fields.date}}-{{slug}}"
     fields:
       - { label: "Title", name: title, widget: string }
