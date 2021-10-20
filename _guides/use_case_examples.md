@@ -11,7 +11,7 @@ audiences:
 
 In acceptance testing, use cases provide a user (i.e. tester) direction without leading. Use Cases provide a sequence of steps in business terms, that describe the “happy path” for a specific interaction. Unlike system test cases, the use case interaction is defined in terms of the user, describing the user actions and experience versus the system inputs and outputs. The user compares their experience to the defined Success Criteria, documenting success or failure, along with any results. Results may expose bugs, defects, misspellings, updates to the user interface or process flow, or even new user stories identified.
 
-[Download this Sample Use Case Document]({{site.baseurl}}/assets/downloads/DRAFTUseCaseTemplate.xlsx)
+[Download this Sample Use Case Document]({{site.baseurl}}/assets/files/DRAFTUseCaseTemplate.xlsx)
 
 
 ### Good Reads

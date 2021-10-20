@@ -20,7 +20,7 @@ Moreover, [Interview Questions for Agile Vendors]({{ site.baseurl }}/guides/Agil
 
 ### PERFORMANCE WORK STATEMENT (PWS) TEMPLATE
 
-**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)**
+**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/files/AgileContractsPWSTemplate.docx)**
 
 #### Background
 
@@ -222,7 +222,7 @@ _Sample Language for POP_
 
 [Add specific details applicable here]
 
-**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx)** for additional resources including *pricing templates*
+**[DOWNLOAD PWS Template]({{site.baseurl}}/assets/files/AgileContractsPWSTemplate.docx)** for additional resources including *pricing templates*
 
 **References**
 

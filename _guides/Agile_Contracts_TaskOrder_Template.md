@@ -20,7 +20,7 @@ Moreover, [Interview Questions for Agile Vendors](https://tech.gsa.gov/guides/Ag
 
 ### AGILE BPA TASK ORDER TEMPLATE
 
-**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)**
+**[DOWNLOAD Task Order Template]({{site.baseurl}}/assets/files/AgileContractsTaskOrderTemplate.docx)**
 
 #### Background
 
@@ -65,7 +65,7 @@ _Sample High-level User Scope in User Story Format_
 
 [Add specific roles here]
 
-**[DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Agile Roles and responsibilities**
+**[DOWNLOAD]({{site.baseurl}}/assets/files/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Agile Roles and responsibilities**
 
 #### Tasks
 
@@ -98,7 +98,7 @@ _Sample Tasks Statement_
 
 [Add specific details here]
 
-**Also [DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Contractor deliverables, delivery method examples and timeframes**
+**Also [DOWNLOAD]({{site.baseurl}}/assets/files/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language on Contractor deliverables, delivery method examples and timeframes**
 
 #### Transitions
 
@@ -116,7 +116,7 @@ _Sample Tasks Statement_
 
 ##### Type of Contract
 
-**Also [DOWNLOAD]({{site.baseurl}}/assets/downloads/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language for types of contract language**
+**Also [DOWNLOAD]({{site.baseurl}}/assets/files/AgileContractsPWSTemplate.docx) the Performance Work Statement (PWS) Template for sample language for types of contract language**
 
 ##### Period of Performance (POP)
 
@@ -148,7 +148,7 @@ _Sample Language for POP_
 
 [Add specific details applicable here]
 
-**[DOWNLOAD the Task Order Template]({{site.baseurl}}/assets/downloads/AgileContractsTaskOrderTemplate.docx)** for additional resources including *pricing templates*
+**[DOWNLOAD the Task Order Template]({{site.baseurl}}/assets/files/AgileContractsTaskOrderTemplate.docx)** for additional resources including *pricing templates*
 
 **References**
 
