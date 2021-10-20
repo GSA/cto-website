@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 3334
 presenter: Kishore Kakani
 register:
-slides: "/assets/downloads/techtalks/tech-talk-devsecops--for-d2d Platform.pdf"
+slides: "/assets/files/techtalks/tech-talk-devsecops--for-d2d Platform.pdf"
 recording:
 ---
 

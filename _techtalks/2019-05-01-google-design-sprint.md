@@ -4,7 +4,7 @@ date: '2019-05-01'
 time: 1-1:30p
 location: Virtual and 1800F Rm 4341
 presenter: Mark Vogelgesang
-slides: "/assets/downloads/techtalks/TheSprintBook.pdf"
+slides: "/assets/files/techtalks/TheSprintBook.pdf"
 ---
 
 Identifying the right problem to solve is often overlooked when planning a new project. Problems are often framed as, we need to achieve compliance with "X" rather than our solution should make it easier to comply with "X".

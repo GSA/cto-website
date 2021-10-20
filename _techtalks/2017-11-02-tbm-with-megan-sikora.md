@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 3334
 presenter: Megan Sikora
 register:
-slides: "/assets/downloads/techtalks/GSAITCostTransparencyTechTalkNov2017.pdf"
+slides: "/assets/files/techtalks/GSAITCostTransparencyTechTalkNov2017.pdf"
 recording:
 ---
 

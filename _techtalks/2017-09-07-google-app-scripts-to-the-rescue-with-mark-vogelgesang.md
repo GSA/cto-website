@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 2213
 presenter: Mark Vogelgesang
 register:
-slides: "/assets/downloads/techtalks/tech-talk-google-app-scripts.pdf"
+slides: "/assets/files/techtalks/tech-talk-google-app-scripts.pdf"
 recording:
 ---
 

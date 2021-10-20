@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 4143
 presenter: Angela Pitts
 register:
-slides: "/assets/downloads/techtalks/tech-talk-taxonomy.pdf"
+slides: "/assets/files/techtalks/tech-talk-taxonomy.pdf"
 recording:
 ---
 

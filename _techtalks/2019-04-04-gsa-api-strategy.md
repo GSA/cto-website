@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 6213
 presenter: Ryan Day
 register:
-slides: "/assets/downloads/techtalks/tech-talk-api-strategy-implementation.pdf"
+slides: "/assets/files/techtalks/tech-talk-api-strategy-implementation.pdf"
 ---
 
 Application Programming Interfaces (APIs) are a valuable way to share data with mobile apps, websites, and computer systems. GSA publishes many APIs for use by the public and GSA programs.

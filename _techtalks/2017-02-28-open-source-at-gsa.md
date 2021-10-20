@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Joseph Castle and Jeffrey Fredrickson, Digital Service Team, CTO
 register:
-slides: "/assets/downloads/techtalks/OpenSourceGSA.pdf"
+slides: "/assets/files/techtalks/OpenSourceGSA.pdf"
 recording:
 ---
 

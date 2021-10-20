@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Lulit Tesfaye and Alicia Cyrus, CTO Office
 register:
-slides: "/assets/downloads/techtalks/tech-talk-agile-behavior.pdf"
+slides: "/assets/files/techtalks/tech-talk-agile-behavior.pdf"
 recording:
 ---
 
