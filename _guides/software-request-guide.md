@@ -28,7 +28,7 @@ Resources: [GEAR](https://ea.gsa.gov/#!/itstandards) (GSA internal users only)
 
 You will need several pieces of information, like software purpose, cost, and a download link, to complete a software request. Follow [this checklist](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing){:target="_blank"} to be sure you've gathered all the info you will need.
 
-Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/downloads/software-request-checklist.pdf))
+Resources: Software product checklist - ([Google Sheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1zIyZGdmEuWUeuko7yEaupETz2YGJQpOumHwiUntul64/edit?usp=sharing), [.pdf]({{ site.baseurl }}/assets/files/software-request-checklist.pdf))
 
 
 ### Request

@@ -12,7 +12,7 @@ toc: true
 
 RPA aligns with the President's agenda goals for IT Modernization (shown below).
 
-![Diagram showing the President's Management Agenda for IT Modernization feeding into the GSA Strategic Plan and the CIO Strategic Plan. The President's Management Agenda lists a goal and an opportunity. The goal is "Modernize IT to increase productivity and security". The opportunity is "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens' needs."]({{ site.baseurl }}/assets/img/rpa/rpa-top-down-strategy.png)
+![Diagram showing the President's Management Agenda for IT Modernization feeding into the GSA Strategic Plan and the CIO Strategic Plan. The President's Management Agenda lists a goal and an opportunity. The goal is "Modernize IT to increase productivity and security". The opportunity is "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens' needs."]({{ site.baseurl }}/assets/img/playbooks/rpa-top-down-strategy.png)
 
 
 ### Why RPA?
