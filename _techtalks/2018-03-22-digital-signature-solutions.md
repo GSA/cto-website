@@ -4,7 +4,7 @@ date: '2018-03-22'
 time: 1-1:30p
 location: Virtual and 1800F Room 3022
 register:
-slides: "/assets/downloads/techtalks/DigitalSignatureSolutionTechTalk.pdf"
+slides: "/assets/files/techtalks/DigitalSignatureSolutionTechTalk.pdf"
 recording:
 ---
 

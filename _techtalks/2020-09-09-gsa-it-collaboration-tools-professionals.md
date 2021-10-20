@@ -4,7 +4,7 @@ date: '2020-09-09'
 time: 1-1:30p ET
 location:
 presenter: Sean Zerges and Paul Powell
-slides: "/assets/downloads/techtalks/GSAITTechTalk_CollabTools.pdf"
+slides: "/assets/files/techtalks/GSAITTechTalk_CollabTools.pdf"
 ---
 
 Different teams communicate in different ways.  There's no one-size-fits-all solution that meets the needs of every business and operational need.

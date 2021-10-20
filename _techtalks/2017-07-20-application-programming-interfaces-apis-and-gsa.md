@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Ryan Day and Joe Castle
 register:
-slides: "/assets/downloads/techtalks/apis-tech-talk.pdf"
+slides: "/assets/files/techtalks/apis-tech-talk.pdf"
 recording:
 ---
 

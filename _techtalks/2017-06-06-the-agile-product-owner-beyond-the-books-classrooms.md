@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Alicia Cyrus, CTO Office
 register:
-slides: "/assets/downloads/techtalks/tech-talk-agile-project-owner.pdf"
+slides: "/assets/files/techtalks/tech-talk-agile-project-owner.pdf"
 recording:
 ---
 

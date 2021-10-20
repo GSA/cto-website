@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 3334
 presenter: Kishore Kakani
 register:
-slides: "/assets/downloads/techtalks/GRACE_Cloud_Platform_offering.pdf"
+slides: "/assets/files/techtalks/GRACE_Cloud_Platform_offering.pdf"
 recording:
 ---
 

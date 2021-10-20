@@ -4,7 +4,7 @@ date: '2021-02-25'
 time: 1-1:30p ET
 location:
 presenter: Nico Papafil and William Cahoe
-slides: "/assets/downloads/techtalks/10xFY21RoadshowGSAITTechTalk.pdf"
+slides: "/assets/files/techtalks/10xFY21RoadshowGSAITTechTalk.pdf"
 ---
 
 The 10x program crowdsources ideas from federal employees all across the government and turns them into technology projects that improve the public's experience with government.

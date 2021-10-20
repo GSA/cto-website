@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Akanksha Sharma, CTO Office
 register:
-slides: "/assets/downloads/techtalks/tech-talk-solutions-strategy.pdf"
+slides: "/assets/files/techtalks/tech-talk-solutions-strategy.pdf"
 recording:
 ---
 
