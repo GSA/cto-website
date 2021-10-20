@@ -1,5 +1,5 @@
 ---
-slides: /assets/uploads/thectooffice.pdf
+slides: ""
 register: null
 title: A Look into the CTO's Office
 date: 2017-02-21
