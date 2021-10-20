@@ -1,8 +1,7 @@
 ---
-title: Sean Zerges
 firstname: Sean
 lastname: Zerges
-photo: sean_zerges.jpg
+photo:
 role: Director, Office of the Chief Technology Officer
 email: sean.zerges@gsa.gov
 ordering: 2

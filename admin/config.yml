@@ -25,3 +25,16 @@ collections:
       - { label: "Presenter", name: presenter, widget: string }
       - { label: "Slides", name: slides, required: false, widget: file, media_library: { media_folder: techtalks } }
       - { label: "Description", name: body, widget: markdown }
+  - label: Team
+    name: team
+    folder: _team
+    create: true
+    summary: "{{firstname}} {{lastname}}"
+    fields:
+      - { label: "First Name", name: firstname, widget: string }
+      - { label: "Last Name", name: lastname, widget: string }
+      - { label: "Role", name: role, widget: string }
+      - { label: "Email", name: email, widget: string, required: false }
+      - { label: "Photo", name: photo, widget: image, required: false, hint: "Please use a square photo." }
+      - { label: "Order of Appearance", name: ordering, widget: number, required: false, value_type: "int", default: 10, min: 0, max: 100, hint: "This should usually be left unchanged. By default, the website will list team members by last name." }
+      - { label: "Description", name: body, widget: markdown, required: false }

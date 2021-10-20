@@ -1,8 +1,7 @@
 ---
-title: Joseph Novak
 firstname: Joseph
 lastname: Novak
-photo: joseph_novak.jpg
+photo:
 role: Communications/Program Analyst
 email: joseph.novak@gsa.gov
 ordering: 10
