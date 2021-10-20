@@ -22,7 +22,7 @@ description: >
 <div class="bio grid-row grid-gap">
   <div class="tablet:grid-col-auto">
     {% if page.photo %}
-      <img src="{{ site.baseurl }}/assets/img/team/{{ page.photo }}" alt="Photo of {{ page.firstname }} {{ page.lastname }}">
+      <img src="{{ page.photo | relative_url }}" alt="Photo of {{ page.firstname }} {{ page.lastname }}">
     {% else %}
       <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ page.firstname }} {{ page.lastname }} does not have a photo yet">
     {% endif %}

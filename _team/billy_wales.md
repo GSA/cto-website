@@ -1,8 +1,7 @@
 ---
-title: Billy Wales
 firstname: Billy
 lastname: Wales
-photo: billy_wales.jpg
+photo:
 role: Senior IT Solutions and Architecture Strategist
 email: billy.wales@gsa.gov
 ordering: 10

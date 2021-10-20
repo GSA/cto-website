@@ -1,5 +1,4 @@
 ---
-title: Cindy Smith
 firstname: Cindy
 lastname: Smith
 photo:

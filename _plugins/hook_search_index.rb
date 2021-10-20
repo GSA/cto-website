@@ -16,6 +16,11 @@ module SearchIndex
     doc.gsub(/\n/, " ").squeeze(" ")
   end
 
+  # Clear any previously existing entries before generating the site
+  Jekyll::Hooks.register :site, :pre_render do |site, payload|
+    @@entries = []
+  end
+
   # Pull metadata from each searchable page/document
   Jekyll::Hooks.register [:documents, :pages], :post_render do |page|
     next unless INCLUDE_EXTENSIONS.include?(File.extname(page.path))
@@ -33,7 +38,7 @@ module SearchIndex
 
     @@entries << {
       title: page.data["title"],
-      collection: page.respond_to?("collection") ? page.collection.label : nil,
+      collection: page.respond_to?(:collection) ? page.collection.label : nil,
       category: page.data["category"],
       url: page.url,
       search_excerpt: excerpt,
