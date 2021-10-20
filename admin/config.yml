@@ -8,7 +8,7 @@ backend:
 
 logo_url: https://tech.gsa.gov/assets/img/gsa_logo.svg
 publish_mode: editorial_workflow
-media_folder: assets/uploads
+media_folder: assets/files
 
 collections:
   - label: Tech Talk
@@ -30,6 +30,7 @@ collections:
     folder: _team
     create: true
     summary: "{{firstname}} {{lastname}}"
+    media_folder: assets/img/team
     fields:
       - { label: "First Name", name: firstname, widget: string }
       - { label: "Last Name", name: lastname, widget: string }
