@@ -56,6 +56,10 @@ defaults:
       type: team
     values:
       layout: bio
+  - scope:
+      type: techtalks
+    values:
+      layout: techtalk
   # Exclude assets from sitemap.xml
   - scope:
       path: "assets/**"
