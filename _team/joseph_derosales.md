@@ -1,9 +1,9 @@
 ---
 firstname: Joseph
 lastname: de Rosales
-photo:
 role: TTS Liaison Team Lead
 email: joseph.derosales@gsa.gov
+photo: /assets/uploads/joseph_derosales.jpg
 ordering: 10
 ---
 
