@@ -1,9 +1,9 @@
 ---
 firstname: Joseph
 lastname: Novak
-photo:
 role: Communications/Program Analyst
 email: joseph.novak@gsa.gov
+photo: /assets/uploads/joseph_novak.jpg
 ordering: 10
 ---
 
