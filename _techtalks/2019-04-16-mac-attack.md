@@ -4,7 +4,7 @@ date: '2019-04-16'
 time: 1-1:30p
 location: Virtual and 1800F Rm 6324
 presenter: Sean Zerges
-slides: "/assets/downloads/techtalks/MacAttack.pdf"
+slides: "/assets/files/techtalks/MacAttack.pdf"
 ---
 
 Mac computers have become the go to tool for analysts and developers throughout GSA.

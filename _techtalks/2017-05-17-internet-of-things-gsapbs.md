@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800f
 presenter: Charles Matta and Andrew Vanjani
 register:
-slides: "/assets/downloads/techtalks/tech-talk-iot.pdf"
+slides: "/assets/files/techtalks/tech-talk-iot.pdf"
 recording:
 ---
 

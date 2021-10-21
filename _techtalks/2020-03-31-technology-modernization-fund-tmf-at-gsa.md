@@ -4,7 +4,7 @@ date: '2020-03-31'
 time: 1-130p
 location:
 presenter: Jason Donow and William Wales
-slides: "/assets/downloads/techtalks/TechTalkTMFMarch2020Pub.pdf"
+slides: "/assets/files/techtalks/TechTalkTMFMarch2020Pub.pdf"
 ---
 
 Learn more about how the Technology Modernization Fund (TMF) are being used to modernize GSA applications.  Hear about completed projects and projects on the horizon.

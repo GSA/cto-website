@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F
 presenter: Navin Vembar
 register:
-slides: "/assets/downloads/techtalks/Cloud_at_ GSA_Tech_Talk.pdf"
+slides: "/assets/files/techtalks/Cloud_at_ GSA_Tech_Talk.pdf"
 recording:
 ---
 

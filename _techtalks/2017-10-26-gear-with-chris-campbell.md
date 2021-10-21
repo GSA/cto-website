@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 3334
 presenter: Chris Campbell
 register:
-slides: "/assets/downloads/techtalks/GEARTechTalk.pptx.pdf"
+slides: "/assets/files/techtalks/GEARTechTalk.pptx.pdf"
 recording:
 ---
 

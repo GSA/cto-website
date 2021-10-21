@@ -4,7 +4,7 @@ date: '2019-01-24'
 time: 1-1:30p
 location: Virtual and 1800F Rm 3334
 presenter: Anne Eagan
-slides: "/assets/downloads/techtalks/GSALightningExperienceOverviewPresentation.pdf"
+slides: "/assets/files/techtalks/GSALightningExperienceOverviewPresentation.pdf"
 ---
 
 Lightning Experience is Salesforce’s intuitive, intelligent interface, designed to support the way you work and help you be more productive.

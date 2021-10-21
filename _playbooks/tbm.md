@@ -8,7 +8,7 @@ toc: true
 
 ## Technology Business Management Playbook
 
-[Download a PDF version of this playbook]({{ '/assets/downloads/GSA_Education_TBM_Playbook_v6.pdf' | relative_url }})
+[Download a PDF version of this playbook]({{ '/assets/files/GSA_Education_TBM_Playbook_v6.pdf' | relative_url }})
 
 This playbook is designed to assist federal agencies as they **start Technology Business Management (TBM)** implementation. While each agency should tailor its TBM implementation to their organization’s current state and desired outcomes, the playbook **offers guidance and lessons learned** from the **U.S. General Services Administration (GSA) and the U.S. Department of Education**.
 

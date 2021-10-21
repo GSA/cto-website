@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 3232
 presenter: Cindy Smith & IT Standards Team
 register:
-slides: "/assets/downloads/techtalks/October_2018_IT_Standards_Tech_Talk.pdf"
+slides: "/assets/files/techtalks/October_2018_IT_Standards_Tech_Talk.pdf"
 ---
 
 What’s new with IT Standards?

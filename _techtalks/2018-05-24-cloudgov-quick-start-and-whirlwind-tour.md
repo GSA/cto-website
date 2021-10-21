@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F
 presenter: Peter Burkholder
 register:
-slides: "/assets/downloads/techtalks/cloud_gov.pdf"
+slides: "/assets/files/techtalks/cloud_gov.pdf"
 recording:
 ---
 

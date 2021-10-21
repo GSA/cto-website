@@ -5,7 +5,7 @@ time: 11a-11:30a
 location: Virtual and 1800F Room 4232
 presenter: Aidan Feldman
 register:
-slides: "/assets/downloads/techtalks/TechTalk_Manufacturing_your_infrastructure_with_Terraform.pdf"
+slides: "/assets/files/techtalks/TechTalk_Manufacturing_your_infrastructure_with_Terraform.pdf"
 recording:
 ---
 

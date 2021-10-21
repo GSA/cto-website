@@ -5,7 +5,7 @@ audiences:
   - Developers
 ---
 
-[The GSA API Strategy]({{ site.baseurl }}/assets/downloads/GSAAPIStrategy.pdf) describes GSA’s direction for agency­-wide API design, development, architecture, operations and support, and security. We want to use public APIs to expose public data for transparency, data consumer engagement, and application development. We also want to use non-public APIs to promote system integration and migration of legacy systems. In all these efforts, we seek to adopt industry best practices for API design, development, and management.
+[The GSA API Strategy]({{ site.baseurl }}/assets/files/GSAAPIStrategy.pdf) describes GSA’s direction for agency­-wide API design, development, architecture, operations and support, and security. We want to use public APIs to expose public data for transparency, data consumer engagement, and application development. We also want to use non-public APIs to promote system integration and migration of legacy systems. In all these efforts, we seek to adopt industry best practices for API design, development, and management.
 
 ### API Strategy Implementation Approach
 

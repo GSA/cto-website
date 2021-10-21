@@ -19,4 +19,4 @@ Rick will introduce parametric and logical types for programming and architectur
 
 We will discuss the results of industrial research on static type systems used by Facebook (Flow) and Microsoft (TypeScript) with JavaScript. We will identify adoption risk of weakly and dynamically typed languages such as Perl, PHP and Python.
 
-Paper: [Parametric and Logical Types for Model-Driven Engineering](/assets/downloads/techtalks/params.pdf)
+Paper: [Parametric and Logical Types for Model-Driven Engineering](/assets/files/techtalks/params.pdf)

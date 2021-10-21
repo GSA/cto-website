@@ -4,7 +4,7 @@ date: '2021-05-11'
 time: 11-11:30a ET
 location:
 presenter: Vicki McFadden and Randy Hart
-slides: "/assets/downloads/techtalks/GSAITTechTalkderiskingGovTechFieldGuides.pdf"
+slides: "/assets/files/techtalks/GSAITTechTalkderiskingGovTechFieldGuides.pdf"
 ---
 
 De-risking Guide.
