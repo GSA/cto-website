@@ -20,7 +20,7 @@ Remember, [Agile is a mindset]({{ site.baseurl }}/guides/popular_approaches/); i
   alt="DevSecOps cycle"
   class="display-block margin-x-auto maxw-tablet">
 
-It focuses primarily on the frequency of delivery, pushing past departmental lines and calling for collaboration between Development and Operations for more effective planning, design, and release of projects / products. Further, by incorporating [Security]http://www.devsecops.org/ into the coding process (i.e. DevSecOps), loopholes and weaknesses are exposed early on so that remediation actions can be implemented.
+It focuses primarily on the frequency of delivery, pushing past departmental lines and calling for collaboration between Development and Operations for more effective planning, design, and release of projects / products. Further, by incorporating [Security](http://www.devsecops.org/) into the coding process (i.e. DevSecOps), loopholes and weaknesses are exposed early on so that remediation actions can be implemented.
 
 <img src="{{ site.baseurl }}/assets/img/guides/DevOps_Continuous.png"
   alt="DevOps Continuous Workflow"
