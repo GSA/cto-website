@@ -72,7 +72,7 @@ GSA IT currently uses the following approved tools to support DevSecOps delivery
 
 | Build (Plan) | Build (Code) | Test (CI) | Deploy (CD) | Operations (Security & Monitoring) |
 |-|-|-|-|-|
-| JIRA<br>Slack<br>Trello | Ansible<br>GitHub<br>Jenkins | Jenkins<br>Selenium | Ansible<br>Jenkins<br>Terraform<br>CloudFormation | AMI<br>ClamAV<br>CloudWatch<br>Nessus<br>OSSEC |
+| JIRA<br>Slack<br>Trello | Ansible<br>GitHub<br>Jenkins | Jenkins<br>Selenium<br>CircleCI | Ansible<br>Jenkins<br>Terraform<br>CloudFormation | AMI<br>ClamAV<br>CloudWatch<br>Nessus<br>OSSEC |
 
 
 ### Measuring DevSecOps Success
