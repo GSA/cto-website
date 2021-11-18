@@ -13,28 +13,15 @@ The website utilizes the [US Web Design System](https://designsystem.digital.gov
 
 ## Setup
 
-There are two ways you can set up your development environment:
+### Install Prerequisites
 
-* [**Method 1:** Install all tools and dependencies on your local machine (Ruby, Node.js, etc)](#method-1-local-development-environment)
-* [**Method 2:** Use Docker to maintain all tools and dependencies inside a container](#method-2-containerized-development-environment-using-docker)
+Ensure you have the following installed on your local machine:
 
-
-### Method 1: Local development environment
-
-This method explains how to set up a local development environment by installing all necessary tools and dependencies.
+* Ruby
+* Node.js
 
 
-#### Install Ruby
-
-Since this is a Jekyll-based website, you will need [Ruby](https://www.ruby-lang.org/en/). The best way to get Ruby is to install it via [rbenv](https://github.com/rbenv/rbenv). See the [rbenv installation instructions](https://github.com/rbenv/rbenv#installation) to set it up on your system.
-
-
-#### Install Node.js and npm
-
-We use [`npm`](https://www.npmjs.com/) along with [`gulp`](http://gulpjs.com/) to manage front-end dependencies. In order to get `npm`, install [Node.js](https://nodejs.org/). You do not strictly need `npm` to work on the website content. You only need it if you plan to update the [vendor assets](/assets/vendor/).
-
-
-#### Building and previewing the website
+### Building and previewing the website
 
 First, install `bundler` if you don't already have it:
 
@@ -48,53 +35,32 @@ Then install the project's Ruby dependencies:
 bundle install --with=development
 ```
 
-Then you can run the site locally with live reloading:
+Then you can run the site locally with live reloading and local CMS:
 
 ```
-bundle exec rake serve
+npm start
 ```
 
-You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
+You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/). The CMS is at [http://localhost:4000/admin/](http://localhost:4000/admin/).
 
-
-### Method 2: Containerized development environment using Docker
-
-This method explains how to set up a containerized development environment by using Docker. Using this method, you shouldn't need to install anything other than Docker on your local machine.
-
-
-#### Install Docker
-
-[Install Docker](https://docs.docker.com/install/) on your development machine and ensure the Docker daemon is successfully running.
-
-
-#### Build the Docker container
-
-```
-docker build -t cto-website .
-```
-
-
-#### Building and previewing the website
-
-Run the site locally with live reloading:
-
-```
-./docker-run.sh rake serve
-```
-
-You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/).
 
 
 ## Development
 
 ### Assets
 
-This project uses `gulp` to manage static asset files. It also incorporates [uswds-gulp](https://github.com/uswds/uswds-gulp) tasks to manage USWDS-specific assets.
+This project uses `gulp` to manage static asset files. It also includes some tasks derived from [uswds-gulp](https://github.com/uswds/uswds-gulp) to manage USWDS-specific assets.
 
-To update vendor-provided Node modules, including USWDS:
+To update vendor-provided Node modules:
+
 ```
 npm update
 gulp copy-assets
+```
+
+To update USWDS:
+
+```
 gulp copy-uswds-fonts
 gulp copy-uswds-images
 gulp copy-uswds-js
@@ -102,10 +68,12 @@ gulp build-sass
 ```
 
 To modify USWDS custom styles, edit the files in [_sass/uswds](/_sass/uswds), particularly [_uswds-theme-custom-styles.scss](/_sass/uswds/_uswds-theme-custom-styles.scss). You can automatically compile edited Sass files during development by running:
+
 ```
 gulp watch
 ```
 
+Note that when upgrading USWDS, you may have to copy new USWDS SASS files over and it may be necessary to manually merge the newer files with the customizations in [_sass/uswds](/_sass/uswds).
 
 ## License
 
