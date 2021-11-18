@@ -1,17 +1,6 @@
 require "eslintrb"
 require "html-proofer"
 
-desc "Serve the site with live reload for development"
-task :serve do
-  sh "bundle exec jekyll serve --livereload -H 0.0.0.0", verbose: false
-end
-
-desc "Build the site to the default Jekyll output directory"
-task :build do
-  puts "Building the website..."
-  sh "bundle exec jekyll build -q", verbose: false
-end
-
 namespace :test do
   desc "Run ESLint"
   task :eslint do

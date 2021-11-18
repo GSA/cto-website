@@ -35,6 +35,12 @@ const assets = [
     content: {
       js: ["mousetrap.min.js"]
     }
+  },
+  {
+    module: "netlify-cms",
+    content: {
+      js: ["dist/netlify-cms.js", "dist/netlify-cms.js.map"]
+    }
   }
 ];
 
@@ -42,10 +48,12 @@ gulp.task("copy-assets", function (cb) {
   assets.forEach((asset) => {
     const name = asset.module.split("/").slice().pop()
     for (type in asset.content) {
-      const source = `node_modules/${asset.module}/${asset.content[type]}`;
-      const destination = `assets/vendor/${name}/${type}`;
-      console.log(`${source} -> ${destination}`)
-      gulp.src(source).pipe(gulp.dest(destination));
+      for (item of asset.content[type]) {
+        const source = `node_modules/${asset.module}/${item}`;
+        const destination = `assets/vendor/${name}/${type}`;
+        console.log(`${source} -> ${destination}`)
+        gulp.src(source).pipe(gulp.dest(destination));
+      }
     }
   });
   return cb();
