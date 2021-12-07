@@ -40,6 +40,9 @@ collections:
   techtalks:
     permalink: /techtalks/:year-:month-:day-:title/
     output: true
+  technologies:
+    permalink: /technologies/:title/
+    output: true
 
 defaults:
   - values:
