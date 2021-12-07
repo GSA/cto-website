@@ -181,3 +181,26 @@ table {
     text-decoration: none;
   }
 }
+
+// Quotations inline with content
+blockquote {
+  background-color: color("gray-warm-2");
+  border-left: 10px solid color("gray-warm-10");
+  padding: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: size("body", "lg");
+  font-style: oblique;
+  font-family: family("serif");
+  line-height: line-height("heading", 4);
+  color: color("gray-warm-60");
+
+  cite {
+    font-size: size("body", "md");
+    font-weight: font-weight("bold");
+    font-family: family("sans");
+    color: color("blue-warm-60");
+    display: block;
+    text-align: right;
+  }
+}
