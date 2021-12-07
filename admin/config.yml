@@ -17,7 +17,7 @@ collections:
     create: true
     summary: "{{date}} - {{title}}"
     slug: "{{fields.date}}-{{slug}}"
-    media_folder: assets/files/techtalks
+    media_folder: "{{media_folder}}/techtalks"
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Date", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
@@ -31,7 +31,7 @@ collections:
     folder: _team
     create: true
     summary: "{{firstname}} {{lastname}}"
-    media_folder: assets/img/team
+    media_folder: "{{media_folder}}/team"
     fields:
       - { label: "First Name", name: firstname, widget: string }
       - { label: "Last Name", name: lastname, widget: string }
