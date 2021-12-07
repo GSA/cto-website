@@ -18,7 +18,7 @@ permalink: /team/
         <div class="usa-card__media">
           <div class="usa-card__img">
             {% if member.photo %}
-              <img src="{{ member.photo | relative_url }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+              <img src="{{ member.photo | prepend: '/assets/files' | relative_url }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
             {% else %}
               <img src="{{ site.baseurl }}/assets/img/gsa_logo.svg" alt="Placeholder GSA logo since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
             {% endif %}

@@ -6,8 +6,26 @@
   <title>CMS</title>
 </head>
 <body>
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <!-- Use local repo backend via netlify-cms-proxy-server for CMS if developing locally -->
   <script>
+    window.CMS_MANUAL_INIT = true
+  </script>
+  <script src="../assets/vendor/netlify-cms/js/netlify-cms.js"></script>
+  <script>
+    const CMS = window.CMS
+    if (window.location.hostname === "localhost") {
+      CMS.init({
+        config: {
+          backend: {
+            name: "git-gateway"
+          },
+          local_backend: true,
+          publish_mode: "simple"
+        }
+      })
+    } else {
+      CMS.init()
+    }
     CMS.registerPreviewStyle("../assets/vendor/uswds/css/styles.css")
   </script>
 </body>
