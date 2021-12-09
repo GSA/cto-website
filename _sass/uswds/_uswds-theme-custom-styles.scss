@@ -181,3 +181,60 @@ table {
     text-decoration: none;
   }
 }
+
+// Intro area at top of Emerging Technology pages
+.emergingtech-intro {
+  padding: 2em;
+  margin-bottom: 2em;
+  background-color: color("primary-darker");
+}
+.emergingtech-intro__title {
+  margin: 0;
+  line-height: line-height("heading", 4);
+  color: white;
+}
+.emergingtech-intro__text {
+  margin: 0;
+  color: color("accent-cool");
+  font-size: size("body", "lg");
+  font-weight: font-weight("bold");
+  line-height: line-height("heading", 4);
+}
+
+// Quotations inline with content
+blockquote {
+  background-color: color("gray-warm-2");
+  border-left: 10px solid color("gray-warm-10");
+  padding: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: size("body", "lg");
+  font-style: oblique;
+  font-family: family("serif");
+  line-height: line-height("heading", 4);
+  color: color("gray-warm-60");
+
+  cite {
+    font-size: size("body", "md");
+    font-weight: font-weight("bold");
+    font-family: family("sans");
+    color: color("blue-warm-60");
+    display: block;
+    text-align: right;
+  }
+}
+
+// Images/figures inline with content
+figure {
+  margin: 0;
+
+  img {
+    padding: 1px;
+    border: 1px solid color("gray-warm-10");
+  }
+}
+figcaption {
+  font-size: size("body", "3xs");
+  font-style: oblique;
+  color: color("gray-warm-60");
+}
