@@ -3,7 +3,7 @@ title: SAP Business Objects
 date: 2022-01-13
 time: 1:00pm - 1:30pm ET
 location: Virtual
-presenter: Stewart Fist, Kathy Harvel and Marnie May
+presenter: Kathy Harvel and Marnie May
 ---
 <!--StartFragment-->
 
