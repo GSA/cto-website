@@ -41,7 +41,7 @@ collections:
     permalink: /techtalks/:year-:month-:day-:title/
     output: true
   technologies:
-    permalink: /technologies/:title/
+    permalink: /techradar/technologies/:title/
     output: true
 
 defaults:
