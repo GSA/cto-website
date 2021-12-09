@@ -40,6 +40,9 @@ collections:
   techtalks:
     permalink: /techtalks/:year-:month-:day-:title/
     output: true
+  technologies:
+    permalink: /technologies/:title/
+    output: true
 
 defaults:
   - values:
@@ -60,6 +63,10 @@ defaults:
       type: techtalks
     values:
       layout: techtalk
+  - scope:
+      type: technologies
+    values:
+      layout: technology
   # Exclude assets from sitemap.xml
   - scope:
       path: "assets/**"
