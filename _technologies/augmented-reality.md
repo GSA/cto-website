@@ -6,6 +6,18 @@ excerpt: Augmented reality overlays digitally created content into the user's
   another, query information, interact, see, and "feel" the visual data
   presented as they perform tasks.
 image: /assets/files/techradar/ar-vr-mr.gif
+resources:
+  - title: Digital Reality in Government
+    url: https://www2.deloitte.com/us/en/insights/industry/public-sector/augmented-virtual-reality-government-services.html
+  - url: https://www.weforum.org/agenda/2017/02/augmented-reality-smart-government/
+    title: 6 Ways Augmented Reality Can Help Governments See More Clearly
+  - title: Virtual and Augmented Reality Government Community
+    url: https://digital.gov/communities/virtual-augmented-reality/
+  - url: https://www.newsmax.com/newsfront/army-augmented-reality-headsets/2021/10/14/id/1040515/
+    title: Army Pauses Acquisition of Augmented Reality Headsets for Troops
+stakeholders:
+  - title: Virtual and Augmented Reality Community of Practice
+    url: https://digital.gov/communities/virtual-augmented-reality/
 ---
 ## Background
 
