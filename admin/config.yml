@@ -12,6 +12,7 @@ publish_mode: editorial_workflow
 media_folder: /assets/files
 
 collections:
+
   - label: Tech Talk
     name: techtalk
     folder: _techtalks
@@ -27,6 +28,7 @@ collections:
       - { label: "Presenter", name: presenter, widget: string }
       - { label: "Slides", name: slides, required: false, widget: file }
       - { label: "Description", name: body, widget: markdown }
+
   - label: Team
     name: team
     folder: _team
@@ -41,6 +43,7 @@ collections:
       - { label: "Photo", name: photo, widget: image, required: false, hint: "Please use a square photo." }
       - { label: "Order of Appearance", name: ordering, widget: number, required: false, value_type: "int", default: 10, min: 0, max: 100, hint: "This should usually be left unchanged. By default, the website will list team members by last name." }
       - { label: "Description", name: body, widget: markdown, required: false }
+
   - label: Emerging Technology
     name: emerging-technology
     folder: _technologies
@@ -64,3 +67,19 @@ collections:
         fields:
           - { label: "Title", name: title, widget: string }
           - { label: "URL", name: url, widget: string }
+
+  - label: Site Configuration
+    name: configuration
+    editor:
+      preview: false
+    files:
+      - label: Navigation
+        name: navigation
+        file: _data/navigation.yml
+        fields:
+          - label: Primary Navigation Link
+            name: primary
+            widget: list
+            fields:
+              - { label: "Text", name: text, widget: string }
+              - { label: "Link", name: href, widget: string }

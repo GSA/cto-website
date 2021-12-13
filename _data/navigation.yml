@@ -1,0 +1,7 @@
+primary:
+  - text: Guides
+    href: /guides/
+  - text: Playbooks
+    href: /playbooks/
+  - text: Tech Talks
+    href: /techtalks/
