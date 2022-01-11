@@ -2,7 +2,7 @@
 title: Tech Reentry Tech Talk
 date: 2022-01-20
 time: 1:00pm - 1:30pm ET
-location: Virtual
+location: Virtual for GSA Internal
 presenter: Gwendolyn Gardner Veal and Jay Brosch
 ---
 <!--StartFragment-->
