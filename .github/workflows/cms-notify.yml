@@ -14,15 +14,14 @@ jobs:
   notify:
     runs-on: ubuntu-20.04
     steps:
-      - name: Send custom JSON data to Slack workflow
+      - name: Send custom JSON payload to Slack workflow
         if: ${{ contains(github.event.pull_request.labels.*.name, 'netlify-cms/pending_publish') }}
         id: slack
         uses: slackapi/slack-github-action@v1.18.0
         with:
-          # This data can be any valid JSON from a previous step in the GitHub Action
           payload: |
             {
               "pr_url": "${{ github.event.pull_request.html_url }}"
             }
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_CMS_NOTIFY_URL }}
