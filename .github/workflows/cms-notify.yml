@@ -14,14 +14,14 @@ jobs:
   notify:
     runs-on: ubuntu-20.04
     steps:
-      - name: Send custom JSON payload to Slack workflow
+      - name: Notify Slack if a PR is ready to publish
         if: ${{ contains(github.event.pull_request.labels.*.name, 'netlify-cms/pending_publish') }}
         id: slack
         uses: slackapi/slack-github-action@v1.18.0
         with:
           payload: |
             {
-              "pr_url": "${{ github.event.pull_request.html_url }}"
+              "message": "Content is ready for publication, please review and merge: ${{ github.event.pull_request.html_url }}"
             }
         env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_CMS_NOTIFY_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_MESSAGE_URL }}
