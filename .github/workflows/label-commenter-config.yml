@@ -1,0 +1,9 @@
+# Configuration file for the Label Commenter
+# https://github.com/marketplace/actions/label-commenter
+
+labels:
+  # When someone sets a post to "Pending Publish" in Netlify CMS, notify the repository admins.
+  - name: netlify-cms/pending_publish
+    labeled:
+      pr:
+        body: Ready for publication @tech-gsa-gov-admins
