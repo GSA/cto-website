@@ -1,0 +1,28 @@
+# Send a Slack notification when CMS content is ready for publication.
+
+name: CMS notifier
+
+on:
+  pull_request_target:
+    types: [labeled]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-20.04
+      steps:
+        - name: Send custom JSON data to Slack workflow
+          if: ${{ contains(github.event.pull_request.labels.*.name, 'netlify-cms/pending_publish') }}
+          id: slack
+          uses: slackapi/slack-github-action@v1.18.0
+          with:
+            # This data can be any valid JSON from a previous step in the GitHub Action
+            payload: |
+              {
+                "pr_url": "${{ github.event.pull_request.html_url }}"
+              }
+          env:
+            SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
