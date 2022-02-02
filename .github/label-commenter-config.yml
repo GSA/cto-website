@@ -6,4 +6,4 @@ labels:
   - name: netlify-cms/pending_publish
     labeled:
       pr:
-        body: Ready for publication @tech-gsa-gov-admins
+        body: Ready for publication @GSA/tech-gsa-gov-admins
