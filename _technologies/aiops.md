@@ -255,7 +255,7 @@ Additionally, the President’s Cybersecurity National Security Memorandum to Im
 
 ## Governance
 
-![Photo of the United States Capitol](/assets/files/techradar/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
+![Photo of the United States Capitol]({{ site.baseurl }}/assets/files/uploads/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
 
 Laws/Legislation, Regulations and Policy Related to AIOps
 
