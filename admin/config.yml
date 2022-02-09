@@ -9,7 +9,8 @@ backend:
 site_url: https://tech.gsa.gov/
 logo_url: https://tech.gsa.gov/assets/img/gsa_logo.svg
 publish_mode: editorial_workflow
-media_folder: /assets/files
+media_folder: assets/files/uploads
+public_folder: "{{ site.baseurl }}/assets/files/uploads"
 
 collections:
 
@@ -20,7 +21,6 @@ collections:
     create: true
     summary: "{{date}} - {{title}}"
     slug: "{{fields.date}}-{{slug}}"
-    media_folder: "/assets/files/techtalks"
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Date", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
@@ -36,13 +36,12 @@ collections:
     create: true
     preview_path: team/{{slug}}
     summary: "{{firstname}} {{lastname}}"
-    media_folder: "/assets/files/team"
     fields:
       - { label: "First Name", name: firstname, widget: string }
       - { label: "Last Name", name: lastname, widget: string }
       - { label: "Role", name: role, widget: string }
       - { label: "Email", name: email, widget: string, required: false }
-      - { label: "Photo", name: photo, widget: image, required: false, hint: "Please use a square photo." }
+      - { label: "Photo", name: photo, widget: image, required: false, media_folder: "/assets/files/uploads", hint: "Please use a square photo." }
       - { label: "Order of Appearance", name: ordering, widget: number, required: false, value_type: "int", default: 10, min: 0, max: 100, hint: "This should usually be left unchanged. By default, the website will list team members by last name." }
       - { label: "Description", name: body, widget: markdown, required: false }
 
@@ -51,12 +50,11 @@ collections:
     folder: _technologies
     create: true
     preview_path: techradar/technologies/{{slug}}
-    media_folder: "/assets/files/techradar"
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Subtitle", name: subtitle, widget: string }
       - { label: "Excerpt", name: excerpt, widget: text }
-      - { label: "Image", name: image, widget: image }
+      - { label: "Image", name: image, widget: image, media_folder: "/assets/files/uploads" }
       - { label: "Content", name: body, widget: markdown }
       - label: "Resources"
         name: resources
