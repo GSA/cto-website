@@ -16,6 +16,7 @@ collections:
   - label: Tech Talk
     name: techtalk
     folder: _techtalks
+    preview_path: techtalks
     create: true
     summary: "{{date}} - {{title}}"
     slug: "{{fields.date}}-{{slug}}"
@@ -33,6 +34,7 @@ collections:
     name: team
     folder: _team
     create: true
+    preview_path: team/{{slug}}
     summary: "{{firstname}} {{lastname}}"
     media_folder: "/assets/files/team"
     fields:
@@ -48,6 +50,7 @@ collections:
     name: emerging-technology
     folder: _technologies
     create: true
+    preview_path: techradar/technologies/{{slug}}
     media_folder: "/assets/files/techradar"
     fields:
       - { label: "Title", name: title, widget: string }
