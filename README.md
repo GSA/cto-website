@@ -44,36 +44,34 @@ npm start
 You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/). The CMS is at [http://localhost:4000/admin/](http://localhost:4000/admin/).
 
 
-
 ## Development
 
 ### Assets
 
-This project uses `gulp` to manage static asset files. It also includes some tasks derived from [uswds-gulp](https://github.com/uswds/uswds-gulp) to manage USWDS-specific assets.
+This project uses `gulp` to manage static asset files. It also includes some tasks derived from [uswds-compile](https://github.com/uswds/uswds-compile) to manage USWDS-specific assets.
 
 To update vendor-provided Node modules:
 
 ```
 npm update
-gulp copy-assets
+npx gulp copyAssets
 ```
 
 To update USWDS:
 
 ```
-gulp copy-uswds-fonts
-gulp copy-uswds-images
-gulp copy-uswds-js
-gulp build-sass
+npm update uswds
+npx gulp updateUswds
 ```
 
-To modify USWDS custom styles, edit the files in [_sass/uswds](/_sass/uswds), particularly [_uswds-theme-custom-styles.scss](/_sass/uswds/_uswds-theme-custom-styles.scss). You can automatically compile edited Sass files during development by running:
+To modify USWDS custom styles, edit these files:
 
-```
-gulp watch
-```
+* [_techgsa-custom-settings.scss](/_sass/uswds/_techgsa-custom-settings.scss): overrides settings found in the various USWDS theme files in `_sass/uswds`
+* [_uswds-theme-custom-styles.scss](/_sass/uswds/_uswds-theme-custom-styles.scss): contains all website styles
 
-Note that when upgrading USWDS, you may have to copy new USWDS SASS files over and it may be necessary to manually merge the newer files with the customizations in [_sass/uswds](/_sass/uswds).
+After changing the styles, recompile them with `npx gulp compile`. Or you can automatically compile edited Sass files during development by running: `npx gulp watch` or just `npx gulp`.
+
+Note that when upgrading USWDS, it may be necessary to manually merge the newer files with the customizations in `_uswds-theme-custom-styles.scss`.
 
 ## License
 
