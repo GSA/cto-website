@@ -18,6 +18,7 @@
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
   "devDependencies": {
+    "@uswds/compile": "^1.0.0-alpha.0",
     "autoprefixer": "^10.3.4",
     "concurrently": "^6.4.0",
     "gulp": "^4.0.2",
