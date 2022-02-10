@@ -1,5 +1,5 @@
 Mousetrap.bind('/', function () {
-  var searchField = document.getElementById('basic-search-field-small');
+  var searchField = document.getElementById('search-field-en-small');
   searchField.focus();
   return false;
 });
