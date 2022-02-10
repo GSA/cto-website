@@ -1,7 +1,17 @@
 const gulp = require("gulp");
+const uswds = require("@uswds/compile");
 
-// Include USWDS gulp tasks
-require('./gulpfile-uswds.js');
+uswds.paths.src.projectSass = "./_sass";
+uswds.paths.dist.theme = "./_sass/uswds";
+uswds.paths.dist.img = "./assets/vendor/uswds/img";
+uswds.paths.dist.fonts = "./assets/vendor/uswds/fonts";
+uswds.paths.dist.js = "./assets/vendor/uswds/js";
+uswds.paths.dist.css = "./assets/vendor/uswds/css";
+
+exports.compile = uswds.compile;
+exports.default = uswds.default;
+exports.watch = uswds.watch;
+exports.updateUswds = uswds.updateUswds;
 
 // Specify assets to copy from node_modules
 const assets = [
@@ -44,7 +54,7 @@ const assets = [
   }
 ];
 
-gulp.task("copy-assets", function (cb) {
+gulp.task("copyAssets", function (cb) {
   assets.forEach((asset) => {
     const name = asset.module.split("/").slice().pop()
     for (type in asset.content) {
@@ -58,6 +68,3 @@ gulp.task("copy-assets", function (cb) {
   });
   return cb();
 });
-
-// Note: This overrides the USWDS default gulp task
-gulp.task("default", gulp.series("copy-assets"));
