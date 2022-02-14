@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   notify:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Notify Slack if a PR is ready to publish
         if: ${{ contains(github.event.pull_request.labels.*.name, 'netlify-cms/pending_publish') }}
