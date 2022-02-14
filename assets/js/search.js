@@ -35,7 +35,7 @@
   }
 
   function search(pages, searchTerm) {
-    document.getElementById("search-field").setAttribute("value", searchTerm);
+    document.getElementById("search-field-search-field").setAttribute("value", searchTerm);
     var lunrIndex = lunr(function () {
       this.ref("id");
       this.field("title", { boost: 10 });

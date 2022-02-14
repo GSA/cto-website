@@ -72,6 +72,11 @@ defaults:
       path: "assets/**"
     values:
       sitemap: false
+  # Exclude CMS from sitemap.xml
+  - scope:
+      path: "admin/"
+    values:
+      sitemap: false
 
 toc:
   list_class: usa-sidenav
