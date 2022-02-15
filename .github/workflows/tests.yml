@@ -56,6 +56,9 @@ jobs:
           node-version: 16
           cache: npm
 
+      - name: Install Node dependencies
+        run: npm install
+
       - name: Start local Jekyll instance in background
         run: bundle exec jekyll serve --detach
 
