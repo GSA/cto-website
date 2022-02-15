@@ -34,6 +34,10 @@ body {
    background-color: color('base-darkest');
  }
 
+ .usa-navbar {
+   border-bottom: none;
+ }
+
  .usa-logo__text a {
    font-size: font-size('body', 'xl');
    font-weight: font-weight('light');
@@ -116,7 +120,9 @@ body {
    margin: 1rem auto;
    border: 1px solid color('base-lighter');
    border-radius: 50%;
-   width: 50%;
+   width: units('card');
+   height: units('card');
+   object-fit: cover;
  }
 
  // Team member bio
@@ -126,7 +132,9 @@ body {
      margin: 0 auto;
      border: 1px solid color('base-lighter');
      border-radius: 50%;
-     width: 200px;
+     width: units('card');
+     height: units('card');
+     object-fit: cover;
    }
  }
  .bio__title {
