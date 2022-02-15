@@ -55,7 +55,7 @@ collections:
       - { label: "Subtitle", name: subtitle, widget: string }
       - { label: "Excerpt", name: excerpt, widget: text }
       - { label: "Image", name: image, widget: image, media_folder: "/assets/files/uploads" }
-      - { label: "Content", name: body, widget: markdown }
+      - { label: "Content", name: body, widget: markdown, hint: "Use Heading 2 for major sections, with Headings 3-6 underneath as needed. Do not use Heading 1 at all." }
       - label: "Resources"
         name: resources
         widget: list
