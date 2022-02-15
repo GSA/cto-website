@@ -3,26 +3,12 @@ name: Tests
 on: [pull_request]
 
 jobs:
-  general:
+  setup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install Ruby dependencies
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.7.3
-          bundler-cache: true
-
-      - name: Run tests
-        run: bundle exec rake test
-
-  accessibility:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Install Ruby dependencies
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7.3
@@ -36,6 +22,35 @@ jobs:
 
       - name: Install Node dependencies
         run: npm install
+
+  general_tests:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.3
+          bundler-cache: true
+
+      - name: Run tests
+        run: bundle exec rake test
+
+  accessibility_tests:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.3
+          bundler-cache: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+          cache: npm
 
       - name: Start local Jekyll instance in background
         run: bundle exec jekyll serve --detach
