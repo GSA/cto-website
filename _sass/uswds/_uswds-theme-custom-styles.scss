@@ -246,3 +246,8 @@ figcaption {
   font-style: oblique;
   color: color("gray-warm-60");
 }
+
+// Normalize all card image heights
+.usa-card__img img {
+  height: units('card');
+}
