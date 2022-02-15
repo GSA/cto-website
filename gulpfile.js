@@ -1,5 +1,6 @@
 const gulp = require("gulp");
 const uswds = require("@uswds/compile");
+const babel = require("gulp-babel");
 
 uswds.paths.src.projectSass = "./_sass";
 uswds.paths.dist.theme = "./_sass/uswds";
@@ -8,9 +9,7 @@ uswds.paths.dist.fonts = "./assets/vendor/uswds/fonts";
 uswds.paths.dist.js = "./assets/vendor/uswds/js";
 uswds.paths.dist.css = "./assets/vendor/uswds/css";
 
-exports.compile = uswds.compile;
-exports.default = uswds.default;
-exports.watch = uswds.watch;
+exports.compileUswds = uswds.compile;
 exports.updateUswds = uswds.updateUswds;
 
 // Specify assets to copy from node_modules
@@ -51,10 +50,16 @@ const assets = [
     content: {
       js: ["dist/netlify-cms.js", "dist/netlify-cms.js.map"]
     }
+  },
+  {
+    module: "react",
+    content: {
+      js: ["umd/react.production.min.js"]
+    }
   }
 ];
 
-gulp.task("copyAssets", function (cb) {
+function copyAssets(cb) {
   assets.forEach((asset) => {
     const name = asset.module.split("/").slice().pop()
     for (type in asset.content) {
@@ -67,4 +72,20 @@ gulp.task("copyAssets", function (cb) {
     }
   });
   return cb();
-});
+}
+
+function compileAdminTemplates() {
+  const source = "_admin/templates.jsx";
+  const destination = "admin";
+  return gulp.src(source).pipe(babel({ presets: ["@babel/preset-react"]})).pipe(gulp.dest(destination));
+}
+
+function watchAdminTemplates() {
+  return gulp.watch("_admin/*.jsx", compileAdminTemplates);
+}
+
+exports.copyAssets = copyAssets;
+exports.compileAdminTemplates = compileAdminTemplates;
+exports.watchAdminTemplates = gulp.series(compileAdminTemplates, watchAdminTemplates);
+exports.watch = gulp.parallel(this.watchAdminTemplates, uswds.watch);
+exports.default = this.watch;
