@@ -47,7 +47,7 @@
     "extend": "^3.0.2",
     "jquery": "^3.6.0",
     "lunr": "^2.3.9",
-    "netlify-cms": "^2.10.186",
+    "netlify-cms": "^2.10.179",
     "react": "^17.0.2",
     "waypoints": "^4.0.1"
   }
