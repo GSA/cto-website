@@ -4,7 +4,7 @@ date: '2021-04-20'
 time: 11-11:30a ET
 location:
 presenter: Rolo Sierra
-slides: "/assets/files/techtalks/GoogleAppsScriptpresentation.pdf"
+slides: "/assets/cms/techtalks/GoogleAppsScriptpresentation.pdf"
 ---
 
 Google Apps Script, also know as Google Scripts, is a free programming language mostly based on an earlier version of JavaScript.

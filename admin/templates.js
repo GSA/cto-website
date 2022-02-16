@@ -32,7 +32,7 @@ class EmergingTechnologyPreview extends React.Component {
 
 }
 
-class TeamPreview extends React.Component {
+class TeamMemberPreview extends React.Component {
   render() {
     const entry = this.props.entry;
     const firstname = entry.getIn(["data", "firstname"]);

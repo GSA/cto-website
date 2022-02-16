@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 5213
 presenter: Amirah Aziz
 register:
-slides: "/assets/files/techtalks/tech-talk-data-sciences.pdf"
+slides: "/assets/cms/techtalks/tech-talk-data-sciences.pdf"
 recording:
 ---
 

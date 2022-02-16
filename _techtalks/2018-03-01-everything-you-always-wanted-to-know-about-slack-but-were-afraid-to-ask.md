@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Room 5115
 presenter: Monica Fitzgerald
 register:
-slides: "/assets/files/techtalks/TechTalkonSlackMarch2018.pdf"
+slides: "/assets/cms/techtalks/TechTalkonSlackMarch2018.pdf"
 recording:
 ---
 

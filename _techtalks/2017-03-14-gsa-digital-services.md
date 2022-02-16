@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Joseph Castle, Digital Service Team, CTO
 register:
-slides: "/assets/files/techtalks/tech-talk-digital-services.pdf"
+slides: "/assets/cms/techtalks/tech-talk-digital-services.pdf"
 recording:
 ---
 

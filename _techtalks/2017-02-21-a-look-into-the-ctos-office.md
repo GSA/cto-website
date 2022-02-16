@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Navin Vembar, GSA Chief Technology Officer (CTO)
 register:
-slides: "/assets/files/techtalks/TheCTOOffice.pdf"
+slides: "/assets/cms/techtalks/TheCTOOffice.pdf"
 recording:
 ---
 

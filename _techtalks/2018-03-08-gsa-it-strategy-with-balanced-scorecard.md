@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Room 3143
 presenter: Peter Lenentine and Roland Chan
 register:
-slides: "/assets/files/techtalks/TechTalk_StrategicPlanningwiththeBalancedScorecard.pdf"
+slides: "/assets/cms/techtalks/TechTalk_StrategicPlanningwiththeBalancedScorecard.pdf"
 recording:
 ---
 

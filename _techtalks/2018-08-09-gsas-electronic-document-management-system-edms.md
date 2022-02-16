@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 3232
 presenter: Dean Grady and Joe Hilger
 register:
-slides: "/assets/files/techtalks/EDMSTechTalkPresentation.pdf"
+slides: "/assets/cms/techtalks/EDMSTechTalkPresentation.pdf"
 recording:
 ---
 

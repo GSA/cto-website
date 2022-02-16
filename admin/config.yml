@@ -9,8 +9,8 @@ backend:
 site_url: https://tech.gsa.gov/
 logo_url: https://tech.gsa.gov/assets/img/gsa_logo.svg
 publish_mode: editorial_workflow
-media_folder: assets/files/uploads
-public_folder: "{{ site.baseurl }}/assets/files/uploads"
+media_folder: "assets/cms/medialibrary"
+public_folder: "{{ site.baseurl }}/assets/cms/medialibrary"
 
 collections:
 
@@ -21,6 +21,7 @@ collections:
     create: true
     summary: "{{date}} - {{title}}"
     slug: "{{fields.date}}-{{slug}}"
+    media_folder: "/assets/cms/techtalks"
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Date", name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
@@ -30,13 +31,14 @@ collections:
       - { label: "Slides", name: slides, required: false, widget: file }
       - { label: "Description", name: body, widget: markdown }
 
-  - label: Team
-    name: team
+  - label: Team Member
+    name: team-member
     folder: _team
     create: true
     preview_path: team/{{slug}}
     summary: "{{firstname}} {{lastname}}"
-    media_folder: "."
+    slug: "{{firstname}}-{{lastname}}"
+    media_folder: "/assets/cms/team"
     fields:
       - { label: "First Name", name: firstname, widget: string }
       - { label: "Last Name", name: lastname, widget: string }
@@ -44,18 +46,19 @@ collections:
       - { label: "Email", name: email, widget: string, required: false }
       - { label: "Photo", name: photo, widget: image, required: false, choose_url: false }
       - { label: "Order of Appearance", name: ordering, widget: number, required: false, value_type: "int", default: 10, min: 0, max: 100, hint: "This should usually be left unchanged. By default, the website will list team members by last name." }
-      - { label: "Description", name: body, widget: markdown, required: false }
+      - { label: "Biography", name: body, widget: markdown, required: false }
 
   - label: Emerging Technology
     name: emerging-technology
     folder: _technologies
     create: true
     preview_path: techradar/technologies/{{slug}}
+    slug: "{{title}}"
     fields:
       - { label: "Title", name: title, widget: string }
       - { label: "Subtitle", name: subtitle, widget: string }
       - { label: "Excerpt", name: excerpt, widget: text }
-      - { label: "Image", name: image, widget: image }
+      - { label: "Image", name: image, widget: image, choose_url: false, media_folder: "/assets/cms/medialibrary" }
       - { label: "Content", name: body, widget: markdown, hint: "Use Heading 2 for major sections, with Headings 3-6 underneath as needed. Do not use Heading 1 at all." }
       - label: "Resources"
         name: resources

@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 4113
 presenter: Alicia Cyrus
 register:
-slides: "/assets/files/techtalks/tech-talk-conducting-an-agile-project.pdf"
+slides: "/assets/cms/techtalks/tech-talk-conducting-an-agile-project.pdf"
 recording:
 ---
 

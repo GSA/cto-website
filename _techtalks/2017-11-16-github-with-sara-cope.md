@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 3211
 presenter: Sara Cope
 register:
-slides: "/assets/files/techtalks/GitHub-TechTalk-Sara-Nov2017.pdf"
+slides: "/assets/cms/techtalks/GitHub-TechTalk-Sara-Nov2017.pdf"
 recording:
 ---
 

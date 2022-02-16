@@ -5,7 +5,7 @@ excerpt: Augmented reality overlays digitally created content into the user's
   real-world environment. It allows individuals to immersively connect with one
   another, query information, interact, see, and "feel" the visual data
   presented as they perform tasks.
-image: /assets/files/uploads/ar-vr-mr.gif
+image: /assets/cms/medialibrary/ar-vr-mr.gif
 resources:
   - title: Digital Reality in Government
     url: https://www2.deloitte.com/us/en/insights/industry/public-sector/augmented-virtual-reality-government-services.html
@@ -194,7 +194,7 @@ As of now there is one major vehicle for making use of Augmented Reality, howeve
 
 ## Laws and Legislation
 
-![Photo of the US Capitol building]({{ site.baseurl }}/assets/files/uploads/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
+![Photo of the US Capitol building]({{ site.baseurl }}/assets/cms/medialibrary/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
 
 * S.1790 - National Defense Authorization Act for Fiscal Year 2020
 * H.R.6395 - William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021

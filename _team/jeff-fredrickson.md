@@ -3,7 +3,7 @@ firstname: Jeff
 lastname: Fredrickson
 role: Senior Software Engineer
 email: jeffrey.fredrickson@gsa.gov
-photo: jeff_fredrickson.jpg
+photo: /assets/cms/team/jeff_fredrickson.jpg
 ordering: 10
 ---
 

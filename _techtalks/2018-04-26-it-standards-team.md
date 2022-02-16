@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Room 4232
 presenter: Cindy Smith and Gokul Ramamoorthy
 register:
-slides: "/assets/files/techtalks/ITStandardsTechTalk.pdf"
+slides: "/assets/cms/techtalks/ITStandardsTechTalk.pdf"
 recording:
 ---
 

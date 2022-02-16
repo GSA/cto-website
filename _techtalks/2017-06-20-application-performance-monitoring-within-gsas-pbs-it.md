@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F
 presenter: Phil Klokis and Allen Samuel
 register:
-slides: "/assets/files/techtalks/tech-talk-arx.pdf"
+slides: "/assets/cms/techtalks/tech-talk-arx.pdf"
 recording:
 ---
 
