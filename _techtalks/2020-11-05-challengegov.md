@@ -4,7 +4,7 @@ date: '2020-11-05'
 time: 1-1:30p ET
 location:
 presenter: Jarah Meador
-slides: "/assets/files/techtalks/TechTalkChallenge.gov.pdf"
+slides: "/assets/cms/techtalks/TechTalkChallenge.gov.pdf"
 ---
 
 The America COMPETES Reauthorization Act of 2010 provides the head of any federal agency with the authority to carry out prize competitions that have the potential to stimulate innovation and advance the agency’s mission.

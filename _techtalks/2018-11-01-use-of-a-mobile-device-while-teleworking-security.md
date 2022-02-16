@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 2213
 presenter: Debra Smith
 register:
-slides: "/assets/files/techtalks/Mobile_Device_Security_in_GSA_Security_TechTalks_Part_2_of_3.pdf"
+slides: "/assets/cms/techtalks/Mobile_Device_Security_in_GSA_Security_TechTalks_Part_2_of_3.pdf"
 ---
 
 This presentation will focus on how the home user can work safely using their GFE mobile device as well as their BYOD and personally owned mobile device.

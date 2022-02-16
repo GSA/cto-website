@@ -4,7 +4,7 @@ date: '2020-11-18'
 time: 1-1:30p ET
 location:
 presenter: Edward Meyman, Dept of Labor
-slides: "/assets/files/techtalks/DEEP ANALYTICS1.pdf"
+slides: "/assets/cms/techtalks/DEEP ANALYTICS1.pdf"
 ---
 
 We are used to destination analytics; that is, going to some place called “My Dashboards” (or similar) and playing with datasets. We will touch upon some of these considerations.

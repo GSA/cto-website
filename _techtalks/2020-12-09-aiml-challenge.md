@@ -4,7 +4,7 @@ date: '2020-12-09'
 time: 1-1:30p ET
 location:
 presenter: Ryan Day
-slides: "/assets/files/techtalks/AI_MLTechTalk12_9_2020Public.pdf"
+slides: "/assets/cms/techtalks/AI_MLTechTalk12_9_2020Public.pdf"
 ---
 
 The OCTO team worked with FAS IT Category staff to conduct an online challenge on the challenge.gov platform during summer 2020.

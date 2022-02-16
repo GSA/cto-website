@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 1147
 presenter: Sara Mooney and Angela Pitts
 register:
-slides: "/assets/files/techtalks/EDMSTaxonomyTechTalk.pdf"
+slides: "/assets/cms/techtalks/EDMSTaxonomyTechTalk.pdf"
 recording:
 ---
 

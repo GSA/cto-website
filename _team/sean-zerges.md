@@ -3,7 +3,7 @@ firstname: Sean
 lastname: Zerges
 role: Director, Office of the Chief Technology Officer
 email: sean.zerges@gsa.gov
-photo: sean_zerges.jpg
+photo: /assets/cms/team/sean_zerges.jpg
 ordering: 2
 ---
 Sean Zerges is a program manager assigned to the Office of the Chief Technology Officer within the U.S. General Services Administration’s Office of Information Technology (GSA IT).  Zerges oversees the Digital Services and Solutions Strategy Divisions, providing leadership and planning in support of implementing [GSA’s Digital Strategy](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy).  Serves as the primary point of contact between the GSA IT operations, shared services teams, and the senior leadership.

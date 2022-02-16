@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 4232
 presenter: Anne Egan
 register:
-slides: "/assets/files/techtalks/SprintbasedRequirements.pdf"
+slides: "/assets/cms/techtalks/SprintbasedRequirements.pdf"
 ---
 
 Provide an overview of Sprint-based Requirements and how the Platform Solutions team (ICPA) applies it to development projects.

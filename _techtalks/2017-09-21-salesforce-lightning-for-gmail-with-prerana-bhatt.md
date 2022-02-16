@@ -5,7 +5,7 @@ time: 1p-1:30p
 location: Virtual and 1800F Room 2213
 presenter: Prerana Bhatt
 register:
-slides: "/assets/files/techtalks/tech-talk-lightning-gmail.pdf"
+slides: "/assets/cms/techtalks/tech-talk-lightning-gmail.pdf"
 recording:
 ---
 

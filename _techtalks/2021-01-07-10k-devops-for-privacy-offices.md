@@ -4,7 +4,7 @@ date: '2021-01-07'
 time: 1-1:30p ET
 location:
 presenter: Andrew Hyder and Nico Papafil
-slides: "/assets/files/techtalks/10xPrivacyDashboard1.7.pdf"
+slides: "/assets/cms/techtalks/10xPrivacyDashboard1.7.pdf"
 ---
 
 Building Tools to Help Privacy Officers Better Protect Personal Information.

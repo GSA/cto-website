@@ -4,7 +4,7 @@ date: '2021-09-15'
 time: 1-1:30p ET
 location:
 presenter: Edward Meyman, Dept of Labor
-slides: "/assets/files/techtalks/ArchitectureoftheFuture09152021.pdf"
+slides: "/assets/cms/techtalks/ArchitectureoftheFuture09152021.pdf"
 ---
 
 IT systems must account for ever-increasing sophistication of business expectations and demands.

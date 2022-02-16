@@ -5,7 +5,7 @@ time: 1-1:30p
 location: Virtual and 1800F Rm 4232
 presenter: Lindsay Young
 register:
-slides: "/assets/files/techtalks/Battle_of_the_Bots_Tech_Talk.pdf"
+slides: "/assets/cms/techtalks/Battle_of_the_Bots_Tech_Talk.pdf"
 recording:
 ---
 
