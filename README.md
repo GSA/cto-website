@@ -29,10 +29,11 @@ First, install `bundler` if you don't already have it:
 gem install bundler
 ```
 
-Then install the project's Ruby dependencies:
+Then install the project's dependencies:
 
 ```
 bundle install --with=development
+npm install
 ```
 
 Then you can run the site locally with live reloading and local CMS:
