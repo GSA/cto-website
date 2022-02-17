@@ -2,7 +2,7 @@
 
 $(function () {
   // Scroll to section when TOC link clicked
-  $(".usa-sidenav a").on('click', function (event) {
+  $(".usa-sidenav a").on('click', function () {
     var target = $(this).attr("href");
     $("html, body").animate({ scrollTop: $(target).offset().top }, 400);
   });

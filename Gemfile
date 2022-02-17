@@ -10,6 +10,5 @@ end
 group :development, :test do
   gem 'rake'
   gem 'html-proofer'
-  gem 'eslintrb'
   gem "webrick"
 end

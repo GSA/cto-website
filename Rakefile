@@ -1,13 +1,6 @@
-require "eslintrb"
 require "html-proofer"
 
 namespace :test do
-  desc "Run ESLint"
-  task :eslint do
-    puts "Running ESLint..."
-    puts Eslintrb.report(Dir.glob("assets/js/**/*.js"), :eslintrc)
-  end
-
   namespace :htmlproofer do
     desc "Run HTML Proofer on internal links"
     task :internal_links do
@@ -37,14 +30,8 @@ namespace :test do
       HTMLProofer.check_directory("./_test", options).run
     end
   end
-
-  desc "Run all tests"
-  task all: ["eslint", "htmlproofer:internal_links"]
-
-  desc "Run all tests, including external link checks"
-  task all_external: ["eslint", "htmlproofer:all_links"]
 end
 
-task test: ["test:all"]
+task test: ["test:htmlproofer:internal_links"]
 
 task default: :test

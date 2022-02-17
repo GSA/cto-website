@@ -15,6 +15,8 @@
     "start": "concurrently npm:cms-proxy npm:jekyll",
     "jekyll": "bundle exec jekyll serve",
     "cms-proxy": "netlify-cms-proxy-server",
+    "test": "npm run test:eslint",
+    "test:eslint": "eslint 'assets/js/**/*.js'",
     "test:a11y:local": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
@@ -26,6 +28,7 @@
     "@uswds/compile": "^1.0.0-alpha.0",
     "autoprefixer": "^10.4.2",
     "concurrently": "^7.0.0",
+    "eslint": "^8.9.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-postcss": "^9.0.1",
