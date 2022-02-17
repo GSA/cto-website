@@ -1,0 +1,13 @@
+env:
+  browser: true
+  commonjs: true
+  es2021: true
+extends: eslint:recommended
+parserOptions:
+  ecmaVersion: latest
+rules: {}
+globals:
+  # These variables are always declared since their corresponding JS files
+  # are included in the site's base layout.
+  $: readonly
+  Mousetrap: readonly

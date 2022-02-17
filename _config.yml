@@ -13,17 +13,12 @@ include:
 exclude:
   - 'README.md'
   - 'LICENSE.md'
-  - 'Rakefile'
   - 'Gemfile'
   - 'Gemfile.lock'
-  - 'package.json'
+  - 'package*.json'
+  - 'package-lock.json'
   - 'node_modules'
   - 'gulpfile.js'
-  - '_test'
-  - '.circleci'
-  - 'vendor'
-  - 'Dockerfile'
-  - 'docker-run.sh'
 plugins:
   - jekyll-sitemap
 
