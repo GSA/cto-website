@@ -13,7 +13,7 @@
   "homepage": "https://github.com/GSA/cto-website#readme",
   "scripts": {
     "start": "concurrently npm:cms-proxy npm:serve",
-    "serve": "bundle exec jekyll serve",
+    "serve": "bundle exec jekyll serve --livereload",
     "cms-proxy": "netlify-cms-proxy-server",
     "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
     "test:serve": "bundle exec jekyll serve -P 54321",
