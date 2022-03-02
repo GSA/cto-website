@@ -12,14 +12,15 @@
   },
   "homepage": "https://github.com/GSA/cto-website#readme",
   "scripts": {
-    "start": "concurrently npm:cms-proxy npm:jekyll",
-    "jekyll": "bundle exec jekyll serve",
+    "start": "concurrently npm:cms-proxy npm:serve",
+    "serve": "bundle exec jekyll serve",
     "cms-proxy": "netlify-cms-proxy-server",
-    "test": "npm run test:eslint && npm run test:links:internal",
+    "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
+    "test:serve": "bundle exec jekyll serve -P 54321",
     "test:eslint": "eslint 'assets/js/**/*.js'",
-    "test:links:internal": "blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:4000",
-    "test:links:external": "blc -i -r http://localhost:4000",
-    "test:a11y:local": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml",
+    "test:links:internal": "start-server-and-test test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
+    "test:links:external": "start-server-and-test test:serve 54321 'blc -i -r http://localhost:54321'",
+    "test:a11y:local": "start-server-and-test test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
   "devDependencies": {
@@ -44,7 +45,8 @@
     "pa11y-ci": "^3.0.1",
     "postcss": "^8.4.6",
     "postcss-csso": "^6.0.0",
-    "sass": "^1.49.7"
+    "sass": "^1.49.7",
+    "start-server-and-test": "^1.14.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.0.0",

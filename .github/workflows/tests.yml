@@ -47,9 +47,6 @@ jobs:
       - name: Run JavaScript linter
         run: npm run test:eslint
 
-      - name: Start local Jekyll instance in background
-        run: bundle exec jekyll serve --detach
-
       - name: Run internal link checker
         run: npm run test:links:internal
 
@@ -73,9 +70,6 @@ jobs:
 
       - name: Install Node dependencies
         run: npm install
-
-      - name: Start local Jekyll instance in background
-        run: bundle exec jekyll serve --detach
 
       - name: Run accessibility tests
         run: npm run test:a11y:local
