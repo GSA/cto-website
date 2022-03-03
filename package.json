@@ -16,7 +16,7 @@
     "serve": "bundle exec jekyll serve --livereload",
     "cms-proxy": "netlify-cms-proxy-server",
     "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
-    "test:serve": "bundle exec jekyll serve -P 54321",
+    "test:serve": "bundle exec jekyll serve -P 54321 -d _test",
     "test:eslint": "eslint 'assets/js/**/*.js'",
     "test:links:internal": "start-server-and-test test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
     "test:links:external": "start-server-and-test test:serve 54321 'blc -i -r http://localhost:54321'",

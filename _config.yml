@@ -19,6 +19,7 @@ exclude:
   - 'package-lock.json'
   - 'node_modules'
   - 'gulpfile.js'
+  - '_test'
 plugins:
   - jekyll-toc
   - jekyll-sitemap
