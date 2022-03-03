@@ -189,23 +189,23 @@ During 2021, the AIOps total market valuation grew from approximately $2B in 202
 
 #### Some Example Companies
 
-![New Relic logo]({{ site.baseurl }}/assets/cms/medialibrary/newrelic.png)
+![New Relic logo]({{ site.baseurl }}/assets/cms/medialibrary/newrelic.png "Source: New Relic")
 
 New Relic - One of the newer, but larger vendors. They feature a large array of integrations applicable to GSA, including JIRA and ServiceNow. New Relic emphasizes on-prem and hybrid applications in their marketing materials.
 
-![Datadog logo]({{ site.baseurl }}/assets/cms/medialibrary/datadog.png)
+![Datadog logo]({{ site.baseurl }}/assets/cms/medialibrary/datadog.png "Source: Datadog")
 
 Datadog - Datadog is one of the larger, more mature vendors that focuses on cloud monitoring and security. Datadog is currently FedRAMP moderate. Currently, Datadog’s AIOps is layered on their existing products. They also tout their ability to customize workflows and automated remedies to IT problems.
 
-![Dynatrace logo]({{ site.baseurl }}/assets/cms/medialibrary/dynatrace.png)
+![Dynatrace logo]({{ site.baseurl }}/assets/cms/medialibrary/dynatrace.png "Source: Dynatrace")
 
 Dynatrace - Dynatrace’s AIOps offering stands alone from other Dynatrace products. They also offer integrations with a number of current GSA tools. Dynatrace emphasizes that their AI Platform, “Davis” heavily focuses on actual customer impact, for example not initiating remedies or alerting when detected anomalies impact few or no customers. Finally, Dynatrace self-distinguishes themselves as superior at adapting to an organization’s evolving IT environment by scanning for new elements to the IT environment.
 
-![Appdynamics logo]({{ site.baseurl }}/assets/cms/medialibrary/appdynamics.png)
+![Appdynamics logo]({{ site.baseurl }}/assets/cms/medialibrary/appdynamics.png "Source: Appdynamics")
 
 Appdynamics - Now a part of Cisco, Appdynamics began as a traditional APM company and became a leader in that space; however, their AIOps product is relatively immature as of this writing. For example, they identify automated business-impact decision making as a future state, whereas other vendors currently have features addressing this need. That said, being under Cisco’s umbrella may allow Appdynamics to catch up quickly.
 
-![Devo logo]({{ site.baseurl }}/assets/cms/medialibrary/devo.png)
+![Devo logo]({{ site.baseurl }}/assets/cms/medialibrary/devo.png "Source: Devo")
 
 Devo - Devo began as the only cloud-native APM company and is now centered on AIOps for both service and security operations. They are one of the few vendors who measure and deliver performance beyond traditional IT metrics by focusing on end-user experience. Third party evaluators also cite their unique ability to address changing data formats.
 
