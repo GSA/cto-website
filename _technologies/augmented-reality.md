@@ -1,11 +1,12 @@
 ---
 title: Augmented Reality
-subtitle: Immersive digital experiences within natural environments
+intro:
+  text: Immersive digital experiences within natural environments
+  image: /assets/cms/medialibrary/ar-vr-mr.gif
 excerpt: Augmented reality overlays digitally created content into the user's
   real-world environment. It allows individuals to immersively connect with one
   another, query information, interact, see, and "feel" the visual data
   presented as they perform tasks.
-image: /assets/cms/medialibrary/ar-vr-mr.gif
 resources:
   - title: Digital Reality in Government
     url: https://www2.deloitte.com/us/en/insights/industry/public-sector/augmented-virtual-reality-government-services.html

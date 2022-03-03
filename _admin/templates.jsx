@@ -2,19 +2,19 @@ class EmergingTechnologyPreview extends React.Component {
   render() {
     const entry = this.props.entry
     const title = entry.getIn(["data", "title"])
-    const subtitle = entry.getIn(["data", "subtitle"])
-    const imagePath = entry.getIn(["data", "image"])
-    const image = this.props.getAsset(imagePath)
+    const introText = entry.getIn(["data", "intro", "text"])
+    const introImagePath = entry.getIn(["data", "intro", "image"])
+    const image = this.props.getAsset(introImagePath)
     const content = this.props.widgetFor("body")
 
     return (
       <div class="grid-container">
 
-        <section class="emergingtech-intro">
+        <section class="techradar-intro">
           <div class="grid-row">
             <div class="tablet:grid-col-8">
-              <h2 class="emergingtech-intro__title">{title}</h2>
-              <p class="emergingtech-intro__text">{subtitle}</p>
+              <h2 class="techradar-intro__title">{title}</h2>
+              <p class="techradar-intro__text">{introText}</p>
             </div>
             <div class="tablet:grid-col-4">
               <img src={image} alt={title}/>

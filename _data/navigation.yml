@@ -5,3 +5,14 @@ primary:
     href: /playbooks/
   - text: Tech Talks
     href: /techtalks/
+techradar:
+  - text: TechRadar Home
+    href: /techradar/home/
+  - text: Emerging Technologies
+    href: /techradar/technologies/
+  - text: About
+    href: /techradar/about/
+  - text: Engagement
+    href: /techradar/engagement/
+  - text: Events
+    href: /techradar/events/

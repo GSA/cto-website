@@ -1,13 +1,14 @@
 ---
 title: AIOps
-subtitle: Automate IT Operations with AI and ML
+intro:
+  text: Automate IT Operations with AI and ML
+  image: /assets/cms/medialibrary/artificial-intelligence.gif
 excerpt: AIOps platforms utilize big data, modern machine learning and other
   advanced analytics technologies to directly and indirectly enhance IT
   operations (monitoring, automation and service desk) functions with proactive,
   personal and dynamic insight. AIOps platforms enable the concurrent use of
   multiple data sources, data collection methods, analytical (real-time and
   deep) technologies, and presentation technologies.
-image: /assets/cms/medialibrary/artificial-intelligence.gif
 resources:
   - title: H.R.133 - Consolidated Appropriations Act, 2021
     url: https://www.congress.gov/bill/116th-congress/house-bill/133

@@ -19,8 +19,11 @@ exclude:
   - 'package-lock.json'
   - 'node_modules'
   - 'gulpfile.js'
+  - '_test'
 plugins:
+  - jekyll-toc
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 collections:
   team:
@@ -37,6 +40,9 @@ collections:
     output: true
   technologies:
     permalink: /techradar/technologies/:title/
+    output: true
+  techradar:
+    permalink: /techradar/:title/
     output: true
 
 defaults:
@@ -62,6 +68,10 @@ defaults:
       type: technologies
     values:
       layout: technology
+  - scope:
+      type: techradar
+    values:
+      layout: techradar
   # Exclude assets from sitemap.xml
   - scope:
       path: "assets/**"

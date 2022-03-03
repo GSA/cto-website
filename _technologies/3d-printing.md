@@ -1,10 +1,11 @@
 ---
 title: 3D Printing
-subtitle: From imagination to reality
+intro:
+  text: From imagination to reality
+  image: /assets/cms/medialibrary/3d-printing.jpg
 excerpt: Three-dimensional (3D) printing technology, also known as additive
   manufacturing, is expected to mature substantially in the coming decades to
   allow the use of new materials, faster production speeds, and lower costs.
-image: /assets/cms/medialibrary/3d-printing.jpg
 resources:
   - title: GSA 3D Printing/Additive Manufacturing Solutions
     url: https://gsa.gov/3dprint
