@@ -16,7 +16,7 @@ resources:
       for Fiscal Year 2021
     url: https://www.congress.gov/bill/116th-congress/house-bill/6395
 ---
-## Possible Applications
+## Possible Applications at GSA
 
 AI (artificial intelligence) has been around for a while now in terms of ‘IT Years’ and has become very popular in some areas and still quite nuanced in others. Its benefits have shown quite promising results and our analysis at and for GSA so far show’s a varying level of implementation, interest and scaling/expansion potential that we’re working to leverage across the Enterprise where possible.
 
