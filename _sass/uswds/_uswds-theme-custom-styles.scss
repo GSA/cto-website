@@ -62,6 +62,17 @@ table {
   @extend .usa-table;
 }
 
+// "Return to the top of this page" link
+.top-link {
+  width: inherit;
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 99;
+  padding: 0.75rem;
+}
+
 // Icons for cards on the front page
 .landing-area-icon {
   text-align: center;
