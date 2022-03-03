@@ -2,23 +2,23 @@ class EmergingTechnologyPreview extends React.Component {
   render() {
     const entry = this.props.entry;
     const title = entry.getIn(["data", "title"]);
-    const subtitle = entry.getIn(["data", "subtitle"]);
-    const imagePath = entry.getIn(["data", "image"]);
-    const image = this.props.getAsset(imagePath);
+    const introText = entry.getIn(["data", "intro", "text"]);
+    const introImagePath = entry.getIn(["data", "intro", "image"]);
+    const image = this.props.getAsset(introImagePath);
     const content = this.props.widgetFor("body");
     return /*#__PURE__*/React.createElement("div", {
       class: "grid-container"
     }, /*#__PURE__*/React.createElement("section", {
-      class: "emergingtech-intro"
+      class: "techradar-intro"
     }, /*#__PURE__*/React.createElement("div", {
       class: "grid-row"
     }, /*#__PURE__*/React.createElement("div", {
       class: "tablet:grid-col-8"
     }, /*#__PURE__*/React.createElement("h2", {
-      class: "emergingtech-intro__title"
+      class: "techradar-intro__title"
     }, title), /*#__PURE__*/React.createElement("p", {
-      class: "emergingtech-intro__text"
-    }, subtitle)), /*#__PURE__*/React.createElement("div", {
+      class: "techradar-intro__text"
+    }, introText)), /*#__PURE__*/React.createElement("div", {
       class: "tablet:grid-col-4"
     }, /*#__PURE__*/React.createElement("img", {
       src: image,

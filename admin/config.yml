@@ -56,9 +56,13 @@ collections:
     slug: "{{title}}"
     fields:
       - { label: "Title", name: title, widget: string }
-      - { label: "Subtitle", name: subtitle, widget: string }
+      - label: Intro
+        name: intro
+        widget: object
+        fields:
+        - { label: "Text", name: text, widget: string }
+        - { label: "Image", name: image, widget: image, choose_url: false, media_folder: "/assets/cms/medialibrary" }
       - { label: "Excerpt", name: excerpt, widget: text }
-      - { label: "Image", name: image, widget: image, choose_url: false, media_folder: "/assets/cms/medialibrary" }
       - { label: "Content", name: body, widget: markdown, hint: "Use Heading 2 for major sections, with Headings 3-6 underneath as needed. Do not use Heading 1 at all." }
       - label: "Resources"
         name: resources
@@ -84,6 +88,12 @@ collections:
         fields:
           - label: Primary Navigation Link
             name: primary
+            widget: list
+            fields:
+              - { label: "Text", name: text, widget: string }
+              - { label: "Link", name: href, widget: string }
+          - label: TechRadar Navigation Link
+            name: techradar
             widget: list
             fields:
               - { label: "Text", name: text, widget: string }

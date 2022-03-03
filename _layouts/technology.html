@@ -1,40 +1,8 @@
 ---
-layout: page
+layout: techradar
 description: >
   This layout is used by the individual Emerging Technology pages.
 ---
-
-<h1>CTO TechRadar</h1>
-
-<nav class="usa-breadcrumb" aria-label="Breadcrumbs,,">
-  <ol class="usa-breadcrumb__list">
-    <li class="usa-breadcrumb__list-item">
-      <a href="{{ '/techradar' | prepend: site.baseurl }}" class="usa-breadcrumb__link">
-        <span>CTO TechRadar</span>
-      </a>
-    </li>
-    <li class="usa-breadcrumb__list-item">
-      <a href="{{ '/techradar/technologies' | prepend: site.baseurl }}" class="usa-breadcrumb__link">
-        <span>Emerging Technologies</span>
-      </a>
-    </li>
-    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-      <span>{{ page.title }}</span>
-    </li>
-  </ol>
-</nav>
-
-<section class="emergingtech-intro">
-  <div class="grid-row">
-    <div class="tablet:grid-col-8">
-      <h2 class="emergingtech-intro__title">{{ page.title }}</h2>
-      <p class="emergingtech-intro__text">{{ page.subtitle }}</p>
-    </div>
-    <div class="tablet:grid-col-4">
-      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}">
-    </div>
-  </div>
-</section>
 
 <div class="grid-row grid-gap">
 

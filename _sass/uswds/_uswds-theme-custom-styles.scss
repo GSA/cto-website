@@ -30,32 +30,36 @@ body {
   line-height: line-height('body', 5);
 }
 
-.usa-header {
-  background-color: color('base-darkest');
-}
-
-.usa-navbar {
-  border-bottom: none;
-}
-
-.usa-logo__text a {
-  font-size: font-size('body', 'xl');
-  font-weight: font-weight('light');
-  color: color('base-lightest');
-}
-
-.usa-nav__link span {
-  color: color('primary-light');
-}
-
 
 //
 // CUSTOM STYLES
 //
 
+// Header
+.techgsa-header {
+  background-color: color('base-darkest');
+}
+
+// Primary navigation
+.techgsa-nav-container {
+  .usa-navbar {
+    border-bottom: none;
+  }
+
+  .usa-logo__text a {
+    font-size: font-size('body', 'xl');
+    font-weight: font-weight('light');
+    color: color('base-lightest');
+  }
+
+  .usa-nav__link span {
+    color: color('primary-light');
+  }
+}
+
 // Apply USWDS table style to all tables
 table {
-  @extend .usa-table
+  @extend .usa-table;
 }
 
 // Icons for cards on the front page
@@ -190,18 +194,49 @@ table {
   }
 }
 
-// Intro area at top of Emerging Technology pages
-.emergingtech-intro {
+// TechRadar navigation
+.techradar-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.techradar-nav__items {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  @media screen and (max-width: 640px) {
+    display: block;
+  }
+}
+.techradar-nav__item {
+  padding: 0 2rem 1rem 0;
+  margin: 0;
+}
+.techradar-nav__item a {
+  color: color("primary-dark");
+  text-decoration: none;
+  font-weight: font-weight("bold");
+}
+.techradar-nav__current {
+  border-bottom: 3px solid color("primary-dark");
+}
+
+// Intro area at top of TechRadar pages
+.techradar-intro {
   padding: 2em;
   margin-bottom: 2em;
   background-color: color("primary-darker");
 }
-.emergingtech-intro__title {
+.techradar-intro__title {
   margin: 0;
   line-height: line-height("heading", 4);
   color: white;
 }
-.emergingtech-intro__text {
+.techradar-intro__text {
   margin: 0;
   color: color("accent-cool");
   font-size: size("body", "lg");
