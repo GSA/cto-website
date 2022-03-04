@@ -16,7 +16,7 @@ CTO TechRadar partners with GSA offices and Federal agencies to accelerate emerg
         </header>
         <div class="usa-card__media">
           <div class="usa-card__img">
-            <a href="{{ tech.url | prepend: site.baseurl }}"><img src="{{ tech.intro.image | prepend: site.baseurl }}" alt="" /></a>
+            <a href="{{ tech.url | prepend: site.baseurl }}"><img src="{{ tech.intro.image | prepend: site.baseurl }}" alt="{{ tech.title }}" /></a>
           </div>
         </div>
         <div class="usa-card__body">
