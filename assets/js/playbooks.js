@@ -27,9 +27,6 @@ $(function () {
     offset: -120
   });
 
-  // Dynamically create "Back to top" links at each heading
-  $("#main-content h2, #main-content h3, #main-content h4, #main-content h5").before('<p><small><a href="#">Back to top</a></small></p>');
-
   // Initially highlight the top level TOC link
   $(".usa-sidenav a:first").addClass("usa-current");
 });
