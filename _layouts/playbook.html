@@ -1,10 +1,7 @@
 ---
 layout: page
 description: >
-  This layout is used for playbooks. Remember to use 'toc: true' in your
-  playbook's front matter to automatically create the table of contents.
-custom_js:
-  - playbooks
+  This layout is used for playbooks.
 ---
 
 <h1>GSA Tech Playbooks</h1>
@@ -21,14 +18,12 @@ custom_js:
 </nav>
 
 <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-4">
-      <div class="position-sticky top-3 margin-top-3">
-        <nav aria-label="Playbook table of contents">
-          {{ content | toc_only }}
-        </nav>
-      </div>
+  <div class="tablet:grid-col-4">
+    <div class="position-sticky top-3 margin-top-3">
+      <techgsa-toc target="#content" min="2" max="4"></techgsa-toc>
     </div>
-  <div class="tablet:grid-col-8">
+  </div>
+  <div class="tablet:grid-col-8" id="content">
     {{ content }}
   </div>
 </div>

@@ -21,7 +21,6 @@ exclude:
   - 'gulpfile.js'
   - '_test'
 plugins:
-  - jekyll-toc
   - jekyll-sitemap
   - jekyll-redirect-from
 
@@ -82,8 +81,3 @@ defaults:
       path: "admin/"
     values:
       sitemap: false
-
-toc:
-  list_class: usa-sidenav
-  sublist_class: usa-sidenav__sublist
-  item_class: usa-sidenav__item

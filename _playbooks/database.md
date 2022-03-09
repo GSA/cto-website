@@ -3,7 +3,6 @@ layout: playbook
 title: Database Transformation Playbook
 description: This playbook is designed to help you transform your database technology and overcome any obstacles on the way.
 permalink: /playbooks/database/
-toc: true
 ---
 
 ## Database Transformation Playbook
