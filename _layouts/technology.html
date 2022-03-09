@@ -6,14 +6,21 @@ description: >
 
 <div class="grid-row grid-gap">
 
-  <div class="tablet:grid-col-8">
-    {{ content }}
-  </div>
-
   <div class="tablet:grid-col-4">
 
+    <div class="position-sticky top-3 margin-top-3" style="background-color: white; z-index: 1;">
+      <h3>Contents</h2>
+      <techgsa-toc target="#content" min="2" max="2"></techgsa-toc>
+    </div>
+
+  </div>
+
+  <div class="tablet:grid-col-8" id="content">
+
+    {{ content }}
+
     {% if page.resources %}
-      <h3>Resources & Artifacts</h3>
+      <h2 id="resources-and-artifacts">Resources & Artifacts</h2>
       <ul class="usa-icon-list">
         {% for item in page.resources %}
           <li class="usa-icon-list__item">
@@ -31,7 +38,7 @@ description: >
     {% endif %}
 
     {% if page.stakeholders %}
-      <h3>Sectors & Stakeholders</h3>
+      <h2 id="sectors-stakeholders">Sectors & Stakeholders</h2>
       <ul class="usa-icon-list">
         {% for item in page.stakeholders %}
           <li class="usa-icon-list__item">

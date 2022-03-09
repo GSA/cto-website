@@ -3,7 +3,6 @@ layout: playbook
 title: Technology Business Management Playbook
 description: This playbook is designed to assist federal agencies as they start Technology Business Management (TBM) implementation. While each agency should tailor its TBM implementation to their organization’s current state and desired outcomes, the playbook offers guidance and lessons learned from the U.S. General Services Administration (GSA) and the U.S. Department of Education.
 permalink: /playbooks/tbm/
-toc: true
 ---
 
 ## Technology Business Management Playbook
