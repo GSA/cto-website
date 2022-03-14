@@ -24,6 +24,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+# Publish posts that have a date in the future
+future: true
+
 collections:
   team:
     permalink: /team/:name/
