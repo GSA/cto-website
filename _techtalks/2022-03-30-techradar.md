@@ -1,5 +1,5 @@
 ---
-title: TechRadar Tech Talk
+title: TechRadar
 date: 2022-03-30
 time: 1:00pm - 1:30pm ET
 location: Virtual
