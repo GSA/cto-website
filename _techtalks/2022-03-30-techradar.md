@@ -2,7 +2,7 @@
 title: TechRadar
 date: 2022-03-30
 time: 1:00pm - 1:30pm ET
-location: Virtual
+location: Virtual upon invitation
 presenter: Billy Wales
 ---
 The Chief Technology Office (CTO) TechRadar partners with GSA offices and Federal agencies to accelerate emerging tech assessment, alignment, and action by connecting Federal innovators with new content and collaborators to create new value.
