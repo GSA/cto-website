@@ -91,7 +91,7 @@ When considering any new technology your first question should be, 'What problem
 
 [Immersive Studios](https://weareimmersive.co.uk): Immersive Studios, the creators of Pokemon Go, have been creating award-winning VR, AR and 360 video experiences. They are based in Norfolk, UK, and have employees working together with all types of clients, from international charities to retail giants. They develop experiences such as virtual property tours, university open days, and driving experiences.
 
-[Mechdyne](https://www.mechdyne.com/av-vr-solutions/solutions/virtual-augmented-reality/cave/): The Mechdyne CAVE virtual reality (VR) system is a room-sized, fully immersive VR experience that combines stereoscopic displays, computer graphics, and motion-tracking technology to create a full-body sense of presence in a virtual environment. Their application six screens are used, a CAVE virtual reality environment allows one or more users to become fully immersed in and interact with their virtual models.”
+[Mechdyne](https://www.mechdyne.com/av-vr-solutions/solutions/virtual-augmented-reality/cave/): "The Mechdyne CAVE virtual reality (VR) system is a room-sized, fully immersive VR experience that combines stereoscopic displays, computer graphics, and motion-tracking technology to create a full-body sense of presence in a virtual environment. Their application six screens are used, a CAVE virtual reality environment allows one or more users to become fully immersed in and interact with their virtual models.”
 
 [Microsoft](https://www.microsoft.com/en-us/hololens/apps)
 
