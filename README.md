@@ -65,6 +65,13 @@ npm update uswds
 npx gulp updateUswds
 ```
 
+To update CMS preview templates (in the `_admin` directory) and JSX components (in the `_jsx` directory):
+
+```
+npx gulp compileAdminTemplates
+npx gulp compileComponents
+```
+
 To modify USWDS custom styles, edit these files:
 
 * [_techgsa-custom-settings.scss](/_sass/uswds/_techgsa-custom-settings.scss): overrides settings found in the various USWDS theme files in `_sass/uswds`
