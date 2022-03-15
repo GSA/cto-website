@@ -1,13 +1,17 @@
 ---
 title: Virtual Presence
 intro:
-  text: Virtual Presence
+  text: Immersive collaborative environments
   image: /assets/cms/medialibrary/ar-vr-mr.gif
 excerpt: Virtual Presence (VP) is an immersive environment that enables users to
   feel as if they are physically present at an actual location with other users.
   It utilizes technologies such as Augmented Reality (AR) and Virtual Reality
   (VR) to deliver this experience.
 ---
+## Background
+
+Virtual Presence (VP) is an immersive environment that enables users to feel as if they are physically present at an actual location with other users. It utilizes technologies such as Augmented Reality (AR) and Virtual Reality (VR) to deliver this experience.
+
 ## Possible Applications at GSA
 
 At the time of publishing, we have not identified any current efforts toward providing an immersive Virtual Presence (VP) at GSA.  However, innovation in this area across Industry, Academia and Federal entities have been used to provide services that GSA would potentially benefit from.  We are currently exploring some of these within GSA and expect to provide additional information as it becomes available. The following possibilities are solutions based on existing technologies highlighted in our [Companies and Contracts section](#companies-and-contracts).
