@@ -97,7 +97,7 @@ When considering any new technology your first question should be, 'What problem
 
 * Hardware
 
-  * [HoloLens2](https://www.microsoft.com/en-us/hololens/hardware)
+  * [HoloLens2](https://www.microsoft.com/en-us/hololens/hardware) Features include: “hand tracking, built-in voice commands, eye tracking, spatial mapping, and large field of view. Fully articulated hand tracking, touch, grasp, and move holograms in ways that feel natural.”
 * Software
 
   * [Dynamics 365](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/): This technology may seem familiar to GSA users who have had computer issues requiring the help desk to log in remotely. Dynamics 365 takes it quite a bit  further with one of it’s noted capabilities by allowing the technician and user to join a mixed-reality call. In some configurations, it supports fully immersive environments.
