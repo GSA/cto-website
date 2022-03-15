@@ -156,7 +156,7 @@ Virtual Presence Robots are mobile robots that navigate a real office environmen
 ### Contracts
 
 Current contracts (as of March 1, 2022) referencing technologies in this area include:
-The Source 8ASTARS3 is 8(a) Streamlined Technology Acquisition Resource for Services (STARS) III - 8(a) STARS III is a multiple award, indefinite-delivery, indefinite-quantity (MA/IDIQ) GWAC set aside exclusively for SBA certified 8(a) firms per Federal Acquisition Regulation (FAR) 19.8. 8(a) STARS III provides Federal agencies with customized IT services and IT services-based solutions*, both commercial and non-commercial, as defined in the Clinger-Cohen Act and FAR 2.101. 
+The Source [8ASTARS3](https://www.gsaelibrary.gsa.gov/ElibMain/scheduleSummary.do?scheduleNumber=8ASTARS3) is 8(a) Streamlined Technology Acquisition Resource for Services (STARS) III - 8(a) STARS III is a multiple award, indefinite-delivery, indefinite-quantity (MA/IDIQ) GWAC set aside exclusively for SBA certified 8(a) firms per Federal Acquisition Regulation (FAR) 19.8. 8(a) STARS III provides Federal agencies with customized IT services and IT services-based solutions*, both commercial and non-commercial, as defined in the Clinger-Cohen Act and FAR 2.101. 
 
 The category STARS3 ET 8(a) Streamlined Technology Acquisition Resource for Services (STARS) III Emerging Technology-Focused IT Services - This scope sub-area provides for IT services-based solutions which involve emerging technology (ET) innovation to securely accelerate transformation and advance mission outcomes. A task order requirement can fit in this sub-area if it includes IT services-based solutions with ET as the focus.
 
