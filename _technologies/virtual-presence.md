@@ -3,7 +3,10 @@ title: Virtual Presence
 intro:
   text: Virtual Presence
   image: /assets/cms/medialibrary/ar-vr-mr.gif
-excerpt: Virtual Presence
+excerpt: Virtual Presence (VP) is an immersive environment that enables users to
+  feel as if they are physically present at an actual location with other users.
+  It utilizes technologies such as Augmented Reality (AR) and Virtual Reality
+  (VR) to deliver this experience.
 ---
 ## Possible Applications at GSA
 
