@@ -84,8 +84,20 @@ function watchAdminTemplates() {
   return gulp.watch("_admin/*.jsx", compileAdminTemplates);
 }
 
+function compileComponents() {
+  const source = "_jsx/*.jsx";
+  const destination = "assets/js";
+  return gulp.src(source).pipe(babel({ presets: ["@babel/preset-react"]})).pipe(gulp.dest(destination));
+}
+
+function watchComponents() {
+  return gulp.watch("_jsx/*.jsx", compileComponents);
+}
+
 exports.copyAssets = copyAssets;
 exports.compileAdminTemplates = compileAdminTemplates;
 exports.watchAdminTemplates = gulp.series(compileAdminTemplates, watchAdminTemplates);
-exports.watch = gulp.parallel(this.watchAdminTemplates, uswds.watch);
+exports.compileComponents = compileComponents;
+exports.watchComponents = gulp.series(compileComponents, watchComponents);
+exports.watch = gulp.parallel(this.watchAdminTemplates, this.watchComponents, uswds.watch);
 exports.default = this.watch;
