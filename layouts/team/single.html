@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+  <div class="grid-container">
+
+    <h1>The CTO Team</h1>
+
+    <div class="techgsa-bio grid-row grid-gap">
+      <div class="tablet:grid-col-auto">
+        {{ if .Params.photo }}
+          <img src="{{ .Params.photo | }}" alt="Photo of {{ .Title }}">
+        {{ else }}
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <title>Photo of {{ .Title }}</title>
+            <use xlink:href="/assets/uswds/img/sprite.svg#person"></use>
+          </svg>
+        {{ end }}
+      </div>
+      <div class="techgsa-bio__title tablet:grid-col-fill">
+        <h2>{{ .Title }}</h2>
+        {{ if .Params.role }}<p class="text-bold">{{ .Params.role }}</p>{{ end }}
+      </div>
+    </div>
+
+    {{ .Content }}
+
+  </div>
+
+{{ end }}

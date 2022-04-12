@@ -5,7 +5,7 @@ This is the website for the GSA Office of the Chief Technology Officer.
 
 ## Architecture
 
-This is a [Jekyll-based](http://jekyllrb.com/) website designed to be published on the
+This is a [Hugo-based](https://gohugo.io/) website designed to be published on the
 [Federalist](https://federalist.18f.gov/) platform.
 
 The website utilizes the [US Web Design System](https://designsystem.digital.gov/).
@@ -17,22 +17,15 @@ The website utilizes the [US Web Design System](https://designsystem.digital.gov
 
 Ensure you have the following installed on your local machine:
 
-* Ruby
-* Node.js
+* [Hugo](https://gohugo.io/getting-started/installing/)
+* [Node.js](https://nodejs.org/en/)
 
 
 ### Building and previewing the website
 
-First, install `bundler` if you don't already have it:
+First, install the project's dependencies:
 
 ```
-gem install bundler
-```
-
-Then install the project's dependencies:
-
-```
-bundle install --with=development
 npm install
 ```
 
@@ -42,44 +35,22 @@ Then you can run the site locally with live reloading and local CMS:
 npm start
 ```
 
-You should now be able to preview the site on your local machine at [http://localhost:4000/](http://localhost:4000/). The CMS is at [http://localhost:4000/admin/](http://localhost:4000/admin/).
+You should now be able to preview the site on your local machine at [http://localhost:1313/](http://localhost:1313/). The CMS is at [http://localhost:1313/admin/](http://localhost:1313/admin/).
 
 
 ## Development
 
 ### Assets
 
-This project uses `gulp` to manage static asset files. It also includes some tasks derived from [uswds-compile](https://github.com/uswds/uswds-compile) to manage USWDS-specific assets.
+This project uses [Hugo Pipes](https://gohugo.io/hugo-pipes/) to manage most static asset files. It also uses [uswds-compile](https://github.com/uswds/uswds-compile) to manage USWDS-specific assets, as well as the site's stylesheet.
 
-To update vendor-provided Node modules:
+To override USWDS settings, edit [assets/sass/uswds-settings.scss](/assets/sass/uswds-settings.scss). We generally prefer to customize these settings rather then create new CSS style declarations when possible.
 
-```
-npm update
-npx gulp copyAssets
-```
-
-To update USWDS:
-
-```
-npm update uswds
-npx gulp updateUswds
-```
-
-To update CMS preview templates (in the `_admin` directory) and JSX components (in the `_jsx` directory):
-
-```
-npx gulp compileAdminTemplates
-npx gulp compileComponents
-```
-
-To modify USWDS custom styles, edit these files:
-
-* [_techgsa-custom-settings.scss](/_sass/uswds/_techgsa-custom-settings.scss): overrides settings found in the various USWDS theme files in `_sass/uswds`
-* [_uswds-theme-custom-styles.scss](/_sass/uswds/_uswds-theme-custom-styles.scss): contains all website styles
+To edit site styles, use [assets/sass/styles.scss](/assets/sass/styles.scss).
 
 After changing the styles, recompile them with `npx gulp compile`. Or you can automatically compile edited Sass files during development by running: `npx gulp watch` or just `npx gulp`.
 
-Note that when upgrading USWDS, it may be necessary to manually merge the newer files with the customizations in `_uswds-theme-custom-styles.scss`.
+Note that when updating USWDS to a newer version, it may be necessary to manually merge the newer files with the customizations to ensure that USWDS is importing the site's custom styles file.
 
 ## License
 

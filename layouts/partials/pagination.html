@@ -1,0 +1,80 @@
+{{/*  Based on:  */}}
+{{/*  https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/pagination.html  */}}
+
+{{ $pag := $.Paginator }}
+
+{{ if gt $pag.TotalPages 1 -}}
+  <nav aria-label="Pagination" class="usa-pagination">
+    <ul class="usa-pagination__list">
+
+      {{ if $pag.HasPrev }}
+      <li class="usa-pagination__item usa-pagination__arrow">
+        <a
+          href="{{ $pag.Prev.URL }}"
+          class="usa-pagination__link usa-pagination__previous-page"
+          aria-label="Previous page"
+        >
+          <svg class="usa-icon" aria-hidden="true" role="img">
+            <use xlink:href="/assets/uswds/img/sprite.svg#navigate_before"></use>
+          </svg>
+
+          <span class="usa-pagination__link-text"> Previous </span>
+        </a>
+      </li>
+      {{ end }}
+
+      {{- $ellipsed := false -}}
+      {{- $shouldEllipse := false -}}
+      {{- range $pag.Pagers -}}
+      {{- $right := sub .TotalPages .PageNumber -}}
+      {{- $showNumber := or (le .PageNumber 1) (eq $right 0) -}}
+      {{- $showNumber := or $showNumber (le .TotalPages 5) -}}
+      {{- $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2))) -}}
+      {{- if $showNumber -}}
+        {{- $ellipsed = false -}}
+        {{- $shouldEllipse = false -}}
+      {{- else -}}
+        {{- $shouldEllipse = not $ellipsed -}}
+        {{- $ellipsed = true -}}
+      {{- end -}}
+      {{- if $showNumber }}
+      <li class="usa-pagination__item usa-pagination__page-no">
+        <a
+          href="{{ .URL }}"
+          class="usa-pagination__button {{ if eq . $pag }}usa-current{{ end }}"
+          aria-label="Page {{ .PageNumber }}"
+          {{ if eq . $pag }}aria-current="page"{{ end }}
+        >
+        {{ .PageNumber }}
+        </a>
+      </li>
+      {{- else if $shouldEllipse }}
+      <li
+        class="usa-pagination__item usa-pagination__overflow"
+        role="presentation"
+      >
+        <span> … </span>
+      </li>
+      {{- end -}}
+      {{- end }}
+      {{ if $pag.HasNext }}
+      <li class="usa-pagination__item usa-pagination__arrow">
+        <a
+          href="{{ $pag.Next.URL }}"
+          class="usa-pagination__link usa-pagination__next-page"
+          aria-label="Next page"
+        >
+          <span class="usa-pagination__link-text"> Next </span>
+
+          <svg class="usa-icon" aria-hidden="true" role="img">
+            <use xlink:href="/assets/uswds/img/sprite.svg#navigate_next"></use>
+          </svg>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}
+
+
+

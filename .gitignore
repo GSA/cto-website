@@ -1,7 +1,6 @@
-_site
-_test
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-.DS_Store
-node_modules
+/node_modules/
+/public/
+/resources/_gen/
+/.hugo_build.lock
+/test/
+

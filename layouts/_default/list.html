@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <div class="grid-container">
+    <h1>{{ title .Title }}</h1>
+
+    {{ .Content }}
+
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <a href="{{.RelPermalink}}">{{ title .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

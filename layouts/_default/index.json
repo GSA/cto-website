@@ -1,0 +1,9 @@
+{{- $scratch := newScratch -}}
+
+{{- range .Site.RegularPages -}}
+  {{- if (ne .Params.excludeFromSearch true) -}}
+    {{- $scratch.Add "index" (slice (dict "title" .Title "collection" .Section "search_excerpt" .Summary "search_text" .Plain "url" .RelPermalink)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $scratch.Get "index" | jsonify -}}

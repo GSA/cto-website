@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+  <div class="grid-container">
+
+    {{ partial "techradar-heading" . }}
+
+    <div class="grid-row grid-gap">
+
+      <div class="tablet:grid-col-4">
+        <div class="position-sticky top-3 margin-top-3" style="background-color: white; z-index: 1;">
+          <h3>Contents</h2>
+          <techgsa-toc target="#content" min="2" max="2"></techgsa-toc>
+        </div>
+      </div>
+
+      <div class="tablet:grid-col-8" id="content">
+
+        {{ .Content }}
+
+        {{ if .Params.resources }}
+          <h2 id="resources-and-artifacts">Resources & Artifacts</h2>
+          <ul class="usa-icon-list">
+            {{ range .Params.resources }}
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-gray-30">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/assets/uswds/img/sprite.svg#topic"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <a href="{{ .url }}">{{ .title }}</a>
+                </div>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+        {{ if .Params.stakeholders }}
+          <h2 id="sectors-stakeholders">Sectors & Stakeholders</h2>
+          <ul class="usa-icon-list">
+            {{ range .Params.stakeholders }}
+              <li class="usa-icon-list__item">
+                <div class="usa-icon-list__icon text-gray-30">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <use xlink:href="/assets/uswds/img/sprite.svg#account_balance"></use>
+                  </svg>
+                </div>
+                <div class="usa-icon-list__content">
+                  <a href="{{ .url }}">{{ .title }}</a>
+                </div>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+      </div>
+
+    </div>
+
+  </div>
+
+{{ end }}

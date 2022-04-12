@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+  <section class="usa-section techgsa-hero" aria-label="Introduction">
+    <div class="grid-container">
+      <div class="techgsa-hero__intro">
+        <h1>Modernizing GSA Technology</h1>
+        <br>
+        <p>The GSA Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="usa-section">
+    <div class="grid-container">
+      <ul class="usa-card-group">
+        <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">Guides</h2>
+            </header>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img">
+                <div class="landing-area-icon">
+                  <a href="{{ "guides" | relURL }}"><span class="fas fa-compass landing-area-icon__see-the-guides" aria-hidden="true"></span><span class="usa-sr-only">Guides</span></a>
+                </div>
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>Our Tech Guides are brief, targeted guidance documents on a variety of topics. They are designed for quick, easy reference.</p>
+            </div>
+            <div class="usa-card__footer">
+              <a href="{{ "guides" | relURL }}" class="usa-button">See the Guides</a>
+            </div>
+          </div>
+        </li>
+
+        <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">Playbooks</h2>
+            </header>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img">
+                <div class="landing-area-icon">
+                  <a href="{{ "playbooks" | relURL }}"><span class="fas fa-book landing-area-icon__see-the-playbooks" aria-hidden="true"></span><span class="usa-sr-only">Playbooks</span></a>
+                </div>
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>Our playbooks are comprehensive guides on a technical topic, describing both overarching strategy and tactical approaches.</p>
+            </div>
+            <div class="usa-card__footer">
+              <a href="{{ "playbooks" | relURL }}" class="usa-button">See the Playbooks</a>
+            </div>
+          </div>
+        </li>
+
+        <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">Tech Talks</h2>
+            </header>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img">
+                <div class="landing-area-icon">
+                  <a href="{{ "techtalks" | relURL }}"><span class="fas fa-tv landing-area-icon__attend-a-tech-talk" aria-hidden="true"></span><span class="usa-sr-only">Tech Talks</span></a>
+                </div>
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>A couple of times each month, the Office of the CTO hosts live talks on technology topics, presented by experts from across GSA.</p>
+            </div>
+            <div class="usa-card__footer">
+              <a href="{{ "techtalks" | relURL }}" class="usa-button">Attend a Tech Talk</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+{{ end }}

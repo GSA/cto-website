@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+  <div class="grid-container">
+
+    <h1>Tech Talks</h1>
+
+    {{ .Content }}
+
+    {{ partial "pagination.html" . }}
+
+    <ul class="usa-card-group">
+      {{ range .Paginator.Pages }}
+        <li class="tablet:grid-col-12 usa-card">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">{{ .Title }}</h2>
+              <p>{{ .Date.Format "January 2, 2006" }}, {{ .Params.Time }}</p>
+            </header>
+            <div class="usa-card__body">
+              <h3>Objective</h3>
+              {{ .Content }}
+              {{ if .Params.location }}
+                <h3>Location</h3>
+                <p>{{ .Params.location }}</p>
+              {{ end }}
+              <h3>Who</h3>
+              <p>{{ .Params.presenter }}</p>
+            </div>
+            <div class="usa-card__footer">
+              {{ if .Params.register }}
+                <a class="usa-button" href="{{ .Params.register }}">Register</a>
+              {{ end }}
+              {{ if .Params.slides }}
+                <a class="usa-button" href="{{ .Params.slides }}">Slides</a>
+              {{ end }}
+              {{ if .Params.recording }}
+                <a class="usa-button" href="{{ .Params.recording }}">Recording</a>
+              {{ end }}
+            </div>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+
+  </div>
+
+{{ end }}
