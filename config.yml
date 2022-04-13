@@ -2,6 +2,7 @@ baseURL: "https://tech.gsa.gov/"
 languageCode: "en-US"
 title: "Tech at GSA"
 canonifyURLs: true
+buildFuture: true
 
 params:
   description: "The GSA Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA."
