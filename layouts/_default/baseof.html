@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ if .Params.Summary }}{{ . }}{{ else }}{{ .Params.Description }}{{ end }}">
+    <meta name="google-site-verification" content="pFZf0onYfrHV001eE8d4Zk-M8YneNIjOhFtSJpIUJMs">
+
+    <title>{{ if .Title }}{{ .Title }} &mdash; {{ end }}{{ .Site.Title }}</title>
+
+    <script src="/assets/uswds/js/uswds-init.js"></script>
+
+    <link rel="stylesheet" href="/assets/fontawesome-free/css/all.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    {{ partial "banner.html" }}
+    {{ partial "header.html" . }}
+    {{ partial "breadcrumbs.html" . }}
+
+    <div id="main-content">
+      {{ block "main" . }}{{ end }}
+    </div>
+
+    {{ partial "top-link.html" }}
+    {{ partial "footer.html" . }}
+    {{ partial "identifier.html" }}
+
+    <script src="/assets/jquery/jquery.min.js"></script>
+    <script src="/assets/uswds/js/uswds.js"></script>
+    <script src="/assets/waypoints/jquery.waypoints.min.js"></script>
+    <script src="/assets/mousetrap/mousetrap.min.js"></script>
+    <script src="/assets/js/global.js"></script>
+    <script src="/assets/js/tocomatic.js"></script>
+
+    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA" id="_fed_an_ua_tag"></script>
+  </body>
+</html>

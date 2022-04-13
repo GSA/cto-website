@@ -1,0 +1,16 @@
+{{ $id := now.UnixNano }}
+
+<div
+  class="techradar-case-study"
+  role="region"
+  aria-labelledby="techradar-case-study-key-information-{{ $id }}"
+>
+  <div class="techradar-case-study__body">
+    <h3 class="techradar-case-study__heading" id="techradar-case-study-key-information-{{ $id }}">
+      {{ .Get "heading" }}
+    </h3>
+    <div class="techradar-case-study__text">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>

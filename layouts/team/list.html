@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+  {{/* Sort primarily by weight and secondarily by last name */}}
+  {{ $scratch := newScratch }}
+  {{ range .Pages.GroupByParam "weight" }}
+    {{ range .Pages }}
+      {{ $lastname := string (delimit (after 1 (split .Title " ")) "") }}
+      {{ $scratch.SetInMap "weightGroup" $lastname . }}
+    {{ end }}
+    {{ range sort ($scratch.Get "weightGroup") }}
+      {{ $scratch.Add "team" (slice .) }}
+    {{ end }}
+    {{ $scratch.Delete "weightGroup" }}
+  {{ end }}
+
+  <div class="grid-container">
+
+    <h1>The CTO Team</h1>
+
+    {{ .Content }}
+
+    <ul class="techgsa-team usa-card-group">
+      {{ range $scratch.Get "team" }}
+        <li class="tablet:grid-col-4 usa-card">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">{{ .Title }}</h2>
+            </header>
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                {{ if .Params.photo }}
+                  <img src="{{ .Params.photo | }}" alt="Photo of {{ .Title }}">
+                {{ else }}
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                    <title>Photo of {{ .Title }}</title>
+                    <use xlink:href="/assets/uswds/img/sprite.svg#person"></use>
+                  </svg>
+                {{ end }}
+              </div>
+            </div>
+            <div class="usa-card__body">
+              {{ if .Params.role }}
+                <div class="member-role">{{ .Params.role }}</div>
+              {{ end }}
+            </div>
+            <div class="usa-card__footer">
+              <a href="{{ .RelPermalink }}" class="usa-button">Bio</a>
+            </div>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+
+  </div>
+
+{{ end }}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+  </head>
+  <body>
+    <script>
+      window.CMS_MANUAL_INIT = true
+    </script>
+
+    <script src="../assets/react/react.production.min.js"></script>
+    <script src="../assets/markdown-it/markdown-it.js"></script>
+    <script src="../assets/netlify-cms/netlify-cms.js"></script>
+
+    {{/* Use Hugo Pipes to compile and include JSX templates */}}
+    {{ $templates := resources.Get "cms/templates.jsx" | resources.ExecuteAsTemplate "templates.js" . | babel }}
+    <script src="{{ $templates.RelPermalink }}"></script>
+
+    <script>
+      var CMS = window.CMS; // Use local repo backend via netlify-cms-proxy-server for CMS if developing locally
+      if (window.location.hostname === "localhost") {
+        CMS.init({
+          config: {
+            backend: {
+              name: "git-gateway"
+            },
+            local_backend: true,
+            publish_mode: "simple",
+          }
+        });
+      } else {
+        CMS.init();
+      }
+    </script>
+
+    <script src="custom.js"></script>
+  </body>
+</html>

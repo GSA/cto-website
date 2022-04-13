@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+  {{ $scratch := newScratch }}
+  {{ $externalPlaybooks := .Site.Data.external_playbooks }}
+  {{ range .Pages }}
+    {{ $scratch.Add "internalPlaybooks" (slice (dict "title" .Title "url" .RelPermalink "description" .Params.description)) }}
+  {{ end }}
+  {{ $playbooks := sort (($scratch.Get "internalPlaybooks") | append $externalPlaybooks) "title" }}
+
+  <div class="grid-container">
+
+    <h1>GSA Tech Playbooks</h1>
+
+    {{ .Content }}
+
+    <table class="usa-table usa-table--borderless">
+      <thead>
+        <tr>
+          <th scope="col">Title</th>
+          <th scope="col">Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $playbooks }}
+          <tr>
+            <td><a href="{{ .url }}">{{ .title }}</a></td>
+            <td>{{ .description }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+
+  </div>
+
+{{ end }}
