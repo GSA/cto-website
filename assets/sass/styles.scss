@@ -64,9 +64,10 @@ table {
     padding: 2rem 0;
   }
 
-  .landing-area-icon__see-the-guides     { background-color: color('green-50'); }
-  .landing-area-icon__see-the-playbooks  { background-color: color('red-60'); }
-  .landing-area-icon__attend-a-tech-talk { background-color: color('gold-30v'); }
+  .landing-area-icon__guides    { background-color: color('green-50'); }
+  .landing-area-icon__playbooks { background-color: color('red-60'); }
+  .landing-area-icon__techtalks { background-color: color('gold-30v'); }
+  .landing-area-icon__techradar { background-color: color('blue-30v'); }
 }
 
 // Front page hero image/intro
