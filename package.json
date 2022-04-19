@@ -1,6 +1,6 @@
 {
-  "name": "cto-website-hugo",
-  "version": "1.0.0",
+  "name": "cto-website",
+  "version": "2.0.0",
   "description": "",
   "scripts": {
     "start": "concurrently npm:cms-proxy npm:serve",
