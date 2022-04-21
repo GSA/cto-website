@@ -116,9 +116,7 @@ There are a wide variety of vendors capable of providing touchless tools, but fo
 
 #### Example Gestures
 
-![Diagram showing various hand gestures used in touchless gestures: approach wake-up, flick gestures, airwheel gesture, sensor touch, wave gesture, hold gesture, presence gesture, and position tracking.](https://lh3.googleusercontent.com/6GcKPcE6hQR7HsDoLTJqNpBd6pT4Y2XrxUnxGokzW4mWHtfY756HaV-42ByRTHkgZP75XC0H3WNJTsyAuJavwbNEzrU_DU5jbhgAd3sow5Jy85jy0XJ4CWgzDI7dUwVP8VgEA-8a "Source: https://ww1.microchip.com/downloads/en/DeviceDoc/00001599H.pdf")
-
-[Image Source](https://ww1.microchip.com/downloads/en/DeviceDoc/00001599H.pdf)
+![Diagram showing various hand gestures used in touchless gestures: approach wake-up, flick gestures, airwheel gesture, sensor touch, wave gesture, hold gesture, presence gesture, and position tracking.](https://lh3.googleusercontent.com/6GcKPcE6hQR7HsDoLTJqNpBd6pT4Y2XrxUnxGokzW4mWHtfY756HaV-42ByRTHkgZP75XC0H3WNJTsyAuJavwbNEzrU_DU5jbhgAd3sow5Jy85jy0XJ4CWgzDI7dUwVP8VgEA-8a "Source: Microchip Technology")
 
 ### GSA Contracts
 
