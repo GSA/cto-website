@@ -155,7 +155,7 @@ For example, as GSA considers using biometrics in its Login.gov service, the age
 
 Is facial recognition legal in the US? [ Face Recognition Is Being Banned—but It’s Still Everywhere](https://www.wired.com/story/face-recognition-banned-but-everywhere/). "That’s likely to continue, because face recognition is **unregulated** in most of the US, as there's no federal law covering the technology. Many uses of face recognition have lower stakes than in policing; some, like unlocking a phone with a glance, can be convenient."
 
-That said, the the top six [](https://learn.g2.com/ethics-of-facial-recognition)ethical concerns related to facial recognition systems include:
+That said, the the top six ethical concerns related to facial recognition systems include:
 
 * Racial bias in detection methods
 * Racial discrimination in law enforcement 
