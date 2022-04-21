@@ -6,6 +6,8 @@ intro:
 excerpt: <PROVIDE A QUICK OVERVIEW (HIGH LEVEL SUMMARY) OF THE TECHNOLOGY>
 layout: technologies-single
 ---
+Touchless Tools provide an opportunity to reduce physical contact with many objects in our daily lives. In addition to the obvious sanitary benefits, Touchless Tools present an opportunity for greener buildings and more accessible building features.
+
 ## Possible Applications at GSA
 
 At GSA Central Office, there are only a few low-cost touchless technologies already in place such as motion sensing sink faucets and automatic doors. Below are possible applications that could be further explored throughout the agency:
@@ -165,10 +167,6 @@ That said, the the top six [](https://learn.g2.com/ethics-of-facial-recognition)
 [(Source)](https://learn.g2.com/ethics-of-facial-recognition)
 
 These considerations are already having an impact, even absent regulation. The IRS, after weeks of pushback from Congress and the public, is now allowing taxpayers to sign up for an online account without the use of any biometric data, including facial recognition. Taxpayers now have the option to verify their identities through a live, virtual interview [(Source)](https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/). This decision has implications beyond the IRS, as GSA hasn’t ruled out biometrics for its Login.gov service as the agency plans to scale its use.
-
-[How to navigate the legal side of touchless technology](https://www.kioskmarketplace.com/articles/how-to-navigate-the-legal-side-of-touchless-technology/) -
-
-Many businesses are embracing touchless technology, but they may run into legal issues related to privacy if they don't cover their bases. Attorney Brian Weinthal shares some tips on how to adopt touchless without running into legal trouble.
 
 ### Specific rules and Legislation
 
