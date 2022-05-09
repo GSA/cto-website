@@ -1,7 +1,7 @@
 {
   "name": "cto-website",
   "version": "2.0.0",
-  "description": "",
+  "description": "Website for the GSA Office of the Chief Technology Officer",
   "scripts": {
     "start": "concurrently npm:cms-proxy npm:serve",
     "dev": "concurrently npm:cms-proxy npm:serve npm:styles",
@@ -16,7 +16,7 @@
     "test:a11y:local": "start-server-and-test test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
-  "author": "",
+  "author": "GSA <cto@gsa.gov>",
   "license": "CC0-1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1",
