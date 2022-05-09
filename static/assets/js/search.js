@@ -8,7 +8,7 @@
   function initSearchPage() {
     var searchTerm = getSearchQuery();
     if (searchTerm) {
-      var url = baseurl + "/index.json";
+      var url = baseurl + "index.json";
       var xhr = new XMLHttpRequest();
       xhr.open("GET", url, true);
       xhr.onload = function () {
