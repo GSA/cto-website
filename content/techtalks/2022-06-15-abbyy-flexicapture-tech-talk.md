@@ -1,5 +1,5 @@
 ---
-title: Abbyy FlexiCapture Tech Talk
+title: ABBYY FlexiCapture Tech Talk
 date: 2022-06-15
 time: 1:00pm - 1:30pm ET
 location: Virtual upon Invitation
