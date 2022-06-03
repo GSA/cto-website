@@ -60,3 +60,43 @@ In this next use case, the teams are working with a wider net toward a fully ‘
 The GSA IT ICAM Portfolio has led an effort to map the current login methods used by GSA Applications. The approach plans to align the Public with Login.gov, Federal (non-GSA) with Max.gov, and within GSA as mentioned in the first Use Case, Single Sign On (SSO) will use a combination of Old/Current SecureAuth stack with the newer WebAuthn methodologies.
 
 For GSA readers you can go further by viewing this internal ICAM site, [ICAM Overview](https://sites.google.com/a/gsa.gov/icam-portfolio/users/user-authentication-services?authuser=1). Authentication required.
+
+
+
+# Adoption
+
+The adoption of Innovative Authentication is important because it represents the intersection of security and access to any system.  Protecting data and information is key to the effective operation of any organization, whether it’s in academia, industry, or government. Below, we’ve outlined uses cases for each.
+
+**Academia**
+
+One educational institution that has incorporated Innovative Authentication is the King Fahd University of Petroleum & Minerals (KFUPM) in Dhahran. They have implemented a multi-factor authentication (MFA) solution utilizing PINgrid and PINpass technologies, which generate a secure one-time-pattern (OTP). Instead of memorizing a word or phrase, this type of technology generates a pin grid for a pattern-based authentication approach, providing a security barrier that is easy to use and much stronger than the traditional password. As a result, staff and students were able to more easily access their accounts without the need to remember another password, all while knowing their information was safe from breach. [Source](https://www.information-age.com/education-latest-authentication-frontier-123497705/)
+
+ 
+
+**Industry**
+
+Forward-looking businesses recognize the passwordless trend and are streamlining the login process accordingly. Using a known device such as a cell phone, users can log into a platform by simply scanning a code with their phone’s camera, avoiding the need to input a password.
+
+ 
+
+Some financial institutions have incorporated biometric authentication utilizing fingerprint scanners, voice recognition, or the phone’s camera to enable the user to conveniently confirm their identity via facial recognition technology for both internal banking employees and their customers.
+
+ 
+
+Some retailers are exploring geolocation identification. Geolocation authentication could utilize a user’s mobile device to provide authentication services wherever and whenever they are needed. Geolocation allows a customer’s bank to access their location via their mobile device and verify that the user is in the same physical location in which the transaction is being requested. In this particular scenario, there is no need for the customer to respond to a notification. Instead the user simply has a seamless authentication experience. [Source](https://www.forbes.com/sites/forbestechcouncil/2018/06/04/the-future-of-authentication-is-here/?sh=1c83f912432e)
+
+ 
+
+**Government**
+
+ 
+
+There are some agencies that are already utilizing advanced technology such as biometrics. Since 2016, U.S. Customs and Border Protection has been working with airlines to use facial recognition technology as part of the pre-boarding screening process; at least five airlines now use it, largely for international flights (it’s voluntary for American citizens).
+
+ 
+
+In 2017, former President Donald Trump signed an executive order requiring that the top 20 U.S. airports use biometric technology and facial recognition by 2021 for all international passengers. He also signed the National Strategy to Combat Terrorism Travel, which calls for the increased use of biometric technology and data to stop terrorists from entering the U.S. [Source](https://fedtechmagazine.com/article/2019/08/how-government-uses-biometric-authentication-technology-perfcon)
+
+ 
+
+GSA’s approach to Innovative Authentication is to unify the federal sector and allow government agencies to utilize a single form of authentication. GSA’s TTS Program has developed login.gov which is currently utilized across the federal government for credentialing and authentication services. Along with that, GSA has a shared services platform called MAX.gov, which allows federal government agencies to access the host of capabilities available on the MAX.gov platform.
