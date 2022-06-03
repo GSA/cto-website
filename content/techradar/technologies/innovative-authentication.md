@@ -8,4 +8,6 @@ excerpt: The workforce and consumers want more convenient and user-friendly
   responsiveness.
 layout: technologies-single
 ---
-Test
+Background
+
+Innovative authentication goes beyond the traditional username and password methods. Instead, we will explore new and innovative ways of credentialing and user management.
