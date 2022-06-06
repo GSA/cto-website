@@ -170,7 +170,7 @@ Public Key Infrastructure (PKI) Shared Service Providers (PKI SSP) Program - PKI
 
 In order to successfully implement innovative authentication methods there are a number of dependencies and risks that must be identified, mitigated, and monitored.
 
-**Dependencies**
+### **Dependencies**
 
 **Compatibility**
 
@@ -222,7 +222,7 @@ Make penetration testing (or “pen tests” for short), part of your developmen
 
 Define protocols so that in the event of a break, systems containing data the affected user(s) had access to can be locked down and quickly secured. Threat assessments, impact assessments, and root cause analyses must be conducted in order to resolve any potential breach, and prevent their occurrence.
 
-**Risks**
+### **Risks**
 
 Potential risks associated with Innovative Authentication include:
 
