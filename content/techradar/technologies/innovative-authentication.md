@@ -180,3 +180,69 @@ Identity, Credentialing and Access Management (ICAM) - Managed service offerings
 [541519PKI](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=541519PKI&executeQuery=YES)
 
 Public Key Infrastructure (PKI) Shared Service Providers (PKI SSP) Program - PKI SSPs shall provide reliable, authenticated, policy-compliant service offerings to support Federally issued Personal Identity Verification (PIV), Personal Identity Verification Interoperability (PIV-I), and associated certificates and cryptographic key service offerings. In accordance with 40 U.S.C. Federal and State agencies and Tribal organizations can leverage these service offerings to allow authorized personnel physical access to facilities and logical access to networks in accordance with X.509 Certificate Policy for the U.S. Federal PKI Common Policy Framework.
+
+
+
+# **Dependencies and Risks**
+
+In order to successfully implement innovative authentication methods there are a number of dependencies and risks that must be identified, mitigated, and monitored.
+
+## Dependencies
+
+**Compatibility**
+
+Authentication methods must be compatible with the tools necessary for the workforce to conduct their day to day activities. These tools may include computers, servers, hardware peripherals, internet browsers, operating systems, patches/hotfixes. As these components evolve and new technologies are developed, these authentication methods must still operate properly.
+
+**Wants and Expectations**
+
+The workforce has an expectation that the ease of their work experience mimic their personal lives. Nearly everyone leverages authentication technology daily in their personal lives. Bridging these experiences fosters a satisfaction, and a seamless transition between environments.
+
+**Protocol** 
+
+A list of authentication standards with clear direction and guidance will help agencies standardize their authentication methods, thus avoiding a “mixed bag” of solutions. 
+
+**Fail-Safe**
+
+Fail-safes that allow for users to authenticate in many ways are required. For example, a self-service password reset option is a simple fail safe. Additionally, multiple options for a second authentication factor can assist users who may find themselves in unique circumstances, such as temporarily without a phone.
+
+**Personas**
+
+It is critical to identify all of your workforce’s user personas in order to determine the suitability of any proposed authentication method(s). By understanding the user community, this reduces risk, identifies opportunities, and ensures a more robust and user-centric solution to be put in place.
+
+**Ease of Use**
+
+Consider the ease of use at varying levels (e.g. beginner, intermediate, and advanced).  For example, a highly secure system with only a few users (e.g. a weapons system) might warrant more complicated authentication where advanced training is appropriate for effective operation, whereas, a generally accessible system to a wide swath of employees (e.g. an intranet), should be easier to use with little training.
+
+**Support**
+
+As with any new technology, it’s important to have readily available, adequately trained staff to support end-users. This minimizes downtime and increases user satisfaction.
+
+**Tools**\
+Use dedicated tools to scan your dependency tree for security risks. Many programming languages and utilities can spot compromised dependencies. Consider using one or more of the following tools:
+
+* [ShiftLeft](https://www.shiftleft.io/how-it-works/)
+* [Github security alerts](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
+* [GitLab security scanning](https://docs.gitlab.com/ee/development/integrations/secure.html)
+* [npm audit](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities) and [retire.js](https://retirejs.github.io/retire.js/) for Node
+* [bundler audit](https://github.com/rubysec/bundler-audit) for Ruby.
+* [WASP dependency-check](https://jeremylong.github.io/DependencyCheck/) for Java and .NET
+
+**Diligence**
+
+Treat security bulletins as required, urgent reading. Ensure your team has a process for identifying security announcements from your software vendors. Best practices may include signing up for mailing lists, joining forums, or following library developers on social media. The development community is often the first to become aware of security issues.
+
+**Penetration Testing**
+
+Make penetration testing (or “pen tests” for short), part of your development lifecycle. Penetration testing tools work by tools attempting to exploit known vulnerabilities. ([Source](https://www.hacksplaining.com/prevention/toxic-dependencies))
+
+**Security Breach Planning**
+
+Define protocols so that in the event of a break, systems containing data the affected user(s) had access to can be locked down and quickly secured. Threat assessments, impact assessments, and root cause analyses must be conducted in order to resolve any potential breach, and prevent their occurrence.
+
+## Risks
+
+Potential risks associated with Innovative Authentication include:
+
+* Many Innovative Authentication tools require collecting users’ personal biometric data, or other personal information. It’s possible that this data could be breached, and the scope of the resulting exploitation becomes worse than if the secured system had been breached through traditional means. 
+* New tools, processes, and particularly those involving biometrics, may face a steep user acceptance curve.
+* Unlike other emerging technologies, the nature of IT security means that there’s always an adversary seeking to develop new explorations. No authentication tool should become a ‘set it and forget it’ implementation. No matter the tool, system managers must constantly assess and mitigate new threats, by either improving their current implementation, or seeking out a new technology.
