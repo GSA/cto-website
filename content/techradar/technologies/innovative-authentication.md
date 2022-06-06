@@ -6,6 +6,7 @@ intro:
 excerpt: The workforce and consumers want more convenient and user-friendly
   methods of authentication, without compromising security, reliability, and
   responsiveness.
+resources: []
 layout: technologies-single
 ---
 ## Background
@@ -85,7 +86,7 @@ GSA’s approach to Innovative Authentication is to unify the federal sector and
 
 ## Companies and Contracts
 
-`DISCLAIMER: GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing innovative authentication. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.`
+{{< usa-alert heading="Disclaimer" type="warning" slim=false icon=true >}}GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing innovative authentication. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.{{< /usa-alert >}}
 
 There are a wide variety of companies providing various types of Authentication tools, hardware and software. Within this space we’re looking to focus mainly on the software provided which enables the hardware to implement security controls for access to virtual and physical space.
 
@@ -230,6 +231,8 @@ Potential risks associated with Innovative Authentication include:
 * Unlike other emerging technologies, the nature of IT security means that there’s always an adversary seeking to develop new explorations. No authentication tool should become a ‘set it and forget it’ implementation. No matter the tool, system managers must constantly assess and mitigate new threats, by either improving their current implementation, or seeking out a new technology.
 
 ## White House Priorities
+
+![white house building](/assets/cms/techradar/1024px-capitol_building_full_view.jpg "White House Priorities")
 
 In his Executive Order 14028, President Biden mandated that agencies operating National Security Systems incorporate multi factor authentication for data at rest, and in transit. This order doesn’t mandate specific technologies or vendors, but it does require any solution to meet the definition of multifactor. It should also be seen as a minimum, rather than maximum requirement. ([Source](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity))
 
