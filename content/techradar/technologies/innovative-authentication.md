@@ -273,3 +273,14 @@ Several states have enacted cybersecurity laws that may affect authentication of
 **OMB Memorandum 11-11 - (HSPD-12 | PIV - Smartcards)**
 
 Continued Implementation of Homeland Security Presidential Directive (HSPD-12) - Policy for a Common Identification Standard for Federal Employees and Contractors.  The Cyberspace Policy Review, adopted by the President, and the President’s Budget for Fiscal Year 2011 highlighted the importance of identity management in protecting the nation’s infrastructure. HSPD-12 is a strategic initiative intended to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy. HSPD-12 requires agencies to follow specific technical standards and business processes for the issuance and routine use of Federal Personal Identity Verification (PIV) smartcard credentials…to verify employees’ and contractors’ identities. Specific benefits of the standardized credentials…include secure access to federal facilities and disaster response sites, as well as multi-factor authentication, digital signature and encryption capabilities.
+
+# Supporting Documentation
+
+Below are some additional referenced public articles from various sites, newsletters and media organizations. These have been used to source some of the content of the page as well as provide a central point of reference for just the surface level of information available online. Listing here is in no way an endorsement nor is it meant to claim credit for any of their content. We’ve tried to carefully cite all mentions of examples, charts, pictures and other media referenced from them so that further exploration can be done by anyone interested in a deeper understanding throughout all of our mentioned emerging technologies.
+
+## Some additional resources
+
+* [OMB Memorandum M-11-11 (HSPD) 12 Policy](https://www.cac.mil/Portals/53/Documents/m-11-11.pdf)
+* [CSO: Consumer Choice for Innovative Authentication](https://www.csoonline.com/article/3634454/consumers-are-done-with-passwords-ready-for-more-innovative-authentication.html)
+* [FNN: White House Zero Trust Strategy](https://federalnewsnetwork.com/cybersecurity/2022/01/white-house-sees-chance-to-design-new-user-experiences-through-zero-trust-strategy/)
+* [WebAuthn Guide](https://webauthn.guide/)
