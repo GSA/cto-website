@@ -8,13 +8,11 @@ excerpt: The workforce and consumers want more convenient and user-friendly
   responsiveness.
 layout: technologies-single
 ---
-# Background
+## Background
 
 Innovative authentication goes beyond the traditional username and password methods. Instead, we will explore new and innovative ways of credentialing and user management.
 
-
-
-# Possible Applications at GSA
+## Possible Applications at GSA
 
 Currently at GSA there have been several efforts involving Innovative Authentication. The concept goes well beyond the days of simple username and password. Both the near and long-term future of Innovative Authentication methods and technologies. We are seeing a move towards user-friendly innovative advancements, which promotes multi-factor authentication for everyone, everywhere. Multi-factor ensures our workforce and customers all have options available for using two of the: what you have, what you know or what you are methods to login to our applications. 
 
@@ -22,13 +20,9 @@ Currently at GSA there have been several efforts involving Innovative Authentica
 
 **Note**: These example efforts currently in work at GSA are part of its larger Zero Trust related strategies. Therefore we are highlighting some of their key features and approaches and will defer to other official communications and publications. We will publish links to these as they come available. 
 
-
-
-## **Two GSA Use Cases**
+**Two GSA Use Cases:**
 
 While authentication via CAC/PIV cards (ID badges) received a second government-wide push in 2010 with [OMB-11-11](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-11.pdf), a decade of advancement has meant a significant increase in the number of physical tokens representing ‘things’ users must log to. While many Federal agencies have integrated and met the minimum guidelines, GSA has continued to add to its variety of methods which improve on use of CAC/PIV, particularly with respect to the increased demand for a work from anywhere culture. 
-
-
 
 **Use Case 1: Enterprise SSO Transformation**
 
@@ -39,8 +33,6 @@ Below is additional information around how GSA may expand the mechanics and step
 The Web Authentication API (also known as [WebAuthn](https://webauthn.guide/)) is a [specification](https://w3c.github.io/webauthn/) written by the [W3C](https://www.w3.org/) and [FIDO](https://fidoalliance.org/), with the participation of Google, Mozilla, Microsoft, Yubico, and others. [WebAuthn](https://webauthn.guide/) which is used for Public Key Cryptography and Web Authentication (WebAuthn). The API allows servers to register and authenticate users using a secret (public key cryptography) in a user-friendly option instead of a password. ([Source](https://webauthn.guide/))  What gets registered on an application is a Public Key and a randomly generated unique ID for any given application. The private key is generated and stored on a user’s device which in itself has the various forms of secure, multi-factor authentication options to unlock that private key. 
 
 There are two options now available in many devices, operating systems, and browsers developed and maintained by industry.
-
-
 
 **Platform vs Roaming Authentication [[source](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/Platform_and_Roaming_Authenticators.html)]**  
 
@@ -59,8 +51,6 @@ Four key items help GSA modernize, transform, and keep security relevant and int
 * A focus on ensuring we use industry standards, and 
 * Incorporating our user and mission needs into the planning and testing. 
 
-
-
 **Use Case 2: Aligning to Users of our GSA services**
 
 In this next use case, the teams are working with a wider net toward a fully ‘Federated’ model across the Federal and Private sector (the Public Citizens/Vendors) to standardize Authentication and Identity Management. 
@@ -69,19 +59,15 @@ The GSA IT ICAM Portfolio has led an effort to map the current login methods use
 
 For GSA readers you can go further by viewing this internal ICAM site, [ICAM Overview](https://sites.google.com/a/gsa.gov/icam-portfolio/users/user-authentication-services?authuser=1). Authentication required.
 
-
-
-# Adoption
+## Adoption
 
 The adoption of Innovative Authentication is important because it represents the intersection of security and access to any system.  Protecting data and information is key to the effective operation of any organization, whether it’s in academia, industry, or government. Below, we’ve outlined uses cases for each.
 
-## **Academia**
+**Academia**
 
 One educational institution that has incorporated Innovative Authentication is the King Fahd University of Petroleum & Minerals (KFUPM) in Dhahran. They have implemented a multi-factor authentication (MFA) solution utilizing PINgrid and PINpass technologies, which generate a secure one-time-pattern (OTP). Instead of memorizing a word or phrase, this type of technology generates a pin grid for a pattern-based authentication approach, providing a security barrier that is easy to use and much stronger than the traditional password. As a result, staff and students were able to more easily access their accounts without the need to remember another password, all while knowing their information was safe from breach. [Source](https://www.information-age.com/education-latest-authentication-frontier-123497705/)
 
-
-
-## **Industry**
+**Industry**
 
 Forward-looking businesses recognize the passwordless trend and are streamlining the login process accordingly. Using a known device such as a cell phone, users can log into a platform by simply scanning a code with their phone’s camera, avoiding the need to input a password.
 
@@ -89,9 +75,7 @@ Some financial institutions have incorporated biometric authentication utilizing
 
 Some retailers are exploring geolocation identification. Geolocation authentication could utilize a user’s mobile device to provide authentication services wherever and whenever they are needed. Geolocation allows a customer’s bank to access their location via their mobile device and verify that the user is in the same physical location in which the transaction is being requested. In this particular scenario, there is no need for the customer to respond to a notification. Instead the user simply has a seamless authentication experience. [Source](https://www.forbes.com/sites/forbestechcouncil/2018/06/04/the-future-of-authentication-is-here/?sh=1c83f912432e)
 
-
-
-## **Government**
+**Government**
 
 There are some agencies that are already utilizing advanced technology such as biometrics. Since 2016, U.S. Customs and Border Protection has been working with airlines to use facial recognition technology as part of the pre-boarding screening process; at least five airlines now use it, largely for international flights (it’s voluntary for American citizens).
 
@@ -99,7 +83,7 @@ In 2017, former President Donald Trump signed an executive order requiring that 
 
 GSA’s approach to Innovative Authentication is to unify the federal sector and allow government agencies to utilize a single form of authentication. GSA’s TTS Program has developed login.gov which is currently utilized across the federal government for credentialing and authentication services. Along with that, GSA has a shared services platform called MAX.gov, which allows federal government agencies to access the host of capabilities available on the MAX.gov platform.
 
-# Companies and Contracts
+## Companies and Contracts
 
 `DISCLAIMER: GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing innovative authentication. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.`
 
@@ -112,7 +96,7 @@ As suggested CSO’s article on moving beyond passwords, we’ve broken down the
 3. Multi Factor authentication
 4. Invisible authentication
 
-## **Authentication Centric Companies**
+**Authentication Centric Companies**
 
 1. **One-time passwords (OTP)**
 
@@ -140,7 +124,7 @@ Traditional security company [Kensington](https://www.kensington.com/) has recen
 
 WinMagic offers a product called [MagicEndpoint](https://www.winmagic.com/products/passwordless-authentication), which is a passwordless authentication company that uses users local gestures combined with device authentication to control system access. This solution has the benefit of requiring no extra hardware, though it can be combined with MFA verification, or other traditional authentication tools.
 
-## Contracts
+**Contracts**
 
 Buy.GSA.gov: This website is designed to lower frustration and make it easier for
 
@@ -181,13 +165,11 @@ Identity, Credentialing and Access Management (ICAM) - Managed service offerings
 
 Public Key Infrastructure (PKI) Shared Service Providers (PKI SSP) Program - PKI SSPs shall provide reliable, authenticated, policy-compliant service offerings to support Federally issued Personal Identity Verification (PIV), Personal Identity Verification Interoperability (PIV-I), and associated certificates and cryptographic key service offerings. In accordance with 40 U.S.C. Federal and State agencies and Tribal organizations can leverage these service offerings to allow authorized personnel physical access to facilities and logical access to networks in accordance with X.509 Certificate Policy for the U.S. Federal PKI Common Policy Framework.
 
-
-
-# **Dependencies and Risks**
+## **Dependencies and Risks**
 
 In order to successfully implement innovative authentication methods there are a number of dependencies and risks that must be identified, mitigated, and monitored.
 
-## Dependencies
+**Dependencies**
 
 **Compatibility**
 
@@ -239,7 +221,7 @@ Make penetration testing (or “pen tests” for short), part of your developmen
 
 Define protocols so that in the event of a break, systems containing data the affected user(s) had access to can be locked down and quickly secured. Threat assessments, impact assessments, and root cause analyses must be conducted in order to resolve any potential breach, and prevent their occurrence.
 
-## Risks
+**Risks**
 
 Potential risks associated with Innovative Authentication include:
 
@@ -247,14 +229,13 @@ Potential risks associated with Innovative Authentication include:
 * New tools, processes, and particularly those involving biometrics, may face a steep user acceptance curve.
 * Unlike other emerging technologies, the nature of IT security means that there’s always an adversary seeking to develop new explorations. No authentication tool should become a ‘set it and forget it’ implementation. No matter the tool, system managers must constantly assess and mitigate new threats, by either improving their current implementation, or seeking out a new technology.
 
-# White House Priorities
+## White House Priorities
 
 In his Executive Order 14028, President Biden mandated that agencies operating National Security Systems incorporate multi factor authentication for data at rest, and in transit. This order doesn’t mandate specific technologies or vendors, but it does require any solution to meet the definition of multifactor. It should also be seen as a minimum, rather than maximum requirement. ([Source](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity))
 
 Additionally, the White House is urging private companies to protect their systems using multi factor authentication ([Source](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/))
 
-## \
-Laws, Legislation, Regulations 
+## Laws, Legislation, Regulations 
 
 The White House has issued a Zero Trust Strategy which will ultimately change how employees and citizens access federal systems, primarily through multi-factor authentication. Additionally, The National Institute of Standards and Technology (NIST) is also working to update PIV standards to accommodate additional types of authentication methods. [Source](https://federalnewsnetwork.com/cybersecurity/2022/01/white-house-sees-chance-to-design-new-user-experiences-through-zero-trust-strategy/)
 
@@ -274,7 +255,7 @@ Several states have enacted cybersecurity laws that may affect authentication of
 
 Continued Implementation of Homeland Security Presidential Directive (HSPD-12) - Policy for a Common Identification Standard for Federal Employees and Contractors.  The Cyberspace Policy Review, adopted by the President, and the President’s Budget for Fiscal Year 2011 highlighted the importance of identity management in protecting the nation’s infrastructure. HSPD-12 is a strategic initiative intended to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy. HSPD-12 requires agencies to follow specific technical standards and business processes for the issuance and routine use of Federal Personal Identity Verification (PIV) smartcard credentials…to verify employees’ and contractors’ identities. Specific benefits of the standardized credentials…include secure access to federal facilities and disaster response sites, as well as multi-factor authentication, digital signature and encryption capabilities.
 
-# Supporting Documentation
+## Supporting Documentation
 
 Below are some additional referenced public articles from various sites, newsletters and media organizations. These have been used to source some of the content of the page as well as provide a central point of reference for just the surface level of information available online. Listing here is in no way an endorsement nor is it meant to claim credit for any of their content. We’ve tried to carefully cite all mentions of examples, charts, pictures and other media referenced from them so that further exploration can be done by anyone interested in a deeper understanding throughout all of our mentioned emerging technologies.
 
