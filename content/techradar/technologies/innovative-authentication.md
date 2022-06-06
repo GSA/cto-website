@@ -24,7 +24,7 @@ Currently at GSA there have been several efforts involving Innovative Authentica
 
 
 
-**Two GSA Use Cases**
+## **Two GSA Use Cases**
 
 While authentication via CAC/PIV cards (ID badges) received a second government-wide push in 2010 with [OMB-11-11](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-11.pdf), a decade of advancement has meant a significant increase in the number of physical tokens representing ‘things’ users must log to. While many Federal agencies have integrated and met the minimum guidelines, GSA has continued to add to its variety of methods which improve on use of CAC/PIV, particularly with respect to the increased demand for a work from anywhere culture. 
 
@@ -75,13 +75,13 @@ For GSA readers you can go further by viewing this internal ICAM site, [ICAM Ove
 
 The adoption of Innovative Authentication is important because it represents the intersection of security and access to any system.  Protecting data and information is key to the effective operation of any organization, whether it’s in academia, industry, or government. Below, we’ve outlined uses cases for each.
 
-**Academia**
+## **Academia**
 
 One educational institution that has incorporated Innovative Authentication is the King Fahd University of Petroleum & Minerals (KFUPM) in Dhahran. They have implemented a multi-factor authentication (MFA) solution utilizing PINgrid and PINpass technologies, which generate a secure one-time-pattern (OTP). Instead of memorizing a word or phrase, this type of technology generates a pin grid for a pattern-based authentication approach, providing a security barrier that is easy to use and much stronger than the traditional password. As a result, staff and students were able to more easily access their accounts without the need to remember another password, all while knowing their information was safe from breach. [Source](https://www.information-age.com/education-latest-authentication-frontier-123497705/)
 
 
 
-**Industry**
+## **Industry**
 
 Forward-looking businesses recognize the passwordless trend and are streamlining the login process accordingly. Using a known device such as a cell phone, users can log into a platform by simply scanning a code with their phone’s camera, avoiding the need to input a password.
 
@@ -91,7 +91,7 @@ Some retailers are exploring geolocation identification. Geolocation authenticat
 
 
 
-**Government**
+## **Government**
 
 There are some agencies that are already utilizing advanced technology such as biometrics. Since 2016, U.S. Customs and Border Protection has been working with airlines to use facial recognition technology as part of the pre-boarding screening process; at least five airlines now use it, largely for international flights (it’s voluntary for American citizens).
 
