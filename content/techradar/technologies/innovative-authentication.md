@@ -98,3 +98,85 @@ There are some agencies that are already utilizing advanced technology such as b
 In 2017, former President Donald Trump signed an executive order requiring that the top 20 U.S. airports use biometric technology and facial recognition by 2021 for all international passengers. He also signed the National Strategy to Combat Terrorism Travel, which calls for the increased use of biometric technology and data to stop terrorists from entering the U.S. [Source](https://fedtechmagazine.com/article/2019/08/how-government-uses-biometric-authentication-technology-perfcon)
 
 GSA’s approach to Innovative Authentication is to unify the federal sector and allow government agencies to utilize a single form of authentication. GSA’s TTS Program has developed login.gov which is currently utilized across the federal government for credentialing and authentication services. Along with that, GSA has a shared services platform called MAX.gov, which allows federal government agencies to access the host of capabilities available on the MAX.gov platform.
+
+# Companies and Contracts
+
+`DISCLAIMER: GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing innovative authentication. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.`
+
+There are a wide variety of companies providing various types of Authentication tools, hardware and software. Within this space we’re looking to focus mainly on the software provided which enables the hardware to implement security controls for access to virtual and physical space.
+
+As suggested CSO’s article on moving beyond passwords, we’ve broken down these companies into four areas: ([Source](https://www.csoonline.com/article/3634454/consumers-are-done-with-passwords-ready-for-more-innovative-authentication.html))
+
+1. One-time passwords (OTP)
+2. Biometrics
+3. Multi Factor authentication
+4. Invisible authentication
+
+## **Authentication Centric Companies**
+
+1. **One-time passwords (OTP)**
+
+[Thales](https://cpl.thalesgroup.com/access-management/authenticators/one-time-password-otp) provides OTP services through their SafeNet suite of products. These include both time and event based services. Time based OTPs change with regular frequency whereas event based OTPs are generated at the user’s request. Thales also supports SMS, email and push-notification  based OTPs, which they refer to as “Out of Band” authentication.
+
+[SMS Global](https://www.smsglobal.com/us/one-time-password/) offers a host of OTP resources, including two-way SMS, MMS, toll-free numbers, and other related services. Their OTPs can be designated as long or short codes, depending on user needs. They also offer an SMS web platform that can be used to send on-demand generated codes to users in a customer support situation where identity verification is required.
+
+[TypingDNA](https://www.typingdna.com/) touts themselves as a better alternative to traditional 2FA OTPs owing to their user friendliness. Users are only prompted for OTPs on three occasions: when they first enroll, if they fail authentication, or if they choose to bypass initial verification. This provides an easier user experience, and can save on SMS costs. They also offer matching ‘phrases’ rather than traditional number strings.
+
+2. **Biometrics**
+
+Traditional security company [Kensington](https://www.kensington.com/) has recently begun offering biometric authentication solutions. Technologies like their Their VeriMark USB keys offer a low-cost way of incorporating fingerprint authentication into existing systems
+
+[Clearme](https://www.clearme.com/) is a biometric authentication company currently operating at dozens of TSA airport checkpoints. In lieu of providing identity documents, registered users are able to verify their identity and valid presence at airports (and other private sector venues) using either their iris, fingerprint, or facial recognition technology. A single kiosk is able to identify travelers through any one, or a combination, of these unique traits. CLEAR is also [Safety Act](https://www.safetyact.gov/) certified by the Department of Homeland Security.
+
+[Mitek Systems](https://www.miteksystems.com/blog/finger-vein-recognition-biometrics) uses finger “vein biometrics”, also called “vein matching” that analyzes a person’s blood vessels pattern visible from the surface of the skin of fingers. Users are registered by capturing images of the veins inside their hands by shining near-infrared light on their fingers. Unlike fingerprints, and to a lesser extent retinal/iris scans, this relative invisibility makes it more difficult to counterfeit. Along the same lines, the system can identify active, blood flowing through the user’s veins, making a counterfeiting even more difficult
+
+3. **Multi Factor authentication**
+
+[SecureAuth](https://www.secureauth.com/) is the current go-to GSA solution for MFA. SecureAuth requires users to enter their username, password, and code sent by email, Authenticate app, SMS, or direct voice dial. They also offer passwordless touch and face biometric integration, although those are not yet in use at GSA.
+
+4. **Invisible authentication**
+
+[Behaviosec](https://www.behaviosec.com/) is developing a system of authentication that analyzes the rhythm of a user’s typing, level of applied key pressure, swipe speed, finger positioning, and typing velocity to establish identity. As the user uses the system more and more, the learning algorithm updates their biometric profile.
+
+WinMagic offers a product called [MagicEndpoint](https://www.winmagic.com/products/passwordless-authentication), which is a passwordless authentication company that uses users local gestures combined with device authentication to control system access. This solution has the benefit of requiring no extra hardware, though it can be combined with MFA verification, or other traditional authentication tools.
+
+## Contracts
+
+Buy.GSA.gov: This website is designed to lower frustration and make it easier for
+
+1. Government agencies to navigate the complete acquisition process.
+2. Industry to bring needed supplies and services into the federal market space.
+
+[[About](https://buy.gsa.gov/about-us)]
+
+Buy.gsa.gov is an official website run by the United States General Services Administration ([GSA.gov)](http://gsa.gov/). The Digital Innovation Division, a team within GSA’s Federal Acquisition Service, manages the development of the site. Visit GSA.gov’s [About Us](https://www.gsa.gov/about-us) page for more information about the agency.
+
+**Also see:**
+
+GSA [eLibrary](https://www.gsaelibrary.gsa.gov/ElibMain/home.do) is your one source for the latest GSA contract award information.  GSA offers unparalleled acquisition solutions to meet today’s acquisition challenges.  GSA’s key goal is to deliver excellent acquisition services that provide best value, in terms of cost, quality and service, for federal agencies and taxpayers. 
+
+\
+**Steps:**
+
+1. Use the Search bar on the homepage and enter ‘Authentication Services’
+2. 1. Other examples of keyword searches (‘Multi Factor Authentication’ | ‘Biometric Authentication’)
+3. Click the source number to view a list of categories. 
+4. Click the category number (i.e. SIN) to view a list of contractors.
+
+**Example Results:**
+
+[ALLIANT 2](https://www.gsaelibrary.gsa.gov/ElibMain/scheduleSummary.do?scheduleNumber=ALIAN2)
+
+The Alliant 2 GWAC is a multiple-award, indefinite-delivery, indefinite-quantity (MA/IDIQ) GWAC that will enable federal civilian agencies and the DOD to provide Information Technology (IT) services and IT services-based solutions from the most qualified businesses. FAR 8.404 is not applicable to GWACs. Orders issued under GWACs use FAR 16.505 procedures.
+
+Computer Systems Design Services - Infrastructure includes hardware, software, licensing, technical support, and warranty services from third party sources, as well as technological refreshment and enhancements for that hardware and software…. Service Access and Delivery: These components are responsible for facilitating the end-to-end collection and distribution of data that is either entered or requested by a user. These components include all functions necessary to communicate in a client-server environment. Examples of these components include, but are not limited to: Web browsers Virtual Private Network (VPN) Remote Authentication Dial-In User Service (RADIUS) Peer-to-peer Section 508 compliance HyperText Transfer Protocol (HTTP) File Transfer Protocol (FTP) Simple Mail Transfer Protocol (SMTP).
+
+[MAS](https://www.gsaelibrary.gsa.gov/ElibMain/scheduleSummary.do?scheduleNumber=MAS) - (Multiple Award Schedule) - Available offerings include commercial goods and services organized by 12 Large Categories, corresponding Subcategories, and SINs.
+
+[541519ICAM](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=541519ICAM&executeQuery=YES)
+
+Identity, Credentialing and Access Management (ICAM) - Managed service offerings for electronic credentials (assurance levels IAL, AAL, and FAL), identity and access management, authentication, and identity and access management professional services.
+
+[541519PKI](https://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=MAS&specialItemNumber=541519PKI&executeQuery=YES)
+
+Public Key Infrastructure (PKI) Shared Service Providers (PKI SSP) Program - PKI SSPs shall provide reliable, authenticated, policy-compliant service offerings to support Federally issued Personal Identity Verification (PIV), Personal Identity Verification Interoperability (PIV-I), and associated certificates and cryptographic key service offerings. In accordance with 40 U.S.C. Federal and State agencies and Tribal organizations can leverage these service offerings to allow authorized personnel physical access to facilities and logical access to networks in accordance with X.509 Certificate Policy for the U.S. Federal PKI Common Policy Framework.
