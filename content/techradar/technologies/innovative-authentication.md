@@ -140,7 +140,10 @@ Buy.gsa.gov is an official website run by the United States General Services Adm
 
 GSA [eLibrary](https://www.gsaelibrary.gsa.gov/ElibMain/home.do) is your one source for the latest GSA contract award information.  GSA offers unparalleled acquisition solutions to meet today’s acquisition challenges.  GSA’s key goal is to deliver excellent acquisition services that provide best value, in terms of cost, quality and service, for federal agencies and taxpayers. 
 
-\
+
+
+![GSA E-Library](/assets/cms/techradar/elibrary-searchbar.jpg "The GSA eLibrary")
+
 **Steps:**
 
 1. Use the Search bar on the homepage and enter ‘Authentication Services’
