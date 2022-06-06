@@ -246,3 +246,30 @@ Potential risks associated with Innovative Authentication include:
 * Many Innovative Authentication tools require collecting users’ personal biometric data, or other personal information. It’s possible that this data could be breached, and the scope of the resulting exploitation becomes worse than if the secured system had been breached through traditional means. 
 * New tools, processes, and particularly those involving biometrics, may face a steep user acceptance curve.
 * Unlike other emerging technologies, the nature of IT security means that there’s always an adversary seeking to develop new explorations. No authentication tool should become a ‘set it and forget it’ implementation. No matter the tool, system managers must constantly assess and mitigate new threats, by either improving their current implementation, or seeking out a new technology.
+
+# White House Priorities
+
+In his Executive Order 14028, President Biden mandated that agencies operating National Security Systems incorporate multi factor authentication for data at rest, and in transit. This order doesn’t mandate specific technologies or vendors, but it does require any solution to meet the definition of multifactor. It should also be seen as a minimum, rather than maximum requirement. ([Source](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity))
+
+Additionally, the White House is urging private companies to protect their systems using multi factor authentication ([Source](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/))
+
+## \
+Laws, Legislation, Regulations 
+
+The White House has issued a Zero Trust Strategy which will ultimately change how employees and citizens access federal systems, primarily through multi-factor authentication. Additionally, The National Institute of Standards and Technology (NIST) is also working to update PIV standards to accommodate additional types of authentication methods. [Source](https://federalnewsnetwork.com/cybersecurity/2022/01/white-house-sees-chance-to-design-new-user-experiences-through-zero-trust-strategy/)
+
+In 2017, former President Donald Trump signed an executive order requiring that the top 20 U.S. airports use biometric technology and facial recognition by 2021 for all international passengers. He also signed the National Strategy to Combat Terrorism Travel, which calls for the increased use of biometric technology and data to stop terrorists from entering the U.S. [Source](https://fedtechmagazine.com/article/2019/08/how-government-uses-biometric-authentication-technology-perfcon)
+
+While the future of authentication is still to be determined by way of the Zero Trust Strategy, there are some agencies that are already utilizing advanced technology such as biometrics. Since 2016, U.S. Customs and Border Protection has been working with airlines to use facial recognition technology as part of the pre-boarding screening process; at least five airlines now use it, largely for international flights. This is voluntary for American citizens.
+
+**Cybersecurity laws and regulations in US 2022**
+
+Several states have enacted cybersecurity laws that may affect authentication of state and private sector systems. The consequence is an assortment of federal and state regulations that vary significantly in scope and jurisdiction for various businesses.  [Source](https://www.eescorporation.com/cybersecurity-laws-and-regulations-in-us/)
+
+**Currently Implemented Laws Crucial to Federal Cybersecurity**
+
+1996 Health Insurance Portability and Accountability Act (HIPAA), the 1999 Gramm-Leach-Bliley Act, and the 2002 [Homeland Security Act](https://www.britannica.com/topic/Homeland-Security-Act) are the three most crucial federal cybersecurity laws in effect today. These three requirements necessitate that healthcare, financial, and government entities ensure the security of their systems and data. In any case, it’s hard to predict whether an acceptable level of protection would be successful. The Federal Information Security Management Act (FISMA) mandates that all federal agencies implement information security policies, concepts, and standards. This list excludes Internet service providers and software developers. Standards’ use of vague language makes this more challenging.  [Source](https://www.eescorporation.com/cybersecurity-laws-and-regulations-in-us/)
+
+**OMB Memorandum 11-11 - (HSPD-12 | PIV - Smartcards)**
+
+Continued Implementation of Homeland Security Presidential Directive (HSPD-12) - Policy for a Common Identification Standard for Federal Employees and Contractors.  The Cyberspace Policy Review, adopted by the President, and the President’s Budget for Fiscal Year 2011 highlighted the importance of identity management in protecting the nation’s infrastructure. HSPD-12 is a strategic initiative intended to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy. HSPD-12 requires agencies to follow specific technical standards and business processes for the issuance and routine use of Federal Personal Identity Verification (PIV) smartcard credentials…to verify employees’ and contractors’ identities. Specific benefits of the standardized credentials…include secure access to federal facilities and disaster response sites, as well as multi-factor authentication, digital signature and encryption capabilities.
