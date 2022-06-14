@@ -1,8 +1,10 @@
 ---
 title: Innovative Authentication
 intro:
+
   text: The Future of Identity Management
-  image: /assets/cms/techradar/tumblr_mnqjhbd8t71rbkx51o1_400.gif  =100x200
+  <img src="/assets/cms/techradar/tumblr_mnqjhbd8t71rbkx51o1_400.gif" width="100" height="200"/>
+
 excerpt: The workforce and consumers want more convenient and user-friendly
   methods of authentication, without compromising security, reliability, and
   responsiveness.
