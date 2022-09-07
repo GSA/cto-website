@@ -4,8 +4,6 @@ menu:
   primary:
 ---
 
-The GSA CTO team hosts in-depth Tech Talks. This is where GSA IT presenters discuss technology topics affecting the agency.  They are 30 minute informal meetings for internal GSA members.  Demonstrations are often provided along with follow-up Q&A.
+The GSA CTO team hosts in-depth Tech Talks, where presenters discuss technology topics affecting the agency. Each Tech Talk is a 30-minute informal meeting with an audience of internal GSA members. Demonstrations are often provided along with follow-up Q&A. Registration is limited to internal GSA personnel. To register to attend a Tech Talk event, please contact Joe Novak at <a href="mailto:joseph.novak@gsa.gov">Joseph.Novak@gsa.gov</a>.
 
-Register for upcoming events here and enjoy content from past events. You can reach out to the presenter via contact information in the slides or through this site's feedback mechanisms.
-
-For questions about the content of the Tech Talks not publicly available, please contact the GSA CTO team at [cto@gsa.gov](mailto:cto@gsa.gov).
+For general questions about the Tech Talks, please contact the GSA CTO team at [cto@gsa.gov](mailto:cto@gsa.gov).
