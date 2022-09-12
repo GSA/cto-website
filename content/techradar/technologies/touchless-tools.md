@@ -9,11 +9,13 @@ excerpt: Touchless Tools provide an opportunity to reduce physical contact with
   accessible building features.
 layout: technologies-single
 ---
-**Touchless Tools** provide an opportunity to reduce physical contact with many objects in our daily lives. In addition to the obvious sanitary benefits, Touchless Tools present an opportunity for greener buildings and more accessible building features.
+## B﻿ackground
+
+Touchless Tools provide an opportunity to reduce physical contact with many objects in our daily lives. In addition to the obvious sanitary benefits, Touchless Tools present an opportunity for greener buildings and more accessible building features.
 
 ## Possible Applications at GSA
 
-At GSA Central Office, there are a few low-cost touchless technologies already in place such as motion sensing sink faucets and automatic doors. Below are possible applications that could be further explored throughout the agency:
+At GSA Central Office, there are low-cost touchless technologies already in place such as motion sensing sink faucets and automatic doors. Below are possible applications that could be further explored throughout the agency:
 
 ### FAS
 
@@ -69,7 +71,7 @@ Across Academia, Private Industry, and Government at various Federal, State & Lo
 
 #### Futuristic / Theoretical use of Touchless technologies in Industries
 
-* Embedded Microchips for beyond hand or eye gestures. While this is definitely an extreme example, it is not that far off and there are some sectors exploring these applicaitons. [[source](https://www.bbc.com/news/business-61008730)]
+* Embedded Microchips for beyond hand or eye gestures. While this is definitely an extreme example, it is not that far off and there are some sectors exploring these applications. [[source](https://www.bbc.com/news/business-61008730)]
 * Business planning across different time zones and locations, including data analysis and strategic planning decision making can be enhanced through Touchless environments. [[source](https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/02/the-future-of-planning-from-high-touch-to-touchless/)]
 
 ### Government
@@ -79,7 +81,7 @@ Across Academia, Private Industry, and Government at various Federal, State & Lo
   * The use of ultraviolet light for disinfection of surfaces within the security checkpoint environment;
   * The evaluation of stand-off detection technology to minimize the need to be in proximity or to have physical contact between TSOs and passengers;
   * The evaluation of explosive vapor detection to provide a touchless alternative to secondary screening solutions. [[source](https://www.dhs.gov/sites/default/files/publications/tsa_-_touchless_screening.pdf)]
-* Facial recognition, delivery drones, and other touchless tools Are making their way into a variety of government services. [[source](https://www.govtech.com/opinion/octnov-2020-touchless-government-castro.html)]
+* Facial recognition, delivery drones, and other touchless tools are making their way into a variety of government services. [[source](https://www.govtech.com/opinion/octnov-2020-touchless-government-castro.html)]
 * Delivery needs (USPS) similar to Amazon/Retail where limited human/physical interaction are required. Replacing keys with touchless/motion/ gestures sensors at residential /commercial communal mailboxes. As of now it’s still mostly keys and a move to touchless tools would be a leap.
 
 ## Companies and Contracts
