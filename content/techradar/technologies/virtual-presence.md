@@ -11,7 +11,7 @@ layout: technologies-single
 ---
 ## Background
 
-Virtual Presence (VP) is an immersive environment that enables users to feel as if they are physically present at an actual location with other users. It utilizes technologies such as Augmented Reality (AR) and Virtual Reality (VR) to deliver this experience.
+Virtual Presence (VP) is an immersive environment that enables users to feel as if they are physically present at an actual location with other users. It utilizes technologies such as Augmented Reality (AR) and Virtual Reality (VR) to deliver this experience. While back end innovations such as A.I. and leaps in processing capacity form the cornerstone of the Virtual Age, VP technologies form the front line in that they are the tools everyday users will engage with.
 
 ## Possible Applications at GSA
 
@@ -63,7 +63,7 @@ Overall, “the decentralized metaverse platform aims to create a virtual ecosys
 
 #### Government Case Study
 
-{{<techradar-case-study heading="U.S. Department of State">}}
+{{< techradar-case-study heading="U.S. Department of State" >}}
 
 **Who**: The United States Department of State facilities management teams comprised of engineers, trade professionals, maintenance teams, fire protection, and others.
 
@@ -71,13 +71,13 @@ Overall, “the decentralized metaverse platform aims to create a virtual ecosys
 
 **What they did:** The team purchased Microsoft Hololenses for virtual presence. This allowed non-specialized staff and less experienced engineers to be physically present while using the devices to project the environment back to senior engineers offsite. Oftentimes multiple experts were able to engage on a single Hololens ‘call’ (in one case, as many as fifty specialists!). This process was used for a structural assessment of an old embassy elevator inspections, floor inspections, furniture repair, chiller replacement, and others. Crucially, in some cases the person on the ground was able to execute the required changes rather than just report back.
 
-{{</techradar-case-study>}}
+{{< /techradar-case-study >}}
 
 ## Companies and Contracts
 
-{{<usa-alert type="warning" heading="Disclaimer">}}
+{{< usa-alert heading="Disclaimer" type="warning" slim=false icon=true >}}
 GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing Virtual Presence products. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.
-{{</usa-alert>}}
+{{< /usa-alert >}}
 
 When considering any new technology your first question should be, 'What problem are we trying to solve?' In the case of Virtual Presence technology the answer is, 'How do we leverage new technologies to provide an effective and equitable working environment in an increasingly distributed and digital working world?' The products are discussed below.
 
