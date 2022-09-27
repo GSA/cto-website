@@ -26,6 +26,10 @@ layout: technologies-single
 ---
 ## Background
 
+3D printing or additive manufacturing is the construction of a three-dimensional object from a CAD model or a digital 3D model. It can be done in a variety of processes in which material is deposited, joined or solidified under computer control, with material being added together, typically layer by layer.
+
+Designers use 3D printers to quickly create product models and prototypes, but they're increasingly being used to make final products, as well. Among the items made with 3D printers are shoe designs, furniture, wax castings for making jewelry, tools, tripods, gift and novelty items, and toys.
+
 ### Additive Manufacturing
 
 There are plenty of companies already adopting additive manufacturing (3D Printing) in their production processes with a wide range of use cases.
@@ -52,7 +56,7 @@ The aerospace industry relies on many small parts to withstand extreme temperatu
 
 People have been predicting that 3D printing will revolutionize health care for over a decade.  Others have dismissed it as a fad. Because of the time and difficulty involved, the technology was initially seen as a way to help physicians plan for rare surgeries. Mayo Clinic, one of the early adopters of 3D printing in hospitals, first used it to plan the separation of conjoined twins in 2006.
 
-But as 3D modeling and printing have become easier, hospitals increasingly see it as a tool for any tricky operation, such as surgery on the heart, a complex organ that moves constantly.  Outside of surgical planning, physicians and stakeholders are using the technology to create custom surgical tools, prosthetics and stents, and even printing bio-matter like living tissue, bone, blood vessels, and, organs, among other applicatio
+But as 3D modeling and printing have become easier, hospitals increasingly see it as a tool for any tricky operation, such as surgery on the heart, a complex organ that moves constantly.  Outside of surgical planning, physicians and stakeholders are using the technology to create custom surgical tools, prosthetics and stents, and even printing bio-matter like living tissue, bone, blood vessels, and, organs, among other applications.
 
 ### Manufacturing
 
@@ -62,39 +66,49 @@ But as 3D modeling and printing have become easier, hospitals increasingly see i
 
 "Instead of paying large amounts of money for a non-customized design, 3D printers allow robotics companies to design and fabricate light, complex parts such as end-of-arm tooling at a fraction of the cost. Haddington Dynamics, for example, is utilizing its four printers to create 3D printed robot arms for NASA and GoogleX for 58% less than traditional manufacturing."
 
-## Potential Applications
+## Potential Applications at GSA
 
-### Scenario 1
+Below are examples of how this technology can be used within GSA.  GSA is the proud steward of more than 480 historic buildings constructed between the early nineteenth and mid twentieth centuries. 
+
+As we graduate from the Information Age when we asked ‘How do I buy something’ to the Artificial Age now we ask ‘How do I make something’.  3D printing helps alleviate supply chain disruptions (labor and skill set shortages), brought on by the COVID Pandemic.  
 
 #### Public Buildings
 
-GSA’s Public Building Service (PBS) maintains over 370 million square feet of workspace, including over 500 historic properties. The scale of this portfolio allows for opportunities to leverage 3D printing technologies to meet PBS needs.
+PBS acquires space through [new construction](https://www.gsa.gov/real-estate/design-and-construction) and [leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing-overview) and maintains federal properties nationwide. We own or lease an [inventory](https://www.gsa.gov/tools-overview/buildings-and-real-estate-tools/inventory-of-gsa-owned-and-leased-properties) of more than 8,800 assets, maintain more than 370 million square feet of workspace for 1.1 million federal employees, and preserve more than 500 [historic properties](https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings/find-a-building-search).
 
-#### Problem
+The Public Buildings Service also:
 
-A Category 1 hurricane ravages coastal cities to include Washington D.C. and New York City. In the storm’s wake, several historic federal buildings were impacted by water damage as high winds and localized flooding forced water into facilities. The decorative molding predates readily available patterns from this era and requires skilled craftsmen and considerable time for replication and restoration - resulting in costly repairs.
+* [Promotes innovative workplace solutions](https://www.gsa.gov/governmentwide-initiatives/telework).
+* [Acts as a green technologies proving ground](https://www.gsa.gov/governmentwide-initiatives/climate-action-and-sustainability/center-for-emerging-building-technologies/about-green-proving-ground-gpg).
+* [Supports development of urban communities](https://www.gsa.gov/about-us/regions/welcome-to-the-pacific-rim-region-9/land-ports-of-entry/san-ysidro-land-port-of-entry/community-representative-committee/urban-development-program).
+* [Provides space for child care centers](https://www.gsa.gov/resources-for-%E2%80%A6/citizens-and-consumers/child-care).
+* [Donates or sells underutilized real estate for federal agencies](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal).
+* [Commissions artwork for new federal buildings](https://www.gsa.gov/about-us/regions/welcome-to-the-heartland-region-6/buildings-and-facilities/heartland-region-art-in-architecture-program).
+* [Conserves federally-owned artworks, the largest public collection in the country.](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecturefine-arts/fine-arts-collection)
+* [Supports sustainable design](https://www.gsa.gov/real-estate/design-and-construction/design-excellence/sustainability/sustainable-design).
+* [Preserves historic buildings](https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools-resources).
 
-![Photo of the GSA headquarters building](/assets/cms/techradar/3d-printing-scenario1.jpg "GSA Office, National Capital Region. Source: GSA")
+#### G﻿etting Started
 
-#### Solution
+If we are to move forward and have a positive impact we need to reach out to all Offices/Divisions within GSA and identify who has a need for 3D printing.  We should meet with the Offices/Divisions and discuss with them how 3D printing could be used within their teams.  This would also allow us to identify the type of 3D printer we would need to purchase and how many.
 
-Through GSA’s Building Information Modeling (BIM) program, an approved vendor can capture a 3D rendering of the decorative molding for export to a 3D printing service. Shortly following production, local facilities support can perform the relatively minor installation task.
+GSA PBS can utilize 3D Printing in the construction of new buildings, preserving historic buildings, and remodeling buildings for new uses.  3D models of new construction projects can be used to identify any possible issues with the design and any changes that may be required.  
 
-### Scenario 2
+3D printing can also be used in the restoration of historical buildings that GSA is responsible for.  In 1836 construction began on the [U.S. Treasury](https://www.gsa.gov/real-estate/historic-preservation/historic-building-stewardship/architecture-and-government/a-timeline-of-architecture-and-government) building. Its construction spans 33 years, and today it is the oldest departmental building in Washington DC. A magnificent example of Greek Revival style, the building has a great impact on the design of other government buildings.
 
-#### Building & Space Modeling
+3D printing can be used to create parts that will enable the restoration process of these magnificent buildings.
 
-Since 2003, GSA has been incorporating 2D/3D/4D and BIM modeling to greatly enhance their ability to design, construct, and maintain their vast portfolio. Computer modeling became a cost effective means of enabling coordination, simulation, and optimization of the design process. GSA became less dependent on the use of physical models.
+#### C﻿ost of 3D Printers
 
-#### Problem
+#### Professional & Performance: $1,000-$5,000
 
-While computer modeling capabilities have matured in the past two decades, stakeholders must still view these models on a 2D screen. This limitation is believed to limit an individual’s ability to reconcile spatial anomalies and create a perception of scale that may not be accurate. Physical modeling is a challenge when a team needs a proposed changes to a design to be rapidly modeled for stakeholder review and concurrence. How does GSA use physical modeling to augment computer modeling without driving up cost and delaying delivery schedule?
+This price range has a mixed target audience, including experienced and professional individuals as well as small and medium-sized businesses. These printers fall in a weird price range, one that’s on the higher end for an individual consumer but that’s not too much to spend for a business. Nonetheless, these printers are great all-around machines that offer many professional features to yield high-quality prints.
 
-![3D rendering of a building rooftop](/assets/cms/techradar/3d-printing-scenario2.jpg "U.S. Coast Guard Headquarters, Washington, DC. Source: WDG Architecture")
+#### B﻿usiness & Industrial: $5,000+
 
-#### Solution
+The business and industrial 3D printer categories are meant for professional businesses and large-scale manufacturers who need 3D printing to run their businesses. The printers in this category aren’t for your average Joe and can cost anywhere from $5,000 to hundreds of thousands of dollars. Typically, at this price range, you’ll mainly be seeing SLS printers and other special 3D printing technologies (e.g. [binder jetting](https://all3dp.com/1/betting-on-binder-jetting-for-production-additive-manufacturing/)), but, of course, there are still industrial FDM and resin 3D printers.
 
-3D printing is well suited to augment computer modeling. As a complement to 2D/3D computer models, physical models aid customers in assessing the size, shape, location, and texture of objects and space. The low cost, rapid production, and relatively low level-of-effort to incorporate iterative changes means that design teams can make changes, submit for customer review, and move the project forward all in the same day.
+In closing, we should take steps to identify within GSA where 3D Printing can make a difference, add value, and save money. A critical culture shift needs to take place where society in general should determine how to self-serve themselves and create the items they need instead of defaulting to the manufacturers for these items. The 3D printing community should thrive and continue to share their designs with others in order to minimize waste and to leverage models that others have already created. This in turn will allow the technology to evolve, while also helping others to adopt the technology and the 3D printing mentality.
 
 ## Sustainability
 
