@@ -21,7 +21,7 @@ layout: technologies-single
 
 AI (artificial intelligence) has been around for a while now in terms of ‘IT Years’ and has become very popular in some areas and still quite nuanced in others. Its benefits have shown quite promising results and our analysis at and for GSA so far show’s a varying level of implementation, interest and scaling/expansion potential that we’re working to leverage across the Enterprise where possible.
 
- Within the realm of AI / ML / RPA, one of the key focus areas is within the Operations space coined as AIOps. This area covers the use of these NPE’s (Non-Person-Entities) to perform generally repetitive tasks across platforms, systems and applications with little to no manual oversight necessary. The intent of our deeper dive into the realm of AIOps specifically is to help identify existing and possible use cases, expose potential synergies / cost savings / and/or cost savings across GSA.
+Within the realm of AI / ML / RPA, one of the key focus areas is within the Operations space coined as AIOps. This area covers the use of these NPE’s (Non-Person-Entities) to perform generally repetitive tasks across platforms, systems and applications with little to no manual oversight necessary. In some cases the NPE will learn and make its own modifications to improve them for their next iteration of a particular task . As more of this learning and purely intelligence based aspect of AIOps grows, the closer this technology space as a whole will move toward the Artificial Age. The intent of this deeper dive into the realm of AIOps is to help identify existing and possible use cases, expose potential synergies / cost savings / and/or cost savings across GSA.
 
 ### Use Cases: Currently Implemented at GSA
 
@@ -180,7 +180,7 @@ Current contracts (as if 2/8/22) include:
 
 ### Companies - Introduction
 
-{{< usa-alert heading="Disclaimer" type="warning" >}}GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing AIOps products. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.{{< /usa-alert >}}
+{{< usa-alert heading="Disclaimer" type="warning" slim=false icon=true >}}GSA in no way endorses or recommends any particular company. The information listed below is intended to provide some centralized resources of current companies actively developing AIOps products. Inclusion or omission from this list merely reflects the limited resources available to the team generating this report. Many of the statements below rely on each company’s self-assertions rather than this team’s assessment of a given capability.{{< /usa-alert >}}
 
 Most AIOps offerings represent the maturation of application performance management (APM) systems to include artificial intelligence (AI). The term AIOps was coined by Gartner in 2017 and is defined by them as follows:
 
