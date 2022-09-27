@@ -21,15 +21,13 @@ stakeholders:
     url: https://digital.gov/communities/virtual-augmented-reality/
 layout: technologies-single
 ---
-## Possible Applications
+## B﻿ackground
 
-Below are a few examples of how each organization within GSA could pilot solutions utilizing augmented reality technology:
+Augmented Reality (AR) overlays digital information on real-world elements. Augmented Reality keeps the real world central but enhances it by overlaying it with other digital details and a new strata of perception that supplements our reality and environment.
 
-### FAS
+## Possible Applications at GSA
 
-#### Contract writing
-
-The typical contract writing process tends to be structured and should be easily repeatable. By incorporating augmented reality, you could essentially embed QR codes into various areas within the contract template, which would display or overlay useful contract writing information to the person drafting the contract. This same approach could also be implemented within Terms of Service (ToS) and End User License Agreements (EULA) reviews.
+Below you will see examples of how some organizations within GSA could effectively advance their Augmented Reality (AR) utilization technology to further their mission:
 
 ### PBS
 
@@ -47,7 +45,7 @@ With augmented reality, GSA users could conduct self-help troubleshooting by bei
 
 Augmented Reality Examples can be used in training simulations for surgeons, the operation of production, and immersion of teaching experiences within the classroom. The economic benefits of AR are expected to be felt everywhere and many use cases can be used for many things and go further in the future.
 
-### Education
+### Academia
 
 AR tools are currently assisting teachers by creating an interactive learning experience for their students. AR has helped students visualize mathematical concepts through visuals and interactive 3D models. One example helping students learn geometry more interactively is an application called [Merge Cube](https://online.maryville.edu/blog/augmented-reality-in-education/), which allows students to virtually hold, view, and rotate [3D objects](https://mergeedu.com/assets/images/hold-anything.mp4). Augmented reality also helps incorporate gamification through a virtual platform thus creating an experience for the student to learn in a more interactive and fun way.
 
@@ -59,9 +57,9 @@ It can be a prototype of training because of the pandemic and its physical locat
 
 Immersive learning experiences including 360 degree videos and 3D environments with scales and orientations that offer an advantage to the student are possible.
 
-### Medicine
+### Industry
 
-AR creates an environment and shows surgeons how to go through organs and therefore has surgery improvement implications.
+Within the Health Field, AR can create virtual environments that show surgeons how to go through organs, conduct virtual surgeries before performing them in real-life, manipulate and interact with the entire composition of the human body down to the cellular level.
 
 ## Companies and Contracts
 
