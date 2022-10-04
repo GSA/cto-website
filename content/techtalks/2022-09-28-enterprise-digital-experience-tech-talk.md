@@ -4,6 +4,7 @@ date: 2022-09-28
 time: 1:00pm - 1:30pm ET
 location: Virtual  GSA  Internal upon invitation
 presenter: Mark Vogelgesang
+slides: /assets/cms/techtalks/edx-tech-talk-september-2022.pdf
 ---
 <!--StartFragment-->
 
