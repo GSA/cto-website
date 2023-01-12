@@ -2,7 +2,7 @@
 title: "Agency Software: Ensuring it is Secure though the Supply Chain Tech Talk"
 date: 2023-01-31
 time: 1:00pm - 1:30pm ET
-location: Virtual information based upon Invitation
+location: Virtual upon Invitation
 presenter: Monica Fitzgerald
 ---
 <!--StartFragment-->
