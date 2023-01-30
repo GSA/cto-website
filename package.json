@@ -11,9 +11,9 @@
     "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
     "test:serve": "hugo server --port 54321 --destination test",
     "test:eslint": "eslint 'static/assets/js/**/*.js'",
-    "test:links:internal": "start-server-and-test test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
-    "test:links:external": "start-server-and-test test:serve 54321 'blc -i -r http://localhost:54321'",
-    "test:a11y:local": "start-server-and-test test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
+    "test:links:internal": "start-server-and-test --expect 200 test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
+    "test:links:external": "start-server-and-test --expect 200 test:serve 54321 'blc -i -r http://localhost:54321'",
+    "test:a11y:local": "start-server-and-test --expect 200 test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
   "author": "GSA <cto@gsa.gov>",
