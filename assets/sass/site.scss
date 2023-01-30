@@ -1,0 +1,304 @@
+@use "uswds-core" as *;
+@forward "usa-table";
+@forward "usa-summary-box";
+
+// General
+body {
+  @include typeset('body');
+}
+
+// Header
+.techgsa-header {
+  background-color: color('base-darkest');
+}
+
+// Footer
+.techgsa-footer {
+  margin-top: 8rem;
+}
+
+// Primary navigation
+.techgsa-nav-container {
+  .usa-navbar {
+    border-bottom: none;
+  }
+
+  .usa-logo__text a {
+    font-size: font-size('body', 'xl');
+    font-weight: font-weight('light');
+    color: color('base-lightest');
+  }
+
+  .usa-nav__link span {
+    color: color('primary-light');
+  }
+}
+
+// Breadcrumbs
+.techgsa-breadcrumbs {
+  background-color: color('base-lightest');
+}
+
+// Apply USWDS table style to all tables
+table {
+  @extend .usa-table;
+}
+
+// "Return to the top of this page" link
+.techgsa-top-link {
+  width: inherit;
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 99;
+  padding: 0.75rem;
+}
+
+// Icons for cards on the front page
+.landing-area-icon {
+  text-align: center;
+
+  span {
+    font-size: 4rem;
+    color: white;
+    vertical-align: middle;
+    border-radius: 5px;
+    width: 100%;
+    padding: 2rem 0;
+  }
+
+  .landing-area-icon__guides    { background-color: color('green-50'); }
+  .landing-area-icon__playbooks { background-color: color('red-60'); }
+  .landing-area-icon__techtalks { background-color: color('gold-30v'); }
+  .landing-area-icon__techradar { background-color: color('blue-30v'); }
+}
+
+// Front page hero image/intro
+.techgsa-hero {
+  background-color: black;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../assets/img/hero-bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.75;
+  }
+
+  .techgsa-hero__intro {
+    position: relative;
+    text-align: center;
+
+    h1 {
+      color: white;
+      font-size: 3em;
+    }
+
+    p {
+      color: white;
+      font-weight: light;
+      text-shadow: 0 0 10px black;
+      font-size: 2em;
+    }
+  }
+}
+
+// Team member list
+.techgsa-team {
+  img, svg {
+    display: block;
+    margin: 1rem auto;
+    border: 1px solid color('base-lighter');
+    border-radius: 50%;
+    width: units('card');
+    height: units('card');
+    object-fit: cover;
+    color: color('base-light');
+  }
+}
+
+// Team member bio
+.techgsa-bio {
+  img, svg {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid color('base-lighter');
+    border-radius: 50%;
+    width: units('card');
+    height: units('card');
+    object-fit: cover;
+    color: color('base-light');
+  }
+}
+.techgsa-bio__title {
+  text-align: center;
+  @include at-media(tablet) {
+    text-align: inherit;
+  }
+}
+
+// Playbook icons
+.icon {
+  @include u-height(15);
+  display: block;
+
+  &.icon-center {
+    margin: 0 auto;
+  }
+
+  &.icon-right {
+    float: right;
+    @include u-margin-left(1);
+  }
+
+  &.icon-left {
+    float: left;
+    @include u-margin-right(1);
+  }
+}
+
+// Search results
+.search-results-list {
+  h3 {
+    margin-bottom: 0;
+    font-weight: normal;
+    font-size: font-size('body', 8);
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  p {
+    margin-top: 0;
+  }
+}
+.search-results-list__path {
+  margin: 0;
+  font-size: font-size('body', '2xs');
+
+  a {
+    color: color('base');
+    text-decoration: none;
+  }
+}
+
+// TechRadar navigation
+.techradar-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.techradar-nav__items {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  @media screen and (max-width: 640px) {
+    display: block;
+  }
+}
+.techradar-nav__item {
+  padding: 0 2rem 1rem 0;
+  margin: 0;
+}
+.techradar-nav__item a {
+  color: color("primary-dark");
+  text-decoration: none;
+  font-weight: font-weight("bold");
+}
+.techradar-nav__current {
+  border-bottom: 3px solid color("primary-dark");
+}
+
+// Intro area at top of TechRadar pages
+.techradar-intro {
+  padding: 2em;
+  margin-bottom: 2em;
+  background-color: color("primary-darker");
+}
+.techradar-intro__title {
+  margin: 0;
+  line-height: line-height("heading", 4);
+  color: white;
+}
+.techradar-intro__text {
+  margin: 0;
+  color: color("accent-cool");
+  font-size: size("body", "lg");
+  font-weight: font-weight("bold");
+  line-height: line-height("heading", 4);
+}
+.techradar-intro__image {
+  float: right;
+  max-height: 240px;
+}
+
+// TechRadar case study
+.techradar-case-study {
+  @extend .usa-summary-box;
+  border-color: #00538e;
+  background-color: color("base-lightest");
+}
+.techradar-case-study__heading {
+  @extend .usa-summary-box__heading;
+}
+.techradar-case-study__text {
+  @extend .usa-summary-box__text;
+}
+
+// Quotations inline with content
+blockquote {
+  background-color: color("gray-warm-2");
+  border-left: 10px solid color("gray-warm-10");
+  padding: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: size("body", "lg");
+  font-style: oblique;
+  font-family: family("serif");
+  line-height: line-height("heading", 4);
+  color: color("gray-warm-60");
+
+  cite {
+    font-size: size("body", "md");
+    font-weight: font-weight("bold");
+    font-family: family("sans");
+    color: color("blue-warm-60");
+    display: block;
+    text-align: right;
+  }
+}
+
+// Images/figures inline with content
+figure {
+  margin: 0;
+
+  img {
+    padding: 1px;
+    border: 1px solid color("gray-warm-10");
+  }
+}
+figcaption {
+  font-size: size("body", "3xs");
+  font-style: oblique;
+  color: color("gray-warm-60");
+}
+
+// Normalize all card image heights
+.usa-card__img img {
+  height: units('card');
+}

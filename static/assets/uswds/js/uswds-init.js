@@ -1,6 +1,7 @@
 /* eslint-disable no-var */
-(function uswdsInit () {
+(function uswdsInit() {
   "use strict";
+
   var loadingClass = "usa-js-loading";
   var fallback;
 
@@ -15,9 +16,9 @@
     if (window.uswdsPresent) {
       clearTimeout(fallback);
       revertClass();
-      document.removeEventListener("load", verifyLoaded, true);
+      window.removeEventListener("load", verifyLoaded, true);
     }
   }
 
-  document.addEventListener("load", verifyLoaded, true);
-}());
+  window.addEventListener("load", verifyLoaded, true);
+})();

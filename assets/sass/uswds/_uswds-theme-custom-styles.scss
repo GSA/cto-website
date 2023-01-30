@@ -20,4 +20,6 @@ i.e.
 ----------------------------------------
 */
 
-@import "../styles";
+@use "uswds-core" as *;
+
+@import "../site.scss";
