@@ -45,6 +45,7 @@
   "overrides": {
     "trim@<0.0.3": "^0.0.3",
     "nth-check@<2.0.1": "^2.0.1",
-    "glob-parent@<5.1.2": "^5.1.2"
+    "glob-parent@<5.1.2": "^5.1.2",
+    "robots-txt-guard@<1.0.2": "^1.0.2"
   }
 }
