@@ -11,22 +11,22 @@
     "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
     "test:serve": "hugo server --port 54321 --destination test",
     "test:eslint": "eslint 'static/assets/js/**/*.js'",
-    "test:links:internal": "start-server-and-test test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
-    "test:links:external": "start-server-and-test test:serve 54321 'blc -i -r http://localhost:54321'",
-    "test:a11y:local": "start-server-and-test test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
+    "test:links:internal": "start-server-and-test --expect 200 test:serve 54321 'blc -e -r --exclude docx --exclude xlsx --exclude pptx --exclude pdf --exclude svg http://localhost:54321'",
+    "test:links:external": "start-server-and-test --expect 200 test:serve 54321 'blc -i -r http://localhost:54321'",
+    "test:a11y:local": "start-server-and-test --expect 200 test:serve 54321 'pa11y-ci --sitemap http://localhost:54321/sitemap.xml'",
     "test:a11y:live": "pa11y-ci --sitemap https://tech.gsa.gov/sitemap.xml"
   },
   "author": "GSA <cto@gsa.gov>",
   "license": "CC0-1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.1",
+    "@uswds/uswds": "^3.3.0",
     "jquery": "^3.6.3",
     "lunr": "^2.3.9",
     "markdown-it": "^12.3.2",
     "mousetrap": "^1.6.5",
     "netlify-cms": "^2.10.192",
     "react": "^16.14.0",
-    "uswds": "^2.13.3",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
@@ -45,6 +45,7 @@
   "overrides": {
     "trim@<0.0.3": "^0.0.3",
     "nth-check@<2.0.1": "^2.0.1",
-    "glob-parent@<5.1.2": "^5.1.2"
+    "glob-parent@<5.1.2": "^5.1.2",
+    "robots-txt-guard@<1.0.2": "^1.0.2"
   }
 }
