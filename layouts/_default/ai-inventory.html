@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+  <div class="grid-container">
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <table class="usa-table usa-table--borderless">
+      <thead>
+        {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
+          {{ if eq $rowIndex 0 }}
+            <tr>
+              <th>{{ index $rowData 0 }}</th>
+              <th>{{ index $rowData 1 }}</th>
+              <th>{{ index $rowData 2 }}</th>
+            </tr>
+          {{ end }}
+        {{ end }}
+      </thead>
+      <tbody>
+        {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
+          {{ if ne $rowIndex 0 }}
+            <tr>
+              <td>{{ index $rowData 0 }}</td>
+              <td>{{ index $rowData 1 }}</td>
+              <td>{{ index $rowData 2 }}</td>
+            </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+    </table>
+
+  </div>
+
+{{ end }}
