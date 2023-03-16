@@ -3,7 +3,7 @@ title: " GSA Workplace: A Case Study in Modern Product Development Tech Talk "
 date: 2023-03-23
 time: 1:00pm - 1:30pm ET
 location: Virtual Upon Invitation
-presenter: " Leslie LaMar, Jessica Marine, and Jenn Noinaj"
+presenter: " Leslie LaMar, Jessica Marine, Jenn Noinaj, and Alison Kohler"
 ---
 <!--StartFragment-->
 
