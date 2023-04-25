@@ -1,5 +1,5 @@
 ---
-title: "Future of Work: How GSA’s Workplace Innovation Lab (WIL) is Using
+title: "Future of Work: How GSA's Workplace Innovation Lab (WIL) is Using
   Technology to Change the Game"
 date: 2023-04-26
 time: 1:00pm - 1:30pm ET
