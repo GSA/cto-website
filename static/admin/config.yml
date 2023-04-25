@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: GSA/cto-website
-  base_url: https://federalistapp.18f.gov
+  base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
-  preview_context: federalist/build
+  preview_context: pages/build
   branch: main
 
 site_url: https://tech.gsa.gov/
