@@ -1,5 +1,5 @@
 ---
-title: IT Standard Tech Talkl
+title: IT Standard Tech Talk
 date: 2023-05-23
 time: 1:00pm - 1:30pm ET
 location: Virtual Upon Invitation
