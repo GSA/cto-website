@@ -11,9 +11,9 @@
         {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
           {{ if eq $rowIndex 0 }}
             <tr>
-              <th>{{ index $rowData 0 }}</th>
               <th>{{ index $rowData 1 }}</th>
-              <th>{{ index $rowData 2 }}</th>
+              <th>{{ index $rowData 4 }}</th>
+              <th>{{ index $rowData 5 }}</th>
             </tr>
           {{ end }}
         {{ end }}
@@ -22,9 +22,9 @@
         {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
           {{ if ne $rowIndex 0 }}
             <tr>
-              <td>{{ index $rowData 0 }}</td>
               <td>{{ index $rowData 1 }}</td>
-              <td>{{ index $rowData 2 }}</td>
+              <td>{{ index $rowData 4 }}</td>
+              <td>{{ index $rowData 5 }}</td>
             </tr>
           {{ end }}
         {{ end }}
