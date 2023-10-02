@@ -6,7 +6,7 @@ This is the website for the GSA Office of the Chief Technology Officer.
 ## Architecture
 
 This is a [Hugo-based](https://gohugo.io/) website designed to be published on the
-[Federalist](https://federalist.18f.gov/) platform.
+[cloud.gov Pages](https://pages.cloud.gov/) platform.
 
 The website utilizes the [US Web Design System](https://designsystem.digital.gov/).
 
