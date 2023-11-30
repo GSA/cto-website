@@ -1,0 +1,27 @@
+{
+  "unversionedId": "add-required-links",
+  "id": "add-required-links",
+  "title": "Add required links",
+  "description": "GSA websites must include the following required links.",
+  "source": "@site/docs/add-required-links.md",
+  "sourceDirName": ".",
+  "slug": "/add-required-links",
+  "permalink": "/docs/add-required-links",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/add-required-links.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add USWDS components",
+    "permalink": "/docs/add-uswds-components"
+  },
+  "next": {
+    "title": "Add DAP snippet",
+    "permalink": "/docs/add-dap-snippet"
+  }
+}

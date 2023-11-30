@@ -1,0 +1,73 @@
+{
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "add-dap-snippet",
+              "path": "/docs/add-dap-snippet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "add-required-links",
+              "path": "/docs/add-required-links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "add-uswds-components",
+              "path": "/docs/add-uswds-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "congratulations",
+              "path": "/docs/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enable-search",
+              "path": "/docs/enable-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enhance-security",
+              "path": "/docs/enhance-security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

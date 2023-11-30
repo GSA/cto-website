@@ -1,0 +1,74 @@
+@use "uswds-core" as * with (
+  $theme-show-notifications: false,
+  $theme-font-path: "../../node_modules/@uswds/uswds/dist/fonts",
+  $theme-image-path: "../../node_modules/@uswds/uswds/dist/img",
+  $theme-font-type-sans: "public-sans",
+  $theme-banner-max-width: "widescreen",
+  $theme-identifier-max-width: "widescreen"
+);
+
+@forward "uswds";
+
+:root {
+  --aa-primary-color-rgb: #{color($theme-color-base)} !important;
+  --ifm-navbar-padding-horizontal: 2rem;
+  --ifm-color-primary: #{color($theme-color-primary)};
+  --ifm-color-primary-dark: #{color($theme-color-primary-dark)};
+  --ifm-color-primary-darker: #{color($theme-color-primary-darker)};
+  --ifm-color-primary-light: #{color($theme-color-primary-light)};
+  --ifm-color-primary-lighter: #{color($theme-color-primary-lighter)};
+}
+
+.aa-Autocomplete {
+  @include at-media("tablet") {
+    width: 200px !important;
+  }
+}
+
+.main-wrapper article {
+  @include u-line-height("sans", 6);
+}
+
+.preview-box-wrapper {
+  position: relative;
+  max-width: 100%;
+}
+
+.preview-box-wrapper {
+  margin: 1em 0;
+}
+
+.docus-preview-box {
+  background: #fff;
+  border: 2px solid #dedede;
+  border-radius: 1em;
+  padding: 1.5em;
+}
+
+.docus-preview-box.is-fullscreen {
+  height: 100% !important;
+  border-radius: 0;
+}
+
+.preview-box-fullscreen-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px;
+  background: #eee;
+  border: 2px solid #dedede;
+  border-radius: 14px;
+  transition: all 0.15s ease;
+  transform: scale(0);
+}
+
+.preview-box-wrapper:focus-within .preview-box-fullscreen-toggle,
+.preview-box-wrapper:hover .preview-box-fullscreen-toggle,
+.preview-box-fullscreen-toggle:focus {
+  transform: scale(1);
+}
+
+.preview-box-fullscreen-toggle svg {
+  fill: #696969;
+  width: 25px;
+}

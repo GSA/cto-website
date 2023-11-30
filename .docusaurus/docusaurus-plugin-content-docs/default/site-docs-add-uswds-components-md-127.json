@@ -1,0 +1,27 @@
+{
+  "unversionedId": "add-uswds-components",
+  "id": "add-uswds-components",
+  "title": "Add USWDS components",
+  "description": "GSA websites must include the following core USWDS components.",
+  "source": "@site/docs/add-uswds-components.md",
+  "sourceDirName": ".",
+  "slug": "/add-uswds-components",
+  "permalink": "/docs/add-uswds-components",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/add-uswds-components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Add required links",
+    "permalink": "/docs/add-required-links"
+  }
+}

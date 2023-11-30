@@ -1,0 +1,27 @@
+{
+  "unversionedId": "enhance-security",
+  "id": "enhance-security",
+  "title": "Enhance security",
+  "description": "GSA websites must:",
+  "source": "@site/docs/enhance-security.md",
+  "sourceDirName": ".",
+  "slug": "/enhance-security",
+  "permalink": "/docs/enhance-security",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/enhance-security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enable search",
+    "permalink": "/docs/enable-search"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/congratulations"
+  }
+}

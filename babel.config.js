@@ -1,11 +1,3 @@
-module.exports = function (api) {
-  api.cache(true);
-
-  const presets = [
-    "@babel/preset-react"
-  ];
-
-  const plugins = [];
-
-  return { presets, plugins };
-}
+module.exports = {
+  presets: [require.resolve('@docusaurus/core/lib/babel/preset')],
+};

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "add-dap-snippet",
+  "id": "add-dap-snippet",
+  "title": "Add DAP snippet",
+  "description": "GSA websites must participate in the federal Digital Analytics Program (DAP). DAP offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the Technology Transformation Services (TTS).",
+  "source": "@site/docs/add-dap-snippet.md",
+  "sourceDirName": ".",
+  "slug": "/add-dap-snippet",
+  "permalink": "/docs/add-dap-snippet",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/add-dap-snippet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add required links",
+    "permalink": "/docs/add-required-links"
+  },
+  "next": {
+    "title": "Enable search",
+    "permalink": "/docs/enable-search"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Add USWDS components",
+        "href": "/docs/add-uswds-components",
+        "docId": "add-uswds-components"
+      },
+      {
+        "type": "link",
+        "label": "Add required links",
+        "href": "/docs/add-required-links",
+        "docId": "add-required-links"
+      },
+      {
+        "type": "link",
+        "label": "Add DAP snippet",
+        "href": "/docs/add-dap-snippet",
+        "docId": "add-dap-snippet"
+      },
+      {
+        "type": "link",
+        "label": "Enable search",
+        "href": "/docs/enable-search",
+        "docId": "enable-search"
+      },
+      {
+        "type": "link",
+        "label": "Enhance security",
+        "href": "/docs/enhance-security",
+        "docId": "enhance-security"
+      },
+      {
+        "type": "link",
+        "label": "Congratulations!",
+        "href": "/docs/congratulations",
+        "docId": "congratulations"
+      }
+    ]
+  },
+  "docs": {
+    "add-dap-snippet": {
+      "id": "add-dap-snippet",
+      "title": "Add DAP snippet",
+      "description": "GSA websites must participate in the federal Digital Analytics Program (DAP). DAP offers a web analytics tool, training, and support to federal agencies. The program is a shared service provided by the Technology Transformation Services (TTS).",
+      "sidebar": "tutorialSidebar"
+    },
+    "add-required-links": {
+      "id": "add-required-links",
+      "title": "Add required links",
+      "description": "GSA websites must include the following required links.",
+      "sidebar": "tutorialSidebar"
+    },
+    "add-uswds-components": {
+      "id": "add-uswds-components",
+      "title": "Add USWDS components",
+      "description": "GSA websites must include the following core USWDS components.",
+      "sidebar": "tutorialSidebar"
+    },
+    "congratulations": {
+      "id": "congratulations",
+      "title": "Congratulations!",
+      "description": "You are well on your way to making a compliant website at GSA. Nice work! 🎉",
+      "sidebar": "tutorialSidebar"
+    },
+    "enable-search": {
+      "id": "enable-search",
+      "title": "Enable search",
+      "description": "GSA websites intended for use by the public must include a search box.",
+      "sidebar": "tutorialSidebar"
+    },
+    "enhance-security": {
+      "id": "enhance-security",
+      "title": "Enhance security",
+      "description": "GSA websites must:",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "OMB’s policy guidance (M-23-22) requires that agencies, including GSA, ensure their websites, web applications, digital services, and mobile applications conform to the following requirements and principles:",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

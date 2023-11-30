@@ -1,0 +1,27 @@
+{
+  "unversionedId": "enable-search",
+  "id": "enable-search",
+  "title": "Enable search",
+  "description": "GSA websites intended for use by the public must include a search box.",
+  "source": "@site/docs/enable-search.md",
+  "sourceDirName": ".",
+  "slug": "/enable-search",
+  "permalink": "/docs/enable-search",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/enable-search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add DAP snippet",
+    "permalink": "/docs/add-dap-snippet"
+  },
+  "next": {
+    "title": "Enhance security",
+    "permalink": "/docs/enhance-security"
+  }
+}

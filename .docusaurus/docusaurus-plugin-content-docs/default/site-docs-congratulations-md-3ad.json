@@ -1,0 +1,23 @@
+{
+  "unversionedId": "congratulations",
+  "id": "congratulations",
+  "title": "Congratulations!",
+  "description": "You are well on your way to making a compliant website at GSA. Nice work! 🎉",
+  "source": "@site/docs/congratulations.md",
+  "sourceDirName": ".",
+  "slug": "/congratulations",
+  "permalink": "/docs/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/gsa/cto-website/tree/main/packages/create-docusaurus/templates/shared/docs/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Enhance security",
+    "permalink": "/docs/enhance-security"
+  }
+}
