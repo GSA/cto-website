@@ -1,5 +1,5 @@
 ---
-title: GSA IT & Contractors Relations Tech Talk -- Part 1 - Procurement-related issues
+title: "GSA IT & Contractors Relations: Part 1 - Procurement-related issues"
 date: 2023-11-08
 time: 1:00pm - 1:30pm ET
 location: Virtual upon invitation
@@ -13,4 +13,4 @@ Marie & Lauren will leave plenty of time for questions during the session. 
 
 Hope you can join! 
 
-**NOTE**: This is feds-only; contractors & embedded contractors cannot attend. 
+**NOTE**: This is feds-only; contractors & embedded contractors cannot attend.
