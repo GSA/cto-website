@@ -1,6 +1,6 @@
 ---
 title: GSA SmartPay Tech Talk
-date: 2024-01-30
+date: 2024-02-13
 time: 1:00pm - 1:30pm ET
 location: Virtual, Information provided upon invitation
 presenter: Rebekah Perillo
