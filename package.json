@@ -26,7 +26,7 @@
     "markdown-it": "^14.0.0",
     "mousetrap": "^1.6.5",
     "netlify-cms": "^2.10.192",
-    "react": "^16.14.0",
+    "react": "^18.2.0",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
