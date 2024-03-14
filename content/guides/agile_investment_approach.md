@@ -8,7 +8,7 @@ category: Agile
 The goal of this approach is to create a stronger partnership between the Business and IT by [increasing collaboration](/guides/business_and_it_collaboration/), providing faster solution delivery, increasing transparency, reducing risk, improving overall GSA IT investment spend, and increasing business value.
 
 {{<figure src="/assets/img/guides/agile_investment_roles.png"
-  alt="Kanban Board"
+  alt="A circle with the words core implementation team in the middle, with three rounded, blue rectangles surrounding, one reads CTO office, one reads ACIO SMEs, and the last one reads business line owner, with CTO office at the top"
   class="display-block margin-x-auto maxw-tablet">}}
 
 
