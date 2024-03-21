@@ -12,6 +12,27 @@ body {
   background-color: color('base-darkest');
 }
 
+.techgsa-logo {
+  @include u-height('full');
+}
+
+.techgsa-logo__image {
+  @include u-height('full');
+
+  @include at-media(desktop) {
+    @include u-height(7);
+  }
+}
+
+.techgsa-logo__text {
+  position: relative;
+  display: inline;
+  padding-left: 1rem;
+  bottom: 8px;
+  color: white;
+  font-size: 1.5rem;
+}
+
 // Footer
 .techgsa-footer {
   margin-top: 8rem;
@@ -23,14 +44,14 @@ body {
     border-bottom: none;
   }
 
-  .usa-logo__text a {
-    font-size: font-size('body', 'xl');
-    font-weight: font-weight('light');
-    color: color('base-lightest');
-  }
-
   .usa-nav__link span {
     color: color('primary-light');
+  }
+
+  .usa-nav__primary>.usa-nav__primary-item>a {
+    @include at-media(desktop) {
+      padding: 1rem 1rem 1.5rem 1rem;
+    }
   }
 }
 

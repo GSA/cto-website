@@ -1,8 +1,11 @@
 <header class="usa-header usa-header--basic techgsa-header">
   <div class="usa-nav-container techgsa-nav-container">
     <div class="usa-navbar">
-      <div class="usa-logo" id="basic-logo">
-        <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">{{ .Site.Title }}</a></em>
+      <div class="usa-logo techgsa-logo" id="basic-logo">
+        <a href="/" title="Home" aria-label="Home">
+          <img src="/assets/img/gsa_logo.svg" class="usa-logo__image techgsa-logo__image">
+          <em class="usa-logo__text techgsa-logo__text">{{ .Site.Title }}</em>
+        </a>
       </div>
       <button class="usa-menu-btn">Menu</button>
     </div>
