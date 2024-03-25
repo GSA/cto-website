@@ -23,7 +23,7 @@
     "@uswds/uswds": "^3.8.0",
     "jquery": "^3.7.1",
     "lunr": "^2.3.9",
-    "markdown-it": "^14.0.0",
+    "markdown-it": "^14.1.0",
     "mousetrap": "^1.6.5",
     "netlify-cms": "^2.10.192",
     "react": "^18.2.0",
