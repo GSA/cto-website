@@ -52,8 +52,8 @@ The working agreement should be reviewed periodically, especially when the Team 
 ## Good Reads
 
 These are good references for understanding Agile Team Working Agreements:
-* [Agile Team Working Agreements How To Guide](http://www.payton-consulting.com/agile-team-working-agreements-guide/)
-* [Creating a Team Working Agreement](http://www.gettingagile.com/2008/05/02/creating-a-team-working-agreement/)
+* [Agile Team Working Agreements How To Guide](https://web.archive.org/web/20191208130941/https://payton-consulting.com/agile-team-working-agreements-guide/)
+* [Creating a Team Working Agreement](https://web.archive.org/web/20200802085143/http://www.gettingagile.com/2008/05/02/creating-a-team-working-agreement/)
 * [Forming, Storming, Norming, and Performing: Understanding the Stages of Team Formation](https://www.mindtools.com/pages/article/newLDR_86.htm)
-* [Team ground rules and working agreements](https://nomad8.com/team-ground-rules/)
+* [Team ground rules and working agreements](https://web.archive.org/web/20181208070736/https://nomad8.com/team-ground-rules/)
 * [What is a team ground rule or team working agreement](https://agilefaq.wordpress.com/2007/11/21/what-is-a-team-ground-rule-or-team-working-agreement/)
