@@ -5,7 +5,7 @@ canonifyURLs: true
 buildFuture: true
 
 params:
-  description: "The GSA Office of the CTO utilizes collaborative practices and modern IT tools to facilitate a new GSA."
+  description: "Design and development resources to build modern digital services at GSA"
 
 markup:
   goldmark:
