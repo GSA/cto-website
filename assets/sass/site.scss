@@ -8,8 +8,68 @@ body {
 }
 
 // Header
-.techgsa-header {
-  background-color: color('base-darkest');
+.techgsa-header__logo {
+  height: 100%;
+  margin-left: 0;
+}
+
+.techgsa-header__logo-image {
+  @include u-height('full');
+
+  @include at-media(desktop) {
+    @include u-height(7);
+  }
+}
+
+.techgsa-header__logo-text {
+  display: none;
+
+  @include at-media(desktop) {
+    display: inline;
+    position: relative;
+    bottom: 8px;
+    padding-left: 1rem;
+    @include u-font('sans', 'lg');
+  }
+}
+
+.techgsa-header__nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  @include at-media(desktop) {
+    flex-direction: row;
+  }
+}
+
+.techgsa-header__nav-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.techgsa-header__nav-title-text {
+  @include u-font('sans', 'lg');
+  @include u-line-height('sans', 1);
+  @include u-text('bold');
+  @include u-text('no-underline');
+  @include u-text('base-darkest');
+}
+
+.techgsa-header__nav-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.usa-nav__primary > .usa-nav__primary-item > a {
+  @include u-text('base-darkest');
+  white-space: nowrap;
+}
+
+.usa-nav__primary > .usa-nav__primary-item > a.usa-current {
+  @include u-text('primary');
 }
 
 // Footer
@@ -17,26 +77,9 @@ body {
   margin-top: 8rem;
 }
 
-// Primary navigation
-.techgsa-nav-container {
-  .usa-navbar {
-    border-bottom: none;
-  }
-
-  .usa-logo__text a {
-    font-size: font-size('body', 'xl');
-    font-weight: font-weight('light');
-    color: color('base-lightest');
-  }
-
-  .usa-nav__link span {
-    color: color('primary-light');
-  }
-}
-
 // Breadcrumbs
 .techgsa-breadcrumbs {
-  background-color: color('base-lightest');
+  background-color: color('gray-2');
 }
 
 // Apply USWDS table style to all tables
@@ -109,40 +152,6 @@ table {
       text-shadow: 0 0 10px black;
       font-size: 2em;
     }
-  }
-}
-
-// Team member list
-.techgsa-team {
-  img, svg {
-    display: block;
-    margin: 1rem auto;
-    border: 1px solid color('base-lighter');
-    border-radius: 50%;
-    width: units('card');
-    height: units('card');
-    object-fit: cover;
-    color: color('base-light');
-  }
-}
-
-// Team member bio
-.techgsa-bio {
-  img, svg {
-    display: block;
-    margin: 0 auto;
-    border: 1px solid color('base-lighter');
-    border-radius: 50%;
-    width: units('card');
-    height: units('card');
-    object-fit: cover;
-    color: color('base-light');
-  }
-}
-.techgsa-bio__title {
-  text-align: center;
-  @include at-media(tablet) {
-    text-align: inherit;
   }
 }
 

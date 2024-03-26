@@ -156,7 +156,7 @@ Source: [VersionOne: 10th State of Agile Survey](https://versionone.com/pdf/Vers
 
 Although it arose out of software development practices, Agile is **not** just a software development framework.
 
-Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), Customer Support, and more recently, [Learning Design](http://www.bottomlineperformance.com/what-is-agile-learning-design/), and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
+Many other areas outside of Technology have found success in developing an Agile culture, including [Manufacturing](http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol43-1/paper16.pdf), [Marketing](http://agilemarketingmanifesto.org/), [Legal](http://www.abajournal.com/legalrebels/article/the_rise_of_the_agile_lawyer/), Customer Support, and more recently, Learning Design, and [Human Resources](http://hr-gazette.com/hr-agile-manifesto/). The benefits of an Agile culture provide more customer-focused efforts, increase communication, enable change, improve quality of delivery, provide a more responsive environment, and increase both transparency and visibility.
 
 
 ## Is Agile suitable for all projects?
@@ -232,7 +232,6 @@ The following websites provide information on the most popular and relevant Agil
 
 - [AgileAlliance - Events](https://www.agilealliance.org/events/)
 - [Agile and Beyond](http://agileandbeyond.com/)
-- [DevOps Enterprise Summit (DOES)](http://devopsenterprise.io)
 - [Gartner’s Symposium/ITxpo](http://www.gartner.com/events/)
 
 
@@ -251,7 +250,7 @@ The following websites provide information on the most popular and relevant Agil
 - [Building an Agile Team](https://www.infoq.com/articles/building-an-agile-team)
 - [3 Key Steps to Building an Agile Team](https://www.cprime.com/resources/blog/-3-key-steps-to-building-an-agile-team/)
 - [An Operating Model for Company-Wide Agile Development](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/-an-operating-model-for-company-wide-agile-development)
-- [Who is Watching After Your Agile Money?](http://www.cio.com/article/3085450/cio-role/who-is-watching-after-your-agile-money.html)
+- [Who is Watching After Your Agile Money?](https://www.cio.com/article/238370/who-is-watching-after-your-agile-money.html)
 
 ### Scrum Teams
 

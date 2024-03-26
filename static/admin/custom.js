@@ -1,6 +1,5 @@
 CMS.registerPreviewStyle("../assets/css/styles.css");
 CMS.registerPreviewTemplate("emerging-technology", EmergingTechnologyPreview);
-CMS.registerPreviewTemplate("team-member", TeamMemberPreview);
 CMS.registerPreviewTemplate("guide", GuidePreview);
 
 /**

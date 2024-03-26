@@ -1,39 +1,58 @@
-<header class="usa-header usa-header--basic techgsa-header">
-  <div class="usa-nav-container techgsa-nav-container">
-    <div class="usa-navbar">
-      <div class="usa-logo" id="basic-logo">
-        <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">{{ .Site.Title }}</a></em>
-      </div>
-      <button class="usa-menu-btn">Menu</button>
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended techgsa-header">
+  <div class="usa-navbar">
+    <div class="usa-logo techgsa-header__logo">
+      <a href="/">
+        <img src="/assets/img/gsa_logo.svg" class="techgsa-header__logo-image" alt="GSA logo">
+        <span class="techgsa-header__logo-text">U.S. General Services Administration</span>
+      </a>
     </div>
-    <nav aria-label="Primary navigation" class="usa-nav">
-      <button class="usa-nav__close"><img src="/assets/uswds/img/usa-icons/close.svg" role="img" alt="close"></button>
-      <ul class="usa-nav__primary usa-accordion">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.primary }}
-          <li class="usa-nav__primary-item">
-            <a href="{{ .URL }}" class="usa-nav__link {{ if or ($currentPage.HasMenuCurrent "primary" .) ($currentPage.IsMenuCurrent "primary" .) }}usa-current{{ end }}">
-              <span>{{ .Name }}</span>
-            </a>
-          </li>
-        {{ end }}
-      </ul>
-      <form class="usa-search usa-search--small" role="search" action="/search">
-        <label class="usa-sr-only" for="search-field-en-small"> Search </label>
-        <input
-          class="usa-input"
-          id="search-field-en-small"
-          type="search"
-          name="search"
-        />
-        <button class="usa-button" type="submit">
-          <img
-            src="/assets/uswds/img/usa-icons-bg/search--white.svg"
-            class="usa-search__submit-icon"
-            alt="Search"
-          />
-        </button>
-      </form>
-    </nav>
+    <button type="button" class="usa-menu-btn">Menu</button>
   </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button type="button" class="usa-nav__close">
+        <img src="/assets/uswds/img/usa-icons/close.svg" role="img" alt="Close" />
+      </button>
+      <div class="techgsa-header__nav">
+        <div class="techgsa-header__nav-title">
+          <a href="/" class="techgsa-header__nav-title-text">{{ .Site.Title }}</a>
+        </div>
+        <div class="techgsa-header_nav-links">
+          <ul class="usa-nav__primary usa-accordion">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.primary }}
+              <li class="usa-nav__primary-item">
+                <a href="{{ .URL }}" class="usa-nav__link {{ if or ($currentPage.HasMenuCurrent "primary" .) ($currentPage.IsMenuCurrent "primary" .) }}usa-current{{ end }}">
+                  <span>{{ .Name }}</span>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+        </ul>
+          <section aria-label="Search component">
+            <form class="usa-search usa-search--small" role="search" action="/search">
+              <label class="usa-sr-only" for="search-field">Search</label>
+              <input
+                class="usa-input"
+                id="search-field"
+                type="search"
+                name="search"
+              />
+              <button class="usa-button" type="submit">
+                <img
+                  src="/assets/uswds/img/usa-icons-bg/search--white.svg"
+                  class="usa-search__submit-icon"
+                  alt="Search"
+                />
+              </button>
+            </form>
+          </section>
+      </div>
+    </div>
+  </nav>
 </header>
