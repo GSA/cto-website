@@ -33,41 +33,6 @@ class EmergingTechnologyPreview extends React.Component {
   }
 }
 
-class TeamMemberPreview extends React.Component {
-  render() {
-    const entry = this.props.entry
-    const title = entry.getIn(["data", "title"])
-    const role = entry.getIn(["data", "role"])
-    const photoPath = entry.getIn(["data", "photo"])
-    const photo = this.props.getAsset(photoPath)
-    const content = this.props.widgetFor("body")
-
-    return (
-      <div class="grid-container">
-
-        <div class="techgsa-bio grid-row grid-gap">
-          <div class="tablet:grid-col-auto">
-            { photoPath
-              ? <img src={photo} alt={`Photo of ${title}`}/>
-              : <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-                  <title>Photo of {title}</title>
-                  <use xlinkHref="/assets/uswds/img/sprite.svg#person"></use>
-                </svg>
-            }
-          </div>
-          <div class="techgsa-bio__title tablet:grid-col-fill">
-            <h2>{title}</h2>
-            <p class="text-bold">{role}</p>
-          </div>
-        </div>
-
-        {content}
-
-      </div>
-    )
-  }
-}
-
 class GuidePreview extends React.Component {
   render() {
     const entry = this.props.entry

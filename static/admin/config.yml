@@ -33,22 +33,6 @@ collections:
       - { label: "Slides", name: slides, required: false, widget: file }
       - { label: "Description", name: body, widget: markdown }
 
-  - label: Team Member
-    name: team-member
-    folder: content/team
-    create: true
-    preview_path: team/{{slug}}
-    media_folder: "/static/assets/cms/team"
-    public_folder: "/assets/cms/team"
-    filter: { field: "menu" } # Workaround to exclude _index.md files from the content list
-    fields:
-      - { label: "Name", name: title, widget: string }
-      - { label: "Role", name: role, widget: string }
-      - { label: "Email", name: email, widget: string, required: false }
-      - { label: "Photo", name: photo, widget: image, required: false, choose_url: false }
-      - { label: "Order of Appearance", name: weight, widget: number, required: false, value_type: "int", default: 10, min: 0, max: 100, hint: "This should usually be left unchanged. By default, the website will list team members by last name." }
-      - { label: "Biography", name: body, widget: markdown, required: false }
-
   - label: Emerging Technology
     name: emerging-technology
     folder: content/techradar/technologies

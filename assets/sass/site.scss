@@ -155,40 +155,6 @@ table {
   }
 }
 
-// Team member list
-.techgsa-team {
-  img, svg {
-    display: block;
-    margin: 1rem auto;
-    border: 1px solid color('base-lighter');
-    border-radius: 50%;
-    width: units('card');
-    height: units('card');
-    object-fit: cover;
-    color: color('base-light');
-  }
-}
-
-// Team member bio
-.techgsa-bio {
-  img, svg {
-    display: block;
-    margin: 0 auto;
-    border: 1px solid color('base-lighter');
-    border-radius: 50%;
-    width: units('card');
-    height: units('card');
-    object-fit: cover;
-    color: color('base-light');
-  }
-}
-.techgsa-bio__title {
-  text-align: center;
-  @include at-media(tablet) {
-    text-align: inherit;
-  }
-}
-
 // Playbook icons
 .icon {
   @include u-height(15);
