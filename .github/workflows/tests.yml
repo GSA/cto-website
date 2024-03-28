@@ -12,7 +12,7 @@ jobs:
 
       - name: Read Hugo version
         id: hugo-version
-        run: echo "version=$(cat .hugo-version)" >> "$GITHUB_OUTPUT"
+        run: echo "version=$(cat .hugo-version | grep -Eo '[0-9.]+')" >> "$GITHUB_OUTPUT"
 
   general_tests:
     needs: setup
