@@ -5,17 +5,14 @@ on: [pull_request]
 jobs:
   setup:
     runs-on: ubuntu-latest
+    outputs:
+      hugo-version: ${{ steps.hugo-version.outputs.version }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: .nvmrc
-          cache: npm
-
-      - name: Install Node dependencies
-        run: npm install
+      - name: Read Hugo version
+        id: hugo-version
+        run: echo "version=$(cat .hugo-version)" >> "$GITHUB_OUTPUT"
 
   general_tests:
     needs: setup
@@ -35,7 +32,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.96.0'
+          hugo-version: ${{ needs.setup.outputs.hugo-version }}
           extended: true
 
       - name: Run JavaScript linter
@@ -62,7 +59,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.96.0'
+          hugo-version: ${{ needs.setup.outputs.hugo-version }}
           extended: true
 
       - name: Run accessibility tests
