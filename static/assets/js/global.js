@@ -11,6 +11,17 @@
 
 
   //
+  // Set the search field placeholder based on the visitor's OS
+  //
+
+  if (navigator.userAgent.includes("Macintosh")) {
+    $('#search-field').attr('placeholder', "Search (⌘+K)");
+  } else {
+    $('#search-field').attr('placeholder', "Search (Ctrl+K)");
+  }
+
+
+  //
   // Add figure/figcaption elements to images that have a title attribute, using the title as the caption.
   //
 
