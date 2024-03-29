@@ -1,10 +1,15 @@
-Mousetrap.bind('/', function () {
-  var searchField = document.getElementById('search-field-en-small');
-  searchField.focus();
-  return false;
-});
-
 (function () {
+  //
+  // Focus the search field on '/', Ctrl+K, or Command+K
+  //
+
+  Mousetrap.bind(['/', 'ctrl+k', 'command+k'], function () {
+    var searchField = document.getElementById('search-field');
+    searchField.focus();
+    return false;
+  });
+
+
   //
   // Add figure/figcaption elements to images that have a title attribute, using the title as the caption.
   //
