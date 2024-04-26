@@ -1,4 +1,7 @@
 {{ define "main" }}
+  {{ $twoYearsAgo := now.AddDate -2 0 0 }}
+  {{ $recentTechTalks := where .Pages "Date" "ge" $twoYearsAgo }}
+  {{ $paginator := .Paginate $recentTechTalks }}
 
   <div class="grid-container">
 
@@ -6,10 +9,10 @@
 
     {{ .Content }}
 
-    {{ partial "pagination.html" . }}
+    {{ partial "pagination.html" $paginator }}
 
     <ul class="usa-card-group">
-      {{ range .Paginator.Pages }}
+      {{ range $paginator.Pages }}
         <li class="tablet:grid-col-12 usa-card">
           <div class="usa-card__container">
             <header class="usa-card__header">
@@ -42,7 +45,7 @@
       {{ end }}
     </ul>
 
-    {{ partial "pagination.html" . }}
+    {{ partial "pagination.html" $paginator }}
 
   </div>
 

@@ -1,7 +1,7 @@
 {{/*  Based on:  */}}
 {{/*  https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/pagination.html  */}}
 
-{{ $pag := $.Paginator }}
+{{ $pag := . }}
 
 {{ if gt $pag.TotalPages 1 -}}
   <nav aria-label="Pagination" class="usa-pagination">
