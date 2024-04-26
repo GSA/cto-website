@@ -7,8 +7,9 @@
     {{ .Content }}
 
     <table class="usa-table usa-table--borderless">
+      {{ with (resources.Get "ai-inventory.csv") | transform.Unmarshal }}
       <thead>
-        {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
+        {{ range $rowIndex, $rowData := . }}
           {{ if eq $rowIndex 0 }}
             <tr>
               <th>{{ index $rowData 1 }}</th>
@@ -19,7 +20,7 @@
         {{ end }}
       </thead>
       <tbody>
-        {{ range $rowIndex, $rowData := getCSV "," "content/ai-inventory.csv" }}
+        {{ range $rowIndex, $rowData := . }}
           {{ if ne $rowIndex 0 }}
             <tr>
               <td>{{ index $rowData 1 }}</td>
@@ -29,6 +30,7 @@
           {{ end }}
         {{ end }}
       </tbody>
+      {{ end }}
     </table>
 
   </div>
