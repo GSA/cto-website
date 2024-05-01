@@ -1,8 +1,10 @@
 ---
-layout: playbook
+layout: single-toc
 title: Database Transformation Lessons Learned
 description: This case study will highlight the lessons learned from the GSA Application Modernization Integrating Flexible Architecture project.
-permalink: /playbooks/databaselessonslearned/
+category: Database
+aliases:
+  - /playbooks/databaselessonslearned/
 ---
 
 ## Introduction

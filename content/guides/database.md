@@ -1,8 +1,10 @@
 ---
-layout: playbook
+layout: single-toc
 title: Database Transformation Playbook
 description: This playbook is designed to help you transform your database technology and overcome any obstacles on the way.
-permalink: /playbooks/database/
+category: Database
+aliases:
+  - /playbooks/database/
 ---
 
 ## Introduction
