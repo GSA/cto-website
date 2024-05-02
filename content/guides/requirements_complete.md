@@ -23,7 +23,6 @@ Suggested user story criteria for meeting the [Definition of Ready (DoR)](/guide
 * Tasks identified
 * Card is estimated
 
-
 ## Definition of Done (DoD)
 
 Once a requirement is ready, the Team must agree to the steps necessary to accomplish it. Throughout each [status](/guides/visibility_and_status/) phase of development (typically represented by a column on a whiteboard or in a tool), the “rules” for passing it along to the next phase should also be clearly defined (e.g. the need for work to be reviewed by a peer prior to being sent to the next phase).
@@ -53,13 +52,3 @@ During UAT or review, user story criteria might include:
 * Successfully user acceptance tested
 
 Once the requirement, or user story meets the outlined criteria, it is finally considered done when approved by the product owner and accepted by stakeholders.
-
-
-## Good Reads
-
-These are good references when defining your Definition of Ready (DoR) or Definition of Done (DoD):
-
-* [Definition of Ready](https://www.agilealliance.org/glossary/definition-of-ready/)
-* [Definition of DONE! 10 Point Checklist](http://www.allaboutagile.com/definition-of-done-10-point-checklist/)
-* [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
-* [Multiple Levels of Done](https://www.mountaingoatsoftware.com/blog/multiple-levels-of-done)
