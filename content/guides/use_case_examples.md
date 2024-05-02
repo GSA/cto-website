@@ -7,11 +7,3 @@ category: Agile
 In acceptance testing, use cases provide a user (i.e. tester) direction without leading. Use Cases provide a sequence of steps in business terms, that describe the “happy path” for a specific interaction. Unlike system test cases, the use case interaction is defined in terms of the user, describing the user actions and experience versus the system inputs and outputs. The user compares their experience to the defined Success Criteria, documenting success or failure, along with any results. Results may expose bugs, defects, misspellings, updates to the user interface or process flow, or even new user stories identified.
 
 [Download this Sample Use Case Document](/assets/cms/media/draftusecasetemplate.xlsx)
-
-## Good Reads
-
-These are good references for incorporating Use Cases into user acceptance testing:
-
-* [Use Cases Are User Stories With Acceptance Tests](http://wiki.c2.com/?UseCasesAreUserStoriesWithAcceptanceTests)
-* [What is Use case testing in software testing?](http://istqbexamcertification.com/what-is-use-case-testing-in-software-testing/)
-* [Writing Test Cases from User Stories & Acceptance Criteria](https://blog.testlodge.com/writing-test-cases-from-user-stories-acceptance-criteria/)

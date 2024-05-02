@@ -33,19 +33,4 @@ When writing a user story, it requires key content:
 
 User story independence is ensured when the delivery increment has been fully decomposed; this allows for the appropriate tasking, estimation, sizing, and testability of the effort. The Product Owner negotiates the prioritization of the functionality with the Scrum Team against user needs, while the value of the user story drives its priority.
 
-Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail on writing user stories, check out our [User Story Examples](/assets/cms/files/UserStoryExamples.pdf), or review [Defining When a Requirement is Complete](/guides/requirements_complete/) on defining acceptance criteria.
-
-
-## Good Reads
-
-These are good references for writing user stories:
-
-* [5 Classic Mistakes Made While Writing User Stories](https://www.blueprintsys.com/blog/five-mistakes-writing-user-stories)
-* [10 Tips for Writing Good User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
-* [How to Write Great Agile User Stories](https://sprint.ly/blog/agile-user-stories/)
-* [The Easy Way to Writing Good User Stories](http://codesqueeze.com/the-easy-way-to-writing-good-user-stories/)
-* [Non-functional Requirements as User Stories](https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories)
-* [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
-* [User Stories: What is a User Story?](https://www.mountaingoatsoftware.com/agile/user-stories)
-* [Write a Great User Story](https://help.rallydev.com/writing-great-user-story)
-* [Your Best Agile User Story](http://www.alexandercowan.com/best-agile-user-story/)
+Further, testability of the user story is captured in the acceptance criteria; it should denote the “The Who” _(user)_, “The What” _(capability)_, and “The Why” _(outcome)_ of the increment. For additional detail on writing user stories, check out our [User Story Examples](/guides/effective_user_stories/), or review [Defining When a Requirement is Complete](/guides/requirements_complete/) on defining acceptance criteria.
