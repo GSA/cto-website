@@ -7,7 +7,8 @@ excerpt: Virtual Presence (VP) is an immersive environment that enables users to
   feel as if they are physically present at an actual location with other users.
   It utilizes technologies such as Augmented Reality (AR) and Virtual Reality
   (VR) to deliver this experience.
-layout: technologies-single
+aliases:
+  - /techradar/technologies/virtual-presence/
 ---
 ## Background
 

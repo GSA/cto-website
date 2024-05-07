@@ -35,9 +35,9 @@ collections:
 
   - label: Emerging Technology
     name: emerging-technology
-    folder: content/techradar/technologies
+    folder: content/techradar
     create: true
-    preview_path: techradar/technologies/{{slug}}
+    preview_path: techradar/{{slug}}
     slug: "{{title}}"
     media_folder: "/static/assets/cms/techradar"
     public_folder: "/assets/cms/techradar"
