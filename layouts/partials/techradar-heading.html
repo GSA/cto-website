@@ -1,24 +1,4 @@
-{{ $currentPage := . }}
-{{ $isTechRadarHome := (eq .RelPermalink "/techradar/") }}
-
-<h1>CTO TechRadar</h1>
-
-<nav aria-label="TechRadar secondary navigation" class="techradar-nav">
-  <ul class="techradar-nav__items">
-    <li class="techradar-nav__item">
-      <a href="/techradar/" class="techradar-nav__link {{ if $isTechRadarHome }}techradar-nav__current{{ end }}">
-        <span>TechRadar</span>
-      </a>
-    </li>
-    {{ range .Site.Menus.techradar }}
-      <li class="techradar-nav__item">
-        <a href="{{ .URL }}" class="techradar-nav__link {{ if or ($currentPage.HasMenuCurrent "techradar" .) ($currentPage.IsMenuCurrent "techradar" .) }}techradar-nav__current{{ end }}">
-          <span>{{ .Name }}</span>
-        </a>
-      </li>
-    {{ end }}
-  </ul>
-</nav>
+<h1>Emergent Technology</h1>
 
 {{ if .Params.intro }}
   <section class="techradar-intro">

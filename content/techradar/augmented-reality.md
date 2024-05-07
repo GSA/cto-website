@@ -19,9 +19,10 @@ resources:
 stakeholders:
   - title: Virtual and Augmented Reality Community of Practice
     url: https://digital.gov/communities/virtual-augmented-reality/
-layout: technologies-single
+aliases:
+  - /techradar/technologies/augmented-reality/
 ---
-## B﻿ackground
+## Background
 
 Augmented Reality (AR) overlays digital information on real-world elements. Augmented Reality keeps the real world central but enhances it by overlaying it with other digital details and a new strata of perception that supplements our reality and environment.
 

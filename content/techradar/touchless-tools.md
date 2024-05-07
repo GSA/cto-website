@@ -7,9 +7,10 @@ excerpt: Touchless Tools provide an opportunity to reduce physical contact with
   many objects in our daily lives. In addition to the obvious sanitary benefits,
   Touchless Tools present an opportunity for greener buildings and more
   accessible building features.
-layout: technologies-single
+aliases:
+  - /techradar/technologies/touchless-tools/
 ---
-## B﻿ackground
+## Background
 
 Touchless Tools provide an opportunity to reduce physical contact with many objects in our daily lives. In addition to the obvious sanitary benefits, Touchless Tools present an opportunity for greener buildings and more accessible building features.
 
@@ -184,7 +185,7 @@ There are a number of risks inherent to the adoption of any new technology; touc
 
 * As a relatively young technology, there may be a lower success rate when specific actions are designed to induce specific results. For example, it’s likely voice commands will be occasionally misunderstood, or even if understood, beyond the capacity of the device. The same is true with gesture controls. For each, the user would likely have to resort to a form of traditional manual control. For example, if a user says “Hey Google, turn on the light,” and nothing happens the user will need to use a light switch.
 * Distinct from ‘non-compliant’ answers, there is also the risk of misunderstood commands. In the case of voice control, perhaps worse than a non-result is a wrong result. This could result in an operation other than the intended one.
-* There is also the risk of intentional or unintentional breaches of sensitive information, particularly relating to IoT devices capable of capturing video and/or audio. This includes organizational information as well as at the biometric level, in some instances. 
+* There is also the risk of intentional or unintentional breaches of sensitive information, particularly relating to IoT devices capable of capturing video and/or audio. This includes organizational information as well as at the biometric level, in some instances.
 
 ### Dependencies
 

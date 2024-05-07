@@ -9,7 +9,8 @@ excerpt: The workforce and consumers want more convenient and user-friendly
   methods of authentication, without compromising security, reliability, and
   responsiveness.
 resources: []
-layout: technologies-single
+aliases:
+  - /techradar/technologies/innovative-authentication/
 ---
 ## Background
 
@@ -49,9 +50,9 @@ Our goal is for the GSA users to have a better overall experience on many of our
 
 Four key items help GSA modernize, transform, and keep security relevant and integral to our culture: 
 
-* Use of an enterprise single sign-on platform, 
-* A decade of using standards-based options to integrate our applications into a centralized authentication service(s), 
-* A focus on ensuring we use industry standards, and 
+* Use of an enterprise single sign-on platform,
+* A decade of using standards-based options to integrate our applications into a centralized authentication service(s),
+* A focus on ensuring we use industry standards, and
 * Incorporating our user and mission needs into the planning and testing.
 
 
@@ -261,7 +262,7 @@ Several states have enacted cybersecurity laws that may affect the authenticatio
 
 **OMB Memorandum 11-11 - (HSPD-12 | PIV - Smartcards)**
 
-Continued Implementation of Homeland Security Presidential Directive (HSPD-12) - Policy for a Common Identification Standard for Federal Employees and Contractors.  The Cyberspace Policy Review, adopted by the President, and the President’s Budget for Fiscal Year 2011 highlighted the importance of identity management in protecting the nation’s infrastructure. HSPD-12 is a strategic initiative intended to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy. HSPD-12 requires agencies to follow specific technical standards and business processes for the issuance and routine use of Federal Personal Identity Verification (PIV) smartcard credentials…to verify employees’ and contractors’ identities. 
+Continued Implementation of Homeland Security Presidential Directive (HSPD-12) - Policy for a Common Identification Standard for Federal Employees and Contractors.  The Cyberspace Policy Review, adopted by the President, and the President’s Budget for Fiscal Year 2011 highlighted the importance of identity management in protecting the nation’s infrastructure. HSPD-12 is a strategic initiative intended to enhance security, increase Government efficiency, reduce identity fraud, and protect personal privacy. HSPD-12 requires agencies to follow specific technical standards and business processes for the issuance and routine use of Federal Personal Identity Verification (PIV) smartcard credentials…to verify employees’ and contractors’ identities.
 
 Specific benefits of the standardized credentials include:
 

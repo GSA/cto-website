@@ -22,7 +22,8 @@ stakeholders:
     url: https://www.asme.org/topics-resources/content/5-questions-on-the-future-of-additive-manufacturing-in-aerospace
   - title: The American Society of Mechanical Engineers
     url: https://www.asme.org/topics-resources/content/building-tough-3d-nanomaterials
-layout: technologies-single
+aliases:
+  - /techradar/technologies/3d-printing/
 ---
 ## Background
 

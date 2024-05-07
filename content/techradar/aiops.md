@@ -15,7 +15,8 @@ resources:
   - title: H.R.6395 - William M. (Mac) Thornberry National Defense Authorization Act
       for Fiscal Year 2021
     url: https://www.congress.gov/bill/116th-congress/house-bill/6395
-layout: technologies-single
+aliases:
+  - /techradar/technologies/aiops/
 ---
 ## Possible Applications at GSA
 
