@@ -20,7 +20,7 @@
   "license": "CC0-1.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
-    "@uswds/uswds": "^3.8.1",
+    "@uswds/uswds": "^3.8.2",
     "jquery": "^3.7.1",
     "lunr": "^2.3.9",
     "markdown-it": "^14.1.0",
