@@ -4,25 +4,17 @@
 
     <h1>GSA Tech Guides</h1>
 
-    {{ .Content }}
-
-    <div class="grid-row grid-gap">
-      
-      <div class="tablet:grid-col-9">
-        {{ range .Pages.GroupByParam "category" }}
-          <div class="guides-category" data-category="{{ .Key | urlize }}">
-            <h2 class="guides-category-heading">{{ .Key }} Guides</h2>
-            <ul>
-              {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-              {{ end }}
-            </ul>
-          </div>
-        {{ end }}
-      </div>
-
-    </div>
-
+    {{ .Content }}  
+      {{ range .Pages.GroupByParam "category" }}
+        <div class="guides-category" data-category="{{ .Key | urlize }}">
+          <h2 class="guides-category-heading">{{ .Key }} Guides</h2>
+          <ul>
+            {{ range .Pages }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
   </div>
 
 {{ end }}
