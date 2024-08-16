@@ -25,7 +25,7 @@ Suggested user story criteria for meeting the [Definition of Ready (DoR)](/guide
 
 ## Definition of Done (DoD)
 
-Once a requirement is ready, the Team must agree to the steps necessary to accomplish it. Throughout each [status](/guides/visibility_and_status/) phase of development (typically represented by a column on a whiteboard or in a tool), the “rules” for passing it along to the next phase should also be clearly defined (e.g. the need for work to be reviewed by a peer prior to being sent to the next phase).
+Once a requirement is ready, the Team must agree to the steps necessary to accomplish it. Throughout each phase of development (typically represented by a column on a whiteboard or in a tool), the “rules” for passing it along to the next phase should also be clearly defined (e.g. the need for work to be reviewed by a peer prior to being sent to the next phase).
 
 Additionally, a Team may identify other needs based on the type of requirement that should be met, including specific testing needs (i.e. performance testing, penetration testing, etc.), that are necessary to call the user story done.
 
