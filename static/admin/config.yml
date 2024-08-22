@@ -35,12 +35,12 @@ collections:
 
   - label: Emerging Technology
     name: emerging-technology
-    folder: content/techradar
+    folder: content/emergent-technology
     create: true
-    preview_path: techradar/{{slug}}
+    preview_path: emergent-technology/{{slug}}
     slug: "{{title}}"
-    media_folder: "/static/assets/cms/techradar"
-    public_folder: "/assets/cms/techradar"
+    media_folder: "/static/assets/cms/emergent-technology"
+    public_folder: "/assets/cms/emergent-technology"
     filter: { field: "menu" } # Workaround to exclude _index.md files from the content list
     fields:
       - { label: "Title", name: title, widget: string }

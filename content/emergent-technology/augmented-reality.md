@@ -2,7 +2,7 @@
 title: Augmented Reality
 intro:
   text: Immersive digital experiences within natural environments
-  image: /assets/cms/techradar/ar-vr-mr.gif
+  image: /assets/cms/emergent-technology/ar-vr-mr.gif
 excerpt: Augmented reality overlays digitally created content into the user's
   real-world environment. It allows individuals to immersively connect with one
   another, query information, interact, see, and "feel" the visual data
@@ -20,7 +20,7 @@ stakeholders:
   - title: Virtual and Augmented Reality Community of Practice
     url: https://digital.gov/communities/virtual-augmented-reality/
 aliases:
-  - /techradar/technologies/augmented-reality/
+  - /techradar/augmented-reality/
 ---
 ## Background
 
@@ -102,7 +102,7 @@ As of now there is one major vehicle for making use of Augmented Reality, howeve
 
 ## Laws and Legislation
 
-![Photo of the US Capitol building](/assets/cms/techradar/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
+![Photo of the US Capitol building](/assets/cms/emergent-technology/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
 
 * S.1790 - National Defense Authorization Act for Fiscal Year 2020
 * H.R.6395 - William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021

@@ -2,7 +2,7 @@
 title: AIOps
 intro:
   text: Automate IT Operations with AI and ML
-  image: /assets/cms/techradar/artificial-intelligence.gif
+  image: /assets/cms/emergent-technology/artificial-intelligence.gif
 excerpt: AIOps platforms utilize big data, modern machine learning and other
   advanced analytics technologies to directly and indirectly enhance IT
   operations (monitoring, automation and service desk) functions with proactive,
@@ -16,7 +16,7 @@ resources:
       for Fiscal Year 2021
     url: https://www.congress.gov/bill/116th-congress/house-bill/6395
 aliases:
-  - /techradar/technologies/aiops/
+  - /techradar/aiops/
 ---
 ## Possible Applications at GSA
 
@@ -36,7 +36,7 @@ Currently setup to monitor various PBS Applications such as: ACRE, EASi, GREX, 
 
 Dynatrace is currently monitoring and helping optimize application performance. It does so by generating an Apdex (Application Performance Index) score for each application. Apdex is an open standard used for measuring application performance and offers a consistent way to "measure what matters" across applications.
 
-![An example bar graph showing Apdex scores. The bar graph displays what percent of page load time is tolerable versus frustrating.](/assets/cms/techradar/apdex.png "Example Graph")
+![An example bar graph showing Apdex scores. The bar graph displays what percent of page load time is tolerable versus frustrating.](/assets/cms/emergent-technology/apdex.png "Example Graph")
 
 ##### Already realizing benefits!
 
@@ -86,7 +86,7 @@ AIOps is currently being explored in academia focusing on how AIOps can be appli
 
 * [A Systems Approach to Effective AIOps Implementation](https://dspace.mit.edu/bitstream/handle/1721.1/139422/hua-huay-sm-sdm-2021-thesis.pdf?sequence=1&isAllowed=y) by Yunke Hua, MIT
 
-![Graph showing a decrease in human operational workload over time as AIOps is implemented. This is implemented via: Event data normalization and enrichment; change and incident correlation; pattern-based event grouping; tools integration; and automation.](/assets/cms/techradar/aiops-vs-human-operational-workload.png "Source: Datanami")
+![Graph showing a decrease in human operational workload over time as AIOps is implemented. This is implemented via: Event data normalization and enrichment; change and incident correlation; pattern-based event grouping; tools integration; and automation.](/assets/cms/emergent-technology/aiops-vs-human-operational-workload.png "Source: Datanami")
 
 ### Industry
 
@@ -124,7 +124,7 @@ Additional and potential future industry use cases include:
 * Decentralized ID management and CA system/technologies
 * Design of experiment (DoE) for different use-cases, testbeds, evaluation scenarios
 
-![Diagram indicating how events, metrics, traces, topology, incidents, dependencies and changes feed into an AIOps platform, and the platform in turn produces analyses and automation from the data.](/assets/cms/techradar/gartner-aiops-cycle.png "Source: Gartner")
+![Diagram indicating how events, metrics, traces, topology, incidents, dependencies and changes feed into an AIOps platform, and the platform in turn produces analyses and automation from the data.](/assets/cms/emergent-technology/gartner-aiops-cycle.png "Source: Gartner")
 
 ### Government
 
@@ -132,7 +132,7 @@ The Federal government leverages big data, advanced analytics, and machine learn
 
 Additionally, machine learning / deep learning, computer vision, speech recognition, and robotics are used in many Government Services with positive results. An example of where AIOps can take these tools to the next level is with natural language processing. [Intel describes it thusly](https://www.intel.com/content/www/us/en/government/artificial-intelligence.html): “Natural language processing automatically extracts relevant information from intelligence sources and makes connections, enabling analysts to find actionable insights. Failure rate predictions help ensure military equipment is well maintained and ready to deploy when needed. Cyber anomaly detection can revolutionize cybersecurity strategies in government systems. The possibilities are endless and yet only beginning to take shape.” Government IT support desks stand to benefit from this in particular as frequency and complexity of employee-IT interactions increases. Natural language processing will help automate responses, reduce ticket times, and increase accuracy over time.
 
-![A diagram indicating the various types of AI adoption across government. They are: chatbots or conversational agents; machine learning supported data mining; biometrics; computer vision and automated image recognition; GeoAI; machine translation; and deep learning.](/assets/cms/techradar/gartner-federal-aiops-adoption.png "Source: Gartner")
+![A diagram indicating the various types of AI adoption across government. They are: chatbots or conversational agents; machine learning supported data mining; biometrics; computer vision and automated image recognition; GeoAI; machine translation; and deep learning.](/assets/cms/emergent-technology/gartner-federal-aiops-adoption.png "Source: Gartner")
 
 #### Currently Used AI Use Cases across the Federal Government
 
@@ -161,7 +161,7 @@ Additionally, machine learning / deep learning, computer vision, speech recognit
 
 GSA [eLibrary](https://www.gsaelibrary.gsa.gov/ElibMain/home.do) is your one source for the latest GSA contract award information.  GSA offers unparalleled acquisition solutions to meet today’s acquisition challenges.  GSA’s key goal is to deliver excellent acquisition services that provide best value, in terms of cost, quality and service, for federal agencies and taxpayers.
 
-![Screenshot of the GSA eLibrary page](/assets/cms/techradar/elibrary-searchbar.jpg "The GSA eLibrary")
+![Screenshot of the GSA eLibrary page](/assets/cms/emergent-technology/elibrary-searchbar.jpg "The GSA eLibrary")
 
 Steps:
 
@@ -191,23 +191,23 @@ During 2021, the AIOps total market valuation grew from approximately $2B in 202
 
 #### Some Example Companies
 
-![New Relic logo](/assets/cms/techradar/newrelic.png "Source: New Relic")
+![New Relic logo](/assets/cms/emergent-technology/newrelic.png "Source: New Relic")
 
 New Relic - One of the newer, but larger vendors. They feature a large array of integrations applicable to GSA, including JIRA and ServiceNow. New Relic emphasizes on-prem and hybrid applications in their marketing materials.
 
-![Datadog logo](/assets/cms/techradar/datadog.png "Source: Datadog")
+![Datadog logo](/assets/cms/emergent-technology/datadog.png "Source: Datadog")
 
 Datadog - Datadog is one of the larger, more mature vendors that focuses on cloud monitoring and security. Datadog is currently FedRAMP moderate. Currently, Datadog’s AIOps is layered on their existing products. They also tout their ability to customize workflows and automated remedies to IT problems.
 
-![Dynatrace logo](/assets/cms/techradar/dynatrace.png "Source: Dynatrace")
+![Dynatrace logo](/assets/cms/emergent-technology/dynatrace.png "Source: Dynatrace")
 
 Dynatrace - Dynatrace’s AIOps offering stands alone from other Dynatrace products. They also offer integrations with a number of current GSA tools. Dynatrace emphasizes that their AI Platform, “Davis” heavily focuses on actual customer impact, for example not initiating remedies or alerting when detected anomalies impact few or no customers. Finally, Dynatrace self-distinguishes themselves as superior at adapting to an organization’s evolving IT environment by scanning for new elements to the IT environment.
 
-![Appdynamics logo](/assets/cms/techradar/appdynamics.png "Source: Appdynamics")
+![Appdynamics logo](/assets/cms/emergent-technology/appdynamics.png "Source: Appdynamics")
 
 Appdynamics - Now a part of Cisco, Appdynamics began as a traditional APM company and became a leader in that space; however, their AIOps product is relatively immature as of this writing. For example, they identify automated business-impact decision making as a future state, whereas other vendors currently have features addressing this need. That said, being under Cisco’s umbrella may allow Appdynamics to catch up quickly.
 
-![Devo logo](/assets/cms/techradar/devo.png "Source: Devo")
+![Devo logo](/assets/cms/emergent-technology/devo.png "Source: Devo")
 
 Devo - Devo began as the only cloud-native APM company and is now centered on AIOps for both service and security operations. They are one of the few vendors who measure and deliver performance beyond traditional IT metrics by focusing on end-user experience. Third party evaluators also cite their unique ability to address changing data formats.
 
@@ -258,7 +258,7 @@ Additionally, the President’s Cybersecurity National Security Memorandum to Im
 
 ## Governance
 
-![Photo of the United States Capitol](/assets/cms/techradar/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
+![Photo of the United States Capitol](/assets/cms/emergent-technology/1024px-capitol_building_full_view.jpg "US Capitol building. Source: Wikimedia Commons")
 
 Laws/Legislation, Regulations and Policy Related to AIOps
 

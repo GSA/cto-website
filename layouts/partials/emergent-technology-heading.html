@@ -1,18 +1,18 @@
 <h1>Emergent Technology</h1>
 
 {{ if .Params.intro }}
-  <section class="techradar-intro">
+  <section class="emergent-technology-intro">
     <div class="grid-row">
       <div class="tablet:grid-col-8">
-        <h2 class="techradar-intro__title">{{ .Params.intro.heading | default .Title }}</h2>
-        <p class="techradar-intro__text">{{ .Params.intro.text }}</p>
+        <h2 class="emergent-technology-intro__title">{{ .Params.intro.heading | default .Title }}</h2>
+        <p class="emergent-technology-intro__text">{{ .Params.intro.text }}</p>
         {{ if .Params.intro.action }}
           <p><a class="usa-button" href="{{ .Params.intro.action.href }}">{{ .Params.intro.action.text }}</a></p>
         {{ end }}
       </div>
       <div class="tablet:grid-col-4">
         {{ if .Params.intro.image }}
-          <img src="{{ .Params.intro.image }}" alt="{{ .Title }}" class="techradar-intro__image">
+          <img src="{{ .Params.intro.image }}" alt="{{ .Title }}" class="emergent-technology-intro__image">
         {{end }}
       </div>
     </div>
