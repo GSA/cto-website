@@ -2,13 +2,13 @@
 title: Virtual Presence
 intro:
   text: Immersive collaborative environments
-  image: /assets/cms/techradar/ar-vr-mr.gif
+  image: /assets/cms/emergent-technology/ar-vr-mr.gif
 excerpt: Virtual Presence (VP) is an immersive environment that enables users to
   feel as if they are physically present at an actual location with other users.
   It utilizes technologies such as Augmented Reality (AR) and Virtual Reality
   (VR) to deliver this experience.
 aliases:
-  - /techradar/technologies/virtual-presence/
+  - /techradar/virtual-presence/
 ---
 ## Background
 
@@ -64,7 +64,7 @@ Overall, “the decentralized metaverse platform aims to create a virtual ecosys
 
 #### Government Case Study
 
-{{< techradar-case-study heading="U.S. Department of State" >}}
+{{< emergent-technology-case-study heading="U.S. Department of State" >}}
 
 **Who**: The United States Department of State facilities management teams comprised of engineers, trade professionals, maintenance teams, fire protection, and others.
 
@@ -72,7 +72,7 @@ Overall, “the decentralized metaverse platform aims to create a virtual ecosys
 
 **What they did:** The team purchased Microsoft Hololenses for virtual presence. This allowed non-specialized staff and less experienced engineers to be physically present while using the devices to project the environment back to senior engineers offsite. Oftentimes multiple experts were able to engage on a single Hololens ‘call’ (in one case, as many as fifty specialists!). This process was used for a structural assessment of an old embassy elevator inspections, floor inspections, furniture repair, chiller replacement, and others. Crucially, in some cases the person on the ground was able to execute the required changes rather than just report back.
 
-{{< /techradar-case-study >}}
+{{< /emergent-technology-case-study >}}
 
 ## Companies and Contracts
 
@@ -177,7 +177,7 @@ For further reading regarding the current administration's priorities see the [B
 
 * **Hardware**: At minimum, establishing a virtual presence requires a device that connects to the internet and will allow the end-user to interact within that virtual environment, such as a mobile device or a computer. For a more interactive and immersive experience, a supplemental device such as a virtual reality headset, would be required.
 * **Software**: Typically, the software needed to utilize the virtual environment would be supplied from the vendor, unless it is a custom-built environment. Virtual reality products such as the Oculus or HTC Vive have their own online marketplace, where developer companies sell their virtual products that end-users can purchase and use. As for custom-built applications, those products would be made available within the organization who has access to download and use it. Generally speaking, the VR/AR market seems to be moving towards third-party studios to create these experiences.
-* **Policies / Terms of Use**: Currently, there are no existing policies or laws that govern the use of virtual reality, mixed reality, and augmented reality products. It has been up to the vendors and software developers to dictate what is and isn’t allowed. The terms of use for these products vary from one provider to another. Policies should address security, privacy, 508 compliance, and many others.  For additional information on policies or laws please refer to our [TechRadar - Virtual Presence Laws/Legislation, Regulations, and Policy section](#lawslegislation-regulations-and-policy).
+* **Policies / Terms of Use**: Currently, there are no existing policies or laws that govern the use of virtual reality, mixed reality, and augmented reality products. It has been up to the vendors and software developers to dictate what is and isn’t allowed. The terms of use for these products vary from one provider to another. Policies should address security, privacy, 508 compliance, and many others.  For additional information on policies or laws please refer to our [Virtual Presence Laws/Legislation, Regulations, and Policy section](#lawslegislation-regulations-and-policy).
 * **Training**: Many applications today are intuitive enough for users to quickly learn and use the product - without any formal instruction and/or user guides. Given the wide variety of products that can be used within the virtual space, it may not be as intuitive as mobile applications. Therefore, it’s absolutely  critical that adequate training material and user guide resources be made available to the end-user, in order to maximize success and adoption.
 * **508 Compliance**: As with any technology within an organization, it is important to utilize 508 compliant tools/solutions and prevent exclusion of any person with a disability from interacting with users within the virtual space.
 

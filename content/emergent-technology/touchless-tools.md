@@ -2,13 +2,13 @@
 title: Touchless Tools
 intro:
   text: Technology interactions without physical contact
-  image: /assets/cms/techradar/1024px-capitol_building_full_view.jpg
+  image: /assets/cms/emergent-technology/1024px-capitol_building_full_view.jpg
 excerpt: Touchless Tools provide an opportunity to reduce physical contact with
   many objects in our daily lives. In addition to the obvious sanitary benefits,
   Touchless Tools present an opportunity for greener buildings and more
   accessible building features.
 aliases:
-  - /techradar/technologies/touchless-tools/
+  - /techradar/touchless-tools/
 ---
 ## Background
 

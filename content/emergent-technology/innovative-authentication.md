@@ -3,14 +3,14 @@ title: Innovative Authentication
 intro:
 
   text: The Future of Identity Management
-  image: /assets/cms/techradar/tumblr_mnqjhbd8t71rbkx51o1_400.gif
+  image: /assets/cms/emergent-technology/tumblr_mnqjhbd8t71rbkx51o1_400.gif
 
 excerpt: The workforce and consumers want more convenient and user-friendly
   methods of authentication, without compromising security, reliability, and
   responsiveness.
 resources: []
 aliases:
-  - /techradar/technologies/innovative-authentication/
+  - /techradar/innovative-authentication/
 ---
 ## Background
 
@@ -145,7 +145,7 @@ Buy.gsa.gov is an official website run by the United States General Services Adm
 GSA [eLibrary](https://www.gsaelibrary.gsa.gov/ElibMain/home.do) is your one source for the latest GSA contract award information.  GSA offers unparalleled acquisition solutions to meet today’s acquisition challenges.  GSA’s key goal is to deliver excellent acquisition services that provide the best value, in terms of cost, quality, and service, for federal agencies and taxpayers. 
 
 
-![GSA E-Library](/assets/cms/techradar/elibrary-searchbar.jpg "The GSA eLibrary")
+![GSA E-Library](/assets/cms/emergent-technology/elibrary-searchbar.jpg "The GSA eLibrary")
 
 **Steps:**
 
@@ -238,7 +238,7 @@ Potential risks associated with Innovative Authentication include:
 
 ## White House Priorities
 
-![white house building](/assets/cms/techradar/1024px-capitol_building_full_view.jpg "White House Priorities")
+![white house building](/assets/cms/emergent-technology/1024px-capitol_building_full_view.jpg "White House Priorities")
 
 In his Executive Order 14028, President Biden mandated that agencies operating National Security Systems incorporate multi-factor authentication for data at rest, and in transit. This order doesn’t mandate specific technologies or vendors, but it does require any solution to meet the definition of multifactor. It should also be seen as a minimum, rather than a maximum requirement. ([Source](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity))
 

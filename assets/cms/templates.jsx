@@ -10,11 +10,11 @@ class EmergingTechnologyPreview extends React.Component {
     return (
       <div class="grid-container">
 
-        <section class="techradar-intro">
+        <section class="emergent-technology-intro">
           <div class="grid-row">
             <div class="tablet:grid-col-8">
-              <h2 class="techradar-intro__title">{title}</h2>
-              <p class="techradar-intro__text">{introText}</p>
+              <h2 class="emergent-technology-intro__title">{title}</h2>
+              <p class="emergent-technology-intro__text">{introText}</p>
             </div>
             <div class="tablet:grid-col-4">
               <img src={image} alt={title}/>

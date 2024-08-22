@@ -186,10 +186,10 @@ CMS.registerEditorComponent({
   }
 });
 
-/* CMS component for the techradar-case-study shortcode */
+/* CMS component for the emergent-technology-case-study shortcode */
 CMS.registerEditorComponent({
-  id: "techradar-case-study",
-  label: "TechRadar Case Study",
+  id: "emergent-technology-case-study",
+  label: "Emergent Technology Case Study",
   fields: [
     {
       name: "heading",
@@ -204,7 +204,7 @@ CMS.registerEditorComponent({
       default: ""
     }
   ],
-  pattern: patternForShortcode("techradar-case-study"),
+  pattern: patternForShortcode("emergent-technology-case-study"),
   fromBlock: function (match) {
     const defaults = {
       heading: ""
@@ -212,22 +212,22 @@ CMS.registerEditorComponent({
     return parseWithDefaults(match, defaults);
   },
   toBlock: function (data) {
-    return `{{< techradar-case-study heading="${data.heading}" >}}${data.body}{{< /techradar-case-study >}}`;
+    return `{{< emergent-technology-case-study heading="${data.heading}" >}}${data.body}{{< /emergent-technology-case-study >}}`;
   },
   toPreview: function (data) {
     const uniqueId = window.performance.now();
 
     return `
       <div
-        class="techradar-case-study"
+        class="emergent-technology-case-study"
         role="region"
-        aria-labelledby="techradar-case-study-key-information-${uniqueId}"
+        aria-labelledby="emergent-technology-case-study-key-information-${uniqueId}"
       >
-      <div class="techradar-case-study__body">
-        <h3 class="techradar-case-study__heading" id="techradar-case-study-key-information-${uniqueId}">
+      <div class="emergent-technology-case-study__body">
+        <h3 class="emergent-technology-case-study__heading" id="emergent-technology-case-study-key-information-${uniqueId}">
           ${data.heading}
         </h3>
-        <div class="techradar-case-study__text">
+        <div class="emergent-technology-case-study__text">
           ${renderMarkdown(data.body)}
         </div>
       </div>
