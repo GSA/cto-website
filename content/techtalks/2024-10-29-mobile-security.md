@@ -2,7 +2,7 @@
 title: Mobile Security
 date: 2024-10-29
 time: 3:00pm - 4:00pm ET
-location: Virtual Upon Request
+location: Virtual upon invitation
 presenter: Parimala Rao, Benjamin Peters, and John Latragna
 ---
 <!--StartFragment-->
