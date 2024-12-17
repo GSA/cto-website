@@ -6,7 +6,7 @@
     "start": "concurrently npm:cms-proxy npm:serve",
     "dev": "concurrently npm:cms-proxy npm:serve npm:styles",
     "styles": "gulp watch",
-    "serve": "hugo server --noHTTPCache --verbose --debug",
+    "serve": "hugo --logLevel debug server --noHTTPCache",
     "cms-proxy": "netlify-cms-proxy-server",
     "test": "npm run test:eslint && npm run test:links:internal && npm run test:a11y:local",
     "test:serve": "hugo server --port 54321 --destination test",
