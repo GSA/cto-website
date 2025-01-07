@@ -1,5 +1,5 @@
 ---
-title: GSA IT & Sustainability
+title: " Sustainability & GSA IT"
 date: 2025-01-16
 time: 1:00pm - 1:30pm ET
 location: Virtual upon Invitation
