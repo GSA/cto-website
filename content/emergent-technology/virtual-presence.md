@@ -161,16 +161,6 @@ The Source [8ASTARS3](https://www.gsaelibrary.gsa.gov/ElibMain/scheduleSummary.d
 
 The category STARS3 ET 8(a) Streamlined Technology Acquisition Resource for Services (STARS) III Emerging Technology-Focused IT Services - This scope sub-area provides for IT services-based solutions which involve emerging technology (ET) innovation to securely accelerate transformation and advance mission outcomes. A task order requirement can fit in this sub-area if it includes IT services-based solutions with ET as the focus.
 
-## White House Priorities
-
-The White House Priorities are set by each administration. Currently these are the high level priority areas which are subject to change based on official release by OMB on behalf of the Office of the President. Within the Virtual Presence space, we’ve identified potential alignment within the priorities and how the federal community might leverage them.
-
-### COVID-19, Equity, and Climate
-
-As the staggered return to the physical workplace continues, it will be more important than ever to ensure equal experiences across unique working environments. As our overview of Virtual Presence technologies has shown, these tools enable employees to participate on even terms with their in-person colleagues. Further, virtual office spaces can help remote employees more clearly define their workspaces within the home, which may help individuals place stricter boundaries between their work and personal lives. This will be of particular benefit to those residing in smaller homes, who may not have the luxury of a dedicated office space. It may also reduce the commuting burden on individuals who would otherwise spend time and money (not to mention frustration) on lengthy commutes. In the same vein, this will help achieve the Administration's climate goals by reducing vehicle emissions and potentially heating/cooling for large office spaces.
-
-For further reading regarding the current administration's priorities see the [Biden-⁠Harris Administration Immediate Priorities](https://www.whitehouse.gov/priorities/).
-
 ## Dependencies and Risks
 
 ### Dependencies
