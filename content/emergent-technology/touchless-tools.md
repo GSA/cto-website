@@ -134,8 +134,6 @@ There are a wide variety of vendors capable of providing touchless tools, but fo
 
 ### Other resources
 
-* [GSA Safer Workplace Strategy Book](https://www.gsa.gov/cdnstatic/2021412-GSA-Strategy%20Book-40_508%20Compliant.pdf)
-
 #### Touchless Environment
 
 Evaluate the need for touchless devices or additional services that enable employees to access and utilize spaces hands-free. If an agency wishes to make updates to its space, please contact your GSA Building Manager or the GSA Lease Administration Manager for pricing and approval. Agencies will need to provide a Reimbursable Work Authorization (RWA) through eRETA to fund updates.
@@ -143,41 +141,6 @@ Evaluate the need for touchless devices or additional services that enable emplo
 #### Touchless Experience
 
 In addition to maintaining a cleaner facility, consider looking for solutions that minimize people’s contact with surfaces. Agencies who wish to install automatic hold open devices on doors should consult with the GSA Building Manager or Lease Administration Manager and the GSA Regional Fire Protection Program Office. Plans for installing hold-open devices on doors must be reviewed by the GSA Fire Protection Officer. Requests to modify tenant spaces and install touchless features restrooms (e.g., motion activated toilets, faucets, and towel dispensers) must be approved by GSA or lessor and may require an RWA.
-
-## White House Priorities
-
-The White House has identified [four distinct priorities](https://www.whitehouse.gov/priorities/) for the Administration. First on its list is moving to contain COVID-19. As part of the subordinate [National COVID-19 Preparedness Plan](https://www.whitehouse.gov/covidplan/) the administration has highlighted the need to prevent economic and educational shutdowns. 
-
- Touchless technology can play a role in containing the pandemic and enabling in-person activities to return and thus eliminating the need for further shutdowns.Technologies such as these can prevent physical contact, slowing the spread of the virus, as well as reduce the number of surfaces that require sanitizing on a regular basis. As the federal workforce returns to their on-site duty stations, touchless technology can play a key role in ensuring we won’t need to return to an emergency fully remote work stance. In addition to reducing infections, the peace of mind afforded to employees by having less physical contact with commonly touched surfaces will create a more confident, cared-for work force. Finally, these touchless technologies will have benefits in reducing other transmissible diseases and potentially for future pandemics.
-
- Additionally, the White House is committed to ensuring Diversity Equity Inclusion and Accessibility (DEIA) be at the forefront of policy considerations. As shown in our coverage of Touchless Tools use cases and applications, there are extensive uses for building accessibility, particularly with respect to controlling the environment (doors, lights, thermostats, and other smart devices) through voice and/or gestures.
-
-## Laws/Legislation, Regulations, and Policy
-
-There are few existing laws and regulations regarding touchless technology; however, there are a number of legal and ethical questions that should be taken into consideration, as these issues spurn public debate and the likelihood of future legislation.
-
-For example, as GSA considers using biometrics in its Login.gov service, the agency has concerns about equity and accessibility.  How will these issues be addressed? The lack of existing regulation raises questions about their usage. For example current sensors placed above the grocery store doors to sense individuals approaching are passive, and expected. As facial recognition technology becomes passive, will it be as accepted. And if so, current concerns about accuracy and bias must be addressed.
-
-### What Laws, Legislation & Regulations are in place regarding Touchless Technologies? 
-
-Is facial recognition legal in the US? [ Face Recognition Is Being Banned—but It’s Still Everywhere](https://www.wired.com/story/face-recognition-banned-but-everywhere/). "That’s likely to continue, because face recognition is **unregulated** in most of the US, as there's no federal law covering the technology. Many uses of face recognition have lower stakes than in policing; some, like unlocking a phone with a glance, can be convenient."
-
-That said, the the top six ethical concerns related to facial recognition systems include:
-
-* Racial bias in detection methods
-* Racial discrimination in law enforcement 
-* Data privacy
-* Lack of informed consent and transparency
-* Mass surveillance
-* Data breaches and lack of legal remedies. 
-
-[(Source)](https://learn.g2.com/ethics-of-facial-recognition)
-
-These considerations are already having an impact, even absent regulation. The IRS, after weeks of pushback from Congress and the public, is now allowing taxpayers to sign up for an online account without the use of any biometric data, including facial recognition. Taxpayers now have the option to verify their identities through a live, virtual interview [(Source)](https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/). This decision has implications beyond the IRS, as GSA hasn’t ruled out biometrics for its Login.gov service as the agency plans to scale its use.
-
-### Specific rules and Legislation
-
-Currently an interim FAR rule restricting certain foreign microchip manufacturing is in effect. (See Interim FAR Rule [(Source)](https://www.acquisition.gov/sites/default/files/page_file_uploads/FAR%20Case%202019-009-Interim_Rule_prepublication_07_10_20.pdf).
 
 ## Dependencies and Risks
 

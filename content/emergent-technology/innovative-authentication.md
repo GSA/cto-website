@@ -236,19 +236,11 @@ Potential risks associated with Innovative Authentication include:
 * New tools, processes, and particularly those involving biometrics, may face a steep user acceptance curve.
 * Unlike other emerging technologies, the nature of IT security means that there’s always an adversary seeking to develop new explorations. No authentication tool should become a ‘set it and forget it’ implementation. No matter the tool, system managers must constantly assess and mitigate new threats, by either improving their current implementation or seeking out new technology.
 
-## White House Priorities
-
-![white house building](/assets/cms/emergent-technology/1024px-capitol_building_full_view.jpg "White House Priorities")
-
-In his Executive Order 14028, President Biden mandated that agencies operating National Security Systems incorporate multi-factor authentication for data at rest, and in transit. This order doesn’t mandate specific technologies or vendors, but it does require any solution to meet the definition of multifactor. It should also be seen as a minimum, rather than a maximum requirement. ([Source](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity))
-
-Additionally, the White House is urging private companies to protect their systems using multi-factor authentication. ([Source](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/))
-
 ## Laws, Legislation, Regulations 
 
-The White House has issued a Zero Trust Strategy which will ultimately change how employees and citizens access federal systems, primarily through multi-factor authentication. Additionally, The National Institute of Standards and Technology (NIST) is also working to update PIV standards to accommodate additional types of authentication methods. [Source](https://federalnewsnetwork.com/cybersecurity/2022/01/white-house-sees-chance-to-design-new-user-experiences-through-zero-trust-strategy/)
+In 2022, the White House issued a Zero Trust Strategy which will ultimately change how employees and citizens access federal systems, primarily through multi-factor authentication. Additionally, The National Institute of Standards and Technology (NIST) is also working to update PIV standards to accommodate additional types of authentication methods. [Source](https://federalnewsnetwork.com/cybersecurity/2022/01/white-house-sees-chance-to-design-new-user-experiences-through-zero-trust-strategy/)
 
-In 2017, former President Donald Trump signed an executive order requiring that the top 20 U.S. airports use biometric technology and facial recognition by 2021 for all international passengers. He also signed the National Strategy to Combat Terrorism Travel, which calls for the increased use of biometric technology and data to stop terrorists from entering the U.S. [Source](https://fedtechmagazine.com/article/2019/08/how-government-uses-biometric-authentication-technology-perfcon)
+In 2017, President Donald Trump signed an executive order requiring that the top 20 U.S. airports use biometric technology and facial recognition by 2021 for all international passengers. He also signed the National Strategy to Combat Terrorism Travel, which calls for the increased use of biometric technology and data to stop terrorists from entering the U.S. [Source](https://fedtechmagazine.com/article/2019/08/how-government-uses-biometric-authentication-technology-perfcon)
 
 While the future of authentication is still to be determined by way of the Zero Trust Strategy, some agencies are already utilizing advanced technology such as biometrics. Since 2016, U.S. Customs and Border Protection has been working with airlines to use facial recognition technology as part of the pre-boarding screening process; at least five airlines now use it, largely for international flights. This is voluntary for American citizens.
 
