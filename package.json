@@ -34,7 +34,7 @@
     "@babel/core": "^7.26.0",
     "@babel/preset-react": "^7.26.3",
     "@eslint/js": "^9.16.0",
-    "@uswds/compile": "^1.2.0",
+    "@uswds/compile": "^1.2.1",
     "broken-link-checker": "^0.7.8",
     "concurrently": "^9.1.0",
     "eslint": "^9.17.0",
