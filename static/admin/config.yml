@@ -81,9 +81,6 @@ collections:
         widget: select
         options:
           - Agile
-          - API
-          - Design
-          - Development
           - DevSecOps
-          - Team
+          - Hackathon
       - { label: "Content", name: body, widget: markdown }
